@@ -1,1 +1,26 @@
-{"created by": "Transmission/3.00 (bb6b5a062e)", "creation date": 1716211720, "encoding": "UTF-8", "info": {"files": [{"length": 610, "path": ["ig23ki6sl8dlg3lp0k1l9y9x05wrqs4q.narinfo"]}, {"length": 93809, "path": ["nar", "17klzcffqx2pq2jddnz6pv7ic6pvvizryd0374jdb68zs19v8ml8.nar.zst"]}], "name": "nix", "piece length": 32768, "pieces": "by5ufP3uOG2XhB355Z5tVSRx9jfz5cvEePS5NqDZdBvUPsrEmQHP7eXZByK6DcZfvjfcSQCa9bu/\nJ3SL\n", "private": 0}}
+{
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716211720,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 610,
+        "path": [
+          "ig23ki6sl8dlg3lp0k1l9y9x05wrqs4q.narinfo"
+        ]
+      },
+      {
+        "length": 93809,
+        "path": [
+          "nar",
+          "17klzcffqx2pq2jddnz6pv7ic6pvvizryd0374jdb68zs19v8ml8.nar.zst"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "by5ufP3uOG2XhB355Z5tVSRx9jfz5cvEePS5NqDZdBvUPsrEmQHP7eXZByK6DcZfvjfcSQCa9bu/\nJ3SL\n",
+    "private": 0
+  }
+}

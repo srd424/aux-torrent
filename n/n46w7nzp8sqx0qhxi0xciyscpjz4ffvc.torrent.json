@@ -1,1 +1,26 @@
-{"created by": "Transmission/3.00 (bb6b5a062e)", "creation date": 1716211726, "encoding": "UTF-8", "info": {"files": [{"length": 591, "path": ["n46w7nzp8sqx0qhxi0xciyscpjz4ffvc.narinfo"]}, {"length": 232772, "path": ["nar", "0am81ham38bc1icfdddrncqncmp80pqg2z2f52qji7hasnjnvayw.nar.zst"]}], "name": "nix", "piece length": 32768, "pieces": "pMnxMwOqQtg02n0eAMV+GE2t++l9sJsaeQPQlUydE3CqF/x+BmxKPacpY+dgZfAGtW6SiSdhhPwd\nfIiDmJqA+RA2e32VkQszWOzxzEWP3Ss3A285/ZIYj/e4NY3HW4q1EkuErxKA0FgrvrlNNdpzRrjJ\nO4yaDnRBSFIy64o1A09yEkGXcuVPVi3Dp1P8KhCwd1lEqAqahKHnCXtGaSJ9nA==\n", "private": 0}}
+{
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716211726,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 591,
+        "path": [
+          "n46w7nzp8sqx0qhxi0xciyscpjz4ffvc.narinfo"
+        ]
+      },
+      {
+        "length": 232772,
+        "path": [
+          "nar",
+          "0am81ham38bc1icfdddrncqncmp80pqg2z2f52qji7hasnjnvayw.nar.zst"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "pMnxMwOqQtg02n0eAMV+GE2t++l9sJsaeQPQlUydE3CqF/x+BmxKPacpY+dgZfAGtW6SiSdhhPwd\nfIiDmJqA+RA2e32VkQszWOzxzEWP3Ss3A285/ZIYj/e4NY3HW4q1EkuErxKA0FgrvrlNNdpzRrjJ\nO4yaDnRBSFIy64o1A09yEkGXcuVPVi3Dp1P8KhCwd1lEqAqahKHnCXtGaSJ9nA==\n",
+    "private": 0
+  }
+}

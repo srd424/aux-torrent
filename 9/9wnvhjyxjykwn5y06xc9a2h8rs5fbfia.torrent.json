@@ -1,1 +1,26 @@
-{"created by": "Transmission/3.00 (bb6b5a062e)", "creation date": 1716211730, "encoding": "UTF-8", "info": {"files": [{"length": 2013, "path": ["9wnvhjyxjykwn5y06xc9a2h8rs5fbfia.narinfo"]}, {"length": 16628, "path": ["nar", "1y3lzzykbd1wpf95a0xm3mwxw2vvr0yg54a44lwfy6jqz8wsjacn.nar.zst"]}], "name": "nix", "piece length": 32768, "pieces": "E2WeQ5c0PDcu13z7j3USq7lf/pk=\n", "private": 0}}
+{
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716211730,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 2013,
+        "path": [
+          "9wnvhjyxjykwn5y06xc9a2h8rs5fbfia.narinfo"
+        ]
+      },
+      {
+        "length": 16628,
+        "path": [
+          "nar",
+          "1y3lzzykbd1wpf95a0xm3mwxw2vvr0yg54a44lwfy6jqz8wsjacn.nar.zst"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "E2WeQ5c0PDcu13z7j3USq7lf/pk=\n",
+    "private": 0
+  }
+}
