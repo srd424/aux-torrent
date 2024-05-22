@@ -1,0 +1,9 @@
+StorePath: /nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh
+URL: nar/0f4kys9nd25rwixjhrasln7hpk3dq4k8cdzndwh9v4027400s4w4.nar.zst
+Compression: zstd
+FileHash: sha256:0f4kys9nd25rwixjhrasln7hpk3dq4k8cdzndwh9v4027400s4w4
+FileSize: 401
+NarHash: sha256:0cmbvppwh1m6pzjirhhmpmgbgkaa5lmag14c241a6l7rxypwlm9c
+NarSize: 816
+References: 
+CA: fixed:r:sha256:0cmbvppwh1m6pzjirhhmpmgbgkaa5lmag14c241a6l7rxypwlm9c

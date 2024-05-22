@@ -1,0 +1,9 @@
+StorePath: /nix/store/ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh
+URL: nar/07y4djd1grifhi5qhm9yvlq7z5gylm6iwfhgzl17h3a57ks0vs2g.nar.zst
+Compression: zstd
+FileHash: sha256:07y4djd1grifhi5qhm9yvlq7z5gylm6iwfhgzl17h3a57ks0vs2g
+FileSize: 774
+NarHash: sha256:0xm0vy5zlqh9d5q5h0dhxq1gh5gjgr27i69kl0l77f3flngcgkyk
+NarSize: 1496
+References: 
+CA: fixed:r:sha256:0xm0vy5zlqh9d5q5h0dhxq1gh5gjgr27i69kl0l77f3flngcgkyk

@@ -1,0 +1,9 @@
+StorePath: /nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh
+URL: nar/15wdny43inz1adx9jagzzq5s0kwdzpqhjk7pwl4yldgpswl6yhss.nar.zst
+Compression: zstd
+FileHash: sha256:15wdny43inz1adx9jagzzq5s0kwdzpqhjk7pwl4yldgpswl6yhss
+FileSize: 413
+NarHash: sha256:0h6i4agbhpziv2kx8py86r7qy8cycq8rh37c6h2fppyzsi4awfpm
+NarSize: 608
+References: 
+CA: fixed:r:sha256:0h6i4agbhpziv2kx8py86r7qy8cycq8rh37c6h2fppyzsi4awfpm

@@ -1,0 +1,9 @@
+StorePath: /nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh
+URL: nar/1qzr0bpnwv9va7xib585a932y1r4dfqlgw0r076sq5dpdx45zc33.nar.zst
+Compression: zstd
+FileHash: sha256:1qzr0bpnwv9va7xib585a932y1r4dfqlgw0r076sq5dpdx45zc33
+FileSize: 453
+NarHash: sha256:1h60zk3fqdmshsafv3n7j9r2fhpql80hbbmix60f8jjj145xk6q2
+NarSize: 880
+References: 
+CA: fixed:r:sha256:1h60zk3fqdmshsafv3n7j9r2fhpql80hbbmix60f8jjj145xk6q2

@@ -1,0 +1,9 @@
+StorePath: /nix/store/wmknncrif06fqxa16hpdldhixk95nds0-strip.sh
+URL: nar/1h08xghqp57lshi09h1qjg1qbir0j6wisqk8lgg9gnwrh0mc91q5.nar.zst
+Compression: zstd
+FileHash: sha256:1h08xghqp57lshi09h1qjg1qbir0j6wisqk8lgg9gnwrh0mc91q5
+FileSize: 1930
+NarHash: sha256:1f6p4xn4bbxj067dzrvvzky2xf5qxflnrifp0n19mjfn44sx45rk
+NarSize: 4256
+References: 
+CA: fixed:r:sha256:1f6p4xn4bbxj067dzrvvzky2xf5qxflnrifp0n19mjfn44sx45rk

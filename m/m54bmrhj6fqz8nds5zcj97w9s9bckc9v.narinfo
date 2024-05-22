@@ -1,0 +1,9 @@
+StorePath: /nix/store/m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh
+URL: nar/0h4pgyhhynvvdwjsqrq87r7a5ranqgxh3rm4pzhf3a7g5gzm9jn7.nar.zst
+Compression: zstd
+FileHash: sha256:0h4pgyhhynvvdwjsqrq87r7a5ranqgxh3rm4pzhf3a7g5gzm9jn7
+FileSize: 545
+NarHash: sha256:0kbdqsqjpzsx0kj5dkwkf9n5b76v86c15pkm4qx101ap3nxjkycy
+NarSize: 1088
+References: 
+CA: fixed:r:sha256:0kbdqsqjpzsx0kj5dkwkf9n5b76v86c15pkm4qx101ap3nxjkycy

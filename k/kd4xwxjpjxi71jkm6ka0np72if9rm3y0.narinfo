@@ -1,0 +1,9 @@
+StorePath: /nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh
+URL: nar/171qf0z35qfzl550yki7ndnsadj72q8lvwdh0qggjy4gxz6wczid.nar.zst
+Compression: zstd
+FileHash: sha256:171qf0z35qfzl550yki7ndnsadj72q8lvwdh0qggjy4gxz6wczid
+FileSize: 367
+NarHash: sha256:0bcb0m065sdwmhjgnrd1k81s7dcgx4ihlyxqav5b0p58xnwh653v
+NarSize: 664
+References: 
+CA: fixed:r:sha256:0bcb0m065sdwmhjgnrd1k81s7dcgx4ihlyxqav5b0p58xnwh653v

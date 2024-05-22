@@ -1,0 +1,9 @@
+StorePath: /nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh
+URL: nar/0ki6ck68nznp944y4xy1fwazxjxb1rph81fskx1bdrr7aqr3bsa4.nar.zst
+Compression: zstd
+FileHash: sha256:0ki6ck68nznp944y4xy1fwazxjxb1rph81fskx1bdrr7aqr3bsa4
+FileSize: 644
+NarHash: sha256:0h0gkqxz78v73j9a69adympg2l9xhm93qphhl24cgnxx7i53371k
+NarSize: 1280
+References: 
+CA: fixed:r:sha256:0h0gkqxz78v73j9a69adympg2l9xhm93qphhl24cgnxx7i53371k

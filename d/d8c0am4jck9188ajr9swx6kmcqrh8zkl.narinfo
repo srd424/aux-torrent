@@ -1,0 +1,10 @@
+StorePath: /nix/store/d8c0am4jck9188ajr9swx6kmcqrh8zkl-gcc-13.2.0-libgcc
+URL: nar/0g4a444y6cc0vs4k65rb2c5x78jvy23hwqr2483i7qip3ffaglsp.nar.zst
+Compression: zstd
+FileHash: sha256:0g4a444y6cc0vs4k65rb2c5x78jvy23hwqr2483i7qip3ffaglsp
+FileSize: 74722
+NarHash: sha256:18yi5ym2grzzx81q8yya7r7vhxgb5vvzy9i9j98wqriyd6gp976p
+NarSize: 159560
+References: 
+Deriver: hgghyq9dynamy2y0nnhyv5q6vaibw7pf-gcc-13.2.0.drv
+Sig: cache.nixos.org-1:s/OVLr2nXvEmOTLijDw5b2HMP+zgLremLMlXasLl/8N95a11J2eP2qLN5e5rIBKvyS7f+r4hXunpLR82NkoSAg==

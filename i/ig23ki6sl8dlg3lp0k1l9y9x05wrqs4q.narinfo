@@ -1,0 +1,10 @@
+StorePath: /nix/store/ig23ki6sl8dlg3lp0k1l9y9x05wrqs4q-patchelf-0.15.0
+URL: nar/17klzcffqx2pq2jddnz6pv7ic6pvvizryd0374jdb68zs19v8ml8.nar.zst
+Compression: zstd
+FileHash: sha256:17klzcffqx2pq2jddnz6pv7ic6pvvizryd0374jdb68zs19v8ml8
+FileSize: 93809
+NarHash: sha256:0hlwhy7r8w9v5zmkghz5000cb2k7ca8ivcbf0kdizj3a5bs266v9
+NarSize: 239952
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib
+Deriver: 20jgqxwamw4b1r18lyhmny1lkzbmsb6f-patchelf-0.15.0.drv
+Sig: cache.nixos.org-1:0g69oZ8d+v2Hu/3zAUl0r3wsTdt9jTnylZ7DYK8RMqXIMgaNjzCXWL3TH+lj8MB+0KADJ2O73oHCoIyMhaonBA==

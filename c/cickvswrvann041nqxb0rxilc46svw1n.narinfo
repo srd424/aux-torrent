@@ -1,0 +1,9 @@
+StorePath: /nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh
+URL: nar/0q4d06vfbsvh3c3c6p54zyifv8wmakfax862w05fyxhq32pjpp30.nar.zst
+Compression: zstd
+FileHash: sha256:0q4d06vfbsvh3c3c6p54zyifv8wmakfax862w05fyxhq32pjpp30
+FileSize: 567
+NarHash: sha256:16y8hwyxqvcjpsgjzqm5qgbzrlrh2jijpzcz01vb28z8iwzvhc6h
+NarSize: 1072
+References: 
+CA: fixed:r:sha256:16y8hwyxqvcjpsgjzqm5qgbzrlrh2jijpzcz01vb28z8iwzvhc6h

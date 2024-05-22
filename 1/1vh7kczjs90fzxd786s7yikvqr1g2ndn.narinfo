@@ -1,0 +1,10 @@
+StorePath: /nix/store/1vh7kczjs90fzxd786s7yikvqr1g2ndn-gawk-5.2.2
+URL: nar/08cji8mp41hknh4iixpys0w67r4xslbmnrn4i9azvnjdhx02wk30.nar.zst
+Compression: zstd
+FileHash: sha256:08cji8mp41hknh4iixpys0w67r4xslbmnrn4i9azvnjdhx02wk30
+FileSize: 753626
+NarHash: sha256:01a2mb2hygf0fim4x520spm4rxdblskmill3zk86gwxz0k8g9mv0
+NarSize: 2697608
+References: 1vh7kczjs90fzxd786s7yikvqr1g2ndn-gawk-5.2.2 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5
+Deriver: f59zk406kk0zhl4cifmzwspya5zdqszp-gawk-5.2.2.drv
+Sig: cache.nixos.org-1:lCw5fmfe1/mutO/0ftaWTytNnnoDY4ZYoA2euXcksgVzWvdp19GRSH25hP7EUXPU8l7zQ7gHGyfHs9KsIBkgAQ==

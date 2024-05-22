@@ -1,0 +1,10 @@
+StorePath: /nix/store/4kwk49k8rc8cg8c387kbbjcrl8i0y693-gcc-wrapper-13.2.0
+URL: nar/1jxfcw3ph6akdffdwwzh2hm8v3796y66ijcmjdpl0w2g39zj9cqy.nar.zst
+Compression: zstd
+FileHash: sha256:1jxfcw3ph6akdffdwwzh2hm8v3796y66ijcmjdpl0w2g39zj9cqy
+FileSize: 11231
+NarHash: sha256:1776syq8jz7dqhll7qmb7049dwr3lhnb7d5fczqy2b36za8d7g61
+NarSize: 62368
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 4kwk49k8rc8cg8c387kbbjcrl8i0y693-gcc-wrapper-13.2.0 5p4cw60bx194ix8s5aq6rwwgqi1w9yir-expand-response-params asqa3kfq3maclk7cqqhrjvp7vriw6ahy-coreutils-9.5 b93lnii942nnkbpkl6smk8dhv0049di8-glibc-2.39-5-bin dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib gbrv0fn9a07kmdw2rg22iybdymylw4qc-gnugrep-3.11 ij144ma6vs8acil8r9hgr8xkb1dp9azg-glibc-2.39-5-dev nn152mgpdfcw92b3b03g9kmnlpd9jris-gcc-13.2.0 zfs2gv7x073znw6b250rgnbij300hva5-binutils-wrapper-2.41
+Deriver: nfr6v73vj460p1wfp93v248fizcn1ii6-gcc-wrapper-13.2.0.drv
+Sig: cache.nixos.org-1:FT0dLYq9Awos5ItMHw/tlnnGF98vF0w9hLjmNtCYmm1Srx4PXXmANuL1u3xneZq2qe+l+njyWGdWKxseMI5xDg==

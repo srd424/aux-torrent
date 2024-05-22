@@ -1,0 +1,9 @@
+StorePath: /nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh
+URL: nar/09a49lj4vh34gnli66rli30kvilhminwj1ix0il4pwj9rxxwj2xv.nar.zst
+Compression: zstd
+FileHash: sha256:09a49lj4vh34gnli66rli30kvilhminwj1ix0il4pwj9rxxwj2xv
+FileSize: 511
+NarHash: sha256:0bfqc40bvfg95j7qpv0kn5w4zqqs8k3mnz6l72jza0dn4hk12d28
+NarSize: 904
+References: 
+CA: fixed:r:sha256:0bfqc40bvfg95j7qpv0kn5w4zqqs8k3mnz6l72jza0dn4hk12d28

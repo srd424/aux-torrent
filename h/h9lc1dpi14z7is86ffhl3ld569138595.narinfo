@@ -1,0 +1,9 @@
+StorePath: /nix/store/h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh
+URL: nar/1j4b3r3z4jkzh6097bihxsqyj5f4d3vszriwfra1b7xqgdkdfa05.nar.zst
+Compression: zstd
+FileHash: sha256:1j4b3r3z4jkzh6097bihxsqyj5f4d3vszriwfra1b7xqgdkdfa05
+FileSize: 776
+NarHash: sha256:0vdnyyxq3nazwb6wbw81v6lr9byvylni6idd83nd0ymi7lviviml
+NarSize: 1520
+References: 
+CA: fixed:r:sha256:0vdnyyxq3nazwb6wbw81v6lr9byvylni6idd83nd0ymi7lviviml

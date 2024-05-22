@@ -1,0 +1,10 @@
+StorePath: /nix/store/014nnwb227s2f6zax4nd4v40rjp66582-gnu-config-2023-09-19
+URL: nar/0inif8cpghv43jybydr58v7gd8digicvwjakc3v05ij3y4kfrc9v.nar.zst
+Compression: zstd
+FileHash: sha256:0inif8cpghv43jybydr58v7gd8digicvwjakc3v05ij3y4kfrc9v
+FileSize: 26877
+NarHash: sha256:1dhq3sv8qn6xkpzpmhc2d62z93hf0v1695435i87abjn45w084sk
+NarSize: 87656
+References: 
+Deriver: 7q06j4f1zppmd6rj2hz3ayvsfz3irfcc-gnu-config-2023-09-19.drv
+Sig: cache.nixos.org-1:h+6eXJ+vqAQWJ/Es8/iLdtuztL4SQiHLL477J5UPVbYd20eEuPR41t302t1QRU5bCSVp1VUW2Eb5prM5BuZpAg==

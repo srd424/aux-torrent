@@ -1,0 +1,9 @@
+StorePath: /nix/store/ilaf1w22bxi6jsi45alhmvvdgy4ly3zs-patch-shebangs.sh
+URL: nar/0kpwj0rls2b2rs6vjvx7p0s75jvs1xvkgam4rbvwchqjg6bwpsak.nar.zst
+Compression: zstd
+FileHash: sha256:0kpwj0rls2b2rs6vjvx7p0s75jvs1xvkgam4rbvwchqjg6bwpsak
+FileSize: 2076
+NarHash: sha256:0lnjpqpz1hxds3x43n6lnxbrqkdp0s4xyyk437hm65g5xma4w1bh
+NarSize: 5216
+References: 
+CA: fixed:r:sha256:0lnjpqpz1hxds3x43n6lnxbrqkdp0s4xyyk437hm65g5xma4w1bh
