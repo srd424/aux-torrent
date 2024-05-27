@@ -1,0 +1,9 @@
+StorePath: /nix/store/rxgi2l6jrgd5xmrrsbcv5cwi558lb36m-CVE-2019-13638-and-CVE-2018-20969.patch
+URL: nar/0a583nrp5ll6yjm1gyxbizcd17v444qnvvn102hvdxz374ll75kl.nar.xz
+Compression: xz
+FileHash: sha256:0a583nrp5ll6yjm1gyxbizcd17v444qnvvn102hvdxz374ll75kl
+FileSize: 804
+NarHash: sha256:0byghrj2jmc20rvpxqnfw87gvlk62rmp7xp780kz2vcr5k75lqd1
+NarSize: 1296
+References: 
+CA: fixed:r:sha256:0byghrj2jmc20rvpxqnfw87gvlk62rmp7xp780kz2vcr5k75lqd1

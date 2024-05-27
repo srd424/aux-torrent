@@ -1,0 +1,9 @@
+StorePath: /nix/store/p55a764pi2f4kkx3adb43bxb2dnb4z6r-CVE-2018-18384.patch
+URL: nar/0p3rpkc5z0jf2zl9xx2lf40b7nkp9ri1s9qkd2fizhgralczpi0d.nar.xz
+Compression: xz
+FileHash: sha256:0p3rpkc5z0jf2zl9xx2lf40b7nkp9ri1s9qkd2fizhgralczpi0d
+FileSize: 604
+NarHash: sha256:1phh2wz2flarvp717ad696cx41vclchqbc4pzr3wh147klfywv68
+NarSize: 1736
+References: 
+CA: fixed:r:sha256:1phh2wz2flarvp717ad696cx41vclchqbc4pzr3wh147klfywv68

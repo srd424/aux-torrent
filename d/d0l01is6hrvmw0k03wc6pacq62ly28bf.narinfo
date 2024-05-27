@@ -1,0 +1,9 @@
+StorePath: /nix/store/d0l01is6hrvmw0k03wc6pacq62ly28bf-Module-Runtime-0.016.tar.gz.drv
+URL: nar/1w316k3c3mgd39b5nv8i71z033xwaymxqv90xsjv1g99bjc1bnsr.nar.xz
+Compression: xz
+FileHash: sha256:1w316k3c3mgd39b5nv8i71z033xwaymxqv90xsjv1g99bjc1bnsr
+FileSize: 1316
+NarHash: sha256:038iid4w0f71xll4qiww18pa0vywcajmap0kym2z1z7817kp3r4g
+NarSize: 3016
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:07b1vlk2r7yq9hw7q2fxg5yriw6y030jks7d7g3w0bzaw3ipyyfm

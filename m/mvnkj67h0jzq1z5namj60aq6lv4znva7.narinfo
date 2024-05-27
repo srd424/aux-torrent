@@ -1,0 +1,9 @@
+StorePath: /nix/store/mvnkj67h0jzq1z5namj60aq6lv4znva7-publicsuffix-list-0-unstable-2024-01-07
+URL: nar/004mnnbmvzsbclgicmvkh8v913iym6lv18i91rvpxbcgkcnaxp18.nar.xz
+Compression: xz
+FileHash: sha256:004mnnbmvzsbclgicmvkh8v913iym6lv18i91rvpxbcgkcnaxp18
+FileSize: 71060
+NarHash: sha256:17xv8iq5p0qjgvrmqyys0id3sw470dhbr0bg7w5d3rch8aj5gvwi
+NarSize: 309776
+References: 
+Deriver: pfymqr2x4kwa8p6dkwl5cbg1hi3pc310-publicsuffix-list-0-unstable-2024-01-07.drv

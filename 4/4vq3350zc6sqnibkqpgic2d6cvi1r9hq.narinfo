@@ -1,0 +1,9 @@
+StorePath: /nix/store/4vq3350zc6sqnibkqpgic2d6cvi1r9hq-substitute-all.sh
+URL: nar/0p6c45hpad7xplmnw8c1s9wpmi7lwvmdcw5sk03m3h3pfniakry7.nar.xz
+Compression: xz
+FileHash: sha256:0p6c45hpad7xplmnw8c1s9wpmi7lwvmdcw5sk03m3h3pfniakry7
+FileSize: 280
+NarHash: sha256:05wplr6jkgpdx8vpnz338yvaf53qfggb618fr7k3pby5g3462wcn
+NarSize: 360
+References: 
+CA: fixed:r:sha256:05wplr6jkgpdx8vpnz338yvaf53qfggb618fr7k3pby5g3462wcn

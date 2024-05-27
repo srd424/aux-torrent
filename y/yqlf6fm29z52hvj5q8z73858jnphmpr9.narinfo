@@ -1,0 +1,9 @@
+StorePath: /nix/store/yqlf6fm29z52hvj5q8z73858jnphmpr9-001-fix-rpath.patch
+URL: nar/0adqx4q21k1zdrjjqrr413yldg3valw2inlylasqr0jsgydqlw4v.nar.xz
+Compression: xz
+FileHash: sha256:0adqx4q21k1zdrjjqrr413yldg3valw2inlylasqr0jsgydqlw4v
+FileSize: 644
+NarHash: sha256:0w8yml3vfg3pi6ddpry5n5yacyvnhmzcrn93wi3lwiz3dgks7j2y
+NarSize: 1144
+References: 
+CA: fixed:r:sha256:0w8yml3vfg3pi6ddpry5n5yacyvnhmzcrn93wi3lwiz3dgks7j2y

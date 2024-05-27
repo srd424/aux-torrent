@@ -1,0 +1,10 @@
+StorePath: /nix/store/6yv6pfnxlcxkf9bsndjhm3bzqaylibiy-gperf-3.1
+URL: nar/0gjvm4vkvihr77i5wzvabsyaxl7jg6qc1gn358816n60rzlq50wy.nar.xz
+Compression: xz
+FileHash: sha256:0gjvm4vkvihr77i5wzvabsyaxl7jg6qc1gn358816n60rzlq50wy
+FileSize: 80452
+NarHash: sha256:031ynbx4sk2wjbzari72nslqjg015wdnvl9fkibpb5x4anb2kng9
+NarSize: 327520
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib
+Deriver: wcnm43zjyx8sxk172nly3zv33awvyjrq-gperf-3.1.drv
+Sig: cache.nixos.org-1:oaF5tgb5KT04zvv6FkISgXMmrEw4ulCb9BU9oEJPuEKkD7vdwMn3wrkzUGuoXhFTi1qBJ+oq/LgTjMV98nzeDg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/yx9dq8hyxc5vcrmlk3znmq604179v7ab-lix-doc-2.90-beta.1
+URL: nar/1m66vh5sjb0dxq4zpjf9q6ja9qbrnyln76m866cp4za5bnb4d3bd.nar.xz
+Compression: xz
+FileHash: sha256:1m66vh5sjb0dxq4zpjf9q6ja9qbrnyln76m866cp4za5bnb4d3bd
+FileSize: 2181412
+NarHash: sha256:102fkwapr2lc63fd6dsjs78digp703igxg84n59h847aljda0409
+NarSize: 9852352
+References: 
+Deriver: 0rjrkds25wn8302ncrcwnn4yf0ipzigy-lix-doc-2.90-beta.1.drv

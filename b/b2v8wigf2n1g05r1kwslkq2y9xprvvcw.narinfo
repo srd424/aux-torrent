@@ -1,0 +1,9 @@
+StorePath: /nix/store/b2v8wigf2n1g05r1kwslkq2y9xprvvcw-mercurial-6.6.3
+URL: nar/0jn51kabc6i0q551azhr9vicw4ih9abqy2z024p5vqgmsq8djq4q.nar.xz
+Compression: xz
+FileHash: sha256:0jn51kabc6i0q551azhr9vicw4ih9abqy2z024p5vqgmsq8djq4q
+FileSize: 6753032
+NarHash: sha256:0w5wimqn231djmq8rbj421xf7zw9dfaq0mynfa6c18b22z2b40p9
+NarSize: 30288648
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 b2v8wigf2n1g05r1kwslkq2y9xprvvcw-mercurial-6.6.3 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 wzx9kwb29pvr026pbcaq3ipdgkgskfyq-python3.11-fb-re2-1.0.7
+Deriver: w3qd2fsx49lxm6alpa1bgbcbrn6s3fiy-mercurial-6.6.3.drv

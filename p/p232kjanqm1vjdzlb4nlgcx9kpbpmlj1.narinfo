@@ -1,0 +1,10 @@
+StorePath: /nix/store/p232kjanqm1vjdzlb4nlgcx9kpbpmlj1-Net-SMTP-SSL-1.04.tar.gz
+URL: nar/0hkcbr2335p5kwhwh9mn7zk0fjpwgm6s4gyr4w228dhrk7p54v4j.nar.xz
+Compression: xz
+FileHash: sha256:0hkcbr2335p5kwhwh9mn7zk0fjpwgm6s4gyr4w228dhrk7p54v4j
+FileSize: 2620
+NarHash: sha256:0pdgwf60smznsnxkwbsg7rfdmjq99rccdhxqf926allns7dzh7cv
+NarSize: 2576
+References: 
+Deriver: xg9pmpmdv6h19wk4mqlkm7522wdx215x-Net-SMTP-SSL-1.04.tar.gz.drv
+Sig: cache.nixos.org-1:uJxHegMRXxHyZvGGWWo8Kj08xnbJfAAYP9fd6KNv25aRT/+hO1WmhASfbDpiYMKAJjLJ6jrTmCn2hq8U0ZjKDA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ghdamd4hl6yi7jysh1x3436fj1v9yvjb-autoreconf.sh
+URL: nar/1hwp4qzqvqdrhcc92w6mn0v4wl4dn4hjaxb9yzlcy6k7jbxazha6.nar.xz
+Compression: xz
+FileHash: sha256:1hwp4qzqvqdrhcc92w6mn0v4wl4dn4hjaxb9yzlcy6k7jbxazha6
+FileSize: 236
+NarHash: sha256:1gqw39xvbxf9vjjcbc9kbdj0zb7bxjf3s7pj1cbbrngnhb9qzyc3
+NarSize: 312
+References: 
+CA: fixed:r:sha256:1gqw39xvbxf9vjjcbc9kbdj0zb7bxjf3s7pj1cbbrngnhb9qzyc3

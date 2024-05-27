@@ -1,0 +1,9 @@
+StorePath: /nix/store/0fdar2k8xax0jdlhidjknnwlw0gzqk4z-meson-1.4.0-dist
+URL: nar/12pca0x2cyr7q198bdxvqgvzncd2rx1ri0iyq2vg2q7xq6g955cx.nar.xz
+Compression: xz
+FileHash: sha256:12pca0x2cyr7q198bdxvqgvzncd2rx1ri0iyq2vg2q7xq6g955cx
+FileSize: 918896
+NarHash: sha256:1zrkakm2621fya39npj1vs0bf969jjx11w4bfczv57l6ha7j3fg0
+NarSize: 936360
+References: 
+Deriver: f54by6isafcnd1j8wcpn490xfmk5rm3n-meson-1.4.0.drv

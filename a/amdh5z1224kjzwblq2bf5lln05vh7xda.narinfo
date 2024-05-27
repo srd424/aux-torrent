@@ -1,0 +1,10 @@
+StorePath: /nix/store/amdh5z1224kjzwblq2bf5lln05vh7xda-sqlite-3.45.2-dev
+URL: nar/06f3c7gfphgb9hdhn9gqna8nlwpsipbhs10dxs246xr8r5gaw7sz.nar.xz
+Compression: xz
+FileHash: sha256:06f3c7gfphgb9hdhn9gqna8nlwpsipbhs10dxs246xr8r5gaw7sz
+FileSize: 138372
+NarHash: sha256:1j86n54w1lvrfp0vn6qfd77d4barss1wc8amida5pj75ihjszxgh
+NarSize: 681056
+References: 9zh4snslqsrwymlvc9apa6pbfhh9mh4y-sqlite-3.45.2-bin amdh5z1224kjzwblq2bf5lln05vh7xda-sqlite-3.45.2-dev x4ggnhg6h0xmnd8cl3d5vg7gp9xs7m8a-sqlite-3.45.2
+Deriver: szh06il6c8z91gg96p3dj0w4il46i8sp-sqlite-3.45.2.drv
+Sig: cache.nixos.org-1:AdhpiwxwO0N53UHA4QsSf0psr4pTBrW5+vIWBtyhr54MqMfc+u7+6k9RGHqy5pSJ92nPBpx3ylyy6Ylr20dsBw==

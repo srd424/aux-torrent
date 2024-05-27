@@ -1,0 +1,11 @@
+StorePath: /nix/store/0plg6k9p9i42kz9074j91wz4nk6xm35c-git-2.44.0.tar.xz
+URL: nar/0bk6hnf75r2k2rjslvmjnkrqmcnl7miyacyw57sr35fjmcqbvnhn.nar.xz
+Compression: xz
+FileHash: sha256:0bk6hnf75r2k2rjslvmjnkrqmcnl7miyacyw57sr35fjmcqbvnhn
+FileSize: 7430496
+NarHash: sha256:1nbbzjybjzllbcy8ir3c6qwhw9j0h1g6ay14ssxhcvax3xwy5wmh
+NarSize: 7430064
+References: 
+Deriver: ng2f0wlk777ah8nznknism6fyzqrlc1j-git-2.44.0.tar.xz.drv
+Sig: cache.nixos.org-1:dibggs5sjWMp43n9lIgKe7cliIXFoDp2WOmQZ7BKREUL5nFnQhmIus5IKvlcfMaV/GpJS0vQXOVViKitST//BQ==
+CA: fixed:sha256:1qqxd3pdsca6m93lxxkz9s06xs1sq0ah02lhrr0a6pjvrf6p6n73

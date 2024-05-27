@@ -1,0 +1,9 @@
+StorePath: /nix/store/3ypz1nza0xwvc426q60ykbbzpdadc84h-source-github.com-awslabs-aws-c-io-v0.14.6.drv
+URL: nar/0fdma485hsz9vni7w5115an9a9k0jcq167c0h4wmx3jiyzmfslij.nar.xz
+Compression: xz
+FileHash: sha256:0fdma485hsz9vni7w5115an9a9k0jcq167c0h4wmx3jiyzmfslij
+FileSize: 1592
+NarHash: sha256:1xbbrrkch83nv2dd2x2gf4kfdgnm92hn8y7z7dcrv63ayg6ra0ai
+NarSize: 3624
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1lmdly8f13bkvhra46w6407a5clfn6i1xh546wpxydjcxkrjdzms

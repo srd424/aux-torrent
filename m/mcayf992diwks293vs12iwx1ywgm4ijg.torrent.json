@@ -1,0 +1,27 @@
+{
+  "announce": "http://bt.aux-cache.dev:9996/announce",
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716813452,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 479,
+        "path": [
+          "mcayf992diwks293vs12iwx1ywgm4ijg.narinfo"
+        ]
+      },
+      {
+        "length": 2147556,
+        "path": [
+          "nar",
+          "1wxs8vy2ls9id5xla7sjyrmmc33qp5xwahbigbyb54s3fyiqx948.nar.xz"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "S2C6L5AqIx8dYmYpGaGtEXqqFVq0nL/s1L9g62MbeiFKYRqODaVdA93F2jNdfy0UGJ/qGhwIyZk3\n7t4RYSW5yXhZzr3134Nes/y2cL7SA8jCoqSPOyQLw2Uz7dD6gxCABjZ+cmDx6wKf3urvqP3berry\nEKw97lAyVIsJiZMeFxIqzlPWOhoLSOd4qCcjaWCxtOA4uOXTFcD0gOcCnUug3g9usmY2QoPKjr9v\nHpSQMJJWXa34YlFCWo0WxwoQzGlHkTbTCbX6B3ufW7OIAYVyNVrcrTDZo+H177oIJ7eFMupejHyZ\noEqWTfdLAXsm9AMp7/ovF+54rBlcbj+t13CaX91h+EJYyJgQBwkfXux27za8zn/c9jaBV/AIWZf8\ndJ4Qx8OtokmFA01dYVdGG+PVR2U0iAIov52bVMgDqfpdeN1kwOACFQ7bgXmzmkv87BnC+oRy5yJj\nBxEFmWfL3W7afhh0rSfm17PpdGuvvcaMH3yyALXlJLUxeAp1BrfVwUvZMxkz8yi5f1g3I6YcOtzr\nhdCCpSTAR0fUUWskIyA8JjOKANc/K1D1RXlRJOW/TbOS0WGG8EpWwykofRXsDtyDqmkY+trR/CI7\n26fXnPqVIKQSo5352xlWMetBZddiSs1ZlFyNzodC+uVv7Y4kfg+xOih3J8CQp5xr6gDSAutT7FRO\nsHZ05afB9/8XzhA1ir0DJq6o5e5l7oWCZAWBm6gRkYtkTk/Ij79XarrZ5K2FZtl+lQdVEBBAFkfp\ne2DCutvDNP58ZlHzWXQz0+lc7ug+UWjZhgmxHcOJAjEAZ//kVLsdGMjcrxJhHWyDsmRNjUKBP2vk\npkuePmQ7nHtOuubL7EpefAUmZ6D4p/23QmXk9pzF8r5x6JGra1GJoYL96zsI3DTuoNHIuhmTQ25d\nNMCH1WS7MmnBvdvXM641MShF3j4NWaXryR1ueHKDp/ywNx7FjPNbEYMT7v8wRhYcRM79WLYDLsAT\n8SJpv3lKRghZvRb2YpVWVFXc2ttKpT123OZB71Q5QoUOyXP7o/AicJ7kkKagsTbxd/3aTeIPJEaT\npcXo3IZYgAB4rYkUZrFPpY4tqe9q+8DTDwmkLWW7okVIjXIGzliVU/aiIkgZqaf9eaQhkSCKwzq3\nmQFeJKGTpP7BbyqU7CsPOWrJZIEFOFDIXQpxhXTQJX4SV7+4znmhIscD+7Yvz0X+JN/lb8TZQyqj\nvnVlszukgPU5TQuTn4iY/zfzJXEfqvJiee+8YfbahgD7vNek4uKUvwz8l3Gq2KSJ6YMY0amQ6TLQ\nhNl9gyLE0kgk4+7S2Xiz9r5qyZA68905ppXkLTplydPQHQtCMqXt1iIMA0e8c6JuyKMjX9P2l9Rj\nKo4CqhFvITOH1xElBOk29O4S5ZkVBf9tTBEXMqrAOC/0XNL03988PrtHQERmWac+glJeCHh0Ahdc\nExjDY558OWWots77RkwXl+r5vP+ZdepYEdgpt3tAKnEfUpK+EyuBIpuC0cYxj3Vr7ALowuaiIln/\nRnh7WLHbV52IM28/3g1HjEUmKIUTMDgEBG8ITMPmmz//dWat6m5RZpj6XY4ikcPmN+sT+o91vx1A\nSLDc5LEXN2PGebqYH0n0otmyFO3ArsAEyj8Ijf0pMat0JBTaeXqVG2mqb/48j5Mzm99cg4pV96FI\njgYchhrnglqRnaS8FdTq9M703BBoR+f25oqYA3Akhev5So317SuZMjIFoGkjQ1DIXFiUTtCrq1Tu\nwOb4gnZ+Z7eT\n",
+    "private": 0
+  }
+}

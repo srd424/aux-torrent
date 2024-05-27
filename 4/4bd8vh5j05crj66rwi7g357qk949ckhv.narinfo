@@ -1,0 +1,9 @@
+StorePath: /nix/store/4bd8vh5j05crj66rwi7g357qk949ckhv-pytest-check-hook.sh
+URL: nar/14zw8x1jb4k8l9rg6y7vcvvad4z203nl3a5534i3ak716mfdwx9l.nar.xz
+Compression: xz
+FileHash: sha256:14zw8x1jb4k8l9rg6y7vcvvad4z203nl3a5534i3ak716mfdwx9l
+FileSize: 924
+NarHash: sha256:16xzcx8j3mgcc3z5z5w0256qardg29dnh1yabjw1149l6fij3xp6
+NarSize: 2120
+References: 
+CA: fixed:r:sha256:16xzcx8j3mgcc3z5z5w0256qardg29dnh1yabjw1149l6fij3xp6

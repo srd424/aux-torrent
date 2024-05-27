@@ -1,0 +1,9 @@
+StorePath: /nix/store/h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv
+URL: nar/1y5qx1g72sy7px7pla14k319g6vr4iwgbrxx5b67f3lmx2jdiw5j.nar.xz
+Compression: xz
+FileHash: sha256:1y5qx1g72sy7px7pla14k319g6vr4iwgbrxx5b67f3lmx2jdiw5j
+FileSize: 540
+NarHash: sha256:0j2i292smy5gnnhm9ghvafamjnk0xip8qvd5dm50d5xighcyh989
+NarSize: 976
+References: 0m4y3j4pnivlhhpr5yqdvlly86p93fwc-busybox.drv i9nx0dp1khrgikqr95ryy2jkigr4c5yv-unpack-bootstrap-tools.sh xjkydxc0n24mwxp8kh4wn5jq0fppga9k-bootstrap-tools.tar.xz.drv
+CA: text:sha256:18dg0bpvnjayg4s5krn2wcw8gdqqg6xiymvra2j7wv87y8fa95i7

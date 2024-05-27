@@ -1,0 +1,10 @@
+StorePath: /nix/store/9n3d2g1pplp7bacghxkqb73z0fipgn2h-keyutils-1.6.3.tar.gz
+URL: nar/0slgyyc2m0p3jx6abxdin17gpdjp286g3xr97mspqsikfmg92gwv.nar.xz
+Compression: xz
+FileHash: sha256:0slgyyc2m0p3jx6abxdin17gpdjp286g3xr97mspqsikfmg92gwv
+FileSize: 137204
+NarHash: sha256:19zsqpc1lksccjywvnkzc4bzzvjp6ab0xs3m1lnbs3bwdx43q899
+NarSize: 137136
+References: 
+Deriver: lkkzb8ybhp5jjgvb04b13n68i51lxwd9-keyutils-1.6.3.tar.gz.drv
+CA: fixed:sha256:1d4vng0wy969jphy61sippc8vn6vrxmii1lgsidw1r3a2c35f7d6

@@ -1,0 +1,9 @@
+StorePath: /nix/store/lri3fkmfq2ph8prgzhnbg8344129prja-fix-darwin-clang16.patch
+URL: nar/1gq24cqs28fb1s75qshj7syg058f58mcqdjyw1rm44cn9gvm799i.nar.xz
+Compression: xz
+FileHash: sha256:1gq24cqs28fb1s75qshj7syg058f58mcqdjyw1rm44cn9gvm799i
+FileSize: 660
+NarHash: sha256:0yib6ql767b52df4sd30i7ggal27bg5f8xrmqc6a2i7lslx45grc
+NarSize: 1136
+References: 
+CA: fixed:r:sha256:0yib6ql767b52df4sd30i7ggal27bg5f8xrmqc6a2i7lslx45grc

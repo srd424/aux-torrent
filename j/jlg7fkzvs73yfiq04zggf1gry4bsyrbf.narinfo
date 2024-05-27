@@ -1,0 +1,10 @@
+StorePath: /nix/store/jlg7fkzvs73yfiq04zggf1gry4bsyrbf-cargo-install-hook.sh
+URL: nar/00iwhknhbkzhmjp3pfsahqh6slrafh6hl04d2mk1pd18x26mzgk7.nar.xz
+Compression: xz
+FileHash: sha256:00iwhknhbkzhmjp3pfsahqh6slrafh6hl04d2mk1pd18x26mzgk7
+FileSize: 744
+NarHash: sha256:119sanj8j3k8wnvhgywh4q8zf84j0aka39m97hshhldcwnjy3rvm
+NarSize: 1808
+References: 
+Deriver: qnb1l872qrzgqj18f2kkc3l3n63jv20s-cargo-install-hook.sh.drv
+Sig: cache.nixos.org-1:jb9hj0UoRBZ94+ab6qk7A3SW9AdNqRCGnff8G16WdLmYXgq/IFN47dK27nk8ppb7c8odgjYJ48mqfDE6cn+fAQ==

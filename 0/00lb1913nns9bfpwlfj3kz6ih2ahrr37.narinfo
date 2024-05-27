@@ -1,0 +1,10 @@
+StorePath: /nix/store/00lb1913nns9bfpwlfj3kz6ih2ahrr37-perl5.38.2-XML-SAX-Base-1.09-devdoc
+URL: nar/1763ghbpdfhwal7yklz0n77yi8n0kg0aga64ldbr2f2gh1bp7xcz.nar.xz
+Compression: xz
+FileHash: sha256:1763ghbpdfhwal7yklz0n77yi8n0kg0aga64ldbr2f2gh1bp7xcz
+FileSize: 10056
+NarHash: sha256:1qqlba9sd6li68bcwixbdh588pcldr67qbc4wi8v62f7clf8flni
+NarSize: 11640
+References: 
+Deriver: 78phbvf104550lisny9gxbz8rs6fx8pb-perl5.38.2-XML-SAX-Base-1.09.drv
+Sig: cache.nixos.org-1:ARMRRVwv58W9vZAjarIMZKiafzBVZBO+YSnnCqCHu6nHLyh1tAwUBd5k8AtmGM0XOwWvx3pKDqjru8OhtJJnCA==

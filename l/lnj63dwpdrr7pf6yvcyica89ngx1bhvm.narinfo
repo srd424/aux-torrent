@@ -1,0 +1,10 @@
+StorePath: /nix/store/lnj63dwpdrr7pf6yvcyica89ngx1bhvm-source-github.com-troglobit-editline-1.17.1
+URL: nar/0amg0cha0qs6ymrib55yr5lzhmdpldlvyp2x45qs859c674pd7nh.nar.xz
+Compression: xz
+FileHash: sha256:0amg0cha0qs6ymrib55yr5lzhmdpldlvyp2x45qs859c674pd7nh
+FileSize: 37960
+NarHash: sha256:0y7vis52kfq2km9isrlzakpf7bn1k7v9vf3xg3q1cslla18q6myh
+NarSize: 160816
+References: 
+Deriver: pxy9c2g5zz4ih2znp2dnlv8qaznchci7-source-github.com-troglobit-editline-1.17.1.drv
+CA: fixed:r:sha256:0y7vis52kfq2km9isrlzakpf7bn1k7v9vf3xg3q1cslla18q6myh

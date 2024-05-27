@@ -1,0 +1,9 @@
+StorePath: /nix/store/ml7xgrs3cw0mvr81b2y3sawbannxfbs7-fb-re2-1.0.7.tar.gz.drv
+URL: nar/0a3cv7bl3kc68j7sh5p5kxgkvcwdq61nf8blbw9ahy1xlbwkzpix.nar.xz
+Compression: xz
+FileHash: sha256:0a3cv7bl3kc68j7sh5p5kxgkvcwdq61nf8blbw9ahy1xlbwkzpix
+FileSize: 1268
+NarHash: sha256:1k6xnii7jkmj6gc5fvgcy64c73ybmp3srhls500k4rmdvq9nc9l4
+NarSize: 3016
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1bx279xngikvnq7szymzqw6k52vxpcnhvkpa9h0bkwcmpi9vjacp

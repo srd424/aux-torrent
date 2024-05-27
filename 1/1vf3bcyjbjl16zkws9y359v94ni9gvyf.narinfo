@@ -1,0 +1,9 @@
+StorePath: /nix/store/1vf3bcyjbjl16zkws9y359v94ni9gvyf-python3.11-bootstrap-tomli-2.0.1
+URL: nar/1j3l8x4npdcjwdf2b8n2qhrnqpsv96h86ch959pysxn7jfp0hih2.nar.xz
+Compression: xz
+FileHash: sha256:1j3l8x4npdcjwdf2b8n2qhrnqpsv96h86ch959pysxn7jfp0hih2
+FileSize: 23424
+NarHash: sha256:1fjw1fg9sambacas800vhqyxpc12vp4fq61adi91p6q0r01i46m8
+NarSize: 113856
+References: 
+Deriver: x8h82yvyvym798f57k94jz0z14xv1lh1-python3.11-bootstrap-tomli-2.0.1.drv

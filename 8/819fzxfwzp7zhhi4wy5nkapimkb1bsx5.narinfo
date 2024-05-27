@@ -1,0 +1,9 @@
+StorePath: /nix/store/819fzxfwzp7zhhi4wy5nkapimkb1bsx5-die.sh
+URL: nar/1xcsnfpasz71vg11cd8ba7yjw5qpfrqg0lzh6shlami2cv6d9b47.nar.xz
+Compression: xz
+FileHash: sha256:1xcsnfpasz71vg11cd8ba7yjw5qpfrqg0lzh6shlami2cv6d9b47
+FileSize: 404
+NarHash: sha256:1bbsdc7xa2mpqzcd8iry5dhq77dcphgiik6jqjdlajygxzrrmmn9
+NarSize: 576
+References: 
+CA: fixed:r:sha256:1bbsdc7xa2mpqzcd8iry5dhq77dcphgiik6jqjdlajygxzrrmmn9

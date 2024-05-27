@@ -1,0 +1,9 @@
+StorePath: /nix/store/h2fcbw7ghgn3i4qadszdp272w4dab7ln-lzip-setup-hook.sh
+URL: nar/0xjsa0bjzigbjwc32j4gc90k6xbkkhrkjr70cl9mj6ldmmawb2by.nar.xz
+Compression: xz
+FileHash: sha256:0xjsa0bjzigbjwc32j4gc90k6xbkkhrkjr70cl9mj6ldmmawb2by
+FileSize: 204
+NarHash: sha256:0ygr9xhykcc3b086z5i8hjbqs24flp4z5xv28b1bsf6zmzjyfyqv
+NarSize: 224
+References: 
+CA: fixed:r:sha256:0ygr9xhykcc3b086z5i8hjbqs24flp4z5xv28b1bsf6zmzjyfyqv

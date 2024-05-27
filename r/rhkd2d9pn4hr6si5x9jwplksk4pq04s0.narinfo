@@ -1,0 +1,9 @@
+StorePath: /nix/store/rhkd2d9pn4hr6si5x9jwplksk4pq04s0-setuptools-build-hook.drv
+URL: nar/0q7h9c01sz423q1yp6xv76rw51hm1dw9f95yq9f0k93fm272psbq.nar.xz
+Compression: xz
+FileHash: sha256:0q7h9c01sz423q1yp6xv76rw51hm1dw9f95yq9f0k93fm272psbq
+FileSize: 1036
+NarHash: sha256:0jz38f0ppbdq3r6lacsfkk81vjshpw9nvav3klgyi881ld61kw8v
+NarSize: 2496
+References: 14h6hi152i6hls4hgzwqpdxc5a0ig7fs-python3.11-wheel-0.42.0.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 5qmi07dp0d8m2lbpskdf021rfk5rvhs9-python3-3.11.9.drv 9py87r9927k5d5kgaq57hw1fxym87d9d-setuptools-build-hook.sh fscd8f71wmpwphcmi5mx8qnif2402x9m-run_setup.py jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv qi2s6nqgdgz4hv5bnh5pl77lpif8vbmq-python3.11-setuptools-69.2.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:19s6308bz4v2rfn018886c6qw2z26mrygn623zmw5z3vccz00s5i

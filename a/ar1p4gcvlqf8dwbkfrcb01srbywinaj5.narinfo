@@ -1,0 +1,9 @@
+StorePath: /nix/store/ar1p4gcvlqf8dwbkfrcb01srbywinaj5-check-pc-files-hook.sh
+URL: nar/0j8171kzvpl1102qcxgn66g0y3xl472x874hpa205wadx142izbi.nar.xz
+Compression: xz
+FileHash: sha256:0j8171kzvpl1102qcxgn66g0y3xl472x874hpa205wadx142izbi
+FileSize: 584
+NarHash: sha256:1jvpqr3mrkr9aamxs846zqhp860k2k3iylxix1qsm8ms4bmdl58q
+NarSize: 888
+References: 
+CA: fixed:r:sha256:1jvpqr3mrkr9aamxs846zqhp860k2k3iylxix1qsm8ms4bmdl58q

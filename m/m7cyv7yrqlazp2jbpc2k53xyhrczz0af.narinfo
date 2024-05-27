@@ -1,0 +1,9 @@
+StorePath: /nix/store/m7cyv7yrqlazp2jbpc2k53xyhrczz0af-mpfr-4.2.1.tar.xz.drv
+URL: nar/19d6wpq5kwq0vwwqrbpq5z78gqyzpl8vma4qlyxszi8njmq8g4iz.nar.xz
+Compression: xz
+FileHash: sha256:19d6wpq5kwq0vwwqrbpq5z78gqyzpl8vma4qlyxszi8njmq8g4iz
+FileSize: 500
+NarHash: sha256:0prsvr5zig375dk1dsfk0syxvdfzfj9shx6fklvg9lal61yirf0g
+NarSize: 832
+References: 
+CA: text:sha256:02yhc6yl7zy6hkqs7nbvcdlc4dvw1526c2d2sh5h4xx7k6hnvvs7

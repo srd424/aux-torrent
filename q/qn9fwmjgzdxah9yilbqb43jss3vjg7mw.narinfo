@@ -1,0 +1,9 @@
+StorePath: /nix/store/qn9fwmjgzdxah9yilbqb43jss3vjg7mw-builder.pl
+URL: nar/0grbpmz6ghyyn9sczz3jj4arsjdklfkj4n6iv7bq2qkg63d399bx.nar.xz
+Compression: xz
+FileHash: sha256:0grbpmz6ghyyn9sczz3jj4arsjdklfkj4n6iv7bq2qkg63d399bx
+FileSize: 2840
+NarHash: sha256:1aiwlvw4apsd7h30sg0ldind21wsbqgr3nwky1vfyc4wxlch2i52
+NarSize: 8648
+References: 
+CA: fixed:r:sha256:1aiwlvw4apsd7h30sg0ldind21wsbqgr3nwky1vfyc4wxlch2i52

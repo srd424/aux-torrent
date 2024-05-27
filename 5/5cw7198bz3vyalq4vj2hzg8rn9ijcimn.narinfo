@@ -1,0 +1,9 @@
+StorePath: /nix/store/5cw7198bz3vyalq4vj2hzg8rn9ijcimn-mke2fs-avoid-incompatible-features.patch.drv
+URL: nar/19q3dswsczjg0jig0msy4ryksdcg9932afyny7vz9ivhzis927xf.nar.xz
+Compression: xz
+FileHash: sha256:19q3dswsczjg0jig0msy4ryksdcg9932afyny7vz9ivhzis927xf
+FileSize: 1424
+NarHash: sha256:0xl9y4mgk282msdn7vinsvr3pkgm1rk287w9kbpnb4jdjiy3pjnz
+NarSize: 3184
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1039mq0chs603cfsw5bl132bl8qczhvra9slfx2vmvcrwpg2w9z8

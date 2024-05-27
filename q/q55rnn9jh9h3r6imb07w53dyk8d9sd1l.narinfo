@@ -1,0 +1,10 @@
+StorePath: /nix/store/q55rnn9jh9h3r6imb07w53dyk8d9sd1l-jq-1.7.1-doc
+URL: nar/1k7dq722yskaxxiwsmklb14cdibz40krp3zk1dlcl7ngp2jjy63l.nar.xz
+Compression: xz
+FileHash: sha256:1k7dq722yskaxxiwsmklb14cdibz40krp3zk1dlcl7ngp2jjy63l
+FileSize: 11736
+NarHash: sha256:17g8isbkh7y34m5yh5pvfifzs10vc3vdlw8fj702x94592lhdm27
+NarSize: 31576
+References: 
+Deriver: z034xhzm7za1pxzk9487ckjmdqy38rdf-jq-1.7.1.drv
+Sig: cache.nixos.org-1:65MXxlPU8paudvn8ytH3GlJTmpcVGxEgXps2OT6blUDvnacE0Sp+6YzuEs9BOS8390DvDa8LTsLnj3HAWBmnAw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/jm2zc3iqm9hc26n3nfhc9k93ag46ipwb-gnused-4.9-info
+URL: nar/19fgd50qvjwphyxb94mfaz3ygv7mh3ig5pjrqiqka8z42z2a32l0.nar.xz
+Compression: xz
+FileHash: sha256:19fgd50qvjwphyxb94mfaz3ygv7mh3ig5pjrqiqka8z42z2a32l0
+FileSize: 49408
+NarHash: sha256:1k5jx9h78gs6r0w4r1fvmlrfxcy4yzd8w81lgnqxb6znnd57rxd5
+NarSize: 213504
+References: 
+Deriver: bippmnq6smss0mqj1l8dksjn7jx4lw85-gnused-4.9.drv
+Sig: cache.nixos.org-1:jpVnoSJWkUqAo1q36Nh5XhquMpTiBtk1Fe8hR/BMVixl7/ZLkrGXwwqgq/TqT+A4IGfwXS52PJTkPrMK6eE6BQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/abb5b3bp5b86j7bk7z13li9dhkxw6xsd-catch_conflicts.py
+URL: nar/07nkd3i5v8qpbij3qy3szp333649c2s4v7bgmngaqg3bh3wmf2lf.nar.xz
+Compression: xz
+FileHash: sha256:07nkd3i5v8qpbij3qy3szp333649c2s4v7bgmngaqg3bh3wmf2lf
+FileSize: 1276
+NarHash: sha256:1qlqqr40pfqalgalq9j6gw89r58p4sj5ij4xh6q7rdf8wkgw7i9v
+NarSize: 3168
+References: 
+CA: fixed:r:sha256:1qlqqr40pfqalgalq9j6gw89r58p4sj5ij4xh6q7rdf8wkgw7i9v

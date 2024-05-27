@@ -1,0 +1,9 @@
+StorePath: /nix/store/nmzqqd26xlgvsl7skdr0fpq9a03jp8p7-python3.11-installer-0.7.0.drv
+URL: nar/1cxf56ijsaqwzpfm3pgd40lra5v0l36hgp7lqjjkfrc29hmssl4q.nar.xz
+Compression: xz
+FileHash: sha256:1cxf56ijsaqwzpfm3pgd40lra5v0l36hgp7lqjjkfrc29hmssl4q
+FileSize: 1584
+NarHash: sha256:0zlbz0f0h2nrx0likjs6bjw9a3ykrz279pyflc8fpjc5nznvags5
+NarSize: 3776
+References: 5qmi07dp0d8m2lbpskdf021rfk5rvhs9-python3-3.11.9.drv 68hilabb0jh2zm98hl956q63c487qh3h-python3.11-flit-core-3.9.0.drv 936a9p6rc38xsa6f43914fbd8qzr0qji-pypa-build-hook.sh.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv jrkj3v73capa5cra26nlqscikjyw6zfs-ensure-newer-sources-hook.drv m360wnkk6ciml2cri4p3gds7ac5p8drl-wrap-python-hook.drv mzpby2z6qbiw9qnalbry829hld3z4d6h-python-remove-bin-bytecode-hook.drv ngld0527lgg161hmb6aa4n4vsilj6iag-python-runtime-deps-check-hook.sh.drv pf48s2paxzly9xb04kmy008ygw2yynqk-python-remove-tests-dir-hook.drv pyy2h4m7bzn36f6nl47c9bpk2xll974a-python-output-dist-hook.drv q4c8n4by2266bhyahh3yrrizsdwhia02-python-imports-check-hook.sh.drv sxkw5hwxwc859cw5b7vpggz78z59z9lr-pypa-install-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh yd8c260yn36kvpj29isvjl6p13s1yf7m-python-namespaces-hook.sh.drv yx6pzknaj6v12yba4a0hn6d2sv10pcrq-source-github.com-pypa-installer-0.7.0.drv
+CA: text:sha256:1ckhnrclplm0ljb9jdnh8cv30br5f036bacm9alabp9h3cc3wcaj

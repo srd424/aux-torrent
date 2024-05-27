@@ -1,0 +1,9 @@
+StorePath: /nix/store/l8j65mndmh3hgpxp5768kds5lkwgdlqg-python3.11-build-1.2.1.drv
+URL: nar/0am5d9hnpvd8iiy1v78xlpc8f7wprpxpb6gz3igmhpzbv99nawv5.nar.xz
+Compression: xz
+FileHash: sha256:0am5d9hnpvd8iiy1v78xlpc8f7wprpxpb6gz3igmhpzbv99nawv5
+FileSize: 1812
+NarHash: sha256:1pc4l9xm9qncx4m92z9cgn75y9rp0cnxx7igvaz5wnjm05zkvcb6
+NarSize: 4248
+References: 5qmi07dp0d8m2lbpskdf021rfk5rvhs9-python3-3.11.9.drv 68hilabb0jh2zm98hl956q63c487qh3h-python3.11-flit-core-3.9.0.drv 6caibhy3aj1g5l0xijbdz6mcs3krvzpj-source-github.com-pypa-build-refs-tags-1.2.1.drv 936a9p6rc38xsa6f43914fbd8qzr0qji-pypa-build-hook.sh.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv agqxy9wxdzlfpra6hbrs5hs3xfcs1v9h-python3.11-pyproject-hooks-1.0.0.drv bh943yras6abqzmvnfwgzl765rs2s2nk-python3.11-packaging-24.0.drv c18bh40xn26pqxa325hnrslkqvrwn77r-pypa-install-hook.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv jrkj3v73capa5cra26nlqscikjyw6zfs-ensure-newer-sources-hook.drv m360wnkk6ciml2cri4p3gds7ac5p8drl-wrap-python-hook.drv mzpby2z6qbiw9qnalbry829hld3z4d6h-python-remove-bin-bytecode-hook.drv ngld0527lgg161hmb6aa4n4vsilj6iag-python-runtime-deps-check-hook.sh.drv pf48s2paxzly9xb04kmy008ygw2yynqk-python-remove-tests-dir-hook.drv pyy2h4m7bzn36f6nl47c9bpk2xll974a-python-output-dist-hook.drv q4c8n4by2266bhyahh3yrrizsdwhia02-python-imports-check-hook.sh.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh yd8c260yn36kvpj29isvjl6p13s1yf7m-python-namespaces-hook.sh.drv
+CA: text:sha256:1245lk6jn9y58js1s47ihlxcp2zxq6lg0kamcw7897n7zcgicada

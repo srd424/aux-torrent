@@ -1,0 +1,9 @@
+StorePath: /nix/store/ycwm35msmsdi2qgjax1slmjffsmwy8am-write-mirror-list.sh
+URL: nar/0jsiim6d115yjs0kzanbb2pq45ygks3baw793d11pdszpd38l1v2.nar.xz
+Compression: xz
+FileHash: sha256:0jsiim6d115yjs0kzanbb2pq45ygks3baw793d11pdszpd38l1v2
+FileSize: 212
+NarHash: sha256:0py6sw6r78z64sr8kzzicxs0y071js02j7d2hp9c74pl6svp8dc6
+NarSize: 208
+References: 
+CA: fixed:r:sha256:0py6sw6r78z64sr8kzzicxs0y071js02j7d2hp9c74pl6svp8dc6

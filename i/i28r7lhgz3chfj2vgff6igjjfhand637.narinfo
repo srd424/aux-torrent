@@ -1,0 +1,9 @@
+StorePath: /nix/store/i28r7lhgz3chfj2vgff6igjjfhand637-python-catch-conflicts-hook.sh
+URL: nar/1kvy81kvrwq893awlrfmw8fgsscbj143240py2bx1xnx4g54wkyc.nar.xz
+Compression: xz
+FileHash: sha256:1kvy81kvrwq893awlrfmw8fgsscbj143240py2bx1xnx4g54wkyc
+FileSize: 344
+NarHash: sha256:06h4qivplq5dkfskdhja54l1vjjfs9nl5hq5g1vj1qn9ahj11zdv
+NarSize: 456
+References: 
+CA: fixed:r:sha256:06h4qivplq5dkfskdhja54l1vjjfs9nl5hq5g1vj1qn9ahj11zdv

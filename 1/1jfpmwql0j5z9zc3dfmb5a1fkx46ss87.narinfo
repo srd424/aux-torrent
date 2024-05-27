@@ -1,0 +1,10 @@
+StorePath: /nix/store/1jfpmwql0j5z9zc3dfmb5a1fkx46ss87-perl5.38.2-URI-5.21-devdoc
+URL: nar/134m804ai0cxyj9jnvijdd7kvdmq4b692zkhd3sph0j7sb32qrcq.nar.xz
+Compression: xz
+FileHash: sha256:134m804ai0cxyj9jnvijdd7kvdmq4b692zkhd3sph0j7sb32qrcq
+FileSize: 35944
+NarHash: sha256:0ym5axav3m1hrs71d76102kzinyd50qc0mcfnl8i1svn1gnm0lfm
+NarSize: 38464
+References: 
+Deriver: jjc2hz0c2730xhg76fgi9b97yd8w21sc-perl5.38.2-URI-5.21.drv
+Sig: cache.nixos.org-1:bQOgvWNz8EZIxzi4YRmYNK6/6lidU3gcITneN3peuFZXe2uaiEdjeB1mS4SZfSw1Wz6befOtWFrar0LwyLfGBA==

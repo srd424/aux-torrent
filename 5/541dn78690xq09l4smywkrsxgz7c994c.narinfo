@@ -1,0 +1,9 @@
+StorePath: /nix/store/541dn78690xq09l4smywkrsxgz7c994c-db2x_texixml-to-stdout.patch
+URL: nar/0psphqkldcpgysxpjvcb5m8jppz04yk3ryndh9r3azsi1azbihl1.nar.xz
+Compression: xz
+FileHash: sha256:0psphqkldcpgysxpjvcb5m8jppz04yk3ryndh9r3azsi1azbihl1
+FileSize: 384
+NarHash: sha256:175s4p6avvkh7gfg5jdr66jg6hlnycajskvrf27vxn3rqccksrf1
+NarSize: 632
+References: 
+CA: fixed:r:sha256:175s4p6avvkh7gfg5jdr66jg6hlnycajskvrf27vxn3rqccksrf1

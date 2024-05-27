@@ -1,0 +1,9 @@
+StorePath: /nix/store/lzjr2xyvw2z2rln5wn1v6y8vs0rv8kvs-coreutils-9.5.drv
+URL: nar/0zrk3zynm2bmpzycc5h088f69vzyb9klyzqkhmsks287xf0ji8lv.nar.xz
+Compression: xz
+FileHash: sha256:0zrk3zynm2bmpzycc5h088f69vzyb9klyzqkhmsks287xf0ji8lv
+FileSize: 2240
+NarHash: sha256:1awryiv86a1vvhapfxdhs6kh81wbpjbjiwcxmwk79ngvmychisy5
+NarSize: 5288
+References: 034zh8v1m3yhin6mpv5xgxcp23ii4452-xz-5.4.6.drv 12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh 63yr9k3w83lb87h0yalrpn4avh734jiz-perl-5.38.2.drv bajiwq8lwvjlpc2mhpnfpng4z9l13ij7-bootstrap-stage4-stdenv-linux.drv cwiw21skrmlilgr9cw1kj2aygvin5qsx-gmp-with-cxx-6.3.0.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv jgcny0jyxk08g3c876aiy3bjb954g421-acl-2.3.2.drv nlh094pdysd6wqsj38hpc658rn4mzi03-attr-2.5.2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wwc7fll8n6jhsrw4ip4i1hpm2m57163y-autoreconf-hook.drv xv4333kfggq3zn065a3pwrj7ddbs4vzg-coreutils-9.5.tar.xz.drv
+CA: text:sha256:1jn7rmrw2snddd2qfp4861cglyc2ppwvd6s3xyzx1dmybml0mc0z

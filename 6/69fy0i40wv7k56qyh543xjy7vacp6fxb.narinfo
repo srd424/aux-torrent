@@ -1,0 +1,9 @@
+StorePath: /nix/store/69fy0i40wv7k56qyh543xjy7vacp6fxb-source-github.com-catchorg-Catch2-v3.5.2.drv
+URL: nar/0cmmxhlsac665zvx3klpcp6ii22hy8q60rp78gb4a6whym6l5ij7.nar.xz
+Compression: xz
+FileHash: sha256:0cmmxhlsac665zvx3klpcp6ii22hy8q60rp78gb4a6whym6l5ij7
+FileSize: 1596
+NarHash: sha256:07x1nd656h51xf0mrsvpwy5p2vyh78zdw4h6j3kissgdfxy21fpy
+NarSize: 3616
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:076gbdgmgs06b8gi6vkfmg051bixyz1vs4h6djq403njyjghq6n4

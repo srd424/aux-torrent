@@ -1,0 +1,9 @@
+StorePath: /nix/store/gflgnh6i9vgzw78ss1z4q8zwfzr3d7zg-perl5.38.2-Module-Build-Tiny-0.047.drv
+URL: nar/0x29n7bwxdqflqir8s0s8jzhv9dgdna487q5ajhw9j6x51bscly4.nar.xz
+Compression: xz
+FileHash: sha256:0x29n7bwxdqflqir8s0s8jzhv9dgdna487q5ajhw9j6x51bscly4
+FileSize: 1300
+NarHash: sha256:0kshcab78sf0yjcm6s906h729xkykx7n3gyfa2skr27hxc0zl58h
+NarSize: 3184
+References: 2hasv9ysdms856nzypfg4ir2jscpgp48-perl5.38.2-ExtUtils-Helpers-0.026.drv 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv a5fiic6ji70f5y1q07pafiaf1w5wy0r9-perl5.38.2-Module-Build-0.4234.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv ngjb8lpqqxz3faghqw9k3c8rff5an7b9-Module-Build-Tiny-0.047.tar.gz.drv s59wyiicp3yphm60b5gm74k6yblp39i2-perl5.38.2-ExtUtils-InstallPaths-0.012.drv sfqrm0p2fl2051g43x3hvk0zkyfz5kah-perl5.38.2-File-ShareDir-1.118.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:0kb9xpmd4sc3pb7i6zznkrjwljd4f62mnl5hwhxw96zr5pl5jada

@@ -1,0 +1,9 @@
+StorePath: /nix/store/nckd17jzymh880x415c96s4q5b6dqml8-gnu-config-2023-09-19.drv
+URL: nar/116pjw1nj9gyp7xyrds0q2gpxqpvqxf12jd95l5nq9siqvm529q5.nar.xz
+Compression: xz
+FileHash: sha256:116pjw1nj9gyp7xyrds0q2gpxqpvqxf12jd95l5nq9siqvm529q5
+FileSize: 912
+NarHash: sha256:16jv1wr2522azvkslkc6d4sw9ss5rgmx33lm3axd69dk42pkabws
+NarSize: 2120
+References: h11pn2l5rszzgjrl84qw2ifr33rdkjcq-config.sub-28ea239.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv p0gj1mzg99qc4bnql0299yiadn026jc3-config.guess-28ea239.drv sspiw61zbnr2nggdaajdvf650pb5g8kb-bootstrap-stage-xgcc-stdenv-linux.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1dkdp38dxzk53x00bqp545r5fma7k0yz2r2jj6phxp7q314nayyz

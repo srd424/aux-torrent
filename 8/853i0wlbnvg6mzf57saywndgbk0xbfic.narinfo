@@ -1,0 +1,9 @@
+StorePath: /nix/store/853i0wlbnvg6mzf57saywndgbk0xbfic-revert-unconditional-helper.patch.drv
+URL: nar/0rxyjvkh6a8k3xnl2648q0a0kkpbs7ia4q4dpl8iqh9gfhhr2bpx.nar.xz
+Compression: xz
+FileHash: sha256:0rxyjvkh6a8k3xnl2648q0a0kkpbs7ia4q4dpl8iqh9gfhhr2bpx
+FileSize: 1908
+NarHash: sha256:1b2j59v2n9rjllxg905qxdd06gq1fjmfgbkjgyrm5fp9l1ffavwk
+NarSize: 4584
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv ylz95bvxds9vssy5dpwbcnmjr80z3v5l-patchutils-0.3.3.drv
+CA: text:sha256:1pd5l2q3zdj5c362vf4ws66v7kxk8a9rsqx9cnzsdpz1kcixmvxw

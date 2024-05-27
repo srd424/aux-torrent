@@ -1,0 +1,9 @@
+StorePath: /nix/store/rqk5h1ykl8d48dljk305sr027vhr8ps5-006-disable-bitcode.patch
+URL: nar/10kdzm7fn659b3mjan53ryvzgl1m4h94w0q7c03ilfsbvv687l9j.nar.xz
+Compression: xz
+FileHash: sha256:10kdzm7fn659b3mjan53ryvzgl1m4h94w0q7c03ilfsbvv687l9j
+FileSize: 652
+NarHash: sha256:1lg9cfwqsd1nish7rbgsf2ndri66l1i4rk43as0ikrc8f5g6gicn
+NarSize: 1272
+References: 
+CA: fixed:r:sha256:1lg9cfwqsd1nish7rbgsf2ndri66l1i4rk43as0ikrc8f5g6gicn

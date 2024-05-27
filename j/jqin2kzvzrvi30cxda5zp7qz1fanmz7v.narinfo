@@ -1,0 +1,9 @@
+StorePath: /nix/store/jqin2kzvzrvi30cxda5zp7qz1fanmz7v-no-ldconfig.patch
+URL: nar/1wglvfn719gh1fn9vz8078ysddrxnqbq88p006x6h33v85hqbrc2.nar.xz
+Compression: xz
+FileHash: sha256:1wglvfn719gh1fn9vz8078ysddrxnqbq88p006x6h33v85hqbrc2
+FileSize: 1680
+NarHash: sha256:1i8m59n93jws3zz47ny601my6279wxvlyfa593sd2fl8hss04ip0
+NarSize: 4112
+References: 
+CA: fixed:r:sha256:1i8m59n93jws3zz47ny601my6279wxvlyfa593sd2fl8hss04ip0

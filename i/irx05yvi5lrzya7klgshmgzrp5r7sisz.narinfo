@@ -1,0 +1,9 @@
+StorePath: /nix/store/irx05yvi5lrzya7klgshmgzrp5r7sisz-unittest-check-hook.sh
+URL: nar/19bha0by6i2l8l48s747yjyx6wzvgwda09p656ffdwy3n15dhjxh.nar.xz
+Compression: xz
+FileHash: sha256:19bha0by6i2l8l48s747yjyx6wzvgwda09p656ffdwy3n15dhjxh
+FileSize: 532
+NarHash: sha256:0z528nhfaz25k4mfabpn5g9wwbg3gcicin6m7dp79vn62d6qxsqh
+NarSize: 1040
+References: 
+CA: fixed:r:sha256:0z528nhfaz25k4mfabpn5g9wwbg3gcicin6m7dp79vn62d6qxsqh

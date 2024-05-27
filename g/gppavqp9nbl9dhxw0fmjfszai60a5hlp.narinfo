@@ -1,0 +1,11 @@
+StorePath: /nix/store/gppavqp9nbl9dhxw0fmjfszai60a5hlp-hatchling-1.22.4.tar.gz
+URL: nar/06cxwgs28ma8ixxa202wjjdjp3kaw6cdvbpafga196dn21ab1qhw.nar.xz
+Compression: xz
+FileHash: sha256:06cxwgs28ma8ixxa202wjjdjp3kaw6cdvbpafga196dn21ab1qhw
+FileSize: 62920
+NarHash: sha256:0xdvv9mg2g6zlpnmxlshl2jfmdlq0fbgvq60arnbh17bsb5cz6n2
+NarSize: 62872
+References: 
+Deriver: pmcbmw0an76sqmhnnn126k737i9j8dc5-hatchling-1.22.4.tar.gz.drv
+Sig: cache.nixos.org-1:iCHa5PgT/av6J1QFVf3JDcr+dksvwLO/i0iKC8BWWHXnvWaseoIVRU/dMziDZEW+Dt9bVOVEihs9ZdvMvHUvDA==
+CA: fixed:sha256:0vj1yfax8sqinpxa622syd0ydnizqid8x17m5qw4if3zdp4wwbca

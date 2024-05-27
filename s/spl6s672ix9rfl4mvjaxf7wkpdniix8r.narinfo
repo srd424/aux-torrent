@@ -1,0 +1,9 @@
+StorePath: /nix/store/spl6s672ix9rfl4mvjaxf7wkpdniix8r-systemwide-man-db-conf.patch
+URL: nar/0ayjsaqb6ib35r3z4zkg8pq5f1aisd6h2n4w3igpnv68xyzbvc7h.nar.xz
+Compression: xz
+FileHash: sha256:0ayjsaqb6ib35r3z4zkg8pq5f1aisd6h2n4w3igpnv68xyzbvc7h
+FileSize: 712
+NarHash: sha256:1wfb0bb8mfy72yr8yykby6kpwpj0grzgdkbbsrvz147lha977nn1
+NarSize: 1296
+References: 
+CA: fixed:r:sha256:1wfb0bb8mfy72yr8yykby6kpwpj0grzgdkbbsrvz147lha977nn1

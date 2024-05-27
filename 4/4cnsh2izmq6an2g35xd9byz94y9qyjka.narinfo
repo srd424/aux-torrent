@@ -1,0 +1,9 @@
+StorePath: /nix/store/4cnsh2izmq6an2g35xd9byz94y9qyjka-python3.11-hatchling-1.22.4-dist
+URL: nar/0482cy754cky58i9s5pwjvqg5zsqwziaimzjrb11nwmbbqfq271k.nar.xz
+Compression: xz
+FileHash: sha256:0482cy754cky58i9s5pwjvqg5zsqwziaimzjrb11nwmbbqfq271k
+FileSize: 75176
+NarHash: sha256:1chgs0zafc3zv0jfildz5p97vd13rj4aj9wl6g6cv9v6viwnw047
+NarSize: 82344
+References: 
+Deriver: r6b5h6wa7h0pg4s0mnb6j0xvvdnk751s-python3.11-hatchling-1.22.4.drv

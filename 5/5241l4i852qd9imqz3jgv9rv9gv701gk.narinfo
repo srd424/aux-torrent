@@ -1,0 +1,9 @@
+StorePath: /nix/store/5241l4i852qd9imqz3jgv9rv9gv701gk-fix-cross-compilation.patch
+URL: nar/0zcb5ms5qmvpnabb955qdxhi87qfi4g3xvbi5avppa2fcbwd2sbv.nar.xz
+Compression: xz
+FileHash: sha256:0zcb5ms5qmvpnabb955qdxhi87qfi4g3xvbi5avppa2fcbwd2sbv
+FileSize: 428
+NarHash: sha256:14rp12vphpmx65lks709bbsmrrh48r528gw2nwpsnh9av065mlk6
+NarSize: 592
+References: 
+CA: fixed:r:sha256:14rp12vphpmx65lks709bbsmrrh48r528gw2nwpsnh9av065mlk6

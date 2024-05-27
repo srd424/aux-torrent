@@ -1,0 +1,9 @@
+StorePath: /nix/store/4bzlz327km5ppv6rciz261l92ph65csq-boehmgc-coroutine-sp-fallback.patch
+URL: nar/16vyvqzlzxp33g0f7ks03zgs2mq4bf7j6payy7g4by7blhpjjv62.nar.xz
+Compression: xz
+FileHash: sha256:16vyvqzlzxp33g0f7ks03zgs2mq4bf7j6payy7g4by7blhpjjv62
+FileSize: 992
+NarHash: sha256:1kd7q6v6dm4q9zsx79ndrqvsvkw9l06i67zw1k2yspscjjnn1jga
+NarSize: 2128
+References: 
+CA: fixed:r:sha256:1kd7q6v6dm4q9zsx79ndrqvsvkw9l06i67zw1k2yspscjjnn1jga

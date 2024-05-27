@@ -1,0 +1,9 @@
+StorePath: /nix/store/kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash
+URL: nar/1zblwlxsgqvafbzby7hdz0348j8vfswp5vk0x5bxa6i6n9ggl5w1.nar.xz
+Compression: xz
+FileHash: sha256:1zblwlxsgqvafbzby7hdz0348j8vfswp5vk0x5bxa6i6n9ggl5w1
+FileSize: 1792
+NarHash: sha256:1z3jghfdrvnnciw08vfymg4di1sghf1vkb3bi83mnj8mcvmvix2w
+NarSize: 5024
+References: 
+CA: fixed:r:sha256:1z3jghfdrvnnciw08vfymg4di1sghf1vkb3bi83mnj8mcvmvix2w

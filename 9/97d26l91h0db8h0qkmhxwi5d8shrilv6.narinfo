@@ -1,0 +1,9 @@
+StorePath: /nix/store/97d26l91h0db8h0qkmhxwi5d8shrilv6-CVE-2016-9844.patch
+URL: nar/0avf5d1k752fp68gk0skhmr3ihs0byxxiir7ykfbxc37nxbr3hxa.nar.xz
+Compression: xz
+FileHash: sha256:0avf5d1k752fp68gk0skhmr3ihs0byxxiir7ykfbxc37nxbr3hxa
+FileSize: 684
+NarHash: sha256:0icfws1a1iznpxvnf4rz9d9x6aq3liwsljb9maxk295r69i2rqqv
+NarSize: 1200
+References: 
+CA: fixed:r:sha256:0icfws1a1iznpxvnf4rz9d9x6aq3liwsljb9maxk295r69i2rqqv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ld57nw3jzmy4baclj5g4v4dcyjsgrpcf-unzip-6.0.drv
+URL: nar/0ykmh9rxlh2rmvsfrv12rzbk80ijx1p1hb3mxa9irwwjm3vn095x.nar.xz
+Compression: xz
+FileHash: sha256:0ykmh9rxlh2rmvsfrv12rzbk80ijx1p1hb3mxa9irwwjm3vn095x
+FileSize: 1868
+NarHash: sha256:1g45hxi378mdnd7yrl8ncl3zvkd7hdy3azsqmad7sps4cfkz8l48
+NarSize: 4616
+References: 1k1wn8807yizgz3ghnbd4k6zsc0dzfkr-CVE-2014-9913.patch 2cq4hsc1v8ylccspw8351r72s56w1fia-CVE-2015-7697.diff 5bfhr1b8s386rimfkffw29lvk89l08h6-bzip2-1.0.8.drv 65zf1fdxsbvzcyfjmkwvvgl39j1jvflq-CVE-2019-13232-1.patch.drv 6np2acjv1nxcg0xzsv9a76wyrpxznkna-CVE-2014-8141.diff 6zqn6w9rwkgfa6z1hpagnh5xhz2dag6m-CVE-2015-7696.diff 705g035ind4dzrnxwjaw5gp6wy32bkar-implicit-declarations-fix.patch 7jniym7hm8n2rxq96c4q6l9cvwsq88bv-CVE-2019-13232-3.patch.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv 97d26l91h0db8h0qkmhxwi5d8shrilv6-CVE-2016-9844.patch cciw7lgkldvx25d77cxpjhh1iw4xghd9-setup-hook.sh d9b2qrrq32jzdsdx4y33inzrra5n5z5n-CVE-2014-8140.diff i58ccl0612dnwf3gdp4b9vnaq5phb0lq-CVE-2019-13232-2.patch.drv icgxdy6xqlp0f69fcf7fwbm9kr37vhi1-28-cve-2022-0529-and-cve-2022-0530.patch.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv k2s7d662dgpwq176f4mg0dpc5zm7kzvg-unzip60.tar.gz.drv p46prhgmv7ibjh9igfkbc6zfxbbi6sk5-dont-hardcode-cc.patch p55a764pi2f4kkx3adb43bxb2dnb4z6r-CVE-2018-18384.patch pdcj2chp5c2gvm2jc3shbajfc62kbx1i-CVE-2014-9636.diff qzn505dw866bkm65whw2b32xxmsg5rs2-06-initialize-the-symlink-flag.patch.drv rdkdki1f24q8mqgnbsyk7gmh28c027ks-CVE-2014-8139.diff v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0np3np4c647n93677jaldi17l7a7mpxfrw9q92icj8p3n4p6hf9x

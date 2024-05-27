@@ -1,0 +1,9 @@
+StorePath: /nix/store/2f0nxx14x7bxn04gh320yabizgnsc0n4-aws-checksums-0.1.18
+URL: nar/1if3cv4nwlvisnlsr2s7dq8n3ra3wad58yab6h78xg1qrzfghr81.nar.xz
+Compression: xz
+FileHash: sha256:1if3cv4nwlvisnlsr2s7dq8n3ra3wad58yab6h78xg1qrzfghr81
+FileSize: 39492
+NarHash: sha256:04hbkx757i40l833p3v15n72k3i5z9bcbrc8m5krc54y7d0jl2jp
+NarSize: 63272
+References: 2f0nxx14x7bxn04gh320yabizgnsc0n4-aws-checksums-0.1.18 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 apysxvfgdjcph77mzi0q2ag4mga6jxxf-aws-c-common-0.9.14
+Deriver: qn1w8aj2d93jvpys19nidxg3wx8cm7x5-aws-checksums-0.1.18.drv

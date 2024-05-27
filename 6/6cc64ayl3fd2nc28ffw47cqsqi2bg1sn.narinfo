@@ -1,0 +1,9 @@
+StorePath: /nix/store/6cc64ayl3fd2nc28ffw47cqsqi2bg1sn-0002-remove-impure-dirs.patch
+URL: nar/0wkai357cdxla4yw6brm1s6fshahj19y13x5r72w6w0m1zf4apcr.nar.xz
+Compression: xz
+FileHash: sha256:0wkai357cdxla4yw6brm1s6fshahj19y13x5r72w6w0m1zf4apcr
+FileSize: 672
+NarHash: sha256:1brxc4ghym41vy9c1cjwyp6jqsab0v5w0392l1cgc3n3dbgfiay0
+NarSize: 1056
+References: 
+CA: fixed:r:sha256:1brxc4ghym41vy9c1cjwyp6jqsab0v5w0392l1cgc3n3dbgfiay0

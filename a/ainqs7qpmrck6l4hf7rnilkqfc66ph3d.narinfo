@@ -1,0 +1,9 @@
+StorePath: /nix/store/ainqs7qpmrck6l4hf7rnilkqfc66ph3d-TermReadKey-2.38.tar.gz.drv
+URL: nar/1sp6p0cfvs86c529009zldp3kydl24n9wh9gy9fql20sfnnsfsiv.nar.xz
+Compression: xz
+FileHash: sha256:1sp6p0cfvs86c529009zldp3kydl24n9wh9gy9fql20sfnnsfsiv
+FileSize: 1316
+NarHash: sha256:0gc4nyscvkdnkhkil2xdg2mnmy0y75gwdib8dr3apiwz0y44ybr2
+NarSize: 3000
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1haj9xjp0fvivdha9vrka9pz023ssrw5ajwsw2xg2n5izpgdhaa3

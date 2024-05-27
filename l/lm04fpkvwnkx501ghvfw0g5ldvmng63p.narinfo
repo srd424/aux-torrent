@@ -1,0 +1,9 @@
+StorePath: /nix/store/lm04fpkvwnkx501ghvfw0g5ldvmng63p-perl5.38.2-ExtUtils-Config-0.008.drv
+URL: nar/1z3pzrsk67x92r7qnasj42f8q7b3c171g3frgphdygnrdgm6mala.nar.xz
+Compression: xz
+FileHash: sha256:1z3pzrsk67x92r7qnasj42f8q7b3c171g3frgphdygnrdgm6mala
+FileSize: 916
+NarHash: sha256:00451l0kpb4vy8dzh82d4hnk8jj1rlzmc8nbvfkgg0a0xk3mzkdc
+NarSize: 2200
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 7jchcccy40vgr942kz3rrpkyqswynm6q-ExtUtils-Config-0.008.tar.gz.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:0kfbgy9n6p4jng2q5n8s1mrj7r9ykl06w9b2alxga18aqsf1gccp

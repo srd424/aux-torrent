@@ -1,0 +1,9 @@
+StorePath: /nix/store/dwmd6nzf825i0inhcpbjflp76byzjfm3-HTTP-Daemon-6.16.tar.gz.drv
+URL: nar/0824iba41gmcpdafpdr0yyp9iayr316mrixzsz54dnp8m6asi6g2.nar.xz
+Compression: xz
+FileHash: sha256:0824iba41gmcpdafpdr0yyp9iayr316mrixzsz54dnp8m6asi6g2
+FileSize: 1320
+NarHash: sha256:0h4mrj437mn3rgrq07n7gfvi75zsvz3wzjahdmmsgyp2sbwi965c
+NarSize: 3008
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:030c4fy5ijxmi69a4y02g3732p821m6av78hyysygmk1kfxgfbbp

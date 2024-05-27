@@ -1,0 +1,9 @@
+StorePath: /nix/store/rr4cpsx1w84h2l1h71ch8spcp221kzkr-m4-1.4.19.tar.bz2.drv
+URL: nar/1b6gjngnpwalvipl88j2lchi1437z0pg4gl4b1s9vs053dg2hrrw.nar.xz
+Compression: xz
+FileHash: sha256:1b6gjngnpwalvipl88j2lchi1437z0pg4gl4b1s9vs053dg2hrrw
+FileSize: 500
+NarHash: sha256:143s9d9sz42l65daq0418gn6qap923dsz9pfjnd7ggk4hn3dbvbk
+NarSize: 832
+References: 
+CA: text:sha256:0pvhavlxagz3acxbq6lfq9gqf061jcpf6ywr3farnqn4xi1ailsj

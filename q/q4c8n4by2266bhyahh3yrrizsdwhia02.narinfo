@@ -1,0 +1,9 @@
+StorePath: /nix/store/q4c8n4by2266bhyahh3yrrizsdwhia02-python-imports-check-hook.sh.drv
+URL: nar/0zjw5hzkfn2874p3qd46jyil6rjvvnlx4rzpbg2k3nf46n4fsaj5.nar.xz
+Compression: xz
+FileHash: sha256:0zjw5hzkfn2874p3qd46jyil6rjvvnlx4rzpbg2k3nf46n4fsaj5
+FileSize: 880
+NarHash: sha256:0rijm292g0d1lcm3i1sgipbbf2ki9bkvr06ad1i5qmwyh9xymvcj
+NarSize: 2112
+References: 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 5qmi07dp0d8m2lbpskdf021rfk5rvhs9-python3-3.11.9.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv qg57dwzn13adbw384zk951is6ixij45c-python-imports-check-hook.sh v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0jz2bdpks5p67nmn0vdkr7gaxfvincfzkpv4rc216545diwdsmxa

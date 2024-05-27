@@ -1,0 +1,9 @@
+StorePath: /nix/store/y3ar6pv1vbhsahfw8s64d7k1kjvcc99s-xmlto-0.0.28
+URL: nar/11aszzh24d3rh5wrlc2xhjs3588j65l68g0aprnm9q0hpcamdyi7.nar.xz
+Compression: xz
+FileHash: sha256:11aszzh24d3rh5wrlc2xhjs3588j65l68g0aprnm9q0hpcamdyi7
+FileSize: 23076
+NarHash: sha256:0h07whc2n7vafgfmpavlziljl5a963vpi4li33ql6155sjh178dm
+NarSize: 96096
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 6pz7g68jp7jniklzc6jz9qaqlcj6psj5-libxslt-1.1.39-bin ard747zf4fkkkqa0pwj3fxp9fhnyfm7p-gnused-4.9 asqa3kfq3maclk7cqqhrjvp7vriw6ahy-coreutils-9.5 b93lnii942nnkbpkl6smk8dhv0049di8-glibc-2.39-5-bin d4a81nyylpij9kywrq8dwx6xxlsyww1g-libxml2-2.12.6-bin dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 gbrv0fn9a07kmdw2rg22iybdymylw4qc-gnugrep-3.11 hr942a84hkp0k261psih6y6vsf5x5vm7-w3m-0.5.3+git20230121 ifh994g3yx0ai13dx2g7gg9anq1jcm4w-getopt-1.1.6 y3ar6pv1vbhsahfw8s64d7k1kjvcc99s-xmlto-0.0.28
+Deriver: f1ql7y7l142n4savxmyvgsszmmghjpcx-xmlto-0.0.28.drv

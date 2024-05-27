@@ -1,0 +1,11 @@
+StorePath: /nix/store/93jsrs66lp0n2qi0xi39v839gbls67va-e2fsprogs-1.47.0.tar.gz
+URL: nar/0v4ifa5681x6xc55hw05kvq8wipivq8b7pk5ch4bwmd5zah9mxi1.nar.xz
+Compression: xz
+FileHash: sha256:0v4ifa5681x6xc55hw05kvq8wipivq8b7pk5ch4bwmd5zah9mxi1
+FileSize: 9621768
+NarHash: sha256:03sfsi39bb0gva8sph5qi4pyl4y2rlf7x0dlpq1zxw46qvpxs36g
+NarSize: 9637832
+References: 
+Deriver: frk13ig6i11xjm29040x0hn89cv8pk83-e2fsprogs-1.47.0.tar.gz.drv
+Sig: cache.nixos.org-1:t2D7yPayR83rJ0VrJavjtf8Xu5GMY8LW0DNDu9Y0mvhpEFJVrVOP/o/5ujIkciRTiTiXrl/VEdiRw1aMb/g5BA==
+CA: fixed:sha256:0y1m3barb492wvsini7997m8h8jd1r078jb84spwdw7favgayrv6

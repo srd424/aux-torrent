@@ -1,0 +1,9 @@
+StorePath: /nix/store/kmpdkz53mq8ib6qj3jkf49y6nbv5xgkb-keyutils-1.6.3
+URL: nar/0ddjx3px1l8pc34qw3yzw88gzy1h8kgycj963mryh27kd9i385w1.nar.xz
+Compression: xz
+FileHash: sha256:0ddjx3px1l8pc34qw3yzw88gzy1h8kgycj963mryh27kd9i385w1
+FileSize: 34796
+NarHash: sha256:0bn1xif4szlv5kqb2l5gsrrzqiz7ca1zs0cixav77jmrd3cngaj1
+NarSize: 137624
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 8f0cas43qpwhw18v8s5hdxaadiayrii6-keyutils-1.6.3-lib dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26
+Deriver: 4xcrr8icyyk5bjfmrp4gay3i8wviclq8-keyutils-1.6.3.drv

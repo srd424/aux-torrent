@@ -1,0 +1,10 @@
+StorePath: /nix/store/973zrdd4ja68xixpv789b3ljzr82mcja-source-github.com-pypa-wheel-refs-tags-0.42.0
+URL: nar/0dfvdggrx4wzs2ncpnx8fwq13hj7zpkx3lf1s6jbiwqr6j2nmx88.nar.xz
+Compression: xz
+FileHash: sha256:0dfvdggrx4wzs2ncpnx8fwq13hj7zpkx3lf1s6jbiwqr6j2nmx88
+FileSize: 81664
+NarHash: sha256:1hj1mxg62rlfwji9sgsasnw4am6iirknamg4251izm8a03zgghjq
+NarSize: 499040
+References: 
+Deriver: 2jb393c332cn6qfs03syp3nddqyb893r-source-github.com-pypa-wheel-refs-tags-0.42.0.drv
+CA: fixed:r:sha256:1hj1mxg62rlfwji9sgsasnw4am6iirknamg4251izm8a03zgghjq

@@ -1,0 +1,9 @@
+StorePath: /nix/store/9cqsc7p4pgjhhlpdlpfvwb667cqn6v9h-source-github.com-llvm-llvm-project-llvmorg-17.0.6.drv
+URL: nar/0ncvdfshgn0ywfxwflhrs3646zsqb15jg9v5l9d84m6jdsq66klq.nar.xz
+Compression: xz
+FileHash: sha256:0ncvdfshgn0ywfxwflhrs3646zsqb15jg9v5l9d84m6jdsq66klq
+FileSize: 1608
+NarHash: sha256:0q8mgszzin3pnzvpnsr3afm2daw1dpzrk1adkr4axjq9qn7b1vz2
+NarSize: 3696
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0f2ghh81cz1fb87r18fm0w7q9sp61pq25wbg44nghn5phzllmrhk

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ckjykyfw30zj1n3lcca9lwm2lzd7azdb-setup-hook.sh
+URL: nar/0pam2jswjdvp1fwfs5khf2bzx1i326yrgp8l8ch0r3dr87xx6k2q.nar.xz
+Compression: xz
+FileHash: sha256:0pam2jswjdvp1fwfs5khf2bzx1i326yrgp8l8ch0r3dr87xx6k2q
+FileSize: 2100
+NarHash: sha256:06irh47h484cacay8r8wj19fag1kxvyxgvc6djg6phxw6l5ajs6b
+NarSize: 4744
+References: 
+CA: fixed:r:sha256:06irh47h484cacay8r8wj19fag1kxvyxgvc6djg6phxw6l5ajs6b

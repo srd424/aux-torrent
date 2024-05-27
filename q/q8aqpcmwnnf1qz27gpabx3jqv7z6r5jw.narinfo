@@ -1,0 +1,9 @@
+StorePath: /nix/store/q8aqpcmwnnf1qz27gpabx3jqv7z6r5jw-shadow-4.14.6-man
+URL: nar/0smi8bgfkf9bsj21hs3jax1j32jhgn7gqwb7m0cd4y89vc6fpnim.nar.xz
+Compression: xz
+FileHash: sha256:0smi8bgfkf9bsj21hs3jax1j32jhgn7gqwb7m0cd4y89vc6fpnim
+FileSize: 774460
+NarHash: sha256:07pj4779bzns389bcf38mp2ljs60gpi3lgqizaj3r3qvcg2c0m1y
+NarSize: 871520
+References: 
+Deriver: 381lhb53hwfmw7crnnpcbqfa8a3b9vnf-shadow-4.14.6.drv

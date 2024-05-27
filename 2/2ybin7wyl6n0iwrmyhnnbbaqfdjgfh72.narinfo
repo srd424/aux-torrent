@@ -1,0 +1,9 @@
+StorePath: /nix/store/2ybin7wyl6n0iwrmyhnnbbaqfdjgfh72-source-github.com-hukkin-tomli-2.0.1.drv
+URL: nar/1i6fqj58q7223ig8yi7vyfg9ilk8jmx9zj7jsffyvl9bkfr0q0hp.nar.xz
+Compression: xz
+FileHash: sha256:1i6fqj58q7223ig8yi7vyfg9ilk8jmx9zj7jsffyvl9bkfr0q0hp
+FileSize: 1596
+NarHash: sha256:1nn8y9wrdmk11iriqhfjww4qa01jh9mpw8ph6a27bq3867jf1hmq
+NarSize: 3600
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0nny1jbv2p98g7bqky1b9nsf56vr4xqv2dw46v1wzn9xsq4xdb74

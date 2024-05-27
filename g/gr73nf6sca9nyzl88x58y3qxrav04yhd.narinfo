@@ -1,0 +1,9 @@
+StorePath: /nix/store/gr73nf6sca9nyzl88x58y3qxrav04yhd-polly-lit-cfg-add-libs-to-dylib-path.patch
+URL: nar/156ijz6r0nl5wkqj62yh77s3dwkhjaxspx9hp4hnzrq1g4vbfpwx.nar.xz
+Compression: xz
+FileHash: sha256:156ijz6r0nl5wkqj62yh77s3dwkhjaxspx9hp4hnzrq1g4vbfpwx
+FileSize: 512
+NarHash: sha256:01nqpf9c802zn9ikgg4kag8jz45819mbq3jdlngxymygs5fpg1pz
+NarSize: 1032
+References: 
+CA: fixed:r:sha256:01nqpf9c802zn9ikgg4kag8jz45819mbq3jdlngxymygs5fpg1pz

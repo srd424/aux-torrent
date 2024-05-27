@@ -1,0 +1,9 @@
+StorePath: /nix/store/as1s4qqpn51n8vm7jr8dsz1mgsmc3682-fmt-10.2.1-dev
+URL: nar/09iisn7h3vb0w9m9x7l2wqn2x4ccwgclpgdfyi5kiblmly4wc956.nar.xz
+Compression: xz
+FileHash: sha256:09iisn7h3vb0w9m9x7l2wqn2x4ccwgclpgdfyi5kiblmly4wc956
+FileSize: 112164
+NarHash: sha256:1clwhpmkmz9djd0g4b24pl8bzlhhns1j5mq6qcaxdl6j381f60k5
+NarSize: 568728
+References: as1s4qqpn51n8vm7jr8dsz1mgsmc3682-fmt-10.2.1-dev gmhg10czq34gx4djhrdv3clfy9fswq5n-fmt-10.2.1
+Deriver: 6gcnll2dz57rl86axnny4y5998m63ixq-fmt-10.2.1.drv

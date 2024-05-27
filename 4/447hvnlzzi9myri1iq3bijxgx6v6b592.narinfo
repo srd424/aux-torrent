@@ -1,0 +1,10 @@
+StorePath: /nix/store/447hvnlzzi9myri1iq3bijxgx6v6b592-patchelf-0.15.0.tar.bz2
+URL: nar/0ml7a9sir61my51g7qbmkwmaszpanvvwsdpnwyyd3adfrqg6444y.nar.xz
+Compression: xz
+FileHash: sha256:0ml7a9sir61my51g7qbmkwmaszpanvvwsdpnwyyd3adfrqg6444y
+FileSize: 183000
+NarHash: sha256:02x7kkyy5jfvkkn8fjw50q4ns2g21nzy111myklwj6s8pbrsg5lh
+NarSize: 182928
+References: 
+Deriver: q5lq5b7c0i31zxjgm6j5zhp8pg76mwi1-patchelf-0.15.0.tar.bz2.drv
+CA: fixed:sha256:1hmxr3i64znp7670dq3hwpll12kdwkvg1zxyq7g2iqnqwhz6s0zl

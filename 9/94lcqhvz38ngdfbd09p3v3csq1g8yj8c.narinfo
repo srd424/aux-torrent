@@ -1,0 +1,9 @@
+StorePath: /nix/store/94lcqhvz38ngdfbd09p3v3csq1g8yj8c-libseccomp-2.5.5-man
+URL: nar/16rs9gw93p760djixam92lk1j3jf309mlpi5qffnn5v1fzkl7yvx.nar.xz
+Compression: xz
+FileHash: sha256:16rs9gw93p760djixam92lk1j3jf309mlpi5qffnn5v1fzkl7yvx
+FileSize: 22540
+NarHash: sha256:021ngpwx6rq6sl56pd2cihlqy2gz2lj6gcqqbvvfmgf8w4p5fq4p
+NarSize: 30176
+References: 
+Deriver: 10zvspxknflvlswbyd287i7z91glxqrj-libseccomp-2.5.5.drv

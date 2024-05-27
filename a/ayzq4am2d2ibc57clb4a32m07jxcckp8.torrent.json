@@ -1,0 +1,27 @@
+{
+  "announce": "http://bt.aux-cache.dev:9996/announce",
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716813177,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 580,
+        "path": [
+          "ayzq4am2d2ibc57clb4a32m07jxcckp8.narinfo"
+        ]
+      },
+      {
+        "length": 1755428,
+        "path": [
+          "nar",
+          "1i2kchqmiyg1z61hynwsiyjizwj5q02fz0b69asizn5my6y43i6j.nar.xz"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "eYz3rNw0xWfUPPIoPmMIok0xTUGmO0I4toQKy336jDhptY8xJBvi/WkfYvGsxdzarxEXi1X/nqpr\nFom2jK9Q11QDuOoYNrshYEAXrLerdJAbgnD2OoDC+NzOmVzr3LGKxq5G2sVUNDK7fL93jboIbKBb\n1Cc4vLazIrpRTqoC5BD/VMVnXJr1Lrg/kZD+rLXU9uoNh5VLS7lgxF/ME+M63tSE3P3wK0y4rsn8\nh91Sp7e3mddEkfgAElvCVJez6dgqpdehBiOErRjBVGFdFApeoFMMmHKhq+eNtM5CVj/F59AxGmV7\no/BwhfXXFb1LWoUJXE6gPW7RdZC6WDy/CoM6RQ3fUHy+KoKsGsgh48egam5JVU58SRHAqaBWjxei\nIWVCtylhCpCcof3qoqt4xaKQQ8IOC7EqXq5p62IeveEY0zbqLKfSOMid3aYNRvVJRm8FgsRUchwl\nQhgjhtoPm2RWt+yya/9Q0xr7iClnvbpBlTWMEDNuGBkB2Lk2k+3uGv+YTZTjrBBW7UmCE87Cf/xz\nPByE2aC1t1D8ECDCZmOEK2Zp0ZMYw/8a9U8Vws4HS9EiWSgWfIETI+kX0YwluxkXofmC1Vq2f0YO\nR2xhg6J3AB9MywWXE6Xdvr+FNrVoWsTfy/DnD7ZhqzAUa7oKSZg4xi4UOAIafaciZma5ALstSrf3\norSkqAlgcahHit+G4R/6hkmJNDihRclo2hJJeVU/wTPBBHvhfIvnUPEyTln3A8BXcQmf3Vv35ZYE\n8fLQQHdOnZoF3KcGD1K1S4u4A2p4FfcliPHJxRvJITB2Ki6NOTueOoGChpk82HIId7uaykKZ6GMj\n6KP376qlR/g6pGbSRt5xNDhkSGTKuP99+BQw4SaHTPebiEulcZHBWnqRAJJSSRVGBfuFHXozWIwX\neZmhmPVdMWzQhJbAHfKeR/JqyMZmExYdAISiRwKQcWomRZ/sAjleCAvBdJi2QDlaiZzRtpR9SO76\nWv6c7axtnIwe5m4xiOkxGuzWiyLkMENBVnpZEtG1UkWFkZGEu4hnh5/mZdCZqfD52gggtVrdJYcm\nQ/W/Dp9C6m12tZrP7PvcV4L9KsQBHUmz3L+o67U0dqoURkMVUKOHNWqFFwMcdMacSHV0xXR1sHvl\nlc+kO4lOm2qx+YNKd6XWZXMofqk9LSuwaRbS2pW6g9XoOyr9FDVF560yqrKXWVeX00TNvo0XSs57\nF+Y30hCX2qWFewY9eCFqg0ZMHmvzSFqtfO+seCL1YP80Bm9pHrIXUiSJaG1FJ+vUH8dDPPMIYlT1\niZ5/DR4Z+fYOgH4C0m8v25K3A84zYCS+p9AR1SepSciDosf1qeaZLoelzhNxTbQD3sxKaib7gYgX\nKN5mRbPmyXURsasaeclTljxowf56nJFa+5rJNF4BfMeI16FVC0ciwlWfy91DGOM4G8KA8I5m\n",
+    "private": 0
+  }
+}

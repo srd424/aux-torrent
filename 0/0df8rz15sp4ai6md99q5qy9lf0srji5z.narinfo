@@ -1,0 +1,9 @@
+StorePath: /nix/store/0df8rz15sp4ai6md99q5qy9lf0srji5z-0001-Revert-libtool.m4-fix-nm-BSD-flag-detection.patch
+URL: nar/12ggjs2y8l2ik8l5vli84q9wxkm926b2bl582mfpsm5zypi0cj3c.nar.xz
+Compression: xz
+FileHash: sha256:12ggjs2y8l2ik8l5vli84q9wxkm926b2bl582mfpsm5zypi0cj3c
+FileSize: 1820
+NarHash: sha256:0hfri0c5v9qp5yrbippgid1jbwnm66kf8x600d2ns7252c7p56hf
+NarSize: 4448
+References: 
+CA: fixed:r:sha256:0hfri0c5v9qp5yrbippgid1jbwnm66kf8x600d2ns7252c7p56hf

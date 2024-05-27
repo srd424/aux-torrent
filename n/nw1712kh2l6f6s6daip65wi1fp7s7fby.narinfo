@@ -1,0 +1,9 @@
+StorePath: /nix/store/nw1712kh2l6f6s6daip65wi1fp7s7fby-python3.11-pytest-mock-3.12.0-dist
+URL: nar/1p25bbydg4dp5zsrd45z735fkijpsy72hj4b2cmy7smiq1qp4pfm.nar.xz
+Compression: xz
+FileHash: sha256:1p25bbydg4dp5zsrd45z735fkijpsy72hj4b2cmy7smiq1qp4pfm
+FileSize: 8956
+NarHash: sha256:0y840a5cr4rig90maxb44r1ar777y705m436qv1klh0nwhplzmz4
+NarSize: 10088
+References: 
+Deriver: vjcf6jiwzgqm9qfck99jwp4valf6x6i8-python3.11-pytest-mock-3.12.0.drv

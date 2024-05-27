@@ -1,0 +1,9 @@
+StorePath: /nix/store/w3w1w41mh618l567nn3c81lz35mckwxk-binutils-patchelfed-ld-wrapper-2.41.drv
+URL: nar/1i90i9wxydm8d0vkbf02j90ljh6cv45111gjnrsbc8c0s8zsl1j1.nar.xz
+Compression: xz
+FileHash: sha256:1i90i9wxydm8d0vkbf02j90ljh6cv45111gjnrsbc8c0s8zsl1j1
+FileSize: 2272
+NarHash: sha256:0zb3whz2bw7ga6m542l8qck82z7vpvaf5xsjq8jllnqdljk5sf3x
+NarSize: 6592
+References: 0zmg36dmrb9v7bc7b7igmi434nhi1qp9-setup-hook.sh 6w7ifx531c921i2jjsavir7snisp1hvs-glibc-2.39-5.drv 9rq2ab2wl3ia1ism6zjvdxcnpv9s9rgn-add-hardening.sh ay5r2fij88akhmqlp990ln3wyz5fj3zw-bootstrap-stage-xgcc-stdenv-linux.drv dg3d90glwi1qgfk8gxvly2jmz6islsxi-binutils-patchelfed-ld-2.41.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash mrzpfh0ml9k07sw019ydagbb2z1q4sxz-add-flags.sh nkww123scp899abmki7lkfhkixxihdm9-expand-response-params.drv p2ynpdqzm8lfdq6xywa8igkjp56b8q65-ld-wrapper.sh v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash
+CA: text:sha256:1x4k6c8la56qbi7r7vlnjllj7mimlfx832hp5cfw6jaylr481nhz

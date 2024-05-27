@@ -1,0 +1,9 @@
+StorePath: /nix/store/49q7jbliw6wj830h9va3s6d73r0y9dly-0001-Revert-rust-recursively-pull-proc-macro-dependencies.patch
+URL: nar/089iswicpvw7g9rqcigj25gc5zmacgbrsr41a0b41nf5y9gq0fkk.nar.xz
+Compression: xz
+FileHash: sha256:089iswicpvw7g9rqcigj25gc5zmacgbrsr41a0b41nf5y9gq0fkk
+FileSize: 1304
+NarHash: sha256:1pafg1kbg3s2l47fc4515yrdw6gb6qj4fwivd6f60qdancm0pnvw
+NarSize: 3328
+References: 
+CA: fixed:r:sha256:1pafg1kbg3s2l47fc4515yrdw6gb6qj4fwivd6f60qdancm0pnvw

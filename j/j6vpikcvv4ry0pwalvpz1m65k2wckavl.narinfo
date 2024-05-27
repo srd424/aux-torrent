@@ -1,0 +1,9 @@
+StorePath: /nix/store/j6vpikcvv4ry0pwalvpz1m65k2wckavl-docbook2texi.patch
+URL: nar/1h651kiacaq2nlxyhfw1zl02gn2z04br3is7n3h30m6gqq4dl8nb.nar.xz
+Compression: xz
+FileHash: sha256:1h651kiacaq2nlxyhfw1zl02gn2z04br3is7n3h30m6gqq4dl8nb
+FileSize: 736
+NarHash: sha256:0rpl0mjbwq1sbbj256kx2zwbag9mcz19d2iwwsf6542i7nxrva5p
+NarSize: 1392
+References: 
+CA: fixed:r:sha256:0rpl0mjbwq1sbbj256kx2zwbag9mcz19d2iwwsf6542i7nxrva5p

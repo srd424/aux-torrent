@@ -1,0 +1,11 @@
+StorePath: /nix/store/2gqf0mfhv9lkzsqv99rp3ba1r2w6sn7d-lix-doc-2.90-beta.1-vendor.tar.gz
+URL: nar/1ywzpf1yipjdbchpjm2pcja3qws5zqxyjvqrm20j435f7dwb0wd6.nar.xz
+Compression: xz
+FileHash: sha256:1ywzpf1yipjdbchpjm2pcja3qws5zqxyjvqrm20j435f7dwb0wd6
+FileSize: 951884
+NarHash: sha256:1dlj3nsda5hnzqzb5fynjljay2j451z2n5zbfn77cp07ilfn82ad
+NarSize: 951776
+References: 
+Deriver: r9gawsm8l3c08wdvip6xvb2ixppv6qq2-lix-doc-2.90-beta.1-vendor.tar.gz.drv
+Sig: cache.nixos.org-1:W1KzVO7sIcl9/Vv7ZXdn/b7r4JiW1NheO4bf0abbovH6i1Z2YlsqmYnn3JS5nxBdz6fX4o/AwtPyowpcKVoyAA==
+CA: fixed:sha256:17mp15xryjlh48pfabvpfbykwh2z9n60sdn6hl6gsfbq8krbhzd0

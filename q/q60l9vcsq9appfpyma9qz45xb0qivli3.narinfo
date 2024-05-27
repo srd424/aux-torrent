@@ -1,0 +1,9 @@
+StorePath: /nix/store/q60l9vcsq9appfpyma9qz45xb0qivli3-shadow-4.14.6
+URL: nar/1ig0zis11ssxjsw0ddk09whzaank8vl529l9a6l5gklig5prraz1.nar.xz
+Compression: xz
+FileHash: sha256:1ig0zis11ssxjsw0ddk09whzaank8vl529l9a6l5gklig5prraz1
+FileSize: 649896
+NarHash: sha256:0x7l7vdi47h2dpc3ww1dy54yqbrid2phdla1ycx920kdral4g60g
+NarSize: 4723144
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 64hb9np9sp3jx1vl19x9j9j29yl8rjf3-linux-pam-1.6.0 b93lnii942nnkbpkl6smk8dhv0049di8-glibc-2.39-5-bin dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 nf28s3rx56cli1sbd0bymwbf6dq964yq-libxcrypt-4.4.36 q60l9vcsq9appfpyma9qz45xb0qivli3-shadow-4.14.6 wc7bjgbi83c66wm3hwhwiamx2dxg9b2s-tcb-1.2 zj6x05mi8616lkid6yxc8yy87b4chaj5-libbsd-0.11.8
+Deriver: 381lhb53hwfmw7crnnpcbqfa8a3b9vnf-shadow-4.14.6.drv

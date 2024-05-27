@@ -1,0 +1,9 @@
+StorePath: /nix/store/ip98hwphw62xvz7bbz8pq733nv3ldfpd-keyutils-1.6.3-dev
+URL: nar/0z624acnld4w99n77s8rhlhcdk0nf1a8p490kqgjffjx112dap66.nar.xz
+Compression: xz
+FileHash: sha256:0z624acnld4w99n77s8rhlhcdk0nf1a8p490kqgjffjx112dap66
+FileSize: 3600
+NarHash: sha256:0n9na5dnzdn6qgy3k28hzam4bpnnq5bszi9rcsnl362ks7cln5ck
+NarSize: 13608
+References: 8f0cas43qpwhw18v8s5hdxaadiayrii6-keyutils-1.6.3-lib ip98hwphw62xvz7bbz8pq733nv3ldfpd-keyutils-1.6.3-dev kmpdkz53mq8ib6qj3jkf49y6nbv5xgkb-keyutils-1.6.3
+Deriver: 4xcrr8icyyk5bjfmrp4gay3i8wviclq8-keyutils-1.6.3.drv

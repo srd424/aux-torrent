@@ -1,0 +1,10 @@
+StorePath: /nix/store/zkwi8dqrw8jh46q65whjmj98kyv5n1wp-source-github.com-anrieff-libcpuid-v0.6.5
+URL: nar/1sb922czdjrkjqwjmglkjj2cajxj1mx7rc7gbq29dgpm1wcq1nh0.nar.xz
+Compression: xz
+FileHash: sha256:1sb922czdjrkjqwjmglkjj2cajxj1mx7rc7gbq29dgpm1wcq1nh0
+FileSize: 183368
+NarHash: sha256:0a2xn7f7iicc4z7amqc16sr8kzphm9r1inwyagfiwl88gr87mb86
+NarSize: 9759296
+References: 
+Deriver: dbmzq4wbybvcxaky5pik8plwcagbpaj5-source-github.com-anrieff-libcpuid-v0.6.5.drv
+CA: fixed:r:sha256:0a2xn7f7iicc4z7amqc16sr8kzphm9r1inwyagfiwl88gr87mb86

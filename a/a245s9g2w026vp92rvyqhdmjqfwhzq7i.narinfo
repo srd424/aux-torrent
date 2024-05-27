@@ -1,0 +1,9 @@
+StorePath: /nix/store/a245s9g2w026vp92rvyqhdmjqfwhzq7i-cargo-auditable-0.6.2-vendor.tar.gz.drv
+URL: nar/121aaa3jwd7z6vmz7rn0cpm9vp2x0d3rj3d714n36sxas378lp7x.nar.xz
+Compression: xz
+FileHash: sha256:121aaa3jwd7z6vmz7rn0cpm9vp2x0d3rj3d714n36sxas378lp7x
+FileSize: 2008
+NarHash: sha256:0gm1hxn95fypq6ncl4j95si5ayqa4j4ay5abf5iz3xjh5jvmbi2n
+NarSize: 4352
+References: 10i497fl3ml6wxa6nmgaa5gyqsppsfqc-source-github.com-rust-secure-code-cargo-auditable-v0.6.2.drv 15vw90dwsqvpld1wnvqfhkxafhxb6qz5-git-minimal-2.44.0.drv 1swmfg3n9kycfdc2pvw81pyjxsnj5cd8-cargo-vendor-normalise.drv 65lbsqrmlk11dabhlwddqav53mkny6ij-nss-cacert-3.98.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh yk6v97xcjg9jgqd4zvkv70r6rvz8dc7r-cargo-1.77.1.drv
+CA: text:sha256:1g38cihvjkzvsipdsa2xqil6gs7zdk504l1f7d8q0pjax86libvk

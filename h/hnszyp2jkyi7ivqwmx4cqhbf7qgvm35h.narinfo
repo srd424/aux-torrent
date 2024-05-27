@@ -1,0 +1,10 @@
+StorePath: /nix/store/hnszyp2jkyi7ivqwmx4cqhbf7qgvm35h-xz-5.4.6.tar.bz2
+URL: nar/08wcdq53sfsyvlvjw8f402vy41ag9fr25nmhgwc8smqr9xhdxvjj.nar.xz
+Compression: xz
+FileHash: sha256:08wcdq53sfsyvlvjw8f402vy41ag9fr25nmhgwc8smqr9xhdxvjj
+FileSize: 2181868
+NarHash: sha256:0iyz6ai7sn1sdlzz0a3znzd3gr7wzqpa9ralgwq2z4i59ksp6h9w
+NarSize: 2182040
+References: 
+Deriver: 1336cdlhs89ild0yhvdw8l6hahqzwm2i-xz-5.4.6.tar.bz2.drv
+CA: fixed:sha256:0jbg7vfnj5y2dm1s4wvfrw7cznz84cf9z57ch4bx7qg8fjr52f4i

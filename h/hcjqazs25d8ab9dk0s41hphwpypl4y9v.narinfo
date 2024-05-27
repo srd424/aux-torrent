@@ -1,0 +1,9 @@
+StorePath: /nix/store/hcjqazs25d8ab9dk0s41hphwpypl4y9v-fix-register-storage-class.patch
+URL: nar/0dbmfmxs8j9k2bwfbx3l5idvjpr07s8bmlcjck2y40ia57x453x2.nar.xz
+Compression: xz
+FileHash: sha256:0dbmfmxs8j9k2bwfbx3l5idvjpr07s8bmlcjck2y40ia57x453x2
+FileSize: 356
+NarHash: sha256:1rv3qhk7cpmvfig442bb6h9pks3hpnl2csp30gzjvn8ic2i86rvz
+NarSize: 472
+References: 
+CA: fixed:r:sha256:1rv3qhk7cpmvfig442bb6h9pks3hpnl2csp30gzjvn8ic2i86rvz

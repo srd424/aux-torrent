@@ -1,0 +1,9 @@
+StorePath: /nix/store/601wigbjj1nki2dbixsx8il4ng29s8qk-python3.11-setuptools-scm-8.0.4-dist
+URL: nar/0z454sigdwhr0a0d8hg6hfyx1rra1dbplsni98ggzijczqw2s16v.nar.xz
+Compression: xz
+FileHash: sha256:0z454sigdwhr0a0d8hg6hfyx1rra1dbplsni98ggzijczqw2s16v
+FileSize: 39144
+NarHash: sha256:1qfp7ram76wqrmrrh9m9h4d43538ffrdx8vmwywi6y2an3cmrqdm
+NarSize: 42456
+References: 
+Deriver: 3v0y005n6wbijj012gv02gizjq5wx5xd-python3.11-setuptools-scm-8.0.4.drv

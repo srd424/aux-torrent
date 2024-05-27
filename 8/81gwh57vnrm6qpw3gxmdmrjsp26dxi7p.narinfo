@@ -1,0 +1,9 @@
+StorePath: /nix/store/81gwh57vnrm6qpw3gxmdmrjsp26dxi7p-find-xml-catalogs.sh
+URL: nar/0l78dcmnp0amzj2qyawf01pgpz8hwy0444a3dhcqkmlja58mbg3v.nar.xz
+Compression: xz
+FileHash: sha256:0l78dcmnp0amzj2qyawf01pgpz8hwy0444a3dhcqkmlja58mbg3v
+FileSize: 496
+NarHash: sha256:0ywq4m2bfm3901rd3d4i8mdsbw8iqyd676kqa198zxfc1hr123rj
+NarSize: 816
+References: 
+CA: fixed:r:sha256:0ywq4m2bfm3901rd3d4i8mdsbw8iqyd676kqa198zxfc1hr123rj

@@ -1,0 +1,9 @@
+StorePath: /nix/store/lzwpi2h5bwgjl91d7csfcm5vvrz88bf9-lit-shell-script-runner-set-dyld-library-path.patch
+URL: nar/17p2iy72h1dakh3bs7zp9y5axx1fd7mm97ys3drdqyh1abk2pq9a.nar.xz
+Compression: xz
+FileHash: sha256:17p2iy72h1dakh3bs7zp9y5axx1fd7mm97ys3drdqyh1abk2pq9a
+FileSize: 596
+NarHash: sha256:0czjja2rrqlzygz48d9qrmkzm06sy56hgwdm8bi3fgzpflk96141
+NarSize: 968
+References: 
+CA: fixed:r:sha256:0czjja2rrqlzygz48d9qrmkzm06sy56hgwdm8bi3fgzpflk96141

@@ -1,0 +1,10 @@
+StorePath: /nix/store/iqbzmmx19aw8ibm0rhpgchdq16hzjjzp-cmake-minimal-3.29.1-debug
+URL: nar/0hlwg5cdw408sc2awggznhxpbbksj2xafk0jyaajczyfk46g2kls.nar.xz
+Compression: xz
+FileHash: sha256:0hlwg5cdw408sc2awggznhxpbbksj2xafk0jyaajczyfk46g2kls
+FileSize: 454452672
+NarHash: sha256:0g1ys5a6s4mwg5dpmz4313rsfyi7bgi4i1i7n2h4d2hj426cx5sf
+NarSize: 468279872
+References: 
+Deriver: 7zcc4gpmi15w8v56218mr5mwry2g0y31-cmake-minimal-3.29.1.drv
+Sig: cache.nixos.org-1:xvFCWneKhLggJ427VcY78VwcU4TDpG+92k8nvretK0pdkjnFI/qIGU33pHSHwWQtxGdZMyCBqRw4Cg7ecBphCA==

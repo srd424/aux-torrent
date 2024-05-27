@@ -1,0 +1,9 @@
+StorePath: /nix/store/5fsvq785lgmmx884r4g83a2mywgfh7vb-catalog-legacy-uris.patch
+URL: nar/0vb0vj9l2npv35yn7nx7dl656303akfinys6h1kgmg5apvb8fgdf.nar.xz
+Compression: xz
+FileHash: sha256:0vb0vj9l2npv35yn7nx7dl656303akfinys6h1kgmg5apvb8fgdf
+FileSize: 340
+NarHash: sha256:1jlnwwgdvgyzg983h7hfdizjp4vk7hgdym892jzkzw8ri65gnb7h
+NarSize: 784
+References: 
+CA: fixed:r:sha256:1jlnwwgdvgyzg983h7hfdizjp4vk7hgdym892jzkzw8ri65gnb7h

@@ -1,0 +1,9 @@
+StorePath: /nix/store/rj5anj45va6qldrfddip8yp74h1f0g36-libbsd-0.11.8.tar.xz.drv
+URL: nar/0z1m83j8y1n62fybbh9nknb04wapch80h1vxkw1y8zbmy1hv4fcs.nar.xz
+Compression: xz
+FileHash: sha256:0z1m83j8y1n62fybbh9nknb04wapch80h1vxkw1y8zbmy1hv4fcs
+FileSize: 1308
+NarHash: sha256:0jyz1kd3hwg50rc9qy1l0y0c0k0ahvy6dhyzakdhslg6vvhxrzzj
+NarSize: 2992
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0ya3cr8ykjqwcqqs00hpc87aznq499kmgjv69r2jvjvblid9jivn

@@ -1,0 +1,9 @@
+StorePath: /nix/store/b315bk11hsqrhpkwwix5hn4rgdgq9lll-re2-2024-03-01.drv
+URL: nar/134bapv63wrfa6jl7vfiyj5fzhv5qjy75n8dv8adg8d3nz77x40b.nar.xz
+Compression: xz
+FileHash: sha256:134bapv63wrfa6jl7vfiyj5fzhv5qjy75n8dv8adg8d3nz77x40b
+FileSize: 1136
+NarHash: sha256:1z8f9l0zimz8bqk525c9pgvr1wd82g0rgbq0lxky2bwdf46k3qa5
+NarSize: 2400
+References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 8vymbl82jq10wjps0dj0xkj3frba509d-source-github.com-google-re2-2024-03-01.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv 9rs18kwwvbj4k2i88k3zjqb2r7s28dzg-ninja-1.11.1.drv b7alcf0k4z4amc5qxs9c3brnab5yr7hf-abseil-cpp-20240116.2.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1yg0x5f8nnkvyspar44d1iwvvv4b2if6kc2vfifykh1av3g27sg7

@@ -1,0 +1,10 @@
+StorePath: /nix/store/flvcqqcjj52zdxmcqsdh6123xsg8njbi-source-github.com-ivmai-bdwgc-v8.2.6
+URL: nar/1lz97gfsh3jzswni2hv95j5s3lzb49xqk8hr625xc70bvnqlfyyz.nar.xz
+Compression: xz
+FileHash: sha256:1lz97gfsh3jzswni2hv95j5s3lzb49xqk8hr625xc70bvnqlfyyz
+FileSize: 601740
+NarHash: sha256:0r6xalnj2ymi3n3is8pyznnq45xxbmzk9jhbpmayza1qlpk59a6b
+NarSize: 3096632
+References: 
+Deriver: fzjbp5vfk1shynspd08la5m2mr1zz4f6-source-github.com-ivmai-bdwgc-v8.2.6.drv
+CA: fixed:r:sha256:0r6xalnj2ymi3n3is8pyznnq45xxbmzk9jhbpmayza1qlpk59a6b

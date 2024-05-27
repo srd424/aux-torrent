@@ -1,0 +1,10 @@
+StorePath: /nix/store/13x8r3h938052fqrzmsirp1bld64rdz0-gawk-5.2.2-man
+URL: nar/0jvssjajghl9fmllx4psrp43svfkriqfrs3ig6cskz3jl8yl9kgr.nar.xz
+Compression: xz
+FileHash: sha256:0jvssjajghl9fmllx4psrp43svfkriqfrs3ig6cskz3jl8yl9kgr
+FileSize: 39464
+NarHash: sha256:0718n8bsflhknk415a0x2yw7wd40k79i6rl2bnx3rab3zi65ma9j
+NarSize: 42400
+References: 
+Deriver: f59zk406kk0zhl4cifmzwspya5zdqszp-gawk-5.2.2.drv
+Sig: cache.nixos.org-1:/ZMtJwF7toFbMfSoeDGx3RKjNz2qkSSwQPw2Fk62xnDQdRjZg8aoiIaMMpWpVX6yyUF1j9YVCQ3lZ7NN5CDZCg==

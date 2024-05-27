@@ -1,0 +1,10 @@
+StorePath: /nix/store/5ab2yxxa51dsqha1dk4iclb344hflzmg-source-github.com-aws-aws-sdk-cpp-1.11.296
+URL: nar/0k3v6gq8gdfwkrg5xs7xxc945gkc6xd47d8f8my7djwql355a3c7.nar.xz
+Compression: xz
+FileHash: sha256:0k3v6gq8gdfwkrg5xs7xxc945gkc6xd47d8f8my7djwql355a3c7
+FileSize: 32879588
+NarHash: sha256:1r0whyai6q2yf9dy25mqg6n7d4aja22q8lqf3480baqswn8qw3ya
+NarSize: 754536920
+References: 
+Deriver: skr5rf6sg1hsxfl73a2v1ckcwi41rd56-source-github.com-aws-aws-sdk-cpp-1.11.296.drv
+CA: fixed:r:sha256:1r0whyai6q2yf9dy25mqg6n7d4aja22q8lqf3480baqswn8qw3ya

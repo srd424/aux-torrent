@@ -1,0 +1,9 @@
+StorePath: /nix/store/gyks6vvl7x0gq214ldjhi3w4rg37nh8i-zlib-1.3.1.tar.gz.drv
+URL: nar/073jjb2wymy3yr27xqx1yvh3f41jd07vaml3pmdjmbzcl8jdi2hj.nar.xz
+Compression: xz
+FileHash: sha256:073jjb2wymy3yr27xqx1yvh3f41jd07vaml3pmdjmbzcl8jdi2hj
+FileSize: 516
+NarHash: sha256:1cc4x002mxqgz8gyjal02r9nw1fmw0whlgfij4xzsvqwgj7j3yjn
+NarSize: 880
+References: 
+CA: text:sha256:0djdj7wgsbm3crw18zx978cnqh7i69l3vyj3hzp0q7f64czwh56s

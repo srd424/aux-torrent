@@ -1,0 +1,10 @@
+StorePath: /nix/store/qi9qyhzprx73nx8505vi1dzxf4i595nk-source-github.com-lxml-lxml-refs-tags-lxml-5.1.0
+URL: nar/1wfvhm3a0fpqqv6nxaijiyyywip85kbdasc8dlxlgi2zrxra2wdg.nar.xz
+Compression: xz
+FileHash: sha256:1wfvhm3a0fpqqv6nxaijiyyywip85kbdasc8dlxlgi2zrxra2wdg
+FileSize: 745752
+NarHash: sha256:0dmhzi8csckjsn8db6laa8s6aavpxhlnflz0hvk81dcsjp6xhqkr
+NarSize: 3586176
+References: 
+Deriver: m68vj0pg2lvrsc23h7lrchv1qzpwpym4-source-github.com-lxml-lxml-refs-tags-lxml-5.1.0.drv
+CA: fixed:r:sha256:0dmhzi8csckjsn8db6laa8s6aavpxhlnflz0hvk81dcsjp6xhqkr

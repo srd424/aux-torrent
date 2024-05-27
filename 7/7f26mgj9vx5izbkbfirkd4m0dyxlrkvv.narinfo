@@ -1,0 +1,9 @@
+StorePath: /nix/store/7f26mgj9vx5izbkbfirkd4m0dyxlrkvv-platform-triplet-detection.patch
+URL: nar/0qfm3g8idw607h2y0dhhpy69jyx9kzmkpxr1m6x2n81ax7k6msih.nar.xz
+Compression: xz
+FileHash: sha256:0qfm3g8idw607h2y0dhhpy69jyx9kzmkpxr1m6x2n81ax7k6msih
+FileSize: 1684
+NarHash: sha256:0vk2jwjaaq11m2ma57wxfi3zaicbrf0958wy2bn45m64z8nbxmgx
+NarSize: 8536
+References: 
+CA: fixed:r:sha256:0vk2jwjaaq11m2ma57wxfi3zaicbrf0958wy2bn45m64z8nbxmgx

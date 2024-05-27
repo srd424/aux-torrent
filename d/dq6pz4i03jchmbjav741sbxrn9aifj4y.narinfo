@@ -1,0 +1,9 @@
+StorePath: /nix/store/dq6pz4i03jchmbjav741sbxrn9aifj4y-aws-c-cal-musl-compat.patch
+URL: nar/0gdf60rmhr4kxnwcpg7zmpn1mfgkiin9ff4qwmv4lp3dkfhalv7k.nar.xz
+Compression: xz
+FileHash: sha256:0gdf60rmhr4kxnwcpg7zmpn1mfgkiin9ff4qwmv4lp3dkfhalv7k
+FileSize: 816
+NarHash: sha256:12w71gs1kjjqgj80yhcdc2x014gms140qn9125yh583gnwmq149y
+NarSize: 1656
+References: 
+CA: fixed:r:sha256:12w71gs1kjjqgj80yhcdc2x014gms140qn9125yh583gnwmq149y

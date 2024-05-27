@@ -1,0 +1,9 @@
+StorePath: /nix/store/4rvwy7vwpaz6n7z8c7ibkdyrx6fcff9z-xmlto-0.0.28.tar.bz2
+URL: nar/0sycmrs728gfrjgnbizbwb48j4asfj8j9m98k3gic445vb00waxv.nar.xz
+Compression: xz
+FileHash: sha256:0sycmrs728gfrjgnbizbwb48j4asfj8j9m98k3gic445vb00waxv
+FileSize: 126604
+NarHash: sha256:0cnqdh6h3v18lbs3py4h586z0vzhwcr0k34yhv8vs54sdxl9hda5
+NarSize: 128040
+References: 
+Sig: cache.nixos.org-1:OWUqgrZ+IhA4SldwU+xk3drVgXlkIX0aTNiZm4eYtL6/N2cKRsz/6u0kroADuzwZLg+MMMU5B8xOfxH0zzgODA==

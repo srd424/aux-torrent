@@ -1,0 +1,9 @@
+StorePath: /nix/store/8djp1rizc1dblv8svnb0mpa0c3lwvc17-drop-comments.patch
+URL: nar/0bi3jw47n4bm8ixzjh8zwzw8n3b006ik5qzf4i0iql7v6425x2aa.nar.xz
+Compression: xz
+FileHash: sha256:0bi3jw47n4bm8ixzjh8zwzw8n3b006ik5qzf4i0iql7v6425x2aa
+FileSize: 1184
+NarHash: sha256:1zyy0ik8byr1z64sw2p51dh7jvxbadvfamm8ms3nsfxv541fwczr
+NarSize: 2432
+References: 
+CA: fixed:r:sha256:1zyy0ik8byr1z64sw2p51dh7jvxbadvfamm8ms3nsfxv541fwczr

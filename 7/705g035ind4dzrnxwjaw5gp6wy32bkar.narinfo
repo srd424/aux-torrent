@@ -1,0 +1,9 @@
+StorePath: /nix/store/705g035ind4dzrnxwjaw5gp6wy32bkar-implicit-declarations-fix.patch
+URL: nar/10yyv60468ai73p5xs8p8863f7ky9gnmqfm9ifmdhvj2agv79s96.nar.xz
+Compression: xz
+FileHash: sha256:10yyv60468ai73p5xs8p8863f7ky9gnmqfm9ifmdhvj2agv79s96
+FileSize: 396
+NarHash: sha256:0bipq7li4cf2nyfw26qkxjgw4jb94hwhhwl8gqy86755ylp50vpx
+NarSize: 568
+References: 
+CA: fixed:r:sha256:0bipq7li4cf2nyfw26qkxjgw4jb94hwhhwl8gqy86755ylp50vpx

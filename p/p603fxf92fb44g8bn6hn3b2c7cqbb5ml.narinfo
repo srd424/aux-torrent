@@ -1,0 +1,10 @@
+StorePath: /nix/store/p603fxf92fb44g8bn6hn3b2c7cqbb5ml-perl5.38.2-Net-HTTP-6.23-devdoc
+URL: nar/0zl6mjr7g1xxhfyxn34mrbclaz0n9i90mvakf8qz76vjbw1vn77x.nar.xz
+Compression: xz
+FileHash: sha256:0zl6mjr7g1xxhfyxn34mrbclaz0n9i90mvakf8qz76vjbw1vn77x
+FileSize: 9260
+NarHash: sha256:0a2x1fl49ax718gwmjq9zzxrpgdp9mxg9vzh3mxm9aplw4mci1p9
+NarSize: 10336
+References: 
+Deriver: sll8kzmiicazwd3sbvxkk5b7kapqvzml-perl5.38.2-Net-HTTP-6.23.drv
+Sig: cache.nixos.org-1:yZXvSY0cn2SL/nVRm/HoyjNLgfMsLfQyaAb70zn6CZimWp2WyfJGMAgHJygyE5zZJmQ4igYIn0uwOOHk35g2Bg==

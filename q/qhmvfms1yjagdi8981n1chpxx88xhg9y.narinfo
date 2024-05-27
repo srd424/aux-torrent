@@ -1,0 +1,9 @@
+StorePath: /nix/store/qhmvfms1yjagdi8981n1chpxx88xhg9y-xml-parser-0001-HACK-Assumes-Expat-paths-are-good.patch
+URL: nar/03mcddhhk5paphnd54ybnm9yc69czxhhpqxiycn8w1zyvgca21wa.nar.xz
+Compression: xz
+FileHash: sha256:03mcddhhk5paphnd54ybnm9yc69czxhhpqxiycn8w1zyvgca21wa
+FileSize: 908
+NarHash: sha256:069cldl1pw85v953rhhr833cznf7vjfi4s4nxksam1s5pi7rq98n
+NarSize: 1608
+References: 
+CA: fixed:r:sha256:069cldl1pw85v953rhhr833cznf7vjfi4s4nxksam1s5pi7rq98n

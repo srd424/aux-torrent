@@ -1,0 +1,10 @@
+StorePath: /nix/store/wk9wli9vcjw5rvr4k1m3nrjfyydrivyp-binutils-2.41-dev
+URL: nar/03195g60ypgzjaziqfnwcpmil401hnknvqkx8lvmr05h7idspd9f.nar.xz
+Compression: xz
+FileHash: sha256:03195g60ypgzjaziqfnwcpmil401hnknvqkx8lvmr05h7idspd9f
+FileSize: 83448
+NarHash: sha256:1k1gdyajq4wljzi6n4gic6fm507m0riqm2yficf845zaiswygiks
+NarSize: 428784
+References: gzpb6lcmr2qw2jnz04hk02k8f6b5f0kk-binutils-2.41-lib vj57s3h2za2qrfccrvc9b6i7s8mw3ndn-binutils-2.41
+Deriver: 9yv04v0np06hxd066nyc3g7j8f94pql9-binutils-2.41.drv
+Sig: cache.nixos.org-1:WyY0Mkcb/MwSg+6cpDVFabRc0aFIsk1GsGlIIa6WOWKU6iEBqNtKxFSGEz8yynplFDWFFYSDbZraRORHRdpQAg==

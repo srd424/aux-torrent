@@ -1,0 +1,10 @@
+StorePath: /nix/store/7077d32jz58l647zdyjwraq7a4289ymq-source-github.com-asciidoc-py-asciidoc-py-10.2.0
+URL: nar/1211x1fwpn4rg1vp8xn38f64bmb2ym5j9x8x9qh1rwshc13569fa.nar.xz
+Compression: xz
+FileHash: sha256:1211x1fwpn4rg1vp8xn38f64bmb2ym5j9x8x9qh1rwshc13569fa
+FileSize: 546392
+NarHash: sha256:1a5mhh42ihjggh54b687cqx5a1mawl4nwgb7x6fyvsa1vk3v982f
+NarSize: 5714032
+References: 
+Deriver: ww6yxg3vd5zkna936idgxlz8i99rb48f-source-github.com-asciidoc-py-asciidoc-py-10.2.0.drv
+CA: fixed:r:sha256:1a5mhh42ihjggh54b687cqx5a1mawl4nwgb7x6fyvsa1vk3v982f

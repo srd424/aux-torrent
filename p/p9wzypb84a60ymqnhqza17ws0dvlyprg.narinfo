@@ -1,0 +1,10 @@
+StorePath: /nix/store/p9wzypb84a60ymqnhqza17ws0dvlyprg-busybox
+URL: nar/19c92y39kbdd1nsxis0qgxmzpbx06jmaxswnmg4p45myqxbgfjqg.nar.xz
+Compression: xz
+FileHash: sha256:19c92y39kbdd1nsxis0qgxmzpbx06jmaxswnmg4p45myqxbgfjqg
+FileSize: 88836
+NarHash: sha256:1m08r8mq0k8fv7nccf3f7x4116dd4appcs2zm4zmccy10jfw9d22
+NarSize: 189888
+References: 
+Deriver: 0m4y3j4pnivlhhpr5yqdvlly86p93fwc-busybox.drv
+CA: fixed:r:sha256:1m08r8mq0k8fv7nccf3f7x4116dd4appcs2zm4zmccy10jfw9d22

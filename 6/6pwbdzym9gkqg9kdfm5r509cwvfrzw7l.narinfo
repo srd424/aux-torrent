@@ -1,0 +1,9 @@
+StorePath: /nix/store/6pwbdzym9gkqg9kdfm5r509cwvfrzw7l-aws-c-io-0.14.6
+URL: nar/0hyzjyg5sq65zdgjr6vikjic3fca8g3bxrkxbshbihrl9bcfpgyq.nar.xz
+Compression: xz
+FileHash: sha256:0hyzjyg5sq65zdgjr6vikjic3fca8g3bxrkxbshbihrl9bcfpgyq
+FileSize: 138012
+NarHash: sha256:1vrrs81wmpwz04bk63432yr7nwhvkpnn0s59rlka2327slz46664
+NarSize: 619008
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 6md1bxjzssj2a74hb7157x48kp88860x-s2n-tls-1.4.9 6pwbdzym9gkqg9kdfm5r509cwvfrzw7l-aws-c-io-0.14.6 8ypkqn4glqfzna65d7kwral0kwv63cgf-aws-c-cal-0.6.10 9xgpmwqw0881kxa9sl498qfmzy7z2ndn-openssl-3.0.13 apysxvfgdjcph77mzi0q2ag4mga6jxxf-aws-c-common-0.9.14
+Deriver: wzx4ga61pbcqsm9pljvlq4kg6ml958wk-aws-c-io-0.14.6.drv

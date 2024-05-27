@@ -1,0 +1,9 @@
+StorePath: /nix/store/851nlraf7796s7d0mz9wzx0cj0v10rvf-cargo-bootstrap-1.76.0
+URL: nar/1ipdzzwpgzhiqgaspjdnyd58sj72xwcdgmnpf6p9ymlfcfbc5lhc.nar.xz
+Compression: xz
+FileHash: sha256:1ipdzzwpgzhiqgaspjdnyd58sj72xwcdgmnpf6p9ymlfcfbc5lhc
+FileSize: 8292180
+NarHash: sha256:1g49pvp5y8q650fm5jihj95q5l8fns6wnifp9768b6rhg25s39cj
+NarSize: 30467768
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 851nlraf7796s7d0mz9wzx0cj0v10rvf-cargo-bootstrap-1.76.0 d8c0am4jck9188ajr9swx6kmcqrh8zkl-gcc-13.2.0-libgcc dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 wqp192xhwhgk0d3f5j42vcwdl9dz0xrf-rustc-bootstrap-wrapper-1.76.0
+Deriver: f38cmjga9vr1xw98gzvmz5xj5vfq1rd1-cargo-bootstrap-1.76.0.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/10k4zgvv4p48h5krp4zblprjmp90j0my-e2fsprogs-1.47.0-info
+URL: nar/1i2kwbzwfgm95ara80wmiajhcsgwyp9cr81pscya708ihy42fc5n.nar.xz
+Compression: xz
+FileHash: sha256:1i2kwbzwfgm95ara80wmiajhcsgwyp9cr81pscya708ihy42fc5n
+FileSize: 13632
+NarHash: sha256:05bk21ibrab0jjshqaxx8fhv7hsdj4zj5a91c4mjg3jrrg4zarm0
+NarSize: 13928
+References: 
+Deriver: 0wk23552yfdxr8y0ry9gvsy78hv9klk6-e2fsprogs-1.47.0.drv

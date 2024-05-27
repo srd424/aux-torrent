@@ -1,0 +1,9 @@
+StorePath: /nix/store/3q9vpdf0bqlbqr3s867nisz8phx4c9kb-tzdata-setup-hook.sh
+URL: nar/13a0wwig2l3g547mmwbzz34hfx63rldj1lr52dnnia5fw0k413jy.nar.xz
+Compression: xz
+FileHash: sha256:13a0wwig2l3g547mmwbzz34hfx63rldj1lr52dnnia5fw0k413jy
+FileSize: 204
+NarHash: sha256:1g0389bb7bfh8w2z381m286001g54fham5z4f9204ifbd19fvjk8
+NarSize: 208
+References: 
+CA: fixed:r:sha256:1g0389bb7bfh8w2z381m286001g54fham5z4f9204ifbd19fvjk8

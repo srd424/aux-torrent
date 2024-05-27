@@ -1,0 +1,9 @@
+StorePath: /nix/store/pkmvxa18irni60z6ngj3cncv186f38zw-keep-path.patch
+URL: nar/1b1i9mhnql9p7h3zvwwbbz399fqm98wg8500qd3aqynf3vk4phmb.nar.xz
+Compression: xz
+FileHash: sha256:1b1i9mhnql9p7h3zvwwbbz399fqm98wg8500qd3aqynf3vk4phmb
+FileSize: 468
+NarHash: sha256:06snrq7nsgnqslqsn1sxli8f8y08m8qipv6ln7fnfz00fdwxnxvi
+NarSize: 736
+References: 
+CA: fixed:r:sha256:06snrq7nsgnqslqsn1sxli8f8y08m8qipv6ln7fnfz00fdwxnxvi

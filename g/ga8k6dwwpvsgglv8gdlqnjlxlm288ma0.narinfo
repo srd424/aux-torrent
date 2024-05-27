@@ -1,0 +1,9 @@
+StorePath: /nix/store/ga8k6dwwpvsgglv8gdlqnjlxlm288ma0-python-namespaces-hook.sh
+URL: nar/0p6qs4qs13g5wnw8wjsw35p0rc81cks8xqhl8i0vmmx5qjnrg54l.nar.xz
+Compression: xz
+FileHash: sha256:0p6qs4qs13g5wnw8wjsw35p0rc81cks8xqhl8i0vmmx5qjnrg54l
+FileSize: 980
+NarHash: sha256:019iwl2gyxy7p9fh2varbv57idlyc9j8fv0f2g1dnc0lqkcg4fkz
+NarSize: 2240
+References: 
+CA: fixed:r:sha256:019iwl2gyxy7p9fh2varbv57idlyc9j8fv0f2g1dnc0lqkcg4fkz

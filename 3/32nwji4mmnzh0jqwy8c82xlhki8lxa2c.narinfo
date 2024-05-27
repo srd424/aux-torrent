@@ -1,0 +1,9 @@
+StorePath: /nix/store/32nwji4mmnzh0jqwy8c82xlhki8lxa2c-fuse-2.9.9.drv
+URL: nar/0lj51bvaqb5nr2pdnwi57p8g0z9k8ngabd6bz9wp6b8bf1nlsa0a.nar.xz
+Compression: xz
+FileHash: sha256:0lj51bvaqb5nr2pdnwi57p8g0z9k8ngabd6bz9wp6b8bf1nlsa0a
+FileSize: 1672
+NarHash: sha256:080iv4np0dlhflb0w4qahy4rh8xmqkw650ng1fcjjl71gnl8gvn7
+NarSize: 3672
+References: 381lhb53hwfmw7crnnpcbqfa8a3b9vnf-shadow-4.14.6.drv 8chmrf82v0szxmgwha5v39qkyrwy14ah-source-github.com-libfuse-libfuse-fuse-2.9.9.drv 8s66yzalvgacprsjgd9zkramyvmvhddl-fuse-2.9.9-closefrom-glibc-2-34.patch?id=8a970396fca7aca2d5a761b8e7a8242f1eef14c9.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv an4iqml99b3f0mhs0sk4ii3zjy944rr5-autoreconf-hook.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv k3cnn7cl552wi2gz829ldmjff7hwny8r-fuse-3.16.2.drv pm3r0asn8y4dn9dldf497xj9x83ifhld-gettext-0.21.1.drv q20d6d6lkd6b58r5ncg5398cn8vr7nqr-fuse2-Do-not-set-FUSERMOUNT_DIR.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y5vjcbachz2jmkpnml26kdc4nvlg7748-util-linux-minimal-2.39.3.drv
+CA: text:sha256:1wsrkzzfkxrbd0ymmrlxjmd3ca09w8vqvnpjmbm3dxlg9qb69y83

@@ -1,0 +1,10 @@
+StorePath: /nix/store/28ib4p86g9ya1ix89xd8r22r617rhsdv-perl5.38.2-Try-Tiny-0.31-devdoc
+URL: nar/0qh2ihlyk74d1xw180l65nvs8q1fh2yw1jzgmggkp8p37pcig6v5.nar.xz
+Compression: xz
+FileHash: sha256:0qh2ihlyk74d1xw180l65nvs8q1fh2yw1jzgmggkp8p37pcig6v5
+FileSize: 7860
+NarHash: sha256:0p3z4ypkn5bsjhq8jyhdw6qflic44bp9pwl8zm1rklx1j785n4xi
+NarSize: 8368
+References: 
+Deriver: 96n1qyfhf9zsa8wr9qxs6cqhq26ji6zm-perl5.38.2-Try-Tiny-0.31.drv
+Sig: cache.nixos.org-1:6XKlBWpqkMUstJa+oeCUBajUvchUXTrO6tfznSxCN4GfpeLW+SU96RRfIXrapixdDDi3skWe+25UYbPGzm2aDg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/7wckvgzvcdaglwvaaf32ag8napg0kwj4-source-github.com-awslabs-aws-c-io-v0.14.6
+URL: nar/0v37pdwhsnbj8q0aj5wavblhp1zzq5nhpdz12kddlia3j81px7h6.nar.xz
+Compression: xz
+FileHash: sha256:0v37pdwhsnbj8q0aj5wavblhp1zzq5nhpdz12kddlia3j81px7h6
+FileSize: 532704
+NarHash: sha256:12q2p3fcy1psbik0ijrik059vbnxc2b7x255m3aacc3a10d1xsbx
+NarSize: 2629808
+References: 
+Deriver: 3ypz1nza0xwvc426q60ykbbzpdadc84h-source-github.com-awslabs-aws-c-io-v0.14.6.drv
+CA: fixed:r:sha256:12q2p3fcy1psbik0ijrik059vbnxc2b7x255m3aacc3a10d1xsbx

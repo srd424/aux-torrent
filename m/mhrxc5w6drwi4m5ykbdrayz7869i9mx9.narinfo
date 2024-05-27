@@ -1,0 +1,9 @@
+StorePath: /nix/store/mhrxc5w6drwi4m5ykbdrayz7869i9mx9-bzip2-1.0.8.tar.gz.drv
+URL: nar/010ga216vb1cm755pgvj2b3xh20fmrzjbmqlhnf04y8y5ha7prni.nar.xz
+Compression: xz
+FileHash: sha256:010ga216vb1cm755pgvj2b3xh20fmrzjbmqlhnf04y8y5ha7prni
+FileSize: 504
+NarHash: sha256:04vmxkf0d67avwpmncm50zsrrg89aq05397l730w6q8m9x3g2wq4
+NarSize: 848
+References: 
+CA: text:sha256:10nri275sxvlfv9p4jly9dgcmgfrc453yp9z7g07w19f7fzz8sbp

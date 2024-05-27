@@ -1,0 +1,9 @@
+StorePath: /nix/store/xrw086zw3xqsvy9injgil8n2qdkvkpff-0001-Revert-libtool.m4-fix-the-NM-nm-over-here-B-option-w.patch
+URL: nar/0j9zlb9a1cm4fcbawszgczls7sn7ig0xpv8jabnmbw8l7wj4lgjb.nar.xz
+Compression: xz
+FileHash: sha256:0j9zlb9a1cm4fcbawszgczls7sn7ig0xpv8jabnmbw8l7wj4lgjb
+FileSize: 944
+NarHash: sha256:1dlyr7n821cr5xz6qz8m7c7f63lssx8zg40h4y53iyhkyxjz7fdl
+NarSize: 1928
+References: 
+CA: fixed:r:sha256:1dlyr7n821cr5xz6qz8m7c7f63lssx8zg40h4y53iyhkyxjz7fdl

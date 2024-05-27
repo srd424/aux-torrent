@@ -1,0 +1,10 @@
+StorePath: /nix/store/ifh994g3yx0ai13dx2g7gg9anq1jcm4w-getopt-1.1.6
+URL: nar/1y71dvlynmaml4whg4a1dvrvnfykrqmpy3xykj8cvn68h9b17yaj.nar.xz
+Compression: xz
+FileHash: sha256:1y71dvlynmaml4whg4a1dvrvnfykrqmpy3xykj8cvn68h9b17yaj
+FileSize: 10376
+NarHash: sha256:1943fb9lmibxzmyyqcgqlcq0xrm5g39ir461k5kqsqkzfmnb0mhv
+NarSize: 23192
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5
+Deriver: 4if5ymik49mkgh5sldb72f581ks70cq3-getopt-1.1.6.drv
+Sig: cache.nixos.org-1:k8R6GP+DpfA8jho9qkT65cry1CqtuOqhntMJDuB3NNe9cW3BVOg9Vde9fYVtIBq60f0ErG4Z2w39sEPqEPIhAA==

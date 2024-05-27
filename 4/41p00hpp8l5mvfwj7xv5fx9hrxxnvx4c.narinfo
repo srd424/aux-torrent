@@ -1,0 +1,9 @@
+StorePath: /nix/store/41p00hpp8l5mvfwj7xv5fx9hrxxnvx4c-rapidcheck-unstable-2023-12-14.drv
+URL: nar/1n0dm6fi80wrgcrq64r2xivlq3bc59nkba73dxszkkz6ak8v8ys2.nar.xz
+Compression: xz
+FileHash: sha256:1n0dm6fi80wrgcrq64r2xivlq3bc59nkba73dxszkkz6ak8v8ys2
+FileSize: 908
+NarHash: sha256:0rb00r5yb84f2la7prafplfrdva8q3xa2i4xn5w4bd9wd8m10jjz
+NarSize: 2088
+References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv n90r2zvhdwiy01cr3rx34nhbmwhj8azs-source-github.com-emil-e-rapidcheck-ff6af6fc683159deb51c543b065eba14dfcf329b.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1pz2jw1zp0vv5riiay3xkpgcjqic59fkkkbcpf22an52bll4jvsb

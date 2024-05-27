@@ -1,0 +1,9 @@
+StorePath: /nix/store/m29gvvqsszyckj09msa7bx8i4ql1bw01-busybox-static-x86_64-unknown-linux-musl-1.36.1.drv
+URL: nar/17lnv5a8cfn129bp520mpwssjbwzh2nyamcr31k4ykdhv9j37bv0.nar.xz
+Compression: xz
+FileHash: sha256:17lnv5a8cfn129bp520mpwssjbwzh2nyamcr31k4ykdhv9j37bv0
+FileSize: 2268
+NarHash: sha256:14596dhy6b8vzcf6qrbygv2fri3ywj9dvjs6jvgymw0dd9n5vhj4
+NarSize: 5512
+References: 12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh 7wpjbl21q85z0vrqdx4c7lxg6n4rgwh7-busybox-in-store.patch 8hvq4hz3q60k3sabnxfq7pccxmbcq6rb-CVE-2022-28391.patch.drv h3mmckhvxfk116b64k0fd3gs7skj9apg-busybox-1.36.1.tar.bz2.drv iaz4d7x1wwc8xj8py4rv9cvdcb30s1vc-source.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv lf06cm4fz5f69sqcbzfviq7rkb7pkl1v-CVE-2022-28391.patch.drv n33g16czfz0cvq1bfq2gjr3gxqwif8pn-cross-file.conf nfr6v73vj460p1wfp93v248fizcn1ii6-gcc-wrapper-13.2.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vjv992jiwc9fhmzyixl2kk54rc2qvsay-stdenv-linux.drv wmw6a6pcmwaqwqvhfjzclk1jmr0am383-clang-cross.patch
+CA: text:sha256:1ab8gippilr5pv27l8ix6rahd2zbdsl1741pxqb2gi2flq61hkfk

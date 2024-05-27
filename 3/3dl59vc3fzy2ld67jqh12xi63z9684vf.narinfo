@@ -1,0 +1,9 @@
+StorePath: /nix/store/3dl59vc3fzy2ld67jqh12xi63z9684vf-cc-wrapper.sh
+URL: nar/1i07j8ls9vc1rj0k46hff2psdjqab1b52fnxn3llfqavfqm41yy8.nar.xz
+Compression: xz
+FileHash: sha256:1i07j8ls9vc1rj0k46hff2psdjqab1b52fnxn3llfqavfqm41yy8
+FileSize: 3308
+NarHash: sha256:1mjxnfihn4zz264d75qj8pawd4454jzb5vp06wqf2nam5bhi5skj
+NarSize: 8936
+References: 
+CA: fixed:r:sha256:1mjxnfihn4zz264d75qj8pawd4454jzb5vp06wqf2nam5bhi5skj

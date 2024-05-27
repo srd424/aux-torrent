@@ -1,0 +1,9 @@
+StorePath: /nix/store/iw3hvg7yyiqig6fd503515fq8172hg2y-gawk-5.2.2.tar.xz.drv
+URL: nar/1xz4cnd1l0l84fbqz7dc1b1hgl1kkr5ax3aqprzvq5vjivb94f5j.nar.xz
+Compression: xz
+FileHash: sha256:1xz4cnd1l0l84fbqz7dc1b1hgl1kkr5ax3aqprzvq5vjivb94f5j
+FileSize: 504
+NarHash: sha256:0bzmaq81m0xkpl78015c37vvhkg9jv8zqb2acpx84mdy0h3s74m7
+NarSize: 832
+References: 
+CA: text:sha256:1ry24433rzjrdm66va4f209lb2wp42llr7li55ys83nqmqj44vs0

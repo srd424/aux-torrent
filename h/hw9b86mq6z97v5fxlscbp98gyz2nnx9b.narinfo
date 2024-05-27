@@ -1,0 +1,9 @@
+StorePath: /nix/store/hw9b86mq6z97v5fxlscbp98gyz2nnx9b-audit-3.1.2-man
+URL: nar/0ja9d0zal3id1vgz3qsxv4vanyd1is0mi2rf16qsl8c56mf3hkhb.nar.xz
+Compression: xz
+FileHash: sha256:0ja9d0zal3id1vgz3qsxv4vanyd1is0mi2rf16qsl8c56mf3hkhb
+FileSize: 100892
+NarHash: sha256:0rmzf0a84a8qaxcsvsvinwl2g08j7rmsrpnr9garv4h5yk6xw9k1
+NarSize: 123664
+References: 
+Deriver: 8n5qc7crfsczgqdkdqwv1zyanjsnasx6-audit-3.1.2.drv

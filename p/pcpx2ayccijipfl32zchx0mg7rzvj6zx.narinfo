@@ -1,0 +1,9 @@
+StorePath: /nix/store/pcpx2ayccijipfl32zchx0mg7rzvj6zx-0001-Revert-Remove-all-usage-of-BASH-or-BASH-in-installed.patch
+URL: nar/1kgccj7pmi337jypvcw1hbpqfvavw1xqwr04xh0aginmscc4mm2f.nar.xz
+Compression: xz
+FileHash: sha256:1kgccj7pmi337jypvcw1hbpqfvavw1xqwr04xh0aginmscc4mm2f
+FileSize: 1624
+NarHash: sha256:1b40wldkla31gl8wix75yks60jzhkf5gw2lq7hfbsvwi3i5h49iq
+NarSize: 4720
+References: 
+CA: fixed:r:sha256:1b40wldkla31gl8wix75yks60jzhkf5gw2lq7hfbsvwi3i5h49iq

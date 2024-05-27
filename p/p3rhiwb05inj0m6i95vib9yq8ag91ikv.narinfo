@@ -1,0 +1,9 @@
+StorePath: /nix/store/p3rhiwb05inj0m6i95vib9yq8ag91ikv-util-linux-minimal-2.39.3-debug
+URL: nar/19bpj6qzzdqihw9v9fvl0zqr1z4b92z49v7kcf0rwdnl6jmp68p5.nar.xz
+Compression: xz
+FileHash: sha256:19bpj6qzzdqihw9v9fvl0zqr1z4b92z49v7kcf0rwdnl6jmp68p5
+FileSize: 8751552
+NarHash: sha256:0769ln9agbfskrdsiiq59djwm4iswh8vjkxm4c3pjwncfk4i8bdx
+NarSize: 10459824
+References: 
+Deriver: y5vjcbachz2jmkpnml26kdc4nvlg7748-util-linux-minimal-2.39.3.drv

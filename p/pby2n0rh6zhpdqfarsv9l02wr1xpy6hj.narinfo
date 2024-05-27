@@ -1,0 +1,10 @@
+StorePath: /nix/store/pby2n0rh6zhpdqfarsv9l02wr1xpy6hj-source-github.com-nss-dev-nss-NSS_3_98_RTM
+URL: nar/180q2ywy8z3gjdab23bsgvilamnjbasgmqswg9dlp6g79fg3j5a2.nar.xz
+Compression: xz
+FileHash: sha256:180q2ywy8z3gjdab23bsgvilamnjbasgmqswg9dlp6g79fg3j5a2
+FileSize: 56208000
+NarHash: sha256:01w9921rz6pr28ma2yh1a5l24rmngjnfv3lfbxrkijvirb74g7fj
+NarSize: 190330528
+References: 
+Deriver: 8dypsqahlanjz5hs8n5bffpgpfl8bh92-source-github.com-nss-dev-nss-NSS_3_98_RTM.drv
+CA: fixed:r:sha256:01w9921rz6pr28ma2yh1a5l24rmngjnfv3lfbxrkijvirb74g7fj

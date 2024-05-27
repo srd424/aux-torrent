@@ -1,0 +1,9 @@
+StorePath: /nix/store/xprdd33cnqprwk19lxi57h907fz7xic2-git-sh-i18n.patch
+URL: nar/0aj35i3q9ji3pl3q7j7wfk2lmf3vwl17m6p9gy5c1m75ksz9pizc.nar.xz
+Compression: xz
+FileHash: sha256:0aj35i3q9ji3pl3q7j7wfk2lmf3vwl17m6p9gy5c1m75ksz9pizc
+FileSize: 512
+NarHash: sha256:0hvpiihhq8ac5yvn6ym656vq9v02iyi9xr51jyfnvgzg0004i88c
+NarSize: 848
+References: 
+CA: fixed:r:sha256:0hvpiihhq8ac5yvn6ym656vq9v02iyi9xr51jyfnvgzg0004i88c

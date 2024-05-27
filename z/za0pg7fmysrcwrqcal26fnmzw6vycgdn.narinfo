@@ -1,0 +1,9 @@
+StorePath: /nix/store/za0pg7fmysrcwrqcal26fnmzw6vycgdn-fix_path_attribute_in_getconf.patch
+URL: nar/0lih94x11rab1mjzpd3pm4l3r3r38xw8qdcq5cxwzzdwhqkb22zf.nar.xz
+Compression: xz
+FileHash: sha256:0lih94x11rab1mjzpd3pm4l3r3r38xw8qdcq5cxwzzdwhqkb22zf
+FileSize: 296
+NarHash: sha256:13pq3nvrl7g45b2cd68i7p505lhf9xbgyamighbfkwjps3172499
+NarSize: 456
+References: 
+CA: fixed:r:sha256:13pq3nvrl7g45b2cd68i7p505lhf9xbgyamighbfkwjps3172499

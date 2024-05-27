@@ -1,0 +1,9 @@
+StorePath: /nix/store/z0a6lql6b9b6k6pb566s737lvm0nvm0f-doxygen-1.10.0.drv
+URL: nar/03vqld0ja0azn6xxyavq3bcpj9psl3yw7ca4lyq08c0ig1ng091h.nar.xz
+Compression: xz
+FileHash: sha256:03vqld0ja0azn6xxyavq3bcpj9psl3yw7ca4lyq08c0ig1ng091h
+FileSize: 1380
+NarHash: sha256:06dkmlsl2d4h3hxplcsc3i9z61c64ys1i0lafils1qbxbg8fpjhj
+NarSize: 3048
+References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 5qmi07dp0d8m2lbpskdf021rfk5rvhs9-python3-3.11.9.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv a5zx9as2issbqrwmld2i14sqjk6f3fsf-source-github.com-doxygen-doxygen-Release_1_10_0.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv kqrc5acpabhh4i812hg5fkz20w2jgl5k-sqlite-3.45.2.drv q21fzsl9fphaqjkjga84x03w2a6v2yjh-spdlog-1.13.0.drv qi5860a0y4rkdg8gl72zayai8v92z2f2-bison-3.8.2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vbx4m4f122sgc131adnyf0whdfxp1ci5-glibc-iconv-2.39.drv wavw4v9vig0nva67q4x8rd0clx7d0g0w-sys-spdlog-fix.patch.drv xwyvpklpz04jdc54igfjsa1ydmdrkgim-flex-2.6.4.drv
+CA: text:sha256:0bbv15s05yamgc2slm33mfngy4lfy5f12ba4yr7qq1p667x26spj

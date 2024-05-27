@@ -1,0 +1,9 @@
+StorePath: /nix/store/n072ac9kjk9ns2pnkysy8fjlvqwpxbw4-s2n-tls-1.4.9-dev
+URL: nar/0hkwvk6rzav9y8zc0qjw10d20x1q7rl656vc9wp9h8n578287c0f.nar.xz
+Compression: xz
+FileHash: sha256:0hkwvk6rzav9y8zc0qjw10d20x1q7rl656vc9wp9h8n578287c0f
+FileSize: 35496
+NarHash: sha256:1xka247zhnw8vzi2zlba2yg867h8gmicw8nyacy7l8mh10nyxnhi
+NarSize: 197000
+References: 6md1bxjzssj2a74hb7157x48kp88860x-s2n-tls-1.4.9 aqaxrq9jyrjwsnsly12b2xkqmakcsawb-openssl-3.0.13-dev
+Deriver: 6f0053vbg3fq9r0yqkfqdrankyig4m62-s2n-tls-1.4.9.drv

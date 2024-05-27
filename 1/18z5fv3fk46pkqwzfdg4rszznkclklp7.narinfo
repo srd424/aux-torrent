@@ -1,0 +1,10 @@
+StorePath: /nix/store/18z5fv3fk46pkqwzfdg4rszznkclklp7-binutils-2.41.tar.bz2
+URL: nar/0jf27b94vj17awz8syzbgca2jkr5vj7g7n36sr06yxr8b8wnwcy8.nar.xz
+Compression: xz
+FileHash: sha256:0jf27b94vj17awz8syzbgca2jkr5vj7g7n36sr06yxr8b8wnwcy8
+FileSize: 35629184
+NarHash: sha256:1j34vjam6jysf1ivyybmca2lapns3kddm7iiwm0hp9475ppgkscz
+NarSize: 37133056
+References: 
+Deriver: xgjmhfz2pl0fdsrpiz8hiabqzfrqbx9b-binutils-2.41.tar.bz2.drv
+CA: fixed:sha256:02xkm9xgcrqhln742636nm43yzrpjkhqj0z64h03gf7pab0bxi54

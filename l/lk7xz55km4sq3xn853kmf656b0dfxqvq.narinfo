@@ -1,0 +1,9 @@
+StorePath: /nix/store/lk7xz55km4sq3xn853kmf656b0dfxqvq-lzip-1.24.1.tar.gz.drv
+URL: nar/17sm80c2n3qan23dacvykg755060i54hc8dl3r8xwlyb12bhs95x.nar.xz
+Compression: xz
+FileHash: sha256:17sm80c2n3qan23dacvykg755060i54hc8dl3r8xwlyb12bhs95x
+FileSize: 508
+NarHash: sha256:1zpir2r7k35c2ar44qi8afg01c2pkk748k2xwxgzgvq9pqhq1h06
+NarSize: 848
+References: 
+CA: text:sha256:0vscwdl74lx97cb9xzyyg5iqsi093i8yh765baqk39crnmxz24k2

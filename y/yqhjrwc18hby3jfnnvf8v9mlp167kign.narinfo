@@ -1,0 +1,10 @@
+StorePath: /nix/store/yqhjrwc18hby3jfnnvf8v9mlp167kign-acl-2.3.2-dev
+URL: nar/15srg8vibys2g8gw7y29925r7xs1gpv90b25bbq14i32bj23zxs4.nar.xz
+Compression: xz
+FileHash: sha256:15srg8vibys2g8gw7y29925r7xs1gpv90b25bbq14i32bj23zxs4
+FileSize: 2380
+NarHash: sha256:0l2d8q3zy4vr6d4g7nmvfjad89fv7skk8lfag9jw4rb672b09cjr
+NarSize: 8624
+References: ms22nmzw84v4kgaa8zjsq9p8hwfbwyd6-acl-2.3.2 vxp7fjnhqdn7bbywysdvkn3wkx2xpcsq-acl-2.3.2-bin yqhjrwc18hby3jfnnvf8v9mlp167kign-acl-2.3.2-dev
+Deriver: jgcny0jyxk08g3c876aiy3bjb954g421-acl-2.3.2.drv
+Sig: cache.nixos.org-1:zUutjY3EBuRZ1odLo+EcJDmknBJPC72LaSVM6LJqwd+vJVEOUGfZEMl3Bc4MRljOr+QdylaG9qgvvNqsGDV/CA==

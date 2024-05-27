@@ -1,0 +1,9 @@
+StorePath: /nix/store/9hia04573d2n427n12wxjgkgm0r8l2nk-libffi-3.4.6.tar.gz.drv
+URL: nar/0wp3wz7240702h2nm6rr5af279jac84s102dpig7a6rni22m1ngj.nar.xz
+Compression: xz
+FileHash: sha256:0wp3wz7240702h2nm6rr5af279jac84s102dpig7a6rni22m1ngj
+FileSize: 520
+NarHash: sha256:1hqkshmglx33j53r55938rzdbrywyfhgvpq577c85yzln1nis5b7
+NarSize: 896
+References: 
+CA: text:sha256:1knbwd5xqp7h9nk40qjgciz7yxxadc9drxmz47pslnpff315qyny

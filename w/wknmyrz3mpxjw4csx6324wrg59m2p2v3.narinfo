@@ -1,0 +1,9 @@
+StorePath: /nix/store/wknmyrz3mpxjw4csx6324wrg59m2p2v3-perl5.38.2-WWW-RobotRules-6.02.drv
+URL: nar/1id0vr8z4qd9246qax84nhgjxjml6zbq7q2jaygqb3p9ay0nmnid.nar.xz
+Compression: xz
+FileHash: sha256:1id0vr8z4qd9246qax84nhgjxjml6zbq7q2jaygqb3p9ay0nmnid
+FileSize: 976
+NarHash: sha256:0q0iliiq1qa2kwjqi8dv4wixzrw44p487kjfzk5i02vh61qcys42
+NarSize: 2320
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv fvcmiza6g3b8ryb54hr27ww9fxcfinw5-perl5.38.2-URI-5.21.drv hada332p7n7qbvyf0gvqw125iqjk45fi-WWW-RobotRules-6.02.tar.gz.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:037vn53mxa3xvpg1bi6qsagw7rpsjjb287l2l6ln6yak2fcig6hp

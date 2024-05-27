@@ -1,0 +1,9 @@
+StorePath: /nix/store/kdkaxf71ipnxaq8sld41lr3mdkcicw0v-editables-0.5.tar.gz.drv
+URL: nar/1p3im8z2f63sbqlv9nbkh7hv42xnw17mnr33my6v4rz3yl9dhdl4.nar.xz
+Compression: xz
+FileHash: sha256:1p3im8z2f63sbqlv9nbkh7hv42xnw17mnr33my6v4rz3yl9dhdl4
+FileSize: 1300
+NarHash: sha256:11pp5cjyq7x5sm39lbxb4r41dsxc6r87pyckp0v19704hwvx0rz5
+NarSize: 2984
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0z59d5285l7pm0qy49akighazwbjlgr9s7s08mp3n825h6xfnfpf

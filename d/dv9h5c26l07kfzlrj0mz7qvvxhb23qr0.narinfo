@@ -1,0 +1,11 @@
+StorePath: /nix/store/dv9h5c26l07kfzlrj0mz7qvvxhb23qr0-sys-spdlog-fix.patch
+URL: nar/1r0vsm59983kxyhcb9p9nlq6xrxg8mnkmllw3mrsmm1wgd8z4c6m.nar.xz
+Compression: xz
+FileHash: sha256:1r0vsm59983kxyhcb9p9nlq6xrxg8mnkmllw3mrsmm1wgd8z4c6m
+FileSize: 544
+NarHash: sha256:14as9d65xcyxns2aaidn1wha2pmxnhjyb36a3fybq6h13pr98m45
+NarSize: 1176
+References: 
+Deriver: gn58g5di059xnykgsknp3ixpys845xv1-sys-spdlog-fix.patch.drv
+Sig: cache.nixos.org-1:QcNlvb7V82URX7VJrnaEViLHHp4nlnNQg4ahMtURR9PTFVZl/T9JfAmqdExxKmzTgASl16yyKzwzqBI7+leSDg==
+CA: fixed:sha256:0vgs1vfk4094pc1yv65ypbb80j2cv313wbhjm9qcj6jq044y9rzd

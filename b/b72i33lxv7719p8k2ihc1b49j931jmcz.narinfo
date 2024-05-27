@@ -1,0 +1,9 @@
+StorePath: /nix/store/b72i33lxv7719p8k2ihc1b49j931jmcz-perl5.38.2-Class-Method-Modifiers-2.15.drv
+URL: nar/0yad8s50wix4d3m38sihx59r8d5zrsrivd0klislm843kdqw5ark.nar.xz
+Compression: xz
+FileHash: sha256:0yad8s50wix4d3m38sihx59r8d5zrsrivd0klislm843kdqw5ark
+FileSize: 1060
+NarHash: sha256:0aj48kn67lkxilyxcjn5zvbnc8qc4pmy9g1sqjycgxj74w1ysn9w
+NarSize: 2568
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 6qf8j4rppf9aismpm5di7pb6s9w4wvyp-Class-Method-Modifiers-2.15.tar.gz.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv 9h2ka8y40y8cqv4s6mxzd46df97q9mkd-perl5.38.2-Test-Needs-0.002010.drv cw41fj1m4v41w0z7biy1xaw7ncy0irjf-perl5.38.2-Test-Fatal-0.017.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:0dakqqmwgfs5cjavwyysg2iz7gm07i5h6ca9l2fx99sq3a37dmi1

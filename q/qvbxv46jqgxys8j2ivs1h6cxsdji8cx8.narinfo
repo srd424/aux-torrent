@@ -1,0 +1,9 @@
+StorePath: /nix/store/qvbxv46jqgxys8j2ivs1h6cxsdji8cx8-B-COW-0.007.tar.gz.drv
+URL: nar/0vc1sin596vrfa5xfghfiji5mkiycqnz53306b4z71jmh4ins7pj.nar.xz
+Compression: xz
+FileHash: sha256:0vc1sin596vrfa5xfghfiji5mkiycqnz53306b4z71jmh4ins7pj
+FileSize: 1312
+NarHash: sha256:15kfkrlr3n7pql50yjv92zxwc8akjgi4d46r9iqk43mf2dzzdh5d
+NarSize: 2984
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0d4xkm5mf6z55rnbwd4bvaswnz1bw150z83aij68b3akn9m8wm8g

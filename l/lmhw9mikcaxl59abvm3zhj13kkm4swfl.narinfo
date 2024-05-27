@@ -1,0 +1,10 @@
+StorePath: /nix/store/lmhw9mikcaxl59abvm3zhj13kkm4swfl-flex-2.6.4
+URL: nar/1kaq54alv7rnx0975iyrgk43mdmpssliq7kdycb5dpkd256r25ch.nar.xz
+Compression: xz
+FileHash: sha256:1kaq54alv7rnx0975iyrgk43mdmpssliq7kdycb5dpkd256r25ch
+FileSize: 263744
+NarHash: sha256:10dqs3k3fpr5hq073g79v0mdljsqfj28axdy7ywjp2wg03vma6ai
+NarSize: 1190264
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 4llr8zwkl30x68ixf8j9w1sjnal9xgw7-gnum4-1.4.19 lmhw9mikcaxl59abvm3zhj13kkm4swfl-flex-2.6.4
+Deriver: q63xbvg035ylwlpj67m8jn3gd1sh6fg9-flex-2.6.4.drv
+Sig: cache.nixos.org-1:3iAbZ4jhi2fDjccyVu4xpyCauwN4it0gqjrD99HitnGtXHjNqq62ciCHaiYRVr+zhKceJJxFW/aGlNNXhy+WAQ==

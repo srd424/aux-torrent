@@ -1,0 +1,10 @@
+StorePath: /nix/store/svxyqvw9ig47hr91hvi3ysql81x84npd-source-github.com-nlohmann-json_test_data-v3.1.0
+URL: nar/0c7cg5g037ck4pclcwbrz9yivjp5c4ff7b5rayha86fwkcb0bdad.nar.xz
+Compression: xz
+FileHash: sha256:0c7cg5g037ck4pclcwbrz9yivjp5c4ff7b5rayha86fwkcb0bdad
+FileSize: 91744180
+NarHash: sha256:0nbirc428qx0lpi940p7y24fzdjbwl6xig3h5rdbihyymmdzhvbc
+NarSize: 261938736
+References: 
+Deriver: r7kmamc341zlp75xrqxb9k291gbcrm6a-source-github.com-nlohmann-json_test_data-v3.1.0.drv
+CA: fixed:r:sha256:0nbirc428qx0lpi940p7y24fzdjbwl6xig3h5rdbihyymmdzhvbc

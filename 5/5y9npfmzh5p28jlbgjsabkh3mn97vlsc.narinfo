@@ -1,0 +1,9 @@
+StorePath: /nix/store/5y9npfmzh5p28jlbgjsabkh3mn97vlsc-004-gir-fallback-path.patch
+URL: nar/00y895v85yw1yn2fcihizw9sm6zs94x8hl9ssv3sbgwh3vp1z316.nar.xz
+Compression: xz
+FileHash: sha256:00y895v85yw1yn2fcihizw9sm6zs94x8hl9ssv3sbgwh3vp1z316
+FileSize: 692
+NarHash: sha256:1zb0fll5xpzaqflg22hr253bk18mk86sd8klg0ah59nkxzrjd0f8
+NarSize: 1368
+References: 
+CA: fixed:r:sha256:1zb0fll5xpzaqflg22hr253bk18mk86sd8klg0ah59nkxzrjd0f8

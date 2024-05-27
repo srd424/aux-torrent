@@ -1,0 +1,9 @@
+StorePath: /nix/store/b27fgx99j0xwvic0ix2wvm7x0ij1d16f-OpenSP-1.5.2.tar.gz.drv
+URL: nar/1c50kb73y0b69ghb1nxnkwaghk3jdlxadm5i6j4sxk48jcsvxj91.nar.xz
+Compression: xz
+FileHash: sha256:1c50kb73y0b69ghb1nxnkwaghk3jdlxadm5i6j4sxk48jcsvxj91
+FileSize: 1304
+NarHash: sha256:0c3rw4w2ss2yyl04m58iqanmvz2xg4j218al0im4q0ai24irml95
+NarSize: 3008
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1bidrkzf66zhi7ymh2iq0y80xq6vrlmfl4n7whvnvn5phvqqn18k

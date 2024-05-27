@@ -1,0 +1,9 @@
+StorePath: /nix/store/yj4h9pz0nfqaf37zayxhfyl9sr2r8bl8-python-output-dist-hook.sh
+URL: nar/0938g3rqjpcvl3r4m3f3fs3xpzcq9p9z3la3nvx0njbi5g2g3pla.nar.xz
+Compression: xz
+FileHash: sha256:0938g3rqjpcvl3r4m3f3fs3xpzcq9p9z3la3nvx0njbi5g2g3pla
+FileSize: 536
+NarHash: sha256:0311778whq700sym29q6a7jfkiin11jxl39b66906azfm0aprqdg
+NarSize: 784
+References: 
+CA: fixed:r:sha256:0311778whq700sym29q6a7jfkiin11jxl39b66906azfm0aprqdg

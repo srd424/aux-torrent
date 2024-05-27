@@ -1,0 +1,9 @@
+StorePath: /nix/store/6w9y78iyw5yibs8ybnbvjmn2mjvlryps-restore-macros.patch
+URL: nar/02qjal88pw5pgrgaky1k95f0f6ycp2vlz1qby406fkq44cwxllvx.nar.xz
+Compression: xz
+FileHash: sha256:02qjal88pw5pgrgaky1k95f0f6ycp2vlz1qby406fkq44cwxllvx
+FileSize: 1624
+NarHash: sha256:1hfxw1sp2npdx9myzqim79mz0fmrczmmvzcrffbdyrgy6019f8nd
+NarSize: 7160
+References: 
+CA: fixed:r:sha256:1hfxw1sp2npdx9myzqim79mz0fmrczmmvzcrffbdyrgy6019f8nd

@@ -1,0 +1,9 @@
+StorePath: /nix/store/fp4yspx135nqyn35prw4pzfz2rzzig8s-python3.11-lxml-5.1.0-dist
+URL: nar/0j4py8bmz7g06ppl4vr9jhi54c9b8v5h5wpz11yrk74k6hi85gy4.nar.xz
+Compression: xz
+FileHash: sha256:0j4py8bmz7g06ppl4vr9jhi54c9b8v5h5wpz11yrk74k6hi85gy4
+FileSize: 9457444
+NarHash: sha256:17ankhmw9ccv6pgfbgfp03xr5x2ql2fydxlx7xrywa2i3b7x22hz
+NarSize: 9474320
+References: 
+Deriver: h7g2ww1ipdmmls22wjvprwi546bss8w5-python3.11-lxml-5.1.0.drv

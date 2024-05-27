@@ -1,0 +1,10 @@
+StorePath: /nix/store/pkvr7m4485p2kf12v1f17z0g1hn596sl-libxcrypt-4.4.36-man
+URL: nar/00wsmxz80f1ig1dqak18ysfn0xkpwxqggkby4s041qlgyh0y9pkg.nar.xz
+Compression: xz
+FileHash: sha256:00wsmxz80f1ig1dqak18ysfn0xkpwxqggkby4s041qlgyh0y9pkg
+FileSize: 13544
+NarHash: sha256:1s8rmwfgpib7yijip78qbh31zv9v345d4cmh59hgcwxhldwk4v71
+NarSize: 16024
+References: 
+Deriver: finy8awd01kgg8p832m7mnm49qhm2225-libxcrypt-4.4.36.drv
+Sig: cache.nixos.org-1:Xw2pkVUMzEUEHcXVc3QTDqyMu1unpApYRt0I7iRYQfmoDmplDs/Q7rvwOTBSfRMIcu0tPIuQvnozy8D9Sib1Cg==

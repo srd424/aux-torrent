@@ -1,0 +1,11 @@
+StorePath: /nix/store/1xfsvfv0ij9nmfh5kkjlapf2wzlyhbhq-pathspec-0.12.1.tar.gz
+URL: nar/04wbp30ali6w6msx0ymcdpqlmywgxsg3xdg0c9aw4b9wnym35ipm.nar.xz
+Compression: xz
+FileHash: sha256:04wbp30ali6w6msx0ymcdpqlmywgxsg3xdg0c9aw4b9wnym35ipm
+FileSize: 51220
+NarHash: sha256:1yw5nl5khybfvrk7pzkbgrjv2lpx8k4fwjhj52m7ngs6ca6ky1z9
+NarSize: 51160
+References: 
+Deriver: wm36wlb0kw71qh53ksn522f06wf4fv8s-pathspec-0.12.1.tar.gz.drv
+Sig: cache.nixos.org-1:QnQ5LgZQzQtlmaudnho6+dZzsDUXvr9tHJwCYpihSmMFUh9mvWG5cqj8WzOTIDWsooAnqMtELICRthkFYE8xCA==
+CA: fixed:sha256:04jpkzic8f58z6paq7f3f7fdnlv9l89khv3sqsqk7ax10caxb0m4

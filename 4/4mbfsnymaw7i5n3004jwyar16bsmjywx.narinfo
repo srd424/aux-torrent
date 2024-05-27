@@ -1,0 +1,10 @@
+StorePath: /nix/store/4mbfsnymaw7i5n3004jwyar16bsmjywx-OpenSP-1.5.2.tar.gz
+URL: nar/0179hjz3rs5mv0545rf4i6b1dqinkr2ldivwjpxgg7nnfdw10d0f.nar.xz
+Compression: xz
+FileHash: sha256:0179hjz3rs5mv0545rf4i6b1dqinkr2ldivwjpxgg7nnfdw10d0f
+FileSize: 1517168
+NarHash: sha256:0b4bnync6i2740bk6j7718r0mqbxgqx8m4dc3hfz0yx1g30282pl
+NarSize: 1521504
+References: 
+Deriver: fa4apmcc7cfd58dn75n4vsfkappg98p0-OpenSP-1.5.2.tar.gz.drv
+Sig: cache.nixos.org-1:mzw6KYFMSHfXXlZ3im8kJacooaT8zz2XGZk6IWPkuuUWu20SFQCapZNCHcwjLMudbaFwydL5ERCyWaE68xTnDA==

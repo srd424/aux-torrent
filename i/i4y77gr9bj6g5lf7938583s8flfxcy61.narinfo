@@ -1,0 +1,11 @@
+StorePath: /nix/store/i4y77gr9bj6g5lf7938583s8flfxcy61-cargo-auditable-0.6.2-vendor.tar.gz
+URL: nar/1klkc274j6jvf8svy2iz8g81fys2mqlx0zzqhdzx404zdvn046bq.nar.xz
+Compression: xz
+FileHash: sha256:1klkc274j6jvf8svy2iz8g81fys2mqlx0zzqhdzx404zdvn046bq
+FileSize: 3368416
+NarHash: sha256:0i1vm2rvv5zzwg131ppsp6nad1dws3n63hfvk3k85inrhi9hbx5y
+NarSize: 3376424
+References: 
+Deriver: v954g3ac12f3x3jcky9aqqmgkg6lhbcb-cargo-auditable-0.6.2-vendor.tar.gz.drv
+Sig: cache.nixos.org-1:ZylWhSpMGVU2HUa3UCmc3Zeoq1BsZ2KTKlnHsHWsUuNEH4zlKmf8x080je0zfbIWruXGimiO3eWbNzekZwz/BA==
+CA: fixed:sha256:0ksra3y89wjlz3lv7s4rgv5681vb3938zzp88q0mgwgzx6vdr3g2

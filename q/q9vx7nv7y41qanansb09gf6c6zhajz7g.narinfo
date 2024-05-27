@@ -1,0 +1,9 @@
+StorePath: /nix/store/q9vx7nv7y41qanansb09gf6c6zhajz7g-zstd-1.5.6-dev
+URL: nar/1i70ffby3sxylzw7hxxy11dl7mf3hwavj6xj3m5y0iyaaz3smcrd.nar.xz
+Compression: xz
+FileHash: sha256:1i70ffby3sxylzw7hxxy11dl7mf3hwavj6xj3m5y0iyaaz3smcrd
+FileSize: 46040
+NarHash: sha256:107ypccbf8gwlfcc47qmsxf65aq1zb0pad490gpr3s6phxn0axq3
+NarSize: 219424
+References: 0yj6p2r4dgypi8dvlx0fr7ymr899bvic-zstd-1.5.6 k8bx3jikicddfhgyg8vidrq80fslxlcq-zstd-1.5.6-bin q9vx7nv7y41qanansb09gf6c6zhajz7g-zstd-1.5.6-dev
+Deriver: swlr2yvwp2xjz4wx4dn5km0mr09q70n8-zstd-1.5.6.drv

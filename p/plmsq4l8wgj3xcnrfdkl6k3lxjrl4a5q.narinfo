@@ -1,0 +1,10 @@
+StorePath: /nix/store/plmsq4l8wgj3xcnrfdkl6k3lxjrl4a5q-die-hook
+URL: nar/0b0dp6i8cw0ar9mx1fp9kj39q1hjlc1s2srrm63bcwxvi21xm39s.nar.xz
+Compression: xz
+FileHash: sha256:0b0dp6i8cw0ar9mx1fp9kj39q1hjlc1s2srrm63bcwxvi21xm39s
+FileSize: 456
+NarHash: sha256:16frzbml5k28hcf58a0s0m57zhgmgla7gn4vr1zaxngwdbcg7sfi
+NarSize: 928
+References: 
+Deriver: hl1v01qjc6wic32cqkvjv9ncbfwxlpb5-die-hook.drv
+Sig: cache.nixos.org-1:9CG8fP0g5ngVj0fLVnXre6cGTyY/gA8VlXbdG//1AzUAStan+nFfmIjAHYXoi0+P0vSPLItmHcqRc6DIGF13Aw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/hq508yqbrmmzbhx921mzd6sya8pwh6vy-editline-1.17.1-dev
+URL: nar/1kfsx9rgvyh9r83h0cgkkikmvkn8hmf6lz6plyrlyysplv8kmngq.nar.xz
+Compression: xz
+FileHash: sha256:1kfsx9rgvyh9r83h0cgkkikmvkn8hmf6lz6plyrlyysplv8kmngq
+FileSize: 2336
+NarHash: sha256:1ky7b5vvh5v9zqjk89gqn6v9wbvp8nj6avdqzm5vg1x91fpx31s1
+NarSize: 7008
+References: hq508yqbrmmzbhx921mzd6sya8pwh6vy-editline-1.17.1-dev l2fb2q7h29x8d1p7k8hlzh9w4vnr51c6-editline-1.17.1
+Deriver: 2k9v12s130y45lhq4k04jn8ilx930yva-editline-1.17.1.drv

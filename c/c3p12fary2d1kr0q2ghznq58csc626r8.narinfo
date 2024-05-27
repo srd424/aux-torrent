@@ -1,0 +1,10 @@
+StorePath: /nix/store/c3p12fary2d1kr0q2ghznq58csc626r8-source-github.com-skvadrik-re2c-3.1
+URL: nar/0vwkw8q80wi0lazknc0p6rb7d7xcbw322l4vhk3fmy48imr0ygks.nar.xz
+Compression: xz
+FileHash: sha256:0vwkw8q80wi0lazknc0p6rb7d7xcbw322l4vhk3fmy48imr0ygks
+FileSize: 2659896
+NarHash: sha256:1pidrs6k6qrv163cq2c061a7lnlyn47r478qa5ld67dvphnmsdpg
+NarSize: 56993376
+References: 
+Deriver: mb7663jkw3zqx062f4sma5glaj6rflrc-source-github.com-skvadrik-re2c-3.1.drv
+CA: fixed:r:sha256:1pidrs6k6qrv163cq2c061a7lnlyn47r478qa5ld67dvphnmsdpg

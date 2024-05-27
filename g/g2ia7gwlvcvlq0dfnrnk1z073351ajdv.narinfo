@@ -1,0 +1,9 @@
+StorePath: /nix/store/g2ia7gwlvcvlq0dfnrnk1z073351ajdv-aws-c-auth-0.7.16.drv
+URL: nar/1bphx10xp31r5h03k026y375wyd30h29x7sk9m7sjh98nc2w7l26.nar.xz
+Compression: xz
+FileHash: sha256:1bphx10xp31r5h03k026y375wyd30h29x7sk9m7sjh98nc2w7l26
+FileSize: 1260
+NarHash: sha256:03zm33drgh5rjv1kw6g204yyyhppm2l6cpzr6vy766g84lhx6rml
+NarSize: 2736
+References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 6f0053vbg3fq9r0yqkfqdrankyig4m62-s2n-tls-1.4.9.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv f46cvz6i631cm7drg21gc7617i0vx1r4-aws-c-http-0.8.1.drv fl9gy9hf5vpv4ayia5smazcgzs368j77-aws-c-common-0.9.14.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv jnxk1b6xdqa223f6bmqpin7c8ill9m23-aws-c-sdkutils-0.1.15.drv p1qbl02g8nlavwk4a1nygyf98i2bd27c-aws-c-compression-0.2.18.drv r1rk0kz1di84kmj2ixnzwhwv26n8p4i6-source-github.com-awslabs-aws-c-auth-v0.7.16.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wzx4ga61pbcqsm9pljvlq4kg6ml958wk-aws-c-io-0.14.6.drv ynjf7ykfzza8fkzq73af1wqvdfvchiyz-aws-c-cal-0.6.10.drv
+CA: text:sha256:1m2qc4xfsr881daf3kqmf441xl1pk1if5xhxgi0pm9dvayzrf0rz

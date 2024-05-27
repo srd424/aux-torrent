@@ -1,0 +1,9 @@
+StorePath: /nix/store/cxh8cwlp0z4a7xl6bk7zsqr7ci1hzdq6-make-4.4.1.tar.gz.drv
+URL: nar/1s3jnpsnxsbyv1nm0sgkryqf5cm99yjfk6rxy1m8m0fal5q13qcr.nar.xz
+Compression: xz
+FileHash: sha256:1s3jnpsnxsbyv1nm0sgkryqf5cm99yjfk6rxy1m8m0fal5q13qcr
+FileSize: 504
+NarHash: sha256:16mw9fidak6zxbnfa2h9r3yy9rzyxikpvj2kv7nigwxx2k7xqxdf
+NarSize: 840
+References: 
+CA: text:sha256:0j34vrwa8yqk0zmiaf5ly7mgz73xscvww20wigy2zrjxygsqvvhz

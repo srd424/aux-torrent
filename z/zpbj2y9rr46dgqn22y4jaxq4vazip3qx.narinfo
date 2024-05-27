@@ -1,0 +1,9 @@
+StorePath: /nix/store/zpbj2y9rr46dgqn22y4jaxq4vazip3qx-rustc-1.77.1-man
+URL: nar/0v7r1qxj8kswm9z2csawii0j4080ljqjd736rr66m1ihmkqd8fgx.nar.xz
+Compression: xz
+FileHash: sha256:0v7r1qxj8kswm9z2csawii0j4080ljqjd736rr66m1ihmkqd8fgx
+FileSize: 5480
+NarHash: sha256:195fscqjlfb013yg64pjxli77k0djwy56nkmg1c6zagslw2vl232
+NarSize: 6208
+References: 
+Deriver: dj51shsmi9b2130m89gx48vla284n0wk-rustc-1.77.1.drv

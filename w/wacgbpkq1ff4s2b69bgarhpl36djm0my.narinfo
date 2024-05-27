@@ -1,0 +1,9 @@
+StorePath: /nix/store/wacgbpkq1ff4s2b69bgarhpl36djm0my-auto-patchelf.sh
+URL: nar/050hp643abpd77qrnihrj1hvghr3ly1ywbkfdfnpkjpjpjsxxcgp.nar.xz
+Compression: xz
+FileHash: sha256:050hp643abpd77qrnihrj1hvghr3ly1ywbkfdfnpkjpjpjsxxcgp
+FileSize: 1524
+NarHash: sha256:0q7faibivgpa6k8b997ikpv705qmyqqcc1x21j1sngyz8hvpsmlf
+NarSize: 4072
+References: 
+CA: fixed:r:sha256:0q7faibivgpa6k8b997ikpv705qmyqqcc1x21j1sngyz8hvpsmlf

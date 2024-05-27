@@ -1,0 +1,9 @@
+StorePath: /nix/store/3bg2w6gsv0wp5qgbwl091lgj99h8gp2b-perl-5.38.2-devdoc
+URL: nar/1cy16lw9grw4h6hba9a8yyhpk1nl4j03zka2j7r3757746s4bvq7.nar.xz
+Compression: xz
+FileHash: sha256:1cy16lw9grw4h6hba9a8yyhpk1nl4j03zka2j7r3757746s4bvq7
+FileSize: 2249876
+NarHash: sha256:07b1rp97znvkmyrl2f8rd17m9sdn0p190y7qfc8avrgrfjggmmjl
+NarSize: 2356128
+References: 
+Deriver: 63yr9k3w83lb87h0yalrpn4avh734jiz-perl-5.38.2.drv

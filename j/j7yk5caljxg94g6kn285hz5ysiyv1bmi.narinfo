@@ -1,0 +1,9 @@
+StorePath: /nix/store/j7yk5caljxg94g6kn285hz5ysiyv1bmi-parallel.patch
+URL: nar/17ylkz5b58bg5s970faxsiw72q8k0zyvq4nzb1jwkqvm785ccm9q.nar.xz
+Compression: xz
+FileHash: sha256:17ylkz5b58bg5s970faxsiw72q8k0zyvq4nzb1jwkqvm785ccm9q
+FileSize: 340
+NarHash: sha256:020c6cp9siq9n8vgi1vj8jky0rn57zr4c6psn8fw5bd231q5j2nc
+NarSize: 760
+References: 
+CA: fixed:r:sha256:020c6cp9siq9n8vgi1vj8jky0rn57zr4c6psn8fw5bd231q5j2nc

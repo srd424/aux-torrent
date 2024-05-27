@@ -1,0 +1,9 @@
+StorePath: /nix/store/h1ya0yz3i69df2977krpvfcywh37ailj-Class-Inspector-1.36.tar.gz.drv
+URL: nar/1z7cgvcnb0nq5nddpcpry8rpc5pqw42kbripkski0jg4zsh3fn9a.nar.xz
+Compression: xz
+FileHash: sha256:1z7cgvcnb0nq5nddpcpry8rpc5pqw42kbripkski0jg4zsh3fn9a
+FileSize: 1320
+NarHash: sha256:0cwwpkwlf28xdmal8avl0h733h6i5ilzbvlsnpfcvp0dk1bw971k
+NarSize: 3024
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0q8z8zjx7mbb5zfm7qgrblg8d1mrkhrrcv3s61as2d7hlqip558l

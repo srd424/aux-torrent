@@ -1,0 +1,9 @@
+StorePath: /nix/store/0qzs4kq2lvl09k80nf54bl00hd2ylfam-tag-date.patch
+URL: nar/0q3wsjqljipy408rww06c00ns6r83js57y92l9wsjb3a7b39zdnk.nar.xz
+Compression: xz
+FileHash: sha256:0q3wsjqljipy408rww06c00ns6r83js57y92l9wsjb3a7b39zdnk
+FileSize: 276
+NarHash: sha256:0cwidvhf1071fhxrzl2aahbbvqjxwlrb2ldvx64vjcx4iy6n0ki1
+NarSize: 336
+References: 
+CA: fixed:r:sha256:0cwidvhf1071fhxrzl2aahbbvqjxwlrb2ldvx64vjcx4iy6n0ki1

@@ -1,0 +1,9 @@
+StorePath: /nix/store/jxhwnvkpxrbl5rrf01zf3cf2p7v215pb-findutils-4.9.0.tar.xz.drv
+URL: nar/1sswcmdj0c07sf6hrvp5vipakl1vjny71vjxd9scrrbw30p771gi.nar.xz
+Compression: xz
+FileHash: sha256:1sswcmdj0c07sf6hrvp5vipakl1vjny71vjxd9scrrbw30p771gi
+FileSize: 508
+NarHash: sha256:19a0gcypvmdkhyx509scp4bjc41vmxahxhi43fwvn6w9gksdh6f0
+NarSize: 872
+References: 
+CA: text:sha256:1r53mmb395r17fdjzjb1j72qxwhy7w9hswm3swza2ay427s9yn9h

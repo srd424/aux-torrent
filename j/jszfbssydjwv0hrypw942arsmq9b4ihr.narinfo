@@ -1,0 +1,11 @@
+StorePath: /nix/store/jszfbssydjwv0hrypw942arsmq9b4ihr-audit-3.1.2.tar.gz
+URL: nar/1lrv3k4lypvrqydw3slg7vfh2kdgyfyjfrhy7siy5h1s5z53x7p4.nar.xz
+Compression: xz
+FileHash: sha256:1lrv3k4lypvrqydw3slg7vfh2kdgyfyjfrhy7siy5h1s5z53x7p4
+FileSize: 1217416
+NarHash: sha256:003z7sfz8qh61j45p4q56jpcsjr5hm4phalawrhwg3ima2prcvbh
+NarSize: 1219976
+References: 
+Deriver: b5qajs07xmc4lg6kzg55g4rz15mbxsvk-audit-3.1.2.tar.gz.drv
+Sig: cache.nixos.org-1:DExSDnZuPxsIj6tYoHo1uUKn5LbYWTsCbsVXtRRFdKGaFJ9YD8GUp+rhZMWybH/qI6f6Lw+QYDBTbzkIguV0Dw==
+CA: fixed:sha256:0z987l8aw3m9kik9fb3id3y5jw4qpff50447hbqwd20a3wnpkcf0

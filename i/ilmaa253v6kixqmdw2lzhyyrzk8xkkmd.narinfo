@@ -1,0 +1,11 @@
+StorePath: /nix/store/ilmaa253v6kixqmdw2lzhyyrzk8xkkmd-setuptools-scm-8.0.4.tar.gz
+URL: nar/0kwzsl9c6bfyf3bbganbaivqmhbvjf1saw6z3s96cm4l1ynfqlmg.nar.xz
+Compression: xz
+FileHash: sha256:0kwzsl9c6bfyf3bbganbaivqmhbvjf1saw6z3s96cm4l1ynfqlmg
+FileSize: 74456
+NarHash: sha256:12d2kimsif18xspszgkzqh128vk1h7rmrrx2szrq2gvb718cpfsj
+NarSize: 74392
+References: 
+Deriver: g6mgv53zbnmv1ckmf6mmclnvac0gaw62-setuptools-scm-8.0.4.tar.gz.drv
+Sig: cache.nixos.org-1:Ov8J/vDNBPqHBjmfs8LiA0Wi8gbkBcPh4e4trOrim3kOX5K4Duh6/hLHDEf34SpNQIPrtdOVdblNSVKxB4qvAw==
+CA: fixed:sha256:1iwm3hp3mm864m5snv0rrdyiv7gfchaqj2gxjd8mjs86h3v3zx5m

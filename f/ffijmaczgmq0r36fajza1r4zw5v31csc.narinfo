@@ -1,0 +1,9 @@
+StorePath: /nix/store/ffijmaczgmq0r36fajza1r4zw5v31csc-opensp-1.5.2
+URL: nar/0b3qwc5qdxw908l8ws8g47sinwf6zca1v0akszwy2vnldr4ccr52.nar.xz
+Compression: xz
+FileHash: sha256:0b3qwc5qdxw908l8ws8g47sinwf6zca1v0akszwy2vnldr4ccr52
+FileSize: 984892
+NarHash: sha256:172wlcyw4i2bpifwir4f3hz47rn8sbzdybx09ahjs0h5j1l04wgq
+NarSize: 4468792
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib ffijmaczgmq0r36fajza1r4zw5v31csc-opensp-1.5.2
+Deriver: jwjvfjhgby3a2nqnmf6p940p9rafrck7-opensp-1.5.2.drv

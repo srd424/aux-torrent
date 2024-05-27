@@ -1,0 +1,9 @@
+StorePath: /nix/store/gs4zn05d8n7wy30hzr2kijbia9gsf1l8-toml11-3.7.1.drv
+URL: nar/05bzf6vadxakbyzbwm19n9kvw8af55n1nrg5w6gif009yy85pphp.nar.xz
+Compression: xz
+FileHash: sha256:05bzf6vadxakbyzbwm19n9kvw8af55n1nrg5w6gif009yy85pphp
+FileSize: 788
+NarHash: sha256:01gl2bgvm51dl71djynmslg1nh64qbsz6zy0lbknam4xf5q3hr0n
+NarSize: 1696
+References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv 9wczmnvcr3klq7dgx01p29g5jj397liv-source-github.com-ToruNiina-toml11-v3.7.1.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1iwsjf44szx8kvfj24ybrv9dcr1iqky6qlsf6rrcjs2v9hj9p9mn

@@ -1,0 +1,9 @@
+StorePath: /nix/store/1kvr4k6xs8v1h2x6vclfwkjg64zrlfxn-bzip2-1.0.6.2-autoconfiscated.patch.drv
+URL: nar/1sr6fnzv0985dv20kalzy79yvnhlzxhygwpd1x5zk2niigyv3rcn.nar.xz
+Compression: xz
+FileHash: sha256:1sr6fnzv0985dv20kalzy79yvnhlzxhygwpd1x5zk2niigyv3rcn
+FileSize: 532
+NarHash: sha256:1a9c6wigfjvvs15hwfdkqh889w0nl58qn8g6jb9rr6717nhpdmk6
+NarSize: 984
+References: 
+CA: text:sha256:0g0mf8ls9bbgizaqwi545inpzpvsn60sm13rj44wxyby6hbb43w3

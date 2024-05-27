@@ -1,0 +1,9 @@
+StorePath: /nix/store/9w5d7dvq3iswg25a70swnj3x859rjyml-python3.11-pytest-asyncio-0.23.6-testout
+URL: nar/07496zk49lsmwfkwll8nv242x69q150fg9dcc1z9r22knmmmq10m.nar.xz
+Compression: xz
+FileHash: sha256:07496zk49lsmwfkwll8nv242x69q150fg9dcc1z9r22knmmmq10m
+FileSize: 9644
+NarHash: sha256:04s7jhrh8qmv14n36iyhj5ixdx8fs0val2vbl80a7h38ym4fj4l0
+NarSize: 112984
+References: 
+Deriver: zzi06v6ybxznrj80a6v9b6x1k4l5wd5v-python3.11-pytest-asyncio-0.23.6.drv

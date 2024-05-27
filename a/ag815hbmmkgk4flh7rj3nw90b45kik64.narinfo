@@ -1,0 +1,9 @@
+StorePath: /nix/store/ag815hbmmkgk4flh7rj3nw90b45kik64-wrap.sh
+URL: nar/13x3xck0b1x6j9zvjbc9n11ypms3q9p8lfkf7q8g1h0c4pybdr0d.nar.xz
+Compression: xz
+FileHash: sha256:13x3xck0b1x6j9zvjbc9n11ypms3q9p8lfkf7q8g1h0c4pybdr0d
+FileSize: 2208
+NarHash: sha256:1dn968bdf53a0r68yjva1cfkfj227l2gwlvsapxgsc4zahkn1a7d
+NarSize: 5648
+References: 
+CA: fixed:r:sha256:1dn968bdf53a0r68yjva1cfkfj227l2gwlvsapxgsc4zahkn1a7d

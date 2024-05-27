@@ -1,0 +1,9 @@
+StorePath: /nix/store/vcd9jfi8sffap2fz1vknq66s522vyjl8-doxygen-1.10.0-examples
+URL: nar/1v1ll5x531bhgrlkkcq2dl2nj77mypxsx3dyga06p61i36wgqz2l.nar.xz
+Compression: xz
+FileHash: sha256:1v1ll5x531bhgrlkkcq2dl2nj77mypxsx3dyga06p61i36wgqz2l
+FileSize: 8704
+NarHash: sha256:0b6z6bza0p62c16wj52519p539sdxqcwn1lm7lgmyv88z0iivx1f
+NarSize: 45544
+References: 
+Deriver: z0a6lql6b9b6k6pb566s737lvm0nvm0f-doxygen-1.10.0.drv

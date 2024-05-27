@@ -1,0 +1,9 @@
+StorePath: /nix/store/00yc5fc9s35111qvjzcbfwf0v9q0m6qx-python3.11-bootstrap-installer-0.7.0
+URL: nar/10cfnwnwb5vy089mx4mzwrmz21sp5airpaqbydfnfw9n4xzdzwac.nar.xz
+Compression: xz
+FileHash: sha256:10cfnwnwb5vy089mx4mzwrmz21sp5airpaqbydfnfw9n4xzdzwac
+FileSize: 225264
+NarHash: sha256:1m4hvaq7va7mnhc4pmhpqjkfhr5ji0sfzlab594cwy75749381ds
+NarSize: 1108432
+References: 
+Deriver: qyhsslsml3k0jrm9slmlsx8ylndaasj1-python3.11-bootstrap-installer-0.7.0.drv

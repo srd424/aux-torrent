@@ -1,0 +1,27 @@
+{
+  "announce": "http://bt.aux-cache.dev:9996/announce",
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716812683,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 1934472,
+        "path": [
+          "nar",
+          "0j6d8wkfiylq1nsc8scpg8b3jlbydzisgsmbz2pq04zxsp6ypxzj.nar.xz"
+        ]
+      },
+      {
+        "length": 608,
+        "path": [
+          "sbgnxfgpv7blvw2kpzyw18x8lfx1hban.narinfo"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "/0bx7guLq3CRgBB1n3UkqUgS629VHm3t32WS1famF8HKyzcWDzpRcbh8d3L6Sn7MTj0wS9M+C7It\nA8hizpbhezMryRStH5Nj0S0g98AuhHm1fvAXvMin5DfLx3Invfv2HAtH19TdBNc1UalTN4l5cdfG\nC0tQaAvpRlcGwaQ1nwKDdgIvQeCMP8LFpFU8xSL0Nix4glRw5+0bQwaHgoQ6CfUjX/SkJR+tEEch\nszrhHyM5NyvRUbVxjS7IxyI03ObFF1hVVYrmSlIe+43wLmNxIXx0cASgq6pyZou6MEnpgPW55nDT\nOYsmqUSPD/XIczwR4M+4g12X8da4Bse9+U03R8TJB9UHd33Ur09Sgk+fa/kM3I8QC/k/Zs5Zci+Q\ne5DN/QRzyqH8+BOlR7PlFWjzIo0ns1dEZ1/W7iZTrngVVK4LCzONSsC80hkbfcvcCbAknVYTBAnR\nfLtymv7QklHcMgUK/x5jtIfy3LYmqN8e4cPLuGS45fKXUSDETHcPtxyre13h9hVGGn1cDX77M/Xd\na7f1ima+cUOD/xyZx9VN/P9/PztJClOeXlNlIL599CJBgaKlK1kbbSc/1vBk600ugvZrtGFwqR9D\nfmDrMiKuIm9Dc2rFwKM28lHkXsiUTSNohyrHA7XkoK6hHPG7T9fNOd0gBFVUvhgpb6psGWwBooh2\neo+OxhIJAFksny0vCDAQOaXqlut2nGbxc1Hc6zlx8TTyW+M2AJZN0il6q1x7xyhsya17kEjqic3t\nEQIzgtHNH9r926O0yyrh+SSxczBF3CL5pD0+1yU4+RSCKyx6XCmyZ/c49YpNytLm9JlVWB/S8asi\nue3krcmAGalh/Uzm/+Z2mp2+4o58ys5VUGPwNN4IX4k8ToHwntZyLC9+eTin6RgARVM4JGmF7POg\n2AKy5HqP29Fe2STApUgWdum6k+6fOqURjiqA6P3ieJU+DTOgwwSFM5A7tVHGmUv+QpydqkbZUye1\nXiMAb7CmH3Li5HyBFL2TLVCJR9krKNS8yNl4B6Ta9lALTSmyXG+yZh3zybH4bKJ2mihtqvJxmVvq\nF8plXukd9gdwj14h1kFPg0FWHt3t+mSVxT7EsQ0vED2R2U8V+/03BvNYJYx2ZF4A6C6Vk6layjwn\nM03YYtPDWBuYUfdghVkKsz8k6Uvy+6fmAkDnzQ/qru4ewYRkAshPWuOjh1Kh2yDALoPElpvA5IRy\njd0zI8t5axwOtfZAfgf/V88eLRZlpYJMEPJvmoBuLDt4t8AYSg/S4q1Jv5uVwIO4tk8dGKsqIGsY\nERxDlbG6T3+Ov7UvGIZItiH9ACSWgdVaYwobsua+119UktUr0le/GgWp68IEIP9rvc5e00/P5IRt\nUBeuqogBSngsD68dUlBXKT+2WeAPWNHWFvpUkUmBNfnadxDQt0vQ3BNlJWGT7YWzdCgDbaDV9Msx\nHOaLsk7liOX0bNExxpnYxPIGALgscrcUI+AtL9nLvtRfT4RHVQSbcuS8QQOKpy3aJTfijQgZGeHh\nnMc/sj3MlTg4+uW+KC3fLWImfWUEUAPoHpQPMyO1+Mh/TSXJdTiHA+9mwnWMQL8ywYHC/1CXHgxZ\nJ8n2\n",
+    "private": 0
+  }
+}

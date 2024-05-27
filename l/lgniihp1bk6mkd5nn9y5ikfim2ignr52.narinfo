@@ -1,0 +1,9 @@
+StorePath: /nix/store/lgniihp1bk6mkd5nn9y5ikfim2ignr52-0001-libtool.m4-update-macos-version-detection-block.patch
+URL: nar/08n1i4da02hiqbyrjwy5lszb0j65x4fq6j2wcl83vrqf3yi1zzdc.nar.xz
+Compression: xz
+FileHash: sha256:08n1i4da02hiqbyrjwy5lszb0j65x4fq6j2wcl83vrqf3yi1zzdc
+FileSize: 880
+NarHash: sha256:06dg33cgwsnj3k6wx4v4nr8sf146pjq0qj7n7by1nwynhgwa0hpa
+NarSize: 1904
+References: 
+CA: fixed:r:sha256:06dg33cgwsnj3k6wx4v4nr8sf146pjq0qj7n7by1nwynhgwa0hpa

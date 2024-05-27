@@ -1,0 +1,9 @@
+StorePath: /nix/store/r112dk8w7zvdjipki58ch00m825li7fq-virtualenv-permissions.patch
+URL: nar/1l3fi0z5hhl09312b48cwnnqs0gq15gdgs3a21simkg9yj5kbj64.nar.xz
+Compression: xz
+FileHash: sha256:1l3fi0z5hhl09312b48cwnnqs0gq15gdgs3a21simkg9yj5kbj64
+FileSize: 384
+NarHash: sha256:03aa518dfh729j733jg5nxlh8aaah6nycdw1w2ymm19vb2h1lcfz
+NarSize: 592
+References: 
+CA: fixed:r:sha256:03aa518dfh729j733jg5nxlh8aaah6nycdw1w2ymm19vb2h1lcfz

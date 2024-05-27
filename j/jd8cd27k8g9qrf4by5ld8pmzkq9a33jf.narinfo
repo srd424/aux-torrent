@@ -1,0 +1,9 @@
+StorePath: /nix/store/jd8cd27k8g9qrf4by5ld8pmzkq9a33jf-cargo-vendor-normalise.py
+URL: nar/1qmr2xn3hhvhzl4dsr5y94jgajprk3y90nsb8ggcl0cgshmjcip2.nar.xz
+Compression: xz
+FileHash: sha256:1qmr2xn3hhvhzl4dsr5y94jgajprk3y90nsb8ggcl0cgshmjcip2
+FileSize: 664
+NarHash: sha256:0zvbhd926yrqm1kcfrjf8hdq9sgh1xz1hni2sqsd6js196dd57r8
+NarSize: 1240
+References: 
+CA: fixed:r:sha256:0zvbhd926yrqm1kcfrjf8hdq9sgh1xz1hni2sqsd6js196dd57r8

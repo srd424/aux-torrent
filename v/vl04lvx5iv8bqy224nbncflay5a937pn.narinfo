@@ -1,0 +1,9 @@
+StorePath: /nix/store/vl04lvx5iv8bqy224nbncflay5a937pn-CUnit-2.1-3.tar.bz2.drv
+URL: nar/1qx9hd58xq8j1qm0qspglp6l30mvf57wm5h1z6jgnz04sj3qqd4q.nar.xz
+Compression: xz
+FileHash: sha256:1qx9hd58xq8j1qm0qspglp6l30mvf57wm5h1z6jgnz04sj3qqd4q
+FileSize: 1308
+NarHash: sha256:07xngz2896wy4yl8gf3igds8pp7z8l7nxp49pgap3hlpnsp8620w
+NarSize: 3016
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0xpkjx8dal5pqmd2ichsddcnvvg5zlyggqnsj5zfpwblmad99ps8

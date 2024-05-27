@@ -1,0 +1,9 @@
+StorePath: /nix/store/gx4pa1m75g8rrrggj7gi3bg38m4lg3q5-sitecustomize.py
+URL: nar/0g07srgyhcmsnjmr9ydjzgbjcrkryw7d1ai9masyk9xkwnqmvl62.nar.xz
+Compression: xz
+FileHash: sha256:0g07srgyhcmsnjmr9ydjzgbjcrkryw7d1ai9masyk9xkwnqmvl62
+FileSize: 948
+NarHash: sha256:1mdzvpxvs3k0lmxarljza4vslkrys7fcxyf20lqj52jbyq1d6y1s
+NarSize: 1776
+References: 
+CA: fixed:r:sha256:1mdzvpxvs3k0lmxarljza4vslkrys7fcxyf20lqj52jbyq1d6y1s

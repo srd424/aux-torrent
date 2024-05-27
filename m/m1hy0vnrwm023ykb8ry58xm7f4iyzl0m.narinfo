@@ -1,0 +1,10 @@
+StorePath: /nix/store/m1hy0vnrwm023ykb8ry58xm7f4iyzl0m-source-github.com-awslabs-aws-checksums-v0.1.18
+URL: nar/06bjr8daj0ykvk5k0iyl714zi685igi4h6rjxd20mlyl9f3xwrlm.nar.xz
+Compression: xz
+FileHash: sha256:06bjr8daj0ykvk5k0iyl714zi685igi4h6rjxd20mlyl9f3xwrlm
+FileSize: 58192
+NarHash: sha256:1lwbs5b89z4z8pswlfhj4fn73flwmr060byy3apqfay8rxmia4hj
+NarSize: 213168
+References: 
+Deriver: y4wdw2fnc3yc19l4k4kkfygg6f5hs9bn-source-github.com-awslabs-aws-checksums-v0.1.18.drv
+CA: fixed:r:sha256:1lwbs5b89z4z8pswlfhj4fn73flwmr060byy3apqfay8rxmia4hj

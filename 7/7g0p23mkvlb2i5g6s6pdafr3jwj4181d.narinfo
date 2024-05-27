@@ -1,0 +1,9 @@
+StorePath: /nix/store/7g0p23mkvlb2i5g6s6pdafr3jwj4181d-python-runtime-deps-check-hook.sh
+URL: nar/0j7ha7fipx6qxv7b8fl3vzq98ybnp6iwry1h0jb0llczg81yjvjv.nar.xz
+Compression: xz
+FileHash: sha256:0j7ha7fipx6qxv7b8fl3vzq98ybnp6iwry1h0jb0llczg81yjvjv
+FileSize: 632
+NarHash: sha256:0l3x3znn05aymf6r4hwvqxyi2xbawjgc932vzfzhmxrq0q473bcs
+NarSize: 1448
+References: 3zfapcn01gk5wjab7va7lfnd690d90ps-python3.11-packaging-24.0 gdxd1rn8zgjjw08ijghvpazj18n4sjl6-python-runtime-deps-check-hook.py glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
+Deriver: nfq0j1709x5nwbsrzx3l9f01hidy0sxb-python-runtime-deps-check-hook.sh.drv

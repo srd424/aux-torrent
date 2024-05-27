@@ -1,0 +1,9 @@
+StorePath: /nix/store/p2ynpdqzm8lfdq6xywa8igkjp56b8q65-ld-wrapper.sh
+URL: nar/1sxmjq805mdnizk7w28ink9fapm9xcn77fachldlcmzlgymkva9v.nar.xz
+Compression: xz
+FileHash: sha256:1sxmjq805mdnizk7w28ink9fapm9xcn77fachldlcmzlgymkva9v
+FileSize: 3176
+NarHash: sha256:1zz4nkk9b7jkwz3xpiy4anc71qvqjccay2bdq0vf6xr98l7h2ggz
+NarSize: 9024
+References: 
+CA: fixed:r:sha256:1zz4nkk9b7jkwz3xpiy4anc71qvqjccay2bdq0vf6xr98l7h2ggz

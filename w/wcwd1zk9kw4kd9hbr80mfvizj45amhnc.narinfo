@@ -1,0 +1,10 @@
+StorePath: /nix/store/wcwd1zk9kw4kd9hbr80mfvizj45amhnc-source-github.com-rust-secure-code-cargo-auditable-v0.6.2
+URL: nar/0jzgxfdjxszkd1wz5iby4ncilq88x86k5jfbb2vzxqh4sx8raqm7.nar.xz
+Compression: xz
+FileHash: sha256:0jzgxfdjxszkd1wz5iby4ncilq88x86k5jfbb2vzxqh4sx8raqm7
+FileSize: 40780
+NarHash: sha256:0kv0vbzija889wnfsjkgm0hz295ymhfp15pnxzmajybgs73k64hi
+NarSize: 211488
+References: 
+Deriver: 10i497fl3ml6wxa6nmgaa5gyqsppsfqc-source-github.com-rust-secure-code-cargo-auditable-v0.6.2.drv
+CA: fixed:r:sha256:0kv0vbzija889wnfsjkgm0hz295ymhfp15pnxzmajybgs73k64hi

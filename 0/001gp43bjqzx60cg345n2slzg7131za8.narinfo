@@ -1,0 +1,9 @@
+StorePath: /nix/store/001gp43bjqzx60cg345n2slzg7131za8-nix-nss-open-files.patch
+URL: nar/1arz2xaw1vw1cdwbqfs65jvrfz9wznvxccsxygh2s9pa1s8pk25a.nar.xz
+Compression: xz
+FileHash: sha256:1arz2xaw1vw1cdwbqfs65jvrfz9wznvxccsxygh2s9pa1s8pk25a
+FileSize: 760
+NarHash: sha256:10w02iccr1pnkrfnhxb0ghfizq42pq6nxgplrdgl9f0bfazxdli2
+NarSize: 1656
+References: 
+CA: fixed:r:sha256:10w02iccr1pnkrfnhxb0ghfizq42pq6nxgplrdgl9f0bfazxdli2

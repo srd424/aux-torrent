@@ -1,6 +1,7 @@
 {
+  "announce": "http://bt.aux-cache.dev:9996/announce",
   "created by": "Transmission/3.00 (bb6b5a062e)",
-  "creation date": 1716211718,
+  "creation date": 1716811800,
   "encoding": "UTF-8",
   "info": {
     "files": [

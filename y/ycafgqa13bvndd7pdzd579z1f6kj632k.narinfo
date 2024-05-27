@@ -1,0 +1,9 @@
+StorePath: /nix/store/ycafgqa13bvndd7pdzd579z1f6kj632k-rapidcheck-unstable-2023-12-14-dev
+URL: nar/0gf4jj138bk2r3hadi3s17bwkjc89sc0kdi1vkqlpa7nxb9g7yws.nar.xz
+Compression: xz
+FileHash: sha256:0gf4jj138bk2r3hadi3s17bwkjc89sc0kdi1vkqlpa7nxb9g7yws
+FileSize: 48744
+NarHash: sha256:00pkx4s38j2za9lph8sp19p33wfnrz11z2rxplz3b5j33kskgz8l
+NarSize: 318592
+References: rmhk0kqz4jnwnmq3kcxq6nbid35zrnsz-rapidcheck-unstable-2023-12-14 ycafgqa13bvndd7pdzd579z1f6kj632k-rapidcheck-unstable-2023-12-14-dev
+Deriver: 41p00hpp8l5mvfwj7xv5fx9hrxxnvx4c-rapidcheck-unstable-2023-12-14.drv

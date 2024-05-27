@@ -1,0 +1,9 @@
+StorePath: /nix/store/z0sjg5c7g1iqb4x5vyiqcm5n68mb5x5p-0001-Remove-unused-function-after_eq.patch
+URL: nar/1w96sphpbn0wvs4ycl0mbwir1y79vn3lwp5dz6vf33yfb6r61ccz.nar.xz
+Compression: xz
+FileHash: sha256:1w96sphpbn0wvs4ycl0mbwir1y79vn3lwp5dz6vf33yfb6r61ccz
+FileSize: 560
+NarHash: sha256:1sn418awkl6nwqky5wias14x19nhh5kmzsvkbbz5qyjwrpk77lnq
+NarSize: 768
+References: 
+CA: fixed:r:sha256:1sn418awkl6nwqky5wias14x19nhh5kmzsvkbbz5qyjwrpk77lnq

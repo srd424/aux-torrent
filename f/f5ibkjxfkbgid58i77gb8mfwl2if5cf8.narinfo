@@ -1,0 +1,9 @@
+StorePath: /nix/store/f5ibkjxfkbgid58i77gb8mfwl2if5cf8-python3.11-bootstrap-packaging-24.0
+URL: nar/06qpkcd9iaj0rwgdij6qy14yk449c55005jilf5pdlf5nqglif14.nar.xz
+Compression: xz
+FileHash: sha256:06qpkcd9iaj0rwgdij6qy14yk449c55005jilf5pdlf5nqglif14
+FileSize: 95992
+NarHash: sha256:1faxjsf640vi2b2ifszj31kpvxb9h7ac1hfvkz29v95rz7wkvn6a
+NarSize: 574000
+References: 
+Deriver: mngd5187csvlijbpzql991yd89msxjaq-python3.11-bootstrap-packaging-24.0.drv

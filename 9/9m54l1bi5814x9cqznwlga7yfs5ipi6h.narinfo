@@ -1,0 +1,9 @@
+StorePath: /nix/store/9m54l1bi5814x9cqznwlga7yfs5ipi6h-nuke-refs.sh
+URL: nar/09wj15w1l2mvy20maw7202ps26b91fm7wrp5j5fi60d7f74g1k0j.nar.xz
+Compression: xz
+FileHash: sha256:09wj15w1l2mvy20maw7202ps26b91fm7wrp5j5fi60d7f74g1k0j
+FileSize: 580
+NarHash: sha256:12c3w5pk376v6fzy5klj0r0va62i6h14cc56zkvkblimkyh5nd4s
+NarSize: 1000
+References: 
+CA: fixed:r:sha256:12c3w5pk376v6fzy5klj0r0va62i6h14cc56zkvkblimkyh5nd4s

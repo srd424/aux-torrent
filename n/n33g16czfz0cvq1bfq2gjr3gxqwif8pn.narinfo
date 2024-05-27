@@ -1,0 +1,9 @@
+StorePath: /nix/store/n33g16czfz0cvq1bfq2gjr3gxqwif8pn-cross-file.conf
+URL: nar/19nsrf3q180nyw6iggcr114iddxx0wlsa3h2by4hwrnwci50a8m0.nar.xz
+Compression: xz
+FileHash: sha256:19nsrf3q180nyw6iggcr114iddxx0wlsa3h2by4hwrnwci50a8m0
+FileSize: 312
+NarHash: sha256:0j1n0dkdrm3x21haz4asm2n60rz9zkrkfypgpv3y94a8jgwp4a3m
+NarSize: 416
+References: 
+CA: text:sha256:08vp1fkz8cg17rcllrr6mc687mrcls0l2fqya7j2v4n052vqyj99

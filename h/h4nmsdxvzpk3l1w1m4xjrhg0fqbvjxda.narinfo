@@ -1,0 +1,9 @@
+StorePath: /nix/store/h4nmsdxvzpk3l1w1m4xjrhg0fqbvjxda-0001-build-Make-includedir-properly-overrideable.patch
+URL: nar/1g94yapadrnkk7qxawy165saa3c154qy069b0racsh3zm200i4pw.nar.xz
+Compression: xz
+FileHash: sha256:1g94yapadrnkk7qxawy165saa3c154qy069b0racsh3zm200i4pw
+FileSize: 1024
+NarHash: sha256:0s08gxcjighqphrz0714ilrz618jxhswm89pywa2xz0ndb4f21ni
+NarSize: 3088
+References: 
+CA: fixed:r:sha256:0s08gxcjighqphrz0714ilrz618jxhswm89pywa2xz0ndb4f21ni

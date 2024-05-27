@@ -1,0 +1,11 @@
+StorePath: /nix/store/4sx9hx3mysbnglik32c0b9grbmr5bw3a-pyproject_hooks-1.0.0.tar.gz
+URL: nar/0sk7ddkgsnwxfh6k7xyc4w2rm3ivh7bmfvaki6r82dadqi84f0qv.nar.xz
+Compression: xz
+FileHash: sha256:0sk7ddkgsnwxfh6k7xyc4w2rm3ivh7bmfvaki6r82dadqi84f0qv
+FileSize: 17008
+NarHash: sha256:1vagbbksprgxfdphgv14bzwdcbw4i67f3vmndfnq0dafkirj0fgr
+NarSize: 17016
+References: 
+Deriver: 3yd371pl0lzkfikxpxrva5kvr40fnvrk-pyproject_hooks-1.0.0.tar.gz.drv
+Sig: cache.nixos.org-1:E8I6hJcb1RhfQWfSRNCWFOq6G3pscVgQK/UfvQagqqJ7R47vo4FhJqKteHt3Xa9RpZbBHCKFB+qaH4bCqqfUAw==
+CA: fixed:sha256:1xaf4sharvacqlav6w3b38nc4j0rzg0p4axi7zamanbzp6cb4wgj

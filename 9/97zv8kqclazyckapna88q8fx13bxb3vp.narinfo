@@ -1,0 +1,11 @@
+StorePath: /nix/store/97zv8kqclazyckapna88q8fx13bxb3vp-revert-runpath.patch
+URL: nar/1xvjpdky9q1aaxr87lhhzzg5qxbhn7hv06jfnhm4yk40pbwdpnsb.nar.xz
+Compression: xz
+FileHash: sha256:1xvjpdky9q1aaxr87lhhzzg5qxbhn7hv06jfnhm4yk40pbwdpnsb
+FileSize: 356
+NarHash: sha256:1wd0w5s5wcqymgpbsls3yr0q2xnlpmwxyj7kf72zfrnvipig1nvx
+NarSize: 456
+References: 
+Deriver: iv5zzzam8kkpg8w7d1j21hf9gn4snsds-revert-runpath.patch.drv
+Sig: cache.nixos.org-1:8rQXK4ciunyZa2U9U5k4JvfIkLdRECF98BtsrG8zlEirL1gOmy4kTAgOc7+yG4tPy4MA/b006IdWI7HW/aW1Bg==
+CA: fixed:sha256:0cz99nxqkkmr26pq78nv85zkwfmg2333k3n2cbwgw77893fdhwjv

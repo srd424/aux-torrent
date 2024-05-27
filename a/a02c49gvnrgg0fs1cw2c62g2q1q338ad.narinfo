@@ -1,0 +1,9 @@
+StorePath: /nix/store/a02c49gvnrgg0fs1cw2c62g2q1q338ad-fix-makefiles.patch
+URL: nar/0jjqhvyj44105cqj0iljiwgamg501mfdkcimjp8rfqnvp5iffn5i.nar.xz
+Compression: xz
+FileHash: sha256:0jjqhvyj44105cqj0iljiwgamg501mfdkcimjp8rfqnvp5iffn5i
+FileSize: 744
+NarHash: sha256:130sam49wzk7hg8cim87dcwvfs9iw3d7v0a25cy4ril2sn88hcw8
+NarSize: 1720
+References: 
+CA: fixed:r:sha256:130sam49wzk7hg8cim87dcwvfs9iw3d7v0a25cy4ril2sn88hcw8

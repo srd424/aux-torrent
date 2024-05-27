@@ -1,0 +1,9 @@
+StorePath: /nix/store/sjlm8agj6m3cpglc5v11d40cj7j6kin2-fix-static.patch.drv
+URL: nar/1y17paj2iq9ap87cyb95ng6bdvis25ybqxr1sh6xgv4qf60cgzqx.nar.xz
+Compression: xz
+FileHash: sha256:1y17paj2iq9ap87cyb95ng6bdvis25ybqxr1sh6xgv4qf60cgzqx
+FileSize: 560
+NarHash: sha256:140lh0a1j2h172q6dhzgj4vzj28qy3wbjr028whxxb31a0qzy0ar
+NarSize: 960
+References: 
+CA: text:sha256:1ravx4jpkdlbpxrgha5bjsz4l6639q622zd9zyqwvdzrpqqfqc41

@@ -1,0 +1,10 @@
+StorePath: /nix/store/jq16my5vg3ix9xqv9f6wvx7q3w7y49ql-source-github.com-pypa-build-refs-tags-1.2.1
+URL: nar/14iv8sjgkgfxzps198laznh443fkh1fz8myib3b19p4yb3vxlfnp.nar.xz
+Compression: xz
+FileHash: sha256:14iv8sjgkgfxzps198laznh443fkh1fz8myib3b19p4yb3vxlfnp
+FileSize: 39412
+NarHash: sha256:1lia3fzwx66n24fk5vg29rgk1v341dhjhn89p4a07cbxzpb3wj0v
+NarSize: 187840
+References: 
+Deriver: 6caibhy3aj1g5l0xijbdz6mcs3krvzpj-source-github.com-pypa-build-refs-tags-1.2.1.drv
+CA: fixed:r:sha256:1lia3fzwx66n24fk5vg29rgk1v341dhjhn89p4a07cbxzpb3wj0v

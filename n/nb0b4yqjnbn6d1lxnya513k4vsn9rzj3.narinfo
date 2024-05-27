@@ -1,0 +1,9 @@
+StorePath: /nix/store/nb0b4yqjnbn6d1lxnya513k4vsn9rzj3-perl5.38.2-LWP-MediaTypes-6.04.drv
+URL: nar/19x4a8p2kwmjf7ryi9v6hlwv5b8r7as5d4gwq2ydcd4rz3zfmq4i.nar.xz
+Compression: xz
+FileHash: sha256:19x4a8p2kwmjf7ryi9v6hlwv5b8r7as5d4gwq2ydcd4rz3zfmq4i
+FileSize: 992
+NarHash: sha256:0xgs7n89cmzx19zb0ig2rxs0py2z1igfdpabp0ix0x5ql2qq6nhw
+NarSize: 2344
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv cw41fj1m4v41w0z7biy1xaw7ncy0irjf-perl5.38.2-Test-Fatal-0.017.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv x60a5l01djp1qlbhijz2ky55rq4shiir-LWP-MediaTypes-6.04.tar.gz.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:1mivjyz86gcp6whyj6qfq45x96w1hzyp0ya0vabxwgbsb564zbv0

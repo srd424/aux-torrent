@@ -1,0 +1,9 @@
+StorePath: /nix/store/lz94ckyms1vlzpvh6dv6n95i8j9jiz1k-nss-cacert-3.98-p11kit
+URL: nar/025n7hj5cc7rqicldysl716zjxmlswla9gx4qjn3s2k5yrls416x.nar.xz
+Compression: xz
+FileHash: sha256:025n7hj5cc7rqicldysl716zjxmlswla9gx4qjn3s2k5yrls416x
+FileSize: 196520
+NarHash: sha256:1cikqvinksi5vaifljyk6v6r9zmah9s55pyldn86x3xn513ji4mn
+NarSize: 440912
+References: 
+Deriver: 65lbsqrmlk11dabhlwddqav53mkny6ij-nss-cacert-3.98.drv

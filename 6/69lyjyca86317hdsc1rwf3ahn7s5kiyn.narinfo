@@ -1,0 +1,9 @@
+StorePath: /nix/store/69lyjyca86317hdsc1rwf3ahn7s5kiyn-no-relocs.patch
+URL: nar/107rvmjjdhalgg49nwxjhaq205brc2pzwb26g1zzxmc2cqkiiwcv.nar.xz
+Compression: xz
+FileHash: sha256:107rvmjjdhalgg49nwxjhaq205brc2pzwb26g1zzxmc2cqkiiwcv
+FileSize: 240
+NarHash: sha256:1r778qi8809hdlnaz0ma3k88rmhdb7dx70fxj0c94kqs05jpmq6w
+NarSize: 304
+References: 
+CA: fixed:r:sha256:1r778qi8809hdlnaz0ma3k88rmhdb7dx70fxj0c94kqs05jpmq6w

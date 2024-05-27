@@ -1,0 +1,9 @@
+StorePath: /nix/store/k4pxnjlz6iyqajdazmpinas5c3zz2nsp-pcre2-10.43.drv
+URL: nar/13dckcgqgs9bdapfsmpm3w9laka92515x6ykicp1n76y4f3x68v2.nar.xz
+Compression: xz
+FileHash: sha256:13dckcgqgs9bdapfsmpm3w9laka92515x6ykicp1n76y4f3x68v2
+FileSize: 1172
+NarHash: sha256:1l5yi3v6x9ji6v4g0j60klygf4dp2m3qmfphhcf27q2fpih4rzqs
+NarSize: 2800
+References: bajiwq8lwvjlpc2mhpnfpng4z9l13ij7-bootstrap-stage4-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh zi44gyj7449fkzcq22r6ipz4r2qsgfpn-pcre2-10.43.tar.bz2.drv
+CA: text:sha256:0kaxbcngyrldywa870pad2zsl4x1jd98k620z7brdigs09pgvpsc

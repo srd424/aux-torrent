@@ -1,0 +1,9 @@
+StorePath: /nix/store/j4hz0k19i4sscymiyyzrcylw1yh0hzcn-fix-implicit-getdef_bool.patch.drv
+URL: nar/1xr617ssf8d4ckqj2gh5qqy5yjlh0sbdg5sqajq30q7q5k29xz06.nar.xz
+Compression: xz
+FileHash: sha256:1xr617ssf8d4ckqj2gh5qqy5yjlh0sbdg5sqajq30q7q5k29xz06
+FileSize: 1912
+NarHash: sha256:01l3gc1nq5465z1wnqgbkhiacaqxhd3i6rypdyry8bdlv9ssa5is
+NarSize: 4576
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv ylz95bvxds9vssy5dpwbcnmjr80z3v5l-patchutils-0.3.3.drv
+CA: text:sha256:1f4j0wfpm2i9v9xs1s2mjdgdr8bf2ih36hyxixf3j4gm1ijkf6z9

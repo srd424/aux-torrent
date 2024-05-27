@@ -1,0 +1,9 @@
+StorePath: /nix/store/ad23jy8704mhiv44ad80mrqz88py5h54-make-shell-wrapper-hook.drv
+URL: nar/19r1k1n29gskdfcprm93ibdp597djvf9349rny9hhawgjzd9xwqs.nar.xz
+Compression: xz
+FileHash: sha256:19r1k1n29gskdfcprm93ibdp597djvf9349rny9hhawgjzd9xwqs
+FileSize: 912
+NarHash: sha256:0mgjy1g0nyia4rg53bkkcxj3jfnyin9945d8h03dczw9cm3w580y
+NarSize: 2136
+References: agzcr377sc36phdz04675a396ll1ilcn-die-hook.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv mvghqpjv91w5y8hrnngsh66id1b0xp3l-bootstrap-stage4-stdenv-linux.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wb1w87wq6jsd9z4wdz7as6s7rcq9xd19-make-wrapper.sh
+CA: text:sha256:09a3l27a85kzadzphckfclxprajbv6g9c35jvvn08azj36vvkhsp

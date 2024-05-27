@@ -1,0 +1,9 @@
+StorePath: /nix/store/wmhjl7ls2r898956l3agpqgmy4wbq25y-autoconf-archive-2023.02.20.tar.xz.drv
+URL: nar/10ddlrma43rz529vi2xxysjsba2wckvd983y4lxf5q3jw4w0cn6v.nar.xz
+Compression: xz
+FileHash: sha256:10ddlrma43rz529vi2xxysjsba2wckvd983y4lxf5q3jw4w0cn6v
+FileSize: 512
+NarHash: sha256:0jldywg4ci219cin4yb94xl23sh9vwnl8arkfjm2aln9kb3zj5b6
+NarSize: 936
+References: 
+CA: text:sha256:11l55irp9jbskbm3h5l84w13g8jrmrdx69j2c0iwp0y9fqm8ypi2

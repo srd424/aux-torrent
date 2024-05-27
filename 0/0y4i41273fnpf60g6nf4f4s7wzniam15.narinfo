@@ -1,0 +1,11 @@
+StorePath: /nix/store/0y4i41273fnpf60g6nf4f4s7wzniam15-pygments-2.17.2.tar.gz
+URL: nar/0zv4c3xla4i7c5mxl87ghkicg2wr13903mkp51vm7h4l93rsfnx9.nar.xz
+Compression: xz
+FileHash: sha256:0zv4c3xla4i7c5mxl87ghkicg2wr13903mkp51vm7h4l93rsfnx9
+FileSize: 4824472
+NarHash: sha256:04v519ly8khwlnvb387kwgvg2n7pca349pc3s4v4b8p4qcj0xhir
+NarSize: 4827888
+References: 
+Deriver: 0g3pqg2fg00sp2ys8b70mm1kd12h6x0i-pygments-2.17.2.tar.gz.drv
+Sig: cache.nixos.org-1:J5rTYdqBStoIi1y/GKJDHTvFVJYi9obf+Fb/HxrGDhLLnzRK0K1NZYJ5XpWG8qqx7Zv7O3Hjp0IlMVrywEJiCQ==
+CA: fixed:sha256:0ry3qi4rszkiqb20bmjlzys71dja9i746kvqi8xbxr9dzp4wwins

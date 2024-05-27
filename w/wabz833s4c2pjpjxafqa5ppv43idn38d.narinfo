@@ -1,0 +1,9 @@
+StorePath: /nix/store/wabz833s4c2pjpjxafqa5ppv43idn38d-Exporter-Tiny-1.006002.tar.gz.drv
+URL: nar/08b23pbxamby98lcrkhaiqlf93mz84ligr5si34rcplg2qidgcq0.nar.xz
+Compression: xz
+FileHash: sha256:08b23pbxamby98lcrkhaiqlf93mz84ligr5si34rcplg2qidgcq0
+FileSize: 1320
+NarHash: sha256:0bnacys9j0aix595m42n9z190gw98fjfidv8xmjz7w0wgb7w49ki
+NarSize: 3032
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0crrp20ivlc6p3srpncmwlhsxxigyvnakaj9bbnbvjj4667b58cq

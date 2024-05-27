@@ -1,0 +1,9 @@
+StorePath: /nix/store/0z3qdcq0xflq5npwz2hs6wwnjb03fb7n-asciidoc-10.2.0-dist
+URL: nar/0d264381vy0lkl60jnvy7bbp7jpij6j86hpyc7fsladv5rnjxq9n.nar.xz
+Compression: xz
+FileHash: sha256:0d264381vy0lkl60jnvy7bbp7jpij6j86hpyc7fsladv5rnjxq9n
+FileSize: 259356
+NarHash: sha256:1xd0v93qhp1c02n0188zgvvfg581ffhgpf11bbya8y5qyp7d5skg
+NarSize: 273032
+References: 
+Deriver: g1l62fsm8l6xdkiz77v391w0fw336f8n-asciidoc-10.2.0.drv

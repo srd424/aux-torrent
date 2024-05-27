@@ -1,0 +1,10 @@
+StorePath: /nix/store/qsd062yv5m5klk23yn2aw2m140nhr7rq-source-github.com-fmtlib-fmt-10.2.1
+URL: nar/1b12py787k578qxdi0f16rkll92w8628nxkhvy04afjyagfzhdil.nar.xz
+Compression: xz
+FileHash: sha256:1b12py787k578qxdi0f16rkll92w8628nxkhvy04afjyagfzhdil
+FileSize: 650284
+NarHash: sha256:1jnxh9cmj0x7r280lpwm27s8kxaq3nz55zwhrbqrsb87n0c6sjd4
+NarSize: 3424760
+References: 
+Deriver: 84ipjrzija084lsk485xvcpjr267yvfn-source-github.com-fmtlib-fmt-10.2.1.drv
+CA: fixed:r:sha256:1jnxh9cmj0x7r280lpwm27s8kxaq3nz55zwhrbqrsb87n0c6sjd4

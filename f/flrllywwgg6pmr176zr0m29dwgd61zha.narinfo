@@ -1,0 +1,9 @@
+StorePath: /nix/store/flrllywwgg6pmr176zr0m29dwgd61zha-spdlog-1.13.0
+URL: nar/1k1p8p2nmf3vmi22wvhrs0qwqc6x07d03rdyfbqh9isc5hl3wxba.nar.xz
+Compression: xz
+FileHash: sha256:1k1p8p2nmf3vmi22wvhrs0qwqc6x07d03rdyfbqh9isc5hl3wxba
+FileSize: 112952
+NarHash: sha256:0y8qhgmgydfyfwqb105ckg5c3f76z9w3rjgygym4iqfprxwrhhxd
+NarSize: 625304
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib gmhg10czq34gx4djhrdv3clfy9fswq5n-fmt-10.2.1
+Deriver: q21fzsl9fphaqjkjga84x03w2a6v2yjh-spdlog-1.13.0.drv

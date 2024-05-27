@@ -1,0 +1,9 @@
+StorePath: /nix/store/zq02l3dljqw1b7iwq0jhksd0wp9rcfpv-patchelf-0.15.0.drv
+URL: nar/0pfw0f8w3rdkbfcn6hgxs8i7vasyfmx3hmd5hf3302wjg8ac83xz.nar.xz
+Compression: xz
+FileHash: sha256:0pfw0f8w3rdkbfcn6hgxs8i7vasyfmx3hmd5hf3302wjg8ac83xz
+FileSize: 784
+NarHash: sha256:0n3c2iv41lvjysam0v4qhcfqypapivr8gppxa3k70aiw3c1h99h8
+NarSize: 1816
+References: 6h6vxfizmfzmfc67sis71qxbiv8jwn3a-bootstrap-stage2-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv q5lq5b7c0i31zxjgm6j5zhp8pg76mwi1-patchelf-0.15.0.tar.bz2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v7ihfx32zv7bdha6i9dd6a3r0knzs8j3-setup-hook.sh
+CA: text:sha256:1rwif68h8lsaa95k2kk6gfiyl91fp470ql8g2i7kn2mm66qh6wkv

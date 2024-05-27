@@ -1,0 +1,10 @@
+StorePath: /nix/store/w2gq35k34f6yy657y5kwyjrz9403qanq-groff-1.23.0-perl
+URL: nar/0ykq630ijh7jyz4jjin0y3g9i8i2qhcjlsvav76pd4pjjl00f5d4.nar.xz
+Compression: xz
+FileHash: sha256:0ykq630ijh7jyz4jjin0y3g9i8i2qhcjlsvav76pd4pjjl00f5d4
+FileSize: 81316
+NarHash: sha256:1b3smnjk8ys34qa070bin3la65jpiva60bs6pkbfzw7m80kqyhpv
+NarSize: 381184
+References: j3alr0rbqasrgicf71gf35w1153x2ldx-groff-1.23.0 ziv27d9f7mr7hml7441d0x87nx1pq026-perl-5.38.2
+Deriver: cv9k7gpkz5xa2rm695dmxp1chpppywn3-groff-1.23.0.drv
+Sig: cache.nixos.org-1:LTYcsltTCS0722gcEh0jQlPwv8Fz/9ljyb/IfumrJyErBE5BtwlV4zj5ceVihJ7bCC+uuWQjK9/MmcXnN2gqBQ==

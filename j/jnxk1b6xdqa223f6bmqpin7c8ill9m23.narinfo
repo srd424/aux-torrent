@@ -1,0 +1,9 @@
+StorePath: /nix/store/jnxk1b6xdqa223f6bmqpin7c8ill9m23-aws-c-sdkutils-0.1.15.drv
+URL: nar/09si7djl1b9nmxhiwrdrwa6sidfdbfnza4gfa50sv1ci95fviwa2.nar.xz
+Compression: xz
+FileHash: sha256:09si7djl1b9nmxhiwrdrwa6sidfdbfnza4gfa50sv1ci95fviwa2
+FileSize: 888
+NarHash: sha256:039m5ggg5hj4gykawnfry7gdwil8gy31aajp35ah5wnw93pwd8fp
+NarSize: 1912
+References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv aqxqh3y8ibh28cp0xpzfcj78qaj3745q-source-github.com-awslabs-aws-c-sdkutils-v0.1.15.drv fl9gy9hf5vpv4ayia5smazcgzs368j77-aws-c-common-0.9.14.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0nm3xr9flyfynl1a4jyx9l662cf10347v6q7wipx942dkbjp1bfn

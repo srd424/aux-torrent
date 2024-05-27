@@ -1,0 +1,9 @@
+StorePath: /nix/store/wc7bjgbi83c66wm3hwhwiamx2dxg9b2s-tcb-1.2
+URL: nar/0ndbir05330wapfsrwqbsy62xpk2vgrwxj0hfpzaa7r9ayp80d2j.nar.xz
+Compression: xz
+FileHash: sha256:0ndbir05330wapfsrwqbsy62xpk2vgrwxj0hfpzaa7r9ayp80d2j
+FileSize: 18768
+NarHash: sha256:0gz9yd6b944c7b3gsa3kxdw6y3qw4gpxxikfac8r6mp658zvp4h5
+NarSize: 90968
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 64hb9np9sp3jx1vl19x9j9j29yl8rjf3-linux-pam-1.6.0 nf28s3rx56cli1sbd0bymwbf6dq964yq-libxcrypt-4.4.36 wc7bjgbi83c66wm3hwhwiamx2dxg9b2s-tcb-1.2
+Deriver: p2c2wa7fwwgmi2b0qpnxjs2n67wapa7i-tcb-1.2.drv

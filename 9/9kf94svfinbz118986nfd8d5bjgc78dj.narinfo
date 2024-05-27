@@ -1,0 +1,10 @@
+StorePath: /nix/store/9kf94svfinbz118986nfd8d5bjgc78dj-lowdown-1.1.0
+URL: nar/13nlch7p7raibikdbp3igv5i9vrkzwy3i84ivc5hidzz01src9av.nar.xz
+Compression: xz
+FileHash: sha256:13nlch7p7raibikdbp3igv5i9vrkzwy3i84ivc5hidzz01src9av
+FileSize: 103692
+NarHash: sha256:0wy0wa8jzgxj4vx0c0jf0n2y4d29k1yzj41zrsnf6b2284679mg5
+NarSize: 548864
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5
+Deriver: jwsp30avn035gi4cdkpnhgc527nh0l7g-lowdown-1.1.0.drv
+Sig: cache.nixos.org-1:gsU3xjLXvTdxZL8xJSDeR2PKbFEXN05T80ypZR2ovbN9w/g1eUCG4Jv2qsChJFeMODI4hVxGMkU8Uu/cslCBCA==

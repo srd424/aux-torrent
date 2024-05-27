@@ -1,0 +1,10 @@
+StorePath: /nix/store/9vm1ihdg1ysmrjdbb80g834iizzxb4yk-bison-3.8.2.tar.gz
+URL: nar/0ss4895rp5lg5amzzwaikr1qrx575jflzxwcvwzcnayxhffdazr5.nar.xz
+Compression: xz
+FileHash: sha256:0ss4895rp5lg5amzzwaikr1qrx575jflzxwcvwzcnayxhffdazr5
+FileSize: 5381120
+NarHash: sha256:0c4fvjg1zdm3gffzrz44q6llwbpssza2bn409lj8fb5aarbbf1nl
+NarSize: 5643912
+References: 
+Deriver: vgjfnqbxgxa8a5575bhq07nm35b2l31m-bison-3.8.2.tar.gz.drv
+CA: fixed:sha256:1fqa9b8zp0py6126869i47kwghk79xd20nbbxd64vckyvwxy3j86

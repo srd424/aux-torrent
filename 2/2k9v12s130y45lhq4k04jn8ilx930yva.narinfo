@@ -1,0 +1,9 @@
+StorePath: /nix/store/2k9v12s130y45lhq4k04jn8ilx930yva-editline-1.17.1.drv
+URL: nar/0rbck9j5a0qyxjk1zj90971fly8fwj69xgmnd9jgxp3v1s7s9xqy.nar.xz
+Compression: xz
+FileHash: sha256:0rbck9j5a0qyxjk1zj90971fly8fwj69xgmnd9jgxp3v1s7s9xqy
+FileSize: 1040
+NarHash: sha256:0019bb4y55b8h8xdzq9ggjjvvwrgkib2qsv167nr94lba7x6w7yf
+NarSize: 2504
+References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv an4iqml99b3f0mhs0sk4ii3zjy944rr5-autoreconf-hook.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv k0s58g3y4y6lc2qg0xzpyp2zd6hsn3c7-fix-for-home-end-in-tmux.patch.drv lz2lf50hbhcv2yzmb1j1k349wkp7p8fb-autoconf-2.72.patch.drv pxy9c2g5zz4ih2znp2dnlv8qaznchci7-source-github.com-troglobit-editline-1.17.1.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:08xgh3q9ljsfdwvc7l5sig5386sk08yvqww9xmidha3s9r8yr7xq

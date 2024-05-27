@@ -1,0 +1,9 @@
+StorePath: /nix/store/1c2y3m3kmbblsx2r9qzx5d5pvl14d3nd-libpsl-0.21.5.tar.lz.drv
+URL: nar/0cd9vq1iwbicr5pqzksxqc3rw77l7w06gg38bw333pvd4bl6fyi8.nar.xz
+Compression: xz
+FileHash: sha256:0cd9vq1iwbicr5pqzksxqc3rw77l7w06gg38bw333pvd4bl6fyi8
+FileSize: 1320
+NarHash: sha256:185cpd4618vl55kk4aqdi24c8qrkzdi0qqy3llpsf6m5yfw74s3x
+NarSize: 3016
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0390zrrzz5bk8mx0gc07rrbhrjdvf0nfbh6mqabmib21iq5gkdra

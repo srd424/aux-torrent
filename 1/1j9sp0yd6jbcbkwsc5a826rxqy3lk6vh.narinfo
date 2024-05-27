@@ -1,0 +1,9 @@
+StorePath: /nix/store/1j9sp0yd6jbcbkwsc5a826rxqy3lk6vh-rtcwake-search-PATH-for-shutdown.patch
+URL: nar/0z56da25m7xn3lyf8qkj6ab94dzf2s4g33gccvy6wl9l4sjchw1p.nar.xz
+Compression: xz
+FileHash: sha256:0z56da25m7xn3lyf8qkj6ab94dzf2s4g33gccvy6wl9l4sjchw1p
+FileSize: 844
+NarHash: sha256:1vdmgsppk3b9m3ddpai3dmxmd6jyypswj4z6yaaga0kcslvhpirx
+NarSize: 1952
+References: 
+CA: fixed:r:sha256:1vdmgsppk3b9m3ddpai3dmxmd6jyypswj4z6yaaga0kcslvhpirx

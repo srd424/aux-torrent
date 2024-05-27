@@ -1,0 +1,9 @@
+StorePath: /nix/store/6gcnll2dz57rl86axnny4y5998m63ixq-fmt-10.2.1.drv
+URL: nar/1b6smvg05cwsd6hhnb3c9x3gcxcfsabl8wj256isii4y10fgr5gn.nar.xz
+Compression: xz
+FileHash: sha256:1b6smvg05cwsd6hhnb3c9x3gcxcfsabl8wj256isii4y10fgr5gn
+FileSize: 844
+NarHash: sha256:17jpll1s4qlaipnl90rrhma4njz273xb618rkdkxqc39if6pfq2f
+NarSize: 1848
+References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 84ipjrzija084lsk485xvcpjr267yvfn-source-github.com-fmtlib-fmt-10.2.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:129zsaf94rqsmrsliag6k5467r6vpb00skklsb7vx1wf8rpgs4hv

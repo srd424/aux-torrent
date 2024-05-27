@@ -1,0 +1,9 @@
+StorePath: /nix/store/rqkxn10qy5gis2qp25j6saiprzi5x6w9-libssh2-1.11.0.tar.gz.drv
+URL: nar/13hq9i95lyr230i17pak66jvckny7mafin2qm56g0kxv3sv55s5c.nar.xz
+Compression: xz
+FileHash: sha256:13hq9i95lyr230i17pak66jvckny7mafin2qm56g0kxv3sv55s5c
+FileSize: 508
+NarHash: sha256:1qp6dfdy5qvb225xmrkpc45m21kgnrnrih0rx671r58q1c4xsbzh
+NarSize: 864
+References: 
+CA: text:sha256:18cm9nwpf4xykkm7ayqmzlfzy69z3c9kkjnkkijv94i6zjf8hs1r

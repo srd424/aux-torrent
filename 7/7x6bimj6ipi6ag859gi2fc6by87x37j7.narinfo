@@ -1,0 +1,9 @@
+StorePath: /nix/store/7x6bimj6ipi6ag859gi2fc6by87x37j7-no-sys-dirs-riscv.patch
+URL: nar/1njdasklrff9fc0nm483rga4ib71pmwmln555xcai3xi6f7mq6d8.nar.xz
+Compression: xz
+FileHash: sha256:1njdasklrff9fc0nm483rga4ib71pmwmln555xcai3xi6f7mq6d8
+FileSize: 308
+NarHash: sha256:07brf125l6r121kpxzframg34dbs9gyhfv4c6pn3c8566qpgcxm6
+NarSize: 456
+References: 
+CA: fixed:r:sha256:07brf125l6r121kpxzframg34dbs9gyhfv4c6pn3c8566qpgcxm6

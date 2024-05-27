@@ -1,0 +1,9 @@
+StorePath: /nix/store/phdmnpf57fkglzq8h8gv5nwkbw6fny2l-cargo-build-hook.sh.drv
+URL: nar/1idxnz6qndx5igfhia9619ivjxvv1bsdg83h4dfph52f07z49dkm.nar.xz
+Compression: xz
+FileHash: sha256:1idxnz6qndx5igfhia9619ivjxvv1bsdg83h4dfph52f07z49dkm
+FileSize: 1044
+NarHash: sha256:0lxn895caapyrid65srayqn4dfksmhdncsah4glxjz08kj255ymw
+NarSize: 3008
+References: 2m8a3b7krzi72lmn3p3vyh4j3rgjm3hr-cargo-build-hook.sh 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv kzn0cy68gr8plz5f2pywis5s73hp9lxw-cargo-1.77.1.drv nfr6v73vj460p1wfp93v248fizcn1ii6-gcc-wrapper-13.2.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0zckq0x49j2i7s8nmagla561pdjs9p95amf4bnw3aj7qnwldaldl

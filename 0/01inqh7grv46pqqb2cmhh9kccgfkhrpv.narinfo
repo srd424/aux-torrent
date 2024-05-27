@@ -1,0 +1,9 @@
+StorePath: /nix/store/01inqh7grv46pqqb2cmhh9kccgfkhrpv-buildcatrust-0.3.0.tar.gz.drv
+URL: nar/0k9spxwqg42vn7rp1xchf2j66rjx0ayyhlj0faxmflha7dhf0f1s.nar.xz
+Compression: xz
+FileHash: sha256:0k9spxwqg42vn7rp1xchf2j66rjx0ayyhlj0faxmflha7dhf0f1s
+FileSize: 1300
+NarHash: sha256:0b8xmkq486d4s7z5q1plvvnlvfnlv7mxrhk3dbjqvylas401w8sh
+NarSize: 3000
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1666bdvwyw3crmkdgbf8hdg64pnhbwq14qv2gp1wvb14xm22l5fi

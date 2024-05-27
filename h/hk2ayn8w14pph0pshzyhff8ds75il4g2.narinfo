@@ -1,0 +1,9 @@
+StorePath: /nix/store/hk2ayn8w14pph0pshzyhff8ds75il4g2-python3.11-pluggy-1.4.0-dist
+URL: nar/0n938i8s0398rzgk75s3y5hvgxac324xc6jvzjb46x3l17cvb4gc.nar.xz
+Compression: xz
+FileHash: sha256:0n938i8s0398rzgk75s3y5hvgxac324xc6jvzjb46x3l17cvb4gc
+FileSize: 19360
+NarHash: sha256:0n9gq0afdiy7zz5s4f8rx88pyy3b1nvsqriyc8xh46c39xzpinb6
+NarSize: 20424
+References: 
+Deriver: 11nfah1v5g1mxjg5cpci0l80cc10gb34-python3.11-pluggy-1.4.0.drv

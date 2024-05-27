@@ -1,0 +1,9 @@
+StorePath: /nix/store/q1h539pagrkdvamma1i81bqnb9jsl9jy-source-github.com-awslabs-aws-c-event-stream-v0.4.2.drv
+URL: nar/0da2806m0vjghy8nghd7v2qas3bk3zdkqs08sm9w6xl6fw5cih2d.nar.xz
+Compression: xz
+FileHash: sha256:0da2806m0vjghy8nghd7v2qas3bk3zdkqs08sm9w6xl6fw5cih2d
+FileSize: 1604
+NarHash: sha256:15sj45yx3qpw51swr3nryzb5dzgwr4i5jsl7aaswbnf6lk24svpw
+NarSize: 3664
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0fxv0damn67dzwqxxf2kd90knd6h3105y1dc1ll9zspvq1lmnf1n

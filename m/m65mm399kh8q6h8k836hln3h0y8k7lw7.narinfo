@@ -1,0 +1,9 @@
+StorePath: /nix/store/m65mm399kh8q6h8k836hln3h0y8k7lw7-libstdc++-target.patch
+URL: nar/050w0zv16z9zsh0pksax236fwvnsddd6jz13hybmalq1wamlrjg1.nar.xz
+Compression: xz
+FileHash: sha256:050w0zv16z9zsh0pksax236fwvnsddd6jz13hybmalq1wamlrjg1
+FileSize: 656
+NarHash: sha256:0k481pvxl90h93pj6px1pm1vyv70dir0d06ps3ri9i90pclv4ii0
+NarSize: 1632
+References: 
+CA: fixed:r:sha256:0k481pvxl90h93pj6px1pm1vyv70dir0d06ps3ri9i90pclv4ii0

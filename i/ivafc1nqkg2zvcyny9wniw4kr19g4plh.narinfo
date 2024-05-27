@@ -1,0 +1,9 @@
+StorePath: /nix/store/ivafc1nqkg2zvcyny9wniw4kr19g4plh-libseccomp-2.5.5-pythonsrc
+URL: nar/1q5g9pvp2xb27j64km0hpyy9ffnpi5frr0f8in4ks3q1s6mplyvx.nar.xz
+Compression: xz
+FileHash: sha256:1q5g9pvp2xb27j64km0hpyy9ffnpi5frr0f8in4ks3q1s6mplyvx
+FileSize: 15496
+NarHash: sha256:0achxcv158sby8zjycrjmwy2rr5zk3cpmr4frz4b2jzvjqavjc9w
+NarSize: 15448
+References: 
+Deriver: 10zvspxknflvlswbyd287i7z91glxqrj-libseccomp-2.5.5.drv

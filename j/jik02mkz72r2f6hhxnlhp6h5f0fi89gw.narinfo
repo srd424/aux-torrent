@@ -1,0 +1,9 @@
+StorePath: /nix/store/jik02mkz72r2f6hhxnlhp6h5f0fi89gw-expand-response-params.c
+URL: nar/09jp4c7jrps9i6dmw6qdw6zyy1gkm4pkfrpfbg7wmqvijwjd2764.nar.xz
+Compression: xz
+FileHash: sha256:09jp4c7jrps9i6dmw6qdw6zyy1gkm4pkfrpfbg7wmqvijwjd2764
+FileSize: 1200
+NarHash: sha256:10y0cxyjizwjdsd7jvqq8axshx76hi015h2frz6r6ba9ri99mmjx
+NarSize: 2728
+References: 
+CA: fixed:r:sha256:10y0cxyjizwjdsd7jvqq8axshx76hi015h2frz6r6ba9ri99mmjx

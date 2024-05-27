@@ -1,0 +1,11 @@
+StorePath: /nix/store/84y6gvswc85mvw33p0c1hsz0jx1aa4q1-rust-1.76.0-x86_64-unknown-linux-gnu.tar.gz
+URL: nar/16pngc46cp8ch2is14vgh50n34s5kkl22vrcczvi950sgjxq4lcc.nar.xz
+Compression: xz
+FileHash: sha256:16pngc46cp8ch2is14vgh50n34s5kkl22vrcczvi950sgjxq4lcc
+FileSize: 305317896
+NarHash: sha256:13msh03am9c24qsjiiqkf34h7brfcqmsy91y14h59837h2cmza5j
+NarSize: 323520936
+References: 
+Deriver: srldibyifbrkwvn5nglc3k9d3z579di5-rust-1.76.0-x86_64-unknown-linux-gnu.tar.gz.drv
+Sig: cache.nixos.org-1:dgeTGRez1hXa5O5Gq6N9fYpTt78otD2hlniJgGtZGLx+emSXVJDpWDI5XbN9vJ2NYiAswSS866IOV4n2KWaMBQ==
+CA: fixed:sha256:16bkix015hpmqan6rcyyfk0fwggv2vb94jf9xi2wq0xm6qh9sn4x

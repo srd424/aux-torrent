@@ -1,0 +1,10 @@
+StorePath: /nix/store/q9ccnr97sv21jlmzxqsra5jyp71s51dl-texinfo-7.0.3.tar.xz
+URL: nar/18j84wy9rjr7x0163lq1ninxn8ya4jikkydg22cikwsb3qdfn87r.nar.xz
+Compression: xz
+FileHash: sha256:18j84wy9rjr7x0163lq1ninxn8ya4jikkydg22cikwsb3qdfn87r
+FileSize: 4887088
+NarHash: sha256:1bmygl809wz0hf93acqm2w3p17ssypkj1635vfzaza47p8mjb469
+NarSize: 4886784
+References: 
+Deriver: fd7x6bw5gp22rbin304hg75h6ik84j93-texinfo-7.0.3.tar.xz.drv
+CA: fixed:sha256:1gq7i01iblgfcwby1977adh8mab9vpq318vsz628wlkzkp821d3l

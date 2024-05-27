@@ -1,0 +1,9 @@
+StorePath: /nix/store/rq5bj3xz6sq1w4zqj0hrrg41lx9xwcn9-perl5.38.2-Class-Inspector-1.36.drv
+URL: nar/1alkm7wl11nbvjwgnxiinj6sgjpfh275l77yzvzf46kcg64dj6lm.nar.xz
+Compression: xz
+FileHash: sha256:1alkm7wl11nbvjwgnxiinj6sgjpfh275l77yzvzf46kcg64dj6lm
+FileSize: 916
+NarHash: sha256:04b8lx7fwsmmjr1r9vpyqi7y9a72xq0zpf6j30z6xxb9fdy6p28j
+NarSize: 2192
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv h1ya0yz3i69df2977krpvfcywh37ailj-Class-Inspector-1.36.tar.gz.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:14y9shrwa6k8yd753i3pnymxl0clxjxd9i961ygwgq1z6xr5xnyn

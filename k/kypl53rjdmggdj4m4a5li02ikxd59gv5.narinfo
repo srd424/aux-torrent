@@ -1,0 +1,9 @@
+StorePath: /nix/store/kypl53rjdmggdj4m4a5li02ikxd59gv5-expect-configure-c99.patch.drv
+URL: nar/053f6g1g5bq6ggi0cc0z53p3v7rb56mdjgrb6wyax8n04whfqzlz.nar.xz
+Compression: xz
+FileHash: sha256:053f6g1g5bq6ggi0cc0z53p3v7rb56mdjgrb6wyax8n04whfqzlz
+FileSize: 1900
+NarHash: sha256:15rcphbkg7dv1pjzl724v89p5zvblqxc41h8bzgcc3qqda46riv4
+NarSize: 4584
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv ylz95bvxds9vssy5dpwbcnmjr80z3v5l-patchutils-0.3.3.drv
+CA: text:sha256:0fj0jas34ddd0amf1g101h5fl733gbha9n3hzfsn593dsfj5jsq7

@@ -1,0 +1,9 @@
+StorePath: /nix/store/bw6aa38615ww5karcn8kslsf5hxgz412-link-against-ncurses.patch
+URL: nar/0z16xqd27hwv276r9c7vscjkycci8lmdl4xd4wlf9icamsgrm9d3.nar.xz
+Compression: xz
+FileHash: sha256:0z16xqd27hwv276r9c7vscjkycci8lmdl4xd4wlf9icamsgrm9d3
+FileSize: 500
+NarHash: sha256:1s9lj81r4x3iis633fql2pl7bv9q0yb1a3apz5ljndb1mhj3w98z
+NarSize: 808
+References: 
+CA: fixed:r:sha256:1s9lj81r4x3iis633fql2pl7bv9q0yb1a3apz5ljndb1mhj3w98z

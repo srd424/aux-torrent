@@ -1,0 +1,9 @@
+StorePath: /nix/store/gamz3ch89qq558irc2m03j6kkj5wjn58-darwin-mutexes-4.8.patch
+URL: nar/0mnxzqcass8vj3gayc3zalm6n9499sxgb8cwnmw0qdv5pr4qzfad.nar.xz
+Compression: xz
+FileHash: sha256:0mnxzqcass8vj3gayc3zalm6n9499sxgb8cwnmw0qdv5pr4qzfad
+FileSize: 904
+NarHash: sha256:0pypfzsqmbxzpbzs72bj274m20qbv2rp0fnf2q3s39pnln4jnrnh
+NarSize: 2216
+References: 
+CA: fixed:r:sha256:0pypfzsqmbxzpbzs72bj274m20qbv2rp0fnf2q3s39pnln4jnrnh

@@ -1,0 +1,9 @@
+StorePath: /nix/store/nqnipa66xjn8nnnfdhmxpdpja9774b93-update-autotools-gnu-config-scripts-hook.drv
+URL: nar/160qkavf9xxi8pn9qsh2h7gdi3li72jhfhmyw8504p3bmli61zjx.nar.xz
+Compression: xz
+FileHash: sha256:160qkavf9xxi8pn9qsh2h7gdi3li72jhfhmyw8504p3bmli61zjx
+FileSize: 868
+NarHash: sha256:0rpy9pm32f1m1k1wihjz4li61aanf6y6iwbmd5mcc3zbll9vjjd4
+NarSize: 2152
+References: 00qr10y7z2fcvrp9b2m46710nkjvj55z-update-autotools-gnu-config-scripts.sh 7yp550ly5lr7bs4kc8705xn5b3mrfqx6-gnu-config-2023-09-19.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv nfb2q2b5sxzgxks0dh8ghzhqxh6sn39s-bootstrap-stage2-stdenv-linux.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1v0ly009r5mffv9p5y8j99yb9hlcwjn5wysfpmn8b5q8xkksi2dv

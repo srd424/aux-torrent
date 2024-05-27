@@ -1,0 +1,9 @@
+StorePath: /nix/store/krnm6mvclkxik4p2msczablagnda0z9h-mpfr-4.2.1.drv
+URL: nar/1hr6a8v779g8s08vfh1a04xgz6h47v075n20yb3k8gg2pd9bivyw.nar.xz
+Compression: xz
+FileHash: sha256:1hr6a8v779g8s08vfh1a04xgz6h47v075n20yb3k8gg2pd9bivyw
+FileSize: 932
+NarHash: sha256:156dxm6kajj7p8xv9rna31y80hyvha1xc33938nsj2d6bddg6dpr
+NarSize: 2216
+References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv gjhwmf5vyka0gi3gyw6vc36mf4avvgf4-gmp-with-cxx-6.3.0.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vhp4j0ci8n0hxlwyxfbvmv3xk542yc69-mpfr-4.2.1.tar.xz.drv
+CA: text:sha256:16ssq7s7d7bl673qssa6hx48a6zmj4pz9zms1jkbfpi32b32bzvz

@@ -1,0 +1,11 @@
+StorePath: /nix/store/gwgwkc6cxjjl74ajwwn566xj8vjwp8sk-util-linux-2.39.3.tar.xz
+URL: nar/1vq633im12asnc87rgp6prnncwlqspbim9ix3iz0avwrr1n14sms.nar.xz
+Compression: xz
+FileHash: sha256:1vq633im12asnc87rgp6prnncwlqspbim9ix3iz0avwrr1n14sms
+FileSize: 8526764
+NarHash: sha256:12vn1i8wgqbr5804p5c6dpq2i5k1x673wdv6lcb3s2k7cifq24pk
+NarSize: 8526280
+References: 
+Deriver: 2azkx9igj939ba7ymm1sjz6l4gz568vn-util-linux-2.39.3.tar.xz.drv
+Sig: cache.nixos.org-1:jjU2u3HsJBSGy2guZatouLN5P0sMRRq/eXEzYTaKscOXd/38AOLLWVMVuclOC3Qw41gj0bsedEQiC4JguLT0CA==
+CA: fixed:sha256:03zdvxky2wnm1f0rc2x45x0da39x66gwbkxlqhyg8j8sipj0arkv

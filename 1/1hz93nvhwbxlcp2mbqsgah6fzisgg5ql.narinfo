@@ -1,0 +1,9 @@
+StorePath: /nix/store/1hz93nvhwbxlcp2mbqsgah6fzisgg5ql-python3.11-packaging-24.0-dist
+URL: nar/0mp3h854kqg4csln90fjpnmf4v7px1pb4p0b8jasw6rjlvw4kyb1.nar.xz
+Compression: xz
+FileHash: sha256:0mp3h854kqg4csln90fjpnmf4v7px1pb4p0b8jasw6rjlvw4kyb1
+FileSize: 52476
+NarHash: sha256:0ykg8gs88ny7jh8wp96gwk3l0ny61acgnmy0rvzmcm8lp5dr3bfw
+NarSize: 53792
+References: 
+Deriver: bh943yras6abqzmvnfwgzl765rs2s2nk-python3.11-packaging-24.0.drv

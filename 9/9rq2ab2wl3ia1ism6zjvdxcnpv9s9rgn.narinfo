@@ -1,0 +1,9 @@
+StorePath: /nix/store/9rq2ab2wl3ia1ism6zjvdxcnpv9s9rgn-add-hardening.sh
+URL: nar/02svfbbgng5zf0ss1zagjzyqb0xj6gfkfqsczvp5343kikzwpk5a.nar.xz
+Compression: xz
+FileHash: sha256:02svfbbgng5zf0ss1zagjzyqb0xj6gfkfqsczvp5343kikzwpk5a
+FileSize: 880
+NarHash: sha256:0r2m273akxlacprqvn9dqm6xakdimi3avp4sdiwv6qqkff5skgki
+NarSize: 2048
+References: 
+CA: fixed:r:sha256:0r2m273akxlacprqvn9dqm6xakdimi3avp4sdiwv6qqkff5skgki

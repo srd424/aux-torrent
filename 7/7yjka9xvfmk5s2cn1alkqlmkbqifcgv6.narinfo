@@ -1,0 +1,9 @@
+StorePath: /nix/store/7yjka9xvfmk5s2cn1alkqlmkbqifcgv6-002-application-services.diff
+URL: nar/1grzqymjwa59glj9srs2l5bi6mfjxi95nq4hblp6vpnchv1kcvy0.nar.xz
+Compression: xz
+FileHash: sha256:1grzqymjwa59glj9srs2l5bi6mfjxi95nq4hblp6vpnchv1kcvy0
+FileSize: 776
+NarHash: sha256:10pwfl2vp6mvxbdlpnq966rsyn0x8dp8pb7pzd1mglrb9icrksnd
+NarSize: 1808
+References: 
+CA: fixed:r:sha256:10pwfl2vp6mvxbdlpnq966rsyn0x8dp8pb7pzd1mglrb9icrksnd

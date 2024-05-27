@@ -1,0 +1,11 @@
+StorePath: /nix/store/lwh2b3x38ljkwc8w5f4cf0sqh1zgs6qi-fix-implicit-getdef_bool.patch
+URL: nar/1nd90mj481f886dqb1yp1755ccbw41dlk9ppyr34985cfxjqfv3i.nar.xz
+Compression: xz
+FileHash: sha256:1nd90mj481f886dqb1yp1755ccbw41dlk9ppyr34985cfxjqfv3i
+FileSize: 272
+NarHash: sha256:10rvrb8igj8w2dd3lxhbkpng240ilz670i1168mc8jbz49jsiza1
+NarSize: 504
+References: 
+Deriver: 9klavwqa6g5n0p57c7hg1kby0d11i74y-fix-implicit-getdef_bool.patch.drv
+Sig: cache.nixos.org-1:XjuwFcxSXmOA0V5exSEK9iEcvMLiRIK9N6pk7KhqPDHkN088kSSukhjYTLyCF8CIbj615TXvighG+mV4N92iAw==
+CA: fixed:sha256:0dbv6f4f6rq3fmvllljgiqim410xvh4lfjlhbhp9yqwqr6zxbasy

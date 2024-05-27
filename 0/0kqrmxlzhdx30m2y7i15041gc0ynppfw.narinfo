@@ -1,0 +1,10 @@
+StorePath: /nix/store/0kqrmxlzhdx30m2y7i15041gc0ynppfw-pkg-config-0.29.2-man
+URL: nar/1kb4wy2kb4i8dkrs83kpvndb2vm9jlwziwhcfph1v70y5drrp5m1.nar.xz
+Compression: xz
+FileHash: sha256:1kb4wy2kb4i8dkrs83kpvndb2vm9jlwziwhcfph1v70y5drrp5m1
+FileSize: 8204
+NarHash: sha256:1xrangyy2q18dq033jj5gvi4v163gfxf6hrw1lsf334zc2p2w25g
+NarSize: 8712
+References: 
+Deriver: f9xhx8w8wfyanygv17qx0nkl46n4wa9b-pkg-config-0.29.2.drv
+Sig: cache.nixos.org-1:uuWGAVgt0NoTAwPXN4Aa6Fs1Zrtzm8v9EI+3gvkjJACCbMn3n5uPCKPOTKL+WGOT2DU+y//D9ZeDQqpqFPPWBQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/0xs59grdbgz7z2ci2ff4yfwb6jha1qaa-docbook2X-0.8.8.tar.gz
+URL: nar/1aiaz31ygy8c2ljp2hz1apcpcf7mfhjzcifyxd0amm2kvzkvlfck.nar.xz
+Compression: xz
+FileHash: sha256:1aiaz31ygy8c2ljp2hz1apcpcf7mfhjzcifyxd0amm2kvzkvlfck
+FileSize: 723540
+NarHash: sha256:08fgadivbx500pjjxvbsqzprpkahqwrjw0fn9jfiqsqr27zb91cq
+NarSize: 724024
+References: 
+Deriver: 02ri480g2pivcyb8y8cfd04lyhsk1p90-docbook2X-0.8.8.tar.gz.drv
+Sig: cache.nixos.org-1:opA/o60Ta+D7jppzpJsBUT0vbYdX3ABqFZCyGV0t1BS4vNky8mHrifdPxbq0eYOk/kWQB/Jn5Qs1WzwZ3xLwDQ==

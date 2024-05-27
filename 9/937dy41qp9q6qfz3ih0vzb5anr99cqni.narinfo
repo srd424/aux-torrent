@@ -1,0 +1,10 @@
+StorePath: /nix/store/937dy41qp9q6qfz3ih0vzb5anr99cqni-libcap-ng-0.8.4-dev
+URL: nar/1zds29iipbcnf4gkf15f44lw398yi7dd5jgf2m0kmmlj4d890ycn.nar.xz
+Compression: xz
+FileHash: sha256:1zds29iipbcnf4gkf15f44lw398yi7dd5jgf2m0kmmlj4d890ycn
+FileSize: 2508
+NarHash: sha256:13v3vq2gv6v5wh3bqkxp22zd42d3sd38cczx5kn2rqjwwacva4w6
+NarSize: 7336
+References: 937dy41qp9q6qfz3ih0vzb5anr99cqni-libcap-ng-0.8.4-dev fmw079w9ibzbwhh7azvjn04myn0vadys-libcap-ng-0.8.4
+Deriver: 5agwsddki9l0wyvm7a0614605s8dpzgy-libcap-ng-0.8.4.drv
+Sig: cache.nixos.org-1:pJDYgHYOVZLFpL7LYZl+Ee7nKXERlGIP0UnrYFchcpHsuLEWfd7lZTc7tpBMk8Y0hKBQ05XidFbejiAc0ZvLDg==

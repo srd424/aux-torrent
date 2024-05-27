@@ -1,0 +1,10 @@
+StorePath: /nix/store/48nr9ad5m2frnh01j91bj2796jpzm0nr-autoreconf-hook
+URL: nar/0xaf55ym53x466dmkb38hyqwcwsnhc88zpcw9210yvgn5zjky6hk.nar.xz
+Compression: xz
+FileHash: sha256:0xaf55ym53x466dmkb38hyqwcwsnhc88zpcw9210yvgn5zjky6hk
+FileSize: 496
+NarHash: sha256:1hyxvpfxfmk2m8gq80y6sd103wndahm9f69822kmpvirr0nk7kv1
+NarSize: 1104
+References: 1mccb37pvl03i6hg5g8914r6zjd6n09b-gettext-0.21.1 1rxflvd5c8p1zp9v1g4g7lhva55xl56g-automake-1.16.5 k4j8jl7kii9wi8qhbxik7x5sc6xsvi9f-autoconf-2.72 wva9jcfp0bq9kfji3rd7vzrhx1793jgx-libtool-2.4.7
+Deriver: ijzfiwj6axiv92jl6q9ycvxfdg36pzm8-autoreconf-hook.drv
+Sig: cache.nixos.org-1:JSsZYHI3h66iKJEwPJsD3yOmV5GUnkmvwdTlCmmthQ6hho/kru2sKyvVDc5idt2ryNIz/wYNpGRa54UuSk3SCg==

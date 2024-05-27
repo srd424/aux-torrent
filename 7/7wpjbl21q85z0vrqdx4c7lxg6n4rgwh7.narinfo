@@ -1,0 +1,9 @@
+StorePath: /nix/store/7wpjbl21q85z0vrqdx4c7lxg6n4rgwh7-busybox-in-store.patch
+URL: nar/0wd0nc1x1l4df0j73ig3mxbhmzmaa4jz8rcpj78pn32l4r5jcp33.nar.xz
+Compression: xz
+FileHash: sha256:0wd0nc1x1l4df0j73ig3mxbhmzmaa4jz8rcpj78pn32l4r5jcp33
+FileSize: 604
+NarHash: sha256:1ad85qi2dsprmmdb42qqd65zy05iazngnl530a4fv7gwx6s99g5c
+NarSize: 984
+References: 
+CA: fixed:r:sha256:1ad85qi2dsprmmdb42qqd65zy05iazngnl530a4fv7gwx6s99g5c

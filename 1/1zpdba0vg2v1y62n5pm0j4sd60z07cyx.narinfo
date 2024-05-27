@@ -1,0 +1,9 @@
+StorePath: /nix/store/1zpdba0vg2v1y62n5pm0j4sd60z07cyx-wchar-imports-skip.patch
+URL: nar/1q3w57qhdmkiaplnfgr2hhcsv46q596lfylf3kcajbzcm4ii99hg.nar.xz
+Compression: xz
+FileHash: sha256:1q3w57qhdmkiaplnfgr2hhcsv46q596lfylf3kcajbzcm4ii99hg
+FileSize: 608
+NarHash: sha256:0mr72d9zss9i6vj8hpj2vsdz9c1079i974i0wfwj0wcl6qh9f8ys
+NarSize: 1352
+References: 
+CA: fixed:r:sha256:0mr72d9zss9i6vj8hpj2vsdz9c1079i974i0wfwj0wcl6qh9f8ys

@@ -1,0 +1,10 @@
+StorePath: /nix/store/p1i9hvz0v4s7hxxb65srf2mqcjfpcfg0-source-github.com-awslabs-aws-c-mqtt-v0.10.3
+URL: nar/0dl4yllrp3dklp4g9z98xkacnlgmvj865snifci2x202vxjw8qp4.nar.xz
+Compression: xz
+FileHash: sha256:0dl4yllrp3dklp4g9z98xkacnlgmvj865snifci2x202vxjw8qp4
+FileSize: 256644
+NarHash: sha256:1i6295gzh6ili4x16ln8rmfr9049ciy9r3lz6vmmkd0ari61frri
+NarSize: 2681704
+References: 
+Deriver: 6q0hcsk5lf0zgnji2kccm02vlgz1qppm-source-github.com-awslabs-aws-c-mqtt-v0.10.3.drv
+CA: fixed:r:sha256:1i6295gzh6ili4x16ln8rmfr9049ciy9r3lz6vmmkd0ari61frri

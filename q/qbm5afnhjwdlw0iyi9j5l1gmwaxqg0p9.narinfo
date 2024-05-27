@@ -1,0 +1,9 @@
+StorePath: /nix/store/qbm5afnhjwdlw0iyi9j5l1gmwaxqg0p9-perl5.38.2-libwww-perl-6.72.drv
+URL: nar/0vchd4kv8543lhhrj1ryrinxh0dmnx2ngwksrlifapmvh39ybyn7.nar.xz
+Compression: xz
+FileHash: sha256:0vchd4kv8543lhhrj1ryrinxh0dmnx2ngwksrlifapmvh39ybyn7
+FileSize: 1720
+NarHash: sha256:1clclcrf3lhhnnin8iiqmdbmycbngp42gsryrdwksxa44cg5f7d8
+NarSize: 4176
+References: 0avw597m2x1vjkp80jdfpgczw1ln7hps-perl5.38.2-HTTP-Negotiate-6.01.drv 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 80pr4sklpz43ary56rc7nhbm5m9yaway-perl5.38.2-HTTP-CookieJar-0.014.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv 9h2ka8y40y8cqv4s6mxzd46df97q9mkd-perl5.38.2-Test-Needs-0.002010.drv cn83wrxpdgxl02criyzpipba9g2i2c58-perl5.38.2-Net-HTTP-6.23.drv cw41fj1m4v41w0z7biy1xaw7ncy0irjf-perl5.38.2-Test-Fatal-0.017.drv g5z6w115yl5rzbnk1qn8l0c0l894h3fd-perl5.38.2-HTTP-Daemon-6.16.drv i93xxj23qdd9f5rl4y6w9izs4k6wq7hp-perl5.38.2-Try-Tiny-0.31.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv r595qb78hpvicbhfvcq64sl08g29fngy-perl5.38.2-File-Listing-6.16.drv symkpvfbn1pm1hzc2pi3flyxl6635vi1-perl5.38.2-HTML-Parser-3.81.drv wiz9yrj525cyr5g4cp418ndsz04yk2f6-libwww-perl-6.72.tar.gz.drv wknmyrz3mpxjw4csx6324wrg59m2p2v3-perl5.38.2-WWW-RobotRules-6.02.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv z13myqalpjzmsphwjp05aa2sljm6dskn-perl5.38.2-HTTP-Cookies-6.10.drv zaxz5712l0y1458hpzpx709vxnv6p5lw-perl5.38.2-Test-RequiresInternet-0.05.drv
+CA: text:sha256:0j2260l4k2vah4f58mc1a4jad5j85jvvg2zbb7jknc1njw0jjyxq

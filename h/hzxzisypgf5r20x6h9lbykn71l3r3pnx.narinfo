@@ -1,0 +1,10 @@
+StorePath: /nix/store/hzxzisypgf5r20x6h9lbykn71l3r3pnx-binutils-wrapper-2.41
+URL: nar/0v5np92pjk28zvsijmbyfha0fbf7gx2xpsv7qjzgkmj0g66342ij.nar.xz
+Compression: xz
+FileHash: sha256:0v5np92pjk28zvsijmbyfha0fbf7gx2xpsv7qjzgkmj0g66342ij
+FileSize: 7448
+NarHash: sha256:0zizzdr2m3g3zlv1iw6f2kwjnhg2n1nhlpmlwpb6nm0mh3r45bap
+NarSize: 51312
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 asqa3kfq3maclk7cqqhrjvp7vriw6ahy-coreutils-9.5 b93lnii942nnkbpkl6smk8dhv0049di8-glibc-2.39-5-bin dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 hzxzisypgf5r20x6h9lbykn71l3r3pnx-binutils-wrapper-2.41 ij144ma6vs8acil8r9hgr8xkb1dp9azg-glibc-2.39-5-dev vj57s3h2za2qrfccrvc9b6i7s8mw3ndn-binutils-2.41 xgqza265rj1zlx367q0dkrphg9hv17l7-expand-response-params
+Deriver: zysgb87ghz414ypj1lwmyqisjv81bii9-binutils-wrapper-2.41.drv
+Sig: cache.nixos.org-1:OezEtcJscFoSl68NYo5+A9cb01+1XoEk4MvQ6DSLLqZVToJax3EEObQQSVPU753V+WHYK9yr6BuX7enFqg4xBg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/wmw6a6pcmwaqwqvhfjzclk1jmr0am383-clang-cross.patch
+URL: nar/1mxj3hiznr6rgqak3bj3njjwsbclqw9nzbj058279h0dqirsmydx.nar.xz
+Compression: xz
+FileHash: sha256:1mxj3hiznr6rgqak3bj3njjwsbclqw9nzbj058279h0dqirsmydx
+FileSize: 584
+NarHash: sha256:1wmp89hj09jcyvws6k20vxb8n5w6h449h4qd28krspinxcmfrff8
+NarSize: 1120
+References: 
+CA: fixed:r:sha256:1wmp89hj09jcyvws6k20vxb8n5w6h449h4qd28krspinxcmfrff8

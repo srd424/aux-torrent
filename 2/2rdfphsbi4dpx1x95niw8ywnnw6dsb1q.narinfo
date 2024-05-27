@@ -1,0 +1,9 @@
+StorePath: /nix/store/2rdfphsbi4dpx1x95niw8ywnnw6dsb1q-Moo-2.005005.tar.gz.drv
+URL: nar/1gh2xfkcivld85v8kv24xnkkhfjpqr61rn5w55ab43fgdbd2hkhk.nar.xz
+Compression: xz
+FileHash: sha256:1gh2xfkcivld85v8kv24xnkkhfjpqr61rn5w55ab43fgdbd2hkhk
+FileSize: 1308
+NarHash: sha256:08fps2sdcw17hnsdcql8lji1cfk6qrfsvyb4gv9wylw552bnn6rv
+NarSize: 2984
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:119gwislk3zj6bbp5cm2hy7b7f64rx2n644j3mj6c4yzg7y2jyrp

@@ -1,0 +1,9 @@
+StorePath: /nix/store/13gva1l2az92k0a0kxsj70acfv5rji4d-mdbook-linkcheck-0.7.7
+URL: nar/058pinj6dzx86hapcrqfn1pnjh1p564dl9aa3v6cvy4p0mxmb3mz.nar.xz
+Compression: xz
+FileHash: sha256:058pinj6dzx86hapcrqfn1pnjh1p564dl9aa3v6cvy4p0mxmb3mz
+FileSize: 3319500
+NarHash: sha256:0wvr4xzb5cpslzqav78i9k4wdhkliv4iv7myaxngxv88bjq8c2yc
+NarSize: 12087840
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 9xgpmwqw0881kxa9sl498qfmzy7z2ndn-openssl-3.0.13 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib
+Deriver: zfdm31hx0m5nbv4748gz6ssca9cssi72-mdbook-linkcheck-0.7.7.drv

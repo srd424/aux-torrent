@@ -1,0 +1,9 @@
+StorePath: /nix/store/v4srnxczvr6p8qpx5197dybckghbby6a-pytest-mock-3.12.0.tar.gz.drv
+URL: nar/1nywp8lmj2qrnh1s4wibpcz66rizyxcayhyrbfnagrw1qzjhyfkd.nar.xz
+Compression: xz
+FileHash: sha256:1nywp8lmj2qrnh1s4wibpcz66rizyxcayhyrbfnagrw1qzjhyfkd
+FileSize: 1304
+NarHash: sha256:0vaxpmshgj18kf6zy21f15x4jv76mxwzcpy1wzzsgvivmgpf54dp
+NarSize: 3000
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0rp9ywxgpzn4gymlwwgyiz1nlfqlkqy3j6cy3j3wvyyjakym9aqn

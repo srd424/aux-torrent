@@ -1,0 +1,9 @@
+StorePath: /nix/store/4cmjzk8yr6i5vls5d2050p653zzdvmvp-setup-hook.sh
+URL: nar/0wmlxki9j9grjv68yay7ybhzpkrpxng47a0jk6pygk8pwli57v85.nar.xz
+Compression: xz
+FileHash: sha256:0wmlxki9j9grjv68yay7ybhzpkrpxng47a0jk6pygk8pwli57v85
+FileSize: 232
+NarHash: sha256:1gl8safk1yyn94605hmngazz8r8jdhr7y712g100qgld1nxk7d5d
+NarSize: 248
+References: 
+CA: fixed:r:sha256:1gl8safk1yyn94605hmngazz8r8jdhr7y712g100qgld1nxk7d5d

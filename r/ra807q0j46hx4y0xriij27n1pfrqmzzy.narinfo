@@ -1,0 +1,9 @@
+StorePath: /nix/store/ra807q0j46hx4y0xriij27n1pfrqmzzy-llvm-17.0.6-python
+URL: nar/11vs6bqks9avvqbxdbqladrsln6vxhr5p9lz52q4f6x8h5cqi6g6.nar.xz
+Compression: xz
+FileHash: sha256:11vs6bqks9avvqbxdbqladrsln6vxhr5p9lz52q4f6x8h5cqi6g6
+FileSize: 9688
+NarHash: sha256:03pac2snrrp3095kbxn6qqh9racw44v39b2lqcasa4cy13mp4vld
+NarSize: 39216
+References: 
+Deriver: k6ilpsv37c0zrvnrxzvkk07rijysfdrf-llvm-17.0.6.drv

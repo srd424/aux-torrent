@@ -1,0 +1,10 @@
+StorePath: /nix/store/85qvkm2h9b1cv7bwyb67rwyvxm559wrr-source-github.com-gabime-spdlog-v1.13.0
+URL: nar/0scsm6av69s1qi6crks648k2nxgf0l1c6vfm0d9zdp9p34rh8sh6.nar.xz
+Compression: xz
+FileHash: sha256:0scsm6av69s1qi6crks648k2nxgf0l1c6vfm0d9zdp9p34rh8sh6
+FileSize: 204364
+NarHash: sha256:0zgdmdgnp2y36jrlk85d4fiyjkjd6anly8pambyc3f3v6sg02zyy
+NarSize: 1161936
+References: 
+Deriver: 3swx1yphjrshqjm1i75xq18h65n01a59-source-github.com-gabime-spdlog-v1.13.0.drv
+CA: fixed:r:sha256:0zgdmdgnp2y36jrlk85d4fiyjkjd6anly8pambyc3f3v6sg02zyy

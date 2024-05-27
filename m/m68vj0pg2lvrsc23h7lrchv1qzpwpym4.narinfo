@@ -1,0 +1,9 @@
+StorePath: /nix/store/m68vj0pg2lvrsc23h7lrchv1qzpwpym4-source-github.com-lxml-lxml-refs-tags-lxml-5.1.0.drv
+URL: nar/1paq8i52xylbxn9xs609mbqqhirrb8fj4vpgczmgj0701aa6rr5b.nar.xz
+Compression: xz
+FileHash: sha256:1paq8i52xylbxn9xs609mbqqhirrb8fj4vpgczmgj0701aa6rr5b
+FileSize: 1604
+NarHash: sha256:0zqghzg0dj43kr5nz1aq9f3x5by4ryy8v816flja1fdalwmfig38
+NarSize: 3656
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:094qb7inf76jl77av1vkfzmn1yww285jhj32hk8qa1lsxvdzw0j7

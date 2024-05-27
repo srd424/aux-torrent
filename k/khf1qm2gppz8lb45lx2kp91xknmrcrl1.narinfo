@@ -1,0 +1,9 @@
+StorePath: /nix/store/khf1qm2gppz8lb45lx2kp91xknmrcrl1-git-send-email-honor-PATH.patch
+URL: nar/1fks5dvv6dczr4i6spwwd6w6jak1dj1xdzrm2jx52fq02461pvn3.nar.xz
+Compression: xz
+FileHash: sha256:1fks5dvv6dczr4i6spwwd6w6jak1dj1xdzrm2jx52fq02461pvn3
+FileSize: 820
+NarHash: sha256:0xkk84rkij2rxmwcw4cyvl310yns9ybc8pm3c3jzw62a0lqs5n1p
+NarSize: 1552
+References: 
+CA: fixed:r:sha256:0xkk84rkij2rxmwcw4cyvl310yns9ybc8pm3c3jzw62a0lqs5n1p

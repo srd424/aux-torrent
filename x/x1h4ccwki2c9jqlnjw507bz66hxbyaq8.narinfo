@@ -1,0 +1,9 @@
+StorePath: /nix/store/x1h4ccwki2c9jqlnjw507bz66hxbyaq8-setup.sh
+URL: nar/10ar7jmhh43nzyvmq6fc3qk6ylyxdpm7yl9ykg522g2brambx0p0.nar.xz
+Compression: xz
+FileHash: sha256:10ar7jmhh43nzyvmq6fc3qk6ylyxdpm7yl9ykg522g2brambx0p0
+FileSize: 13388
+NarHash: sha256:1xn3sbp940x5gqv7yz3878i51a06qyxq2ag9c34wfmnqvkbsbmlr
+NarSize: 50168
+References: 
+CA: fixed:r:sha256:1xn3sbp940x5gqv7yz3878i51a06qyxq2ag9c34wfmnqvkbsbmlr

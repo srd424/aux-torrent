@@ -1,0 +1,9 @@
+StorePath: /nix/store/pyy2h4m7bzn36f6nl47c9bpk2xll974a-python-output-dist-hook.drv
+URL: nar/08657nqwjsrmfj595xc3ggrdsqh4yx5jrrag7f1gp6xxspbgmlps.nar.xz
+Compression: xz
+FileHash: sha256:08657nqwjsrmfj595xc3ggrdsqh4yx5jrrag7f1gp6xxspbgmlps
+FileSize: 760
+NarHash: sha256:1dmw8dix77w4n2rc45shn8wcrk9h79wk5f1qfp5aclr0k5k9w4nm
+NarSize: 1744
+References: 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh yj4h9pz0nfqaf37zayxhfyl9sr2r8bl8-python-output-dist-hook.sh
+CA: text:sha256:15bhxwmihqw2yqc60069di1jsyzlwazgyinlrj4klic1dag6qsmb

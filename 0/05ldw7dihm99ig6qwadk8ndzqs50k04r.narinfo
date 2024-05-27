@@ -1,0 +1,9 @@
+StorePath: /nix/store/05ldw7dihm99ig6qwadk8ndzqs50k04r-python3.11-bootstrap-build-1.2.1.drv
+URL: nar/1j334abmiz2xv3avkym9zb4dg5bp7c57a9fz91byn927i9z3j6jw.nar.xz
+Compression: xz
+FileHash: sha256:1j334abmiz2xv3avkym9zb4dg5bp7c57a9fz91byn927i9z3j6jw
+FileSize: 1380
+NarHash: sha256:1h5cgrwjm3b17pvyqlfz8r9bpsdv2z3f0xywb56adlxpizb4q3k1
+NarSize: 3520
+References: 5hhjpf7ggj6026ngp7m7mg4wlzpc8kv9-make-shell-wrapper-hook.drv 5qmi07dp0d8m2lbpskdf021rfk5rvhs9-python3-3.11.9.drv 6caibhy3aj1g5l0xijbdz6mcs3krvzpj-source-github.com-pypa-build-refs-tags-1.2.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv b5hzwq87arjqgwvr775ywrcxcipf9h1q-python3.11-bootstrap-flit-core-3.9.0.drv bimhi9iw2dxc353k3y792wsb0l630niv-python3.11-bootstrap-pyproject-hooks-1.0.0.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv mngd5187csvlijbpzql991yd89msxjaq-python3.11-bootstrap-packaging-24.0.drv qyhsslsml3k0jrm9slmlsx8ylndaasj1-python3.11-bootstrap-installer-0.7.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh x8h82yvyvym798f57k94jz0z14xv1lh1-python3.11-bootstrap-tomli-2.0.1.drv
+CA: text:sha256:1gp24a3kknmxb6agsw1hjn6fsl6y5x9991v0s0rwhvb2384lj1iq

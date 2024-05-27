@@ -1,0 +1,9 @@
+StorePath: /nix/store/nyba8vj037xlsncwmgcq4prm6dvkcrqj-source-github.com-facebook-zstd-v1.5.6.drv
+URL: nar/0hbpqxzn794mnixgdglkm1w1q828nnjhi794bh07qic081ah3jxf.nar.xz
+Compression: xz
+FileHash: sha256:0hbpqxzn794mnixgdglkm1w1q828nnjhi794bh07qic081ah3jxf
+FileSize: 1592
+NarHash: sha256:1siqlcli3g4i278a43a34py5h138zpn1sn7g7qnw3fb9pd3n1b0j
+NarSize: 3608
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0qq6a2jh9ibzrvmpcqx05glvagg6ma59h6hvg6847p5agl3cfa77

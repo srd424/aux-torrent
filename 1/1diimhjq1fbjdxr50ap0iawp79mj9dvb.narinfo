@@ -1,0 +1,9 @@
+StorePath: /nix/store/1diimhjq1fbjdxr50ap0iawp79mj9dvb-site.tmac
+URL: nar/191sa4i0pz9r4asyb9904xc6ind28k9shy3974arg308c5ga823p.nar.xz
+Compression: xz
+FileHash: sha256:191sa4i0pz9r4asyb9904xc6ind28k9shy3974arg308c5ga823p
+FileSize: 668
+NarHash: sha256:0g83wd9pxrgdch4qi5zg5s85xdhnj107xmfnk7zisyc3118x90sv
+NarSize: 1088
+References: 
+CA: fixed:r:sha256:0g83wd9pxrgdch4qi5zg5s85xdhnj107xmfnk7zisyc3118x90sv

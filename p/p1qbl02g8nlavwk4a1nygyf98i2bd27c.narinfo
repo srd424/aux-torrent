@@ -1,0 +1,9 @@
+StorePath: /nix/store/p1qbl02g8nlavwk4a1nygyf98i2bd27c-aws-c-compression-0.2.18.drv
+URL: nar/0b681rsv35ad8fzc15y9hhwwy7dm969686gza1qpfsabvpbp7dzb.nar.xz
+Compression: xz
+FileHash: sha256:0b681rsv35ad8fzc15y9hhwwy7dm969686gza1qpfsabvpbp7dzb
+FileSize: 880
+NarHash: sha256:1cq4hvd92h38in2ky2gmry777cr3fzaqzxzhci9xcqmg8p9w75jq
+NarSize: 1928
+References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv fl9gy9hf5vpv4ayia5smazcgzs368j77-aws-c-common-0.9.14.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh xpk910ydhfvfh6bzgrswgz7gh9xyqf4j-source-github.com-awslabs-aws-c-compression-v0.2.18.drv
+CA: text:sha256:02vq5yvyzwxrhn9ljvirczlgaz2pgcidq0rss6ivix7kzmgfvnrs

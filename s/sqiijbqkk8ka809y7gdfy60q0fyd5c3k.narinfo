@@ -1,0 +1,9 @@
+StorePath: /nix/store/sqiijbqkk8ka809y7gdfy60q0fyd5c3k-auto-patchelf.py
+URL: nar/0k703jwl0j3mnamsig14g9hmlwm00nw574mmfhh1zfmk9shxh3pf.nar.xz
+Compression: xz
+FileHash: sha256:0k703jwl0j3mnamsig14g9hmlwm00nw574mmfhh1zfmk9shxh3pf
+FileSize: 4452
+NarHash: sha256:0nadlhbphdiakb5v084j7l1bn88ldrwkpa2gxl5i3ldx2m0sgcmx
+NarSize: 14040
+References: 
+CA: fixed:r:sha256:0nadlhbphdiakb5v084j7l1bn88ldrwkpa2gxl5i3ldx2m0sgcmx

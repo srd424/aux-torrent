@@ -1,0 +1,9 @@
+StorePath: /nix/store/jzi42chsc2xgipfrj0i9k4ika9akqc6l-libpsl-0.21.5-dev
+URL: nar/1bixlsgc44j639pl4jqm1gp3l9a4bhkl1ncjwfa7bh7shgb5bp2q.nar.xz
+Compression: xz
+FileHash: sha256:1bixlsgc44j639pl4jqm1gp3l9a4bhkl1ncjwfa7bh7shgb5bp2q
+FileSize: 2600
+NarHash: sha256:0j3mdab0c5skv8px04jl75lwg5n2m55a9j31qyvyh8xndjy8s16y
+NarSize: 7760
+References: jrgbcqlf9srqwbn5b3ciacj2v6xrv7v3-libpsl-0.21.5 jzi42chsc2xgipfrj0i9k4ika9akqc6l-libpsl-0.21.5-dev mvnkj67h0jzq1z5namj60aq6lv4znva7-publicsuffix-list-0-unstable-2024-01-07 x2mlavnzpivaa9gvf28syd5xqa6cxpv3-libpsl-0.21.5-bin
+Deriver: hwxn4z0dywnci5lc9gg4v0ph0yras1ww-libpsl-0.21.5.drv

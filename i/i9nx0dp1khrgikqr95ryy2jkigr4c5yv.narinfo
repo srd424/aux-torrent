@@ -1,0 +1,9 @@
+StorePath: /nix/store/i9nx0dp1khrgikqr95ryy2jkigr4c5yv-unpack-bootstrap-tools.sh
+URL: nar/06kdjzzqkicq96g8my9dl47vqkpc546aq4161hikj8rzvpqxvg1v.nar.xz
+Compression: xz
+FileHash: sha256:06kdjzzqkicq96g8my9dl47vqkpc546aq4161hikj8rzvpqxvg1v
+FileSize: 1128
+NarHash: sha256:0kqjsl077ip0x03b4282mr2gr1lc934lh5nhnmb8za2m5zh789sq
+NarSize: 2680
+References: 
+CA: fixed:r:sha256:0kqjsl077ip0x03b4282mr2gr1lc934lh5nhnmb8za2m5zh789sq

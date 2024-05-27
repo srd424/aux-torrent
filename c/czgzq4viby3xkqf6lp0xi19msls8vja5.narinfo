@@ -1,0 +1,9 @@
+StorePath: /nix/store/czgzq4viby3xkqf6lp0xi19msls8vja5-mpdecimal-4.0.0.tar.gz.drv
+URL: nar/0vggi21440w1qd5ccypk4zm75irx0gax0jg65vqlgjh9jiva23fw.nar.xz
+Compression: xz
+FileHash: sha256:0vggi21440w1qd5ccypk4zm75irx0gax0jg65vqlgjh9jiva23fw
+FileSize: 520
+NarHash: sha256:0q6j10acqa965f6p1ar2j79nn8k4b8b5dpv749p919gm0cdkbnxk
+NarSize: 896
+References: 
+CA: text:sha256:1qxk72fwi0v0f7kfr4vdj1pky99k8q23si2n2j9nmws6f3zvzyl8

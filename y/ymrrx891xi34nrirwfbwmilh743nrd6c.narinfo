@@ -1,0 +1,9 @@
+StorePath: /nix/store/ymrrx891xi34nrirwfbwmilh743nrd6c-isl-0.20
+URL: nar/04p741lmg30m1fcfmz7jswz0w5gf9zvrbfmxgxfzal6z2kz71nz2.nar.xz
+Compression: xz
+FileHash: sha256:04p741lmg30m1fcfmz7jswz0w5gf9zvrbfmxgxfzal6z2kz71nz2
+FileSize: 692548
+NarHash: sha256:1fny92wyazxxd2sw3r5nycgb7l6aj06dbkxhgc9sr874ln1n3mnw
+NarSize: 2581216
+References: 4w85zw8hd3j2y89fm1j40wgh4kpjgxy7-bootstrap-tools jgqwkk4jsdafjpiz0hr6j0k4ssim82s3-bootstrap-stage0-glibc-bootstrapFiles w0w12qvn39z3lbifmv58pnqclghq7yxi-gmp-6.3.0 ymrrx891xi34nrirwfbwmilh743nrd6c-isl-0.20
+Deriver: 3nl9wlifavs1g3ypfrqzszrg33a4zkv2-isl-0.20.drv

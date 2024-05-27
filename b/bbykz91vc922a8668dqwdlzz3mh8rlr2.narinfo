@@ -1,0 +1,9 @@
+StorePath: /nix/store/bbykz91vc922a8668dqwdlzz3mh8rlr2-rustc-wrapper.sh
+URL: nar/15n2qyvn6a99wc1g0bh945y0rrrw03mqm0ai64cfm3665y4zhy5r.nar.xz
+Compression: xz
+FileHash: sha256:15n2qyvn6a99wc1g0bh945y0rrrw03mqm0ai64cfm3665y4zhy5r
+FileSize: 432
+NarHash: sha256:1h954mb2kzmwjayfsmsax621wkbkp3ahqlmhx53mz0r2zwqiij9y
+NarSize: 776
+References: 
+CA: fixed:r:sha256:1h954mb2kzmwjayfsmsax621wkbkp3ahqlmhx53mz0r2zwqiij9y

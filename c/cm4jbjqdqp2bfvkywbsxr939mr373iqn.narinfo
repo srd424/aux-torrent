@@ -1,0 +1,10 @@
+StorePath: /nix/store/cm4jbjqdqp2bfvkywbsxr939mr373iqn-find-xml-catalogs-hook
+URL: nar/1yx2f1f374z0nx44vnmgi16dk4847q34vwiyyglnicbxddqyag4j.nar.xz
+Compression: xz
+FileHash: sha256:1yx2f1f374z0nx44vnmgi16dk4847q34vwiyyglnicbxddqyag4j
+FileSize: 548
+NarHash: sha256:1prwpls7m8h8z0zrv6yjmy3rgfwvaka7r1fnnvx4gb31fhjb1brc
+NarSize: 1168
+References: 
+Deriver: m6xhiphyw7dgqgyn1r4xm517niz29pn5-find-xml-catalogs-hook.drv
+Sig: cache.nixos.org-1:ynoGZMqVFf5NX7K+eUfln5/BGCj3CwcRISud36HOwPO4vs8ki5JS7sT3Iyoha5Bq8ttJRtRaxmbRSdgoJjrDDQ==

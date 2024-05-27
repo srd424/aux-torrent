@@ -1,0 +1,9 @@
+StorePath: /nix/store/h17r866771dfqbblfsnxn7024yjxqhd4-fortify-headers-1.1alpine3.drv
+URL: nar/0jy8zf26r2mi0qdgsv3kz93rhbj82vb3gn8yakqwrwkr1g1013ip.nar.xz
+Compression: xz
+FileHash: sha256:0jy8zf26r2mi0qdgsv3kz93rhbj82vb3gn8yakqwrwkr1g1013ip
+FileSize: 860
+NarHash: sha256:0bw23dn0z0gfb89i2vmiras6crsrnfcy9rg324wh7g6i425g542p
+NarSize: 1976
+References: 1zpdba0vg2v1y62n5pm0j4sd60z07cyx-wchar-imports-skip.patch 6w9y78iyw5yibs8ybnbvjmn2mjvlryps-restore-macros.patch 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv qx4p8dmwbjqv691c7vx31kpirndzsrw2-fortify-headers.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:107jhsqp8xnyhwkd5zqh2rbb9v4p1irhxgjkzfs4c254cpq3z580

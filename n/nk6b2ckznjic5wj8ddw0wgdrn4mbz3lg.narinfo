@@ -1,0 +1,9 @@
+StorePath: /nix/store/nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps
+URL: nar/1zl6vp8vbqi0qidrqyg4f7c6rsyg3yq867769aw77r668fxrvfv7.nar.xz
+Compression: xz
+FileHash: sha256:1zl6vp8vbqi0qidrqyg4f7c6rsyg3yq867769aw77r668fxrvfv7
+FileSize: 316
+NarHash: sha256:1463kfhf6vrnfwpycsv38v69mcf8lrkh9g566i42c352c4mpilr6
+NarSize: 488
+References: 
+CA: fixed:r:sha256:1463kfhf6vrnfwpycsv38v69mcf8lrkh9g566i42c352c4mpilr6

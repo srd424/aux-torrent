@@ -1,0 +1,9 @@
+StorePath: /nix/store/rf3kjgy7pbvymp55hxw28dg5g937lmcv-plugins-no-BINDIR.patch
+URL: nar/0dxnks55242fmnm4k4papkrazysh59b66c3igjdawdv52v3mskyn.nar.xz
+Compression: xz
+FileHash: sha256:0dxnks55242fmnm4k4papkrazysh59b66c3igjdawdv52v3mskyn
+FileSize: 632
+NarHash: sha256:1q4pifqk8k6356pfj26l68jsmzhdjlw28pf2dvx2z06kr9r61cgv
+NarSize: 1016
+References: 
+CA: fixed:r:sha256:1q4pifqk8k6356pfj26l68jsmzhdjlw28pf2dvx2z06kr9r61cgv

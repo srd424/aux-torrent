@@ -1,0 +1,10 @@
+StorePath: /nix/store/hknw6f97vnvgnq49lm6afrh18w7lh4h0-source-github.com-awslabs-aws-c-sdkutils-v0.1.15
+URL: nar/0p4gqcxvgicg3fpkfh2m3l9bcvwp5rmwk0mn4f4g96xdv9rwz2jf.nar.xz
+Compression: xz
+FileHash: sha256:0p4gqcxvgicg3fpkfh2m3l9bcvwp5rmwk0mn4f4g96xdv9rwz2jf
+FileSize: 62960
+NarHash: sha256:0cim1v51d2y724sf75vj8mh5d3lpl7d4fgr9s5368hpyvdnl6d25
+NarSize: 513064
+References: 
+Deriver: aqxqh3y8ibh28cp0xpzfcj78qaj3745q-source-github.com-awslabs-aws-c-sdkutils-v0.1.15.drv
+CA: fixed:r:sha256:0cim1v51d2y724sf75vj8mh5d3lpl7d4fgr9s5368hpyvdnl6d25

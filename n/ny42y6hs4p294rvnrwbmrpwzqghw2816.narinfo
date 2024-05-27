@@ -1,0 +1,9 @@
+StorePath: /nix/store/ny42y6hs4p294rvnrwbmrpwzqghw2816-gettext-setup-hook.sh
+URL: nar/09slcabnd4f7ahzrwyqjl0mydwhqfwnfb6mxfx8amcybwxpkv86v.nar.xz
+Compression: xz
+FileHash: sha256:09slcabnd4f7ahzrwyqjl0mydwhqfwnfb6mxfx8amcybwxpkv86v
+FileSize: 464
+NarHash: sha256:15kr0frarz8dnz7wzrg0n27xp59jdcjq60wasmjvkr32f0d7mki7
+NarSize: 672
+References: 
+CA: fixed:r:sha256:15kr0frarz8dnz7wzrg0n27xp59jdcjq60wasmjvkr32f0d7mki7

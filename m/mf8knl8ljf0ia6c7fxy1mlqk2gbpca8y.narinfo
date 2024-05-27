@@ -1,0 +1,9 @@
+StorePath: /nix/store/mf8knl8ljf0ia6c7fxy1mlqk2gbpca8y-CVE-2023-48795.patch
+URL: nar/1yyd2pw510xjd6nnws658iqkxi8dvi9bf9mv56m1xi39wpnsmy89.nar.xz
+Compression: xz
+FileHash: sha256:1yyd2pw510xjd6nnws658iqkxi8dvi9bf9mv56m1xi39wpnsmy89
+FileSize: 4400
+NarHash: sha256:0h6bfkdaqg3q9r3n1h16zvdpf6qz63vvbgjs2ahgbzxc8l9s4wk8
+NarSize: 20256
+References: 
+CA: fixed:r:sha256:0h6bfkdaqg3q9r3n1h16zvdpf6qz63vvbgjs2ahgbzxc8l9s4wk8

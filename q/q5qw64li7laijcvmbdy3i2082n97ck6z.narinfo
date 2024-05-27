@@ -1,0 +1,9 @@
+StorePath: /nix/store/q5qw64li7laijcvmbdy3i2082n97ck6z-keyutils-1.6.3-man
+URL: nar/1a1z3r0nbib42qj3ykf50ldncajcsn1kmbxh42xa8klgcv36dgsw.nar.xz
+Compression: xz
+FileHash: sha256:1a1z3r0nbib42qj3ykf50ldncajcsn1kmbxh42xa8klgcv36dgsw
+FileSize: 58248
+NarHash: sha256:0la4q0104xhvz8gxlqksxcrijp8vvyvznkm628jn272azw475ipq
+NarSize: 68600
+References: 
+Deriver: 4xcrr8icyyk5bjfmrp4gay3i8wviclq8-keyutils-1.6.3.drv

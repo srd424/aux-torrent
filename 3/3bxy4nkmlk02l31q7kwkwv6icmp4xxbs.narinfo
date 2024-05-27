@@ -1,0 +1,9 @@
+StorePath: /nix/store/3bxy4nkmlk02l31q7kwkwv6icmp4xxbs-asciidoc-10.2.0
+URL: nar/1xhjwlnqd0bx1nb1k154b9p0d1rv9pvnkx5jsf3g8m4g3jhzvhf7.nar.xz
+Compression: xz
+FileHash: sha256:1xhjwlnqd0bx1nb1k154b9p0d1rv9pvnkx5jsf3g8m4g3jhzvhf7
+FileSize: 322936
+NarHash: sha256:0yz3mdfnyyrvjcb2s5kzvzy3ap8id6acyxrji1naqj7qvfyqvhav
+NarSize: 1820256
+References: 0vw6n0g2bvp57xz6g3pgqf66wf9lcilg-docbook-xsl-ns-1.79.2 0yqgyljlbnx5b9q1l85hn2mizs73lcrd-docbook-xml-4.5 3bxy4nkmlk02l31q7kwkwv6icmp4xxbs-asciidoc-10.2.0 6pz7g68jp7jniklzc6jz9qaqlcj6psj5-libxslt-1.1.39-bin 98wa4kf8fcza216xzcmj42ciwpk5akzw-docbook-xsl-nons-1.79.2 d4a81nyylpij9kywrq8dwx6xxlsyww1g-libxml2-2.12.6-bin dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
+Deriver: g1l62fsm8l6xdkiz77v391w0fw336f8n-asciidoc-10.2.0.drv

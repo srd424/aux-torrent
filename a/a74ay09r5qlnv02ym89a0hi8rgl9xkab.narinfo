@@ -1,0 +1,9 @@
+StorePath: /nix/store/a74ay09r5qlnv02ym89a0hi8rgl9xkab-gtk-doc-1.33.2
+URL: nar/0f9jzyg1mq96qfx5kgrq33blbx9xamc11sprzh50h3p2z8ha8m9j.nar.xz
+Compression: xz
+FileHash: sha256:0f9jzyg1mq96qfx5kgrq33blbx9xamc11sprzh50h3p2z8ha8m9j
+FileSize: 103820
+NarHash: sha256:06valq9a7p52g65ir0lcdns3pq1pmqv6h37z4ykgflf8g9cjv6fd
+NarSize: 622656
+References: 39nq7p6jcm9m3xqqm99skwmgsqw4pbbg-pkg-config-wrapper-0.29.2 6pz7g68jp7jniklzc6jz9qaqlcj6psj5-libxslt-1.1.39-bin a74ay09r5qlnv02ym89a0hi8rgl9xkab-gtk-doc-1.33.2 ayzq4am2d2ibc57clb4a32m07jxcckp8-python3.11-pygments-2.17.2 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 ppi40ly16lmv0ivc1wr4kyrh7w7fr9yl-python3.11-lxml-5.1.0
+Deriver: w3yjk46znjyixhgc4sazzyyn85jg4zg7-gtk-doc-1.33.2.drv

@@ -1,0 +1,10 @@
+StorePath: /nix/store/j6jqmrzww6ipvwk0arbqyhbqfz5g6mfs-source-github.com-swig-swig-rel-3.0.12
+URL: nar/09qqw5rmc0ylbxkbk698vilj994jpfhqvwd88hhih1nfvx9q8asm.nar.xz
+Compression: xz
+FileHash: sha256:09qqw5rmc0ylbxkbk698vilj994jpfhqvwd88hhih1nfvx9q8asm
+FileSize: 2313024
+NarHash: sha256:1wyffskbkzj5zyhjnnpip80xzsjcr3p0q5486z3wdwabnysnhn8n
+NarSize: 17389152
+References: 
+Deriver: w1kw02w9mdvwfx6d6w34jxlzxm4an6jp-source-github.com-swig-swig-rel-3.0.12.drv
+CA: fixed:r:sha256:1wyffskbkzj5zyhjnnpip80xzsjcr3p0q5486z3wdwabnysnhn8n

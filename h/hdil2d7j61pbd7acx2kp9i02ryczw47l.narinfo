@@ -1,0 +1,9 @@
+StorePath: /nix/store/hdil2d7j61pbd7acx2kp9i02ryczw47l-perl5.38.2-Test-Warnings-0.032.drv
+URL: nar/0ixsg0vb6ndbmkrjix3znlnraybl2vj460bqwznz5q7cvyrgkwl4.nar.xz
+Compression: xz
+FileHash: sha256:0ixsg0vb6ndbmkrjix3znlnraybl2vj460bqwznz5q7cvyrgkwl4
+FileSize: 1056
+NarHash: sha256:1zkrgg10x82k2v44isy4pqq7gl6r95pjg5lpzfnblvpvhrf2fcik
+NarSize: 2504
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv d8cc27y5j8c34wj1n86y62k40w4l4x09-Test-Warnings-0.032.tar.gz.drv i77xr289v9wbhxv3fha4ib97wkj4cqgf-perl5.38.2-PadWalker-2.5.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv z6n1r2v16f0hxb952qyvjgz1166ig150-perl5.38.2-CPAN-Meta-Check-0.018.drv
+CA: text:sha256:13ffjqwncp11c6p4fjxadq2bw4sil6wlas4yc0yz8cbi4qwibdyc

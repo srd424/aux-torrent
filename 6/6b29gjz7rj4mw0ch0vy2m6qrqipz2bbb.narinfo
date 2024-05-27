@@ -1,0 +1,9 @@
+StorePath: /nix/store/6b29gjz7rj4mw0ch0vy2m6qrqipz2bbb-pkg-config-0.29.2.tar.gz.drv
+URL: nar/15qr5fn5nabgyr4kxfjkq58zsynakbbz18fcz81fz8zxv0s01x38.nar.xz
+Compression: xz
+FileHash: sha256:15qr5fn5nabgyr4kxfjkq58zsynakbbz18fcz81fz8zxv0s01x38
+FileSize: 512
+NarHash: sha256:14qchy03p17fggrh6y8ksgliqgh9s7ixkf62j1v63qgfgvmkvzpv
+NarSize: 896
+References: 
+CA: text:sha256:0laz9dz9pqlpbmk1allcqndp3r1k21csfkcc8ni9lv7y7iklsnys

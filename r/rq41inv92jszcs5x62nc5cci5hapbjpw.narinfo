@@ -1,0 +1,9 @@
+StorePath: /nix/store/rq41inv92jszcs5x62nc5cci5hapbjpw-003-libuv-application-services.diff
+URL: nar/1n9zbacfm6b3dpcn3f80qh5rb3fp8z9smdjv5b7ga46yi7giifaj.nar.xz
+Compression: xz
+FileHash: sha256:1n9zbacfm6b3dpcn3f80qh5rb3fp8z9smdjv5b7ga46yi7giifaj
+FileSize: 820
+NarHash: sha256:199wgmjndbars2cjih97pq92j6gfvxp7vs9hdn07x4cjs3im6kxj
+NarSize: 1896
+References: 
+CA: fixed:r:sha256:199wgmjndbars2cjih97pq92j6gfvxp7vs9hdn07x4cjs3im6kxj

@@ -1,0 +1,10 @@
+StorePath: /nix/store/naxb4skv4p5g79siirlddcygp85n2gq5-pcre2-10.43-devdoc
+URL: nar/19vdm2g9csfqk1a63d552i4y5qmpj9dyjd6clmgfmmjzc6lv3hzk.nar.xz
+Compression: xz
+FileHash: sha256:19vdm2g9csfqk1a63d552i4y5qmpj9dyjd6clmgfmmjzc6lv3hzk
+FileSize: 236248
+NarHash: sha256:1akzji9kcsga7jxkpnjfldihnw1x9w80i2h4z8s0zhxm5jrih118
+NarSize: 253184
+References: 
+Deriver: k4pxnjlz6iyqajdazmpinas5c3zz2nsp-pcre2-10.43.drv
+Sig: cache.nixos.org-1:7LB/ymn/ROlSW0fDbb/qJyAaStr7PRT9ziCnqoJzA3KlHvxT8ohbA7EtGR+hjRjX0zCl/IG91L2+KgKW+fBBBw==

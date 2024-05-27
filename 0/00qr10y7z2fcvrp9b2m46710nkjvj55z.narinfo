@@ -1,0 +1,9 @@
+StorePath: /nix/store/00qr10y7z2fcvrp9b2m46710nkjvj55z-update-autotools-gnu-config-scripts.sh
+URL: nar/1lq8wzc71gnvbnyp5b99c9cvz4fawhanp3bicmb5a72zvi02q4jw.nar.xz
+Compression: xz
+FileHash: sha256:1lq8wzc71gnvbnyp5b99c9cvz4fawhanp3bicmb5a72zvi02q4jw
+FileSize: 368
+NarHash: sha256:1vxz3ja28yqfmjmvm9bqk63yn6k1b003w2dgniariavys581mzgm
+NarSize: 552
+References: 
+CA: fixed:r:sha256:1vxz3ja28yqfmjmvm9bqk63yn6k1b003w2dgniariavys581mzgm

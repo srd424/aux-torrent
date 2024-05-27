@@ -1,0 +1,9 @@
+StorePath: /nix/store/wpbcp7kf7xcjaf7kd7nqx23y6n8h86lf-cmake-paths-173.patch
+URL: nar/14xkcrp67a1vqg5447iy5hj2pqw8ga2w9d2f1dvhss7925ym5mgq.nar.xz
+Compression: xz
+FileHash: sha256:14xkcrp67a1vqg5447iy5hj2pqw8ga2w9d2f1dvhss7925ym5mgq
+FileSize: 568
+NarHash: sha256:0b3a09ngs979igyg3ch9qb9dddiff4inqn8w2b1pilbch65qdsgq
+NarSize: 1152
+References: 
+CA: fixed:r:sha256:0b3a09ngs979igyg3ch9qb9dddiff4inqn8w2b1pilbch65qdsgq

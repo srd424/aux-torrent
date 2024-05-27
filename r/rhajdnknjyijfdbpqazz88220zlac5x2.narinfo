@@ -1,0 +1,9 @@
+StorePath: /nix/store/rhajdnknjyijfdbpqazz88220zlac5x2-lix-2.90-beta.1
+URL: nar/1ia80x6xlrjma8x9q6vzy1ajpaxydsm41nhn6vkkaiqh8dbag44c.nar.xz
+Compression: xz
+FileHash: sha256:1ia80x6xlrjma8x9q6vzy1ajpaxydsm41nhn6vkkaiqh8dbag44c
+FileSize: 4274548
+NarHash: sha256:0vyac57nfx533jdwa0gjn0lx7859mlqpgmwv2xmflhdfy017d26n
+NarSize: 19573432
+References: 1hw3dh1c3pz32lxfpf29py4lcc846450-libarchive-3.7.2-lib 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 4q1lg66z9d2k0nlxvqyxijqqiyp2za02-lix-2.90-beta.1-man 94jr9gh88qg5idfj76r236r29f8i2pd2-aws-sdk-cpp-1.11.296 95195i0cg9y8qxcvfib8rnzlcrrscmjy-lowdown-1.1.0-lib 9nmnkkwmzjymr1gl65d4plj16si3ax8n-libseccomp-2.5.5-lib 9xgpmwqw0881kxa9sl498qfmzy7z2ndn-openssl-3.0.13 arz2j18ds33ccprjkmpp6wana556i5ha-boehm-gc-8.2.6 c1zvq1gxvlnkym9vybq3rf6qp9dcw8xs-lsof-4.99.3 dgnh076n7ygqvgk9k0987x10x8j2mji9-brotli-1.1.0-lib f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib ikv87kxv8mg70nrgd05i8snvxz9r23c3-curl-8.7.1 jv0fq65axifvilz9a6i8rcgs0vrrl6n7-libsodium-1.0.19 k4fha4s45iw99lhvfzqwg88qs5lq9sj3-libcpuid-0.6.5 l2fb2q7h29x8d1p7k8hlzh9w4vnr51c6-editline-1.17.1 nhbshzndbh2ymznf4v4vy773zmld9vcz-busybox-static-x86_64-unknown-linux-musl-1.36.1 rhajdnknjyijfdbpqazz88220zlac5x2-lix-2.90-beta.1 x4ggnhg6h0xmnd8cl3d5vg7gp9xs7m8a-sqlite-3.45.2
+Deriver: wwyzxslkl22irg8xl4187x8cg60y5frz-lix-2.90-beta.1.drv

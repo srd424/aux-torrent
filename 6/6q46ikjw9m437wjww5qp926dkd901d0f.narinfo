@@ -1,0 +1,10 @@
+StorePath: /nix/store/6q46ikjw9m437wjww5qp926dkd901d0f-boost-build-boost-1.81.0
+URL: nar/0lvmvh8lxhddij3imqjq21nqdz6rv5divaq719y9x4pf4mx8dj2f.nar.xz
+Compression: xz
+FileHash: sha256:0lvmvh8lxhddij3imqjq21nqdz6rv5divaq719y9x4pf4mx8dj2f
+FileSize: 401524
+NarHash: sha256:0a4l4y36k0kkld9bv3q5dsf0z1824yp8i286bkj818dsz0idg7mi
+NarSize: 2003288
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib
+Deriver: kld11byc9fvz31qirphwmvwlyk1rsb7j-boost-build-boost-1.81.0.drv
+Sig: cache.nixos.org-1:TwOx+eUyehvFpM5/r1xEsWS2CsYjyzyxccX+TrG5sozrU2VSScCr7Yde6AZSzHamnwWZUTXv0rpusso8z+sWBw==

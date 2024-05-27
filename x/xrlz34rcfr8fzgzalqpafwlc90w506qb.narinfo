@@ -1,0 +1,9 @@
+StorePath: /nix/store/xrlz34rcfr8fzgzalqpafwlc90w506qb-libuv-1.48.0-debug
+URL: nar/089z8880z7jpwpk5z5x6dw2fg2d6izfmcli65q8mnhbzw77sxhjj.nar.xz
+Compression: xz
+FileHash: sha256:089z8880z7jpwpk5z5x6dw2fg2d6izfmcli65q8mnhbzw77sxhjj
+FileSize: 332260
+NarHash: sha256:1bsaag0gjab6qcirbgqnjwrj8n88id3c4fkbi7if5271jh75i0ns
+NarSize: 370880
+References: 
+Deriver: zdd8153q1vk82ibsxrfnjgd422zmwncf-libuv-1.48.0.drv

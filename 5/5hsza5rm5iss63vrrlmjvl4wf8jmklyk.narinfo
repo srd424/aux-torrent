@@ -1,0 +1,9 @@
+StorePath: /nix/store/5hsza5rm5iss63vrrlmjvl4wf8jmklyk-fix-cmake-config-includedir.patch
+URL: nar/0s6np36pzgssn18pfnfp98z65pp6rdjbxyhpg2zhriqffd9q1yvj.nar.xz
+Compression: xz
+FileHash: sha256:0s6np36pzgssn18pfnfp98z65pp6rdjbxyhpg2zhriqffd9q1yvj
+FileSize: 556
+NarHash: sha256:0pxw3bd155n3a0gphrjfvfy6cazbvbx8kr201safrk09b3nv4imw
+NarSize: 1736
+References: 
+CA: fixed:r:sha256:0pxw3bd155n3a0gphrjfvfy6cazbvbx8kr201safrk09b3nv4imw

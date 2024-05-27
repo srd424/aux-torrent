@@ -1,0 +1,9 @@
+StorePath: /nix/store/hsp40plwfgjs5njzb14m2h2g2jil8f7k-re2-2024-03-01
+URL: nar/10inmpc8gcfbjjm7j595ng569c4w0awa7zqfw9cjnanmx9bvs7gw.nar.xz
+Compression: xz
+FileHash: sha256:10inmpc8gcfbjjm7j595ng569c4w0awa7zqfw9cjnanmx9bvs7gw
+FileSize: 210832
+NarHash: sha256:123b5xq2gcckvg8589gfys2vv22sl0g15x8qplzhvkv7hlgmbcw5
+NarSize: 697056
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib lcv30nzsgp832xxk5w13r709i8fgcpsm-abseil-cpp-20240116.2
+Deriver: b315bk11hsqrhpkwwix5hn4rgdgq9lll-re2-2024-03-01.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/zccbhcrwhdhjif5j0z1x5wf1c7nzv8a1-toml11-3.7.1
+URL: nar/10jk7yzz6jzfivxp5mrnggp8f587sjwly7hkhz0zjsn435p6ivvs.nar.xz
+Compression: xz
+FileHash: sha256:10jk7yzz6jzfivxp5mrnggp8f587sjwly7hkhz0zjsn435p6ivvs
+FileSize: 55648
+NarHash: sha256:1dirc3zwk5h4b4x76mgspvvcralf7ifrlvk470shglkbic928znx
+NarSize: 421544
+References: zccbhcrwhdhjif5j0z1x5wf1c7nzv8a1-toml11-3.7.1
+Deriver: gs4zn05d8n7wy30hzr2kijbia9gsf1l8-toml11-3.7.1.drv

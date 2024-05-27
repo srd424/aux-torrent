@@ -1,0 +1,9 @@
+StorePath: /nix/store/n91acyjrlchm0snw0w16i4683pf788ax-playtests-darwin.patch
+URL: nar/1x0vgiqv7dnma2rgzl3sz91hpcqrsk8avajd0xbf1mdsgi8j8b22.nar.xz
+Compression: xz
+FileHash: sha256:1x0vgiqv7dnma2rgzl3sz91hpcqrsk8avajd0xbf1mdsgi8j8b22
+FileSize: 648
+NarHash: sha256:0zxr4rb7g9xb2xn7jra84ssmi0c235hzblx6q3phnkf2qdgpfs8s
+NarSize: 1208
+References: 
+CA: fixed:r:sha256:0zxr4rb7g9xb2xn7jra84ssmi0c235hzblx6q3phnkf2qdgpfs8s

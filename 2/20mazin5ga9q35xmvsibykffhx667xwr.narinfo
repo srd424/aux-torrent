@@ -1,0 +1,10 @@
+StorePath: /nix/store/20mazin5ga9q35xmvsibykffhx667xwr-perl5.38.2-Digest-HMAC-1.04
+URL: nar/1xdl6c7yp7qpsfvcglj8542qwiq2iv39h1ddn3d0jm0fjjlgblbw.nar.xz
+Compression: xz
+FileHash: sha256:1xdl6c7yp7qpsfvcglj8542qwiq2iv39h1ddn3d0jm0fjjlgblbw
+FileSize: 2068
+NarHash: sha256:0a62wz5pghw1bngmypg8jr0lm5fim5128gyrlvlqr6w9xrcdk7rj
+NarSize: 9480
+References: 20mazin5ga9q35xmvsibykffhx667xwr-perl5.38.2-Digest-HMAC-1.04
+Deriver: l47zcxq8yvd4gvn5m0y6qazfjmbhwhrr-perl5.38.2-Digest-HMAC-1.04.drv
+Sig: cache.nixos.org-1:DV5SnupzHIH6G6EH8JZd+im22V3lz+Fe3GUM9IweVjCJTAyJSVLkMeuvfjkblMvf15bSB2azbc3NbV+WqVdLDg==

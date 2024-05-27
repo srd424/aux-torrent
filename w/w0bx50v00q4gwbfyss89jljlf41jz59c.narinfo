@@ -1,0 +1,9 @@
+StorePath: /nix/store/w0bx50v00q4gwbfyss89jljlf41jz59c-boost-build-boost-1.81.0.drv
+URL: nar/19lsr6s9bqb3ag3pqp7xi3a2pn5x900jgqn02lx562c81jhmxndq.nar.xz
+Compression: xz
+FileHash: sha256:19lsr6s9bqb3ag3pqp7xi3a2pn5x900jgqn02lx562c81jhmxndq
+FileSize: 1048
+NarHash: sha256:02ifwk785cl11fsmn4qzfddgph0a7ynn6hhdzzz166l8s0nqv51f
+NarSize: 2216
+References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv g88836iy5chq02qqa2k9qgjgcm517rq9-boost_1_81_0.tar.bz2.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv qi5860a0y4rkdg8gl72zayai8v92z2f2-bison-3.8.2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:08rgaglywaywwiwwg788dvj751ji444g3fvqkgnd2710xz0qzrjm

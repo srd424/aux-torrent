@@ -1,0 +1,11 @@
+StorePath: /nix/store/q5kjhcj52lmqzmpd9angb9hh5z87i5ys-mercurial-6.6.3-vendor.tar.gz
+URL: nar/12iz0q498z92hxqk5p6h4ax8w1f149k7qrxby0yarn4pq1klflwq.nar.xz
+Compression: xz
+FileHash: sha256:12iz0q498z92hxqk5p6h4ax8w1f149k7qrxby0yarn4pq1klflwq
+FileSize: 19049604
+NarHash: sha256:0xyi6gwzfbyxi6iz92ccfraaajjrhim3s20zp1vf1760bx7066i7
+NarSize: 19268232
+References: 
+Deriver: pvqy51dlabc15af5xcqv3hcd881mzp20-mercurial-6.6.3-vendor.tar.gz.drv
+Sig: cache.nixos.org-1:lDD8IUf1WKkOvwPIjBpe8NE11043IiiURD2gr9kMSPjiEQ1+p6+Tm5rWBAE5V0MNhlFdhBmWFUo8O2yd6WZaCw==
+CA: fixed:sha256:1fsax861vhn51p0sx2n06s0w2nbsvrq62svy4dahlfh6hb1776qv

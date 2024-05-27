@@ -1,0 +1,9 @@
+StorePath: /nix/store/nfz2dkxrcwqq4ch0v9l0qdfl3j8v68d5-source-github.com-libuv-libuv-v1.48.0.drv
+URL: nar/1shvr9smr1cmk3dhi52nm8bw8rz9fkq9h40iis4mcc4xmnh30y4b.nar.xz
+Compression: xz
+FileHash: sha256:1shvr9smr1cmk3dhi52nm8bw8rz9fkq9h40iis4mcc4xmnh30y4b
+FileSize: 1592
+NarHash: sha256:003yxa3kq7scf7jidi75wsyclmva0g5xdpvh45ssim3p68k6h8as
+NarSize: 3608
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:03g3pbd62k9jbqj2jr3mrfvicka0r47y4ih2days3vgdyyi5zrlw

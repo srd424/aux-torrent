@@ -1,0 +1,11 @@
+StorePath: /nix/store/di4c31yr68j50ii2lh8qg02nax4x02ny-iniconfig-2.0.0.tar.gz
+URL: nar/0dqszqcl8w17z5xsks4ydwy8mv1ha0ms8di0rcm23mc50679iy0x.nar.xz
+Compression: xz
+FileHash: sha256:0dqszqcl8w17z5xsks4ydwy8mv1ha0ms8di0rcm23mc50679iy0x
+FileSize: 4796
+NarHash: sha256:14v3vrji645l0a3kb57a7278yvhkzjhha98p4s2x0mkgpk9ba856
+NarSize: 4760
+References: 
+Deriver: ikkbx31sd5hshjz6zbjag4nrnxk4fsmy-iniconfig-2.0.0.tar.gz.drv
+Sig: cache.nixos.org-1:HRyLVwXjZaXYvK3NpGWhgeOHXtGY5LwzmfbW1I4azjeJcvJsfzT1CVPNokaYHIjRA2d80KWyr3k1yRJYZUFECA==
+CA: fixed:sha256:1cxqanj28jqk0alx2xq4ddgvab5822k6vh8p1d0imlvjpwsy349d

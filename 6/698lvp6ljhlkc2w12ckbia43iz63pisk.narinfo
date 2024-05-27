@@ -1,0 +1,10 @@
+StorePath: /nix/store/698lvp6ljhlkc2w12ckbia43iz63pisk-unittest-check-hook
+URL: nar/1mb3l8w23w88b4y6xk6rg39r90dzbi9kiafqlqfx7cl79hi0440l.nar.xz
+Compression: xz
+FileHash: sha256:1mb3l8w23w88b4y6xk6rg39r90dzbi9kiafqlqfx7cl79hi0440l
+FileSize: 620
+NarHash: sha256:1v1a07i37nk574l2w1xqgagn30p5xx4b9zc1jrn7cd5fb454jnp9
+NarSize: 1440
+References: glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
+Deriver: lz8dxxcqqsjrvlwlfz19yv511q0ylbbr-unittest-check-hook.drv
+Sig: cache.nixos.org-1:+My3wuCXRkFXHE6ZUzkKWMY6pI2P4j800Bv8D+wPm2X5DiYBNLHr/JbQmO3voMdG19M/yTwhN673pFqejzymAQ==

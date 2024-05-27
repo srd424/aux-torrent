@@ -1,0 +1,9 @@
+StorePath: /nix/store/67xn4dr8nh3mfzahz3cxm7fsyl80sm89-texinfo-7.0.3.drv
+URL: nar/06mis5djd5k8mgfmsrqsamwn8xn0bdlq65lp8jyr2rya0lz37cr0.nar.xz
+Compression: xz
+FileHash: sha256:06mis5djd5k8mgfmsrqsamwn8xn0bdlq65lp8jyr2rya0lz37cr0
+FileSize: 1108
+NarHash: sha256:1fvh0b5blvjaczjr77nmsnx60swg0n9ffb3p85spy2mggw1lqb6w
+NarSize: 2456
+References: 5l4w8h3j7w7gvvrj05cklpfhxbsmqqhi-xz-5.4.6.drv 63yr9k3w83lb87h0yalrpn4avh734jiz-perl-5.38.2.drv 78mcjv27sz92b64i926nd8g18qh9r373-bash-5.2p26.drv d5fyamk2c6b305807npq2j1l4kbaqif1-bootstrap-stage1-gcc-wrapper-.drv fd7x6bw5gp22rbin304hg75h6ik84j93-texinfo-7.0.3.tar.xz.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv n255mx3hg4cb20cxjb6xs58ppdpq6d5l-bootstrap-stage1-stdenv-linux.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:13jq12b0kfdr9fxy08ad09jbsl89spaqhfzv98px0rxqczm6y18g

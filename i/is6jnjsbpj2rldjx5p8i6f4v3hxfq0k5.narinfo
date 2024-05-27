@@ -1,0 +1,10 @@
+StorePath: /nix/store/is6jnjsbpj2rldjx5p8i6f4v3hxfq0k5-source-github.com-Michael-F-Bryan-mdbook-linkcheck-v0.7.7
+URL: nar/0kakm2zn4p21kpgwb5rikpwsg7pyn8qxhw9j2v34prb5wff06hdi.nar.xz
+Compression: xz
+FileHash: sha256:0kakm2zn4p21kpgwb5rikpwsg7pyn8qxhw9j2v34prb5wff06hdi
+FileSize: 31456
+NarHash: sha256:0kcg0kq4iqc9vfpl242dicia076mv58i3dhfa0fa1f27205dmfk5
+NarSize: 133824
+References: 
+Deriver: 00qag48zpy6hs6d7j73v89bqiyzyj08r-source-github.com-Michael-F-Bryan-mdbook-linkcheck-v0.7.7.drv
+CA: fixed:r:sha256:0kcg0kq4iqc9vfpl242dicia076mv58i3dhfa0fa1f27205dmfk5

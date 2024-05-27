@@ -1,0 +1,9 @@
+StorePath: /nix/store/q20d6d6lkd6b58r5ncg5398cn8vr7nqr-fuse2-Do-not-set-FUSERMOUNT_DIR.patch
+URL: nar/1chqv37qr72l0dfxr58y6hs354lncdr8drx786d8kv3kxyizhsph.nar.xz
+Compression: xz
+FileHash: sha256:1chqv37qr72l0dfxr58y6hs354lncdr8drx786d8kv3kxyizhsph
+FileSize: 384
+NarHash: sha256:0kdmzfvvpzwjfm4rbk6n8vvr58wr0zqmyw1pxvxa46appvj854ln
+NarSize: 488
+References: 
+CA: fixed:r:sha256:0kdmzfvvpzwjfm4rbk6n8vvr58wr0zqmyw1pxvxa46appvj854ln

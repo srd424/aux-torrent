@@ -1,0 +1,9 @@
+StorePath: /nix/store/n90r2zvhdwiy01cr3rx34nhbmwhj8azs-source-github.com-emil-e-rapidcheck-ff6af6fc683159deb51c543b065eba14dfcf329b.drv
+URL: nar/019gg12cl8jgc5kqhf8i908p0qal02ciiymgq2krz25nxcj5lv9z.nar.xz
+Compression: xz
+FileHash: sha256:019gg12cl8jgc5kqhf8i908p0qal02ciiymgq2krz25nxcj5lv9z
+FileSize: 1628
+NarHash: sha256:1mjgpq8v3fz5kwrv6gz685fyis1i25654mq501xsnzxwlhrf210m
+NarSize: 3792
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1fwd1878dcp63cy4bvkxhh394dsvvi53anqlcqjr1126ibm3j9q7

@@ -1,0 +1,10 @@
+StorePath: /nix/store/0xy5g5cfx9smj4k3qzm48k6mamsbc38m-source-github.com-google-googletest-v1.14.0
+URL: nar/1yp2zd65cc8gmq17iynmnfps7i4zmglxs35208r52v0x6zdldwjh.nar.xz
+Compression: xz
+FileHash: sha256:1yp2zd65cc8gmq17iynmnfps7i4zmglxs35208r52v0x6zdldwjh
+FileSize: 609780
+NarHash: sha256:19c7f248rkg302yrbl5x7irfyi6a9whbpf45wn4bn9fk0625qi5p
+NarSize: 4050192
+References: 
+Deriver: qxgmwmj5larrlnh1ciici42gsaz33l60-source-github.com-google-googletest-v1.14.0.drv
+CA: fixed:r:sha256:19c7f248rkg302yrbl5x7irfyi6a9whbpf45wn4bn9fk0625qi5p

@@ -1,0 +1,10 @@
+StorePath: /nix/store/ljajarzw7vdpnr5hhw5hffwb6wsh6idf-gcc-13.2.0-man
+URL: nar/1ffnpd5zfdxa2b80s9wv969hliyq1j9ncpskqmnbddh7cxl7dkxq.nar.xz
+Compression: xz
+FileHash: sha256:1ffnpd5zfdxa2b80s9wv969hliyq1j9ncpskqmnbddh7cxl7dkxq
+FileSize: 456620
+NarHash: sha256:1jj7rnild9l552xn5i46rlbr9j50i0rcdi1vxvg7p915wv5khl8p
+NarSize: 457104
+References: 
+Deriver: hgghyq9dynamy2y0nnhyv5q6vaibw7pf-gcc-13.2.0.drv
+Sig: cache.nixos.org-1:yWXE3Je7ma4TrTZuC8sOZ7d9QQyGOKw8sY9iEk8NAvw+2NFNHFG+SK00jh41pCboS8h+cEVqbeBRlKi+11dxAA==

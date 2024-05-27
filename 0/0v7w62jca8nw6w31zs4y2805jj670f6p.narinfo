@@ -1,0 +1,9 @@
+StorePath: /nix/store/0v7w62jca8nw6w31zs4y2805jj670f6p-no-arch_only-8.2.patch
+URL: nar/1slpdmj2d3048z6f7s849aig8pxm8579s0ha8imlm5l6famac2cs.nar.xz
+Compression: xz
+FileHash: sha256:1slpdmj2d3048z6f7s849aig8pxm8579s0ha8imlm5l6famac2cs
+FileSize: 412
+NarHash: sha256:00dwf7fdfxi5327yk3m1960m3nnjhrxjdfxhrwayjjh1x55jca4h
+NarSize: 592
+References: 
+CA: fixed:r:sha256:00dwf7fdfxi5327yk3m1960m3nnjhrxjdfxhrwayjjh1x55jca4h

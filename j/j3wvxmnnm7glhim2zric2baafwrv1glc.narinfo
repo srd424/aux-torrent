@@ -1,0 +1,10 @@
+StorePath: /nix/store/j3wvxmnnm7glhim2zric2baafwrv1glc-perl5.38.2-WWW-RobotRules-6.02
+URL: nar/1sqrml15636bd3gl0jp280qdbhr3yaq53qla397qcl4a2qnbj834.nar.xz
+Compression: xz
+FileHash: sha256:1sqrml15636bd3gl0jp280qdbhr3yaq53qla397qcl4a2qnbj834
+FileSize: 5476
+NarHash: sha256:0khxddifim5hhs0mijr8i1rsipps8n93gd4cj07wm2lznyfgpxsw
+NarSize: 18976
+References: dclkihnzxwlmvkybi6680ypjf7d4zyxd-perl5.38.2-URI-5.21 j3wvxmnnm7glhim2zric2baafwrv1glc-perl5.38.2-WWW-RobotRules-6.02
+Deriver: 6pdjpbgg8bcbggrnvwlyf1cmkqvnjxn6-perl5.38.2-WWW-RobotRules-6.02.drv
+Sig: cache.nixos.org-1:4G5DQvMmKBegAmrWcwR5R3s8C6sZ8QOPjHm1RXOqV4nUJH8NyGg7UOb4tuNrRvWCWQYnCaAhOUs6kOYC3YppDA==

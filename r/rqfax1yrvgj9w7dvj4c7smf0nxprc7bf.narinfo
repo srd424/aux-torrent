@@ -1,0 +1,10 @@
+StorePath: /nix/store/rqfax1yrvgj9w7dvj4c7smf0nxprc7bf-tzdata-2024a
+URL: nar/0cmbgqqancka17rhk2iik9vkd98sfijavdanhzpsagz3j3s89r1q.nar.xz
+Compression: xz
+FileHash: sha256:0cmbgqqancka17rhk2iik9vkd98sfijavdanhzpsagz3j3s89r1q
+FileSize: 127904
+NarHash: sha256:1aar7d0im668czvjaz2yw86x51nyjhpndd3am3dagsvjsfsb3i45
+NarSize: 2127920
+References: 
+Deriver: j0nvzgjv8lwixc6p5559k37yzqc049r4-tzdata-2024a.drv
+Sig: cache.nixos.org-1:VKuL/yJtdXgMmEdkVb+yaf1LXcgMujNzlE6Fx+FSQJd7LZ1H34VXcViIdrOy6aB+mN+KYyoCQKv4KZIPTOQaCw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/f76sw6av28v3cv6nxmqw190pkpnfnw9b-libxcrypt-4.4.36.tar.xz
+URL: nar/0dqaikrdyymhxd85h8j34lkbacg99awysg5fd8mvr59dnavjkvsb.nar.xz
+Compression: xz
+FileHash: sha256:0dqaikrdyymhxd85h8j34lkbacg99awysg5fd8mvr59dnavjkvsb
+FileSize: 624316
+NarHash: sha256:1wjgzxx8j60qip7m36xw33ny9j056i3lkvdjfg3a2zizl1zq29rq
+NarSize: 624224
+References: 
+Deriver: ly4bk0mxr1d956f21w30idkvhhkkxlvf-libxcrypt-4.4.36.tar.xz.drv
+CA: fixed:sha256:0hw9zphnbzgys5k7ja37iqmwmlyn0y417qr6xqmdw08axv5g9qg5

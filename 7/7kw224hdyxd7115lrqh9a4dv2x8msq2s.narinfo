@@ -1,0 +1,9 @@
+StorePath: /nix/store/7kw224hdyxd7115lrqh9a4dv2x8msq2s-fix-x64-abi.patch
+URL: nar/1dsriqb6n9l1faax0df4fcwg9bd220n2vagdrd6qmfvk97gzdirr.nar.xz
+Compression: xz
+FileHash: sha256:1dsriqb6n9l1faax0df4fcwg9bd220n2vagdrd6qmfvk97gzdirr
+FileSize: 872
+NarHash: sha256:0gfarlxs578gff85wg3cwyac9r758p1z0i3g8y9skq06sxgznvbk
+NarSize: 1328
+References: 
+CA: fixed:r:sha256:0gfarlxs578gff85wg3cwyac9r758p1z0i3g8y9skq06sxgznvbk

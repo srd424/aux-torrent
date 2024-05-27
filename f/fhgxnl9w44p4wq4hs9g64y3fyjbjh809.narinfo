@@ -1,0 +1,9 @@
+StorePath: /nix/store/fhgxnl9w44p4wq4hs9g64y3fyjbjh809-gperf-c++17-register-fix.patch
+URL: nar/0qz2h3ln50aa6j6g75n16p239hqpf99mx0c3b4g8f1gwv6jmn6is.nar.xz
+Compression: xz
+FileHash: sha256:0qz2h3ln50aa6j6g75n16p239hqpf99mx0c3b4g8f1gwv6jmn6is
+FileSize: 404
+NarHash: sha256:0v94f60iicdr1ccpvvk56skj5k8ykbwld2y3vxq3i60grwd6z29s
+NarSize: 568
+References: 
+CA: fixed:r:sha256:0v94f60iicdr1ccpvvk56skj5k8ykbwld2y3vxq3i60grwd6z29s

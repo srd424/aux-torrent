@@ -1,0 +1,9 @@
+StorePath: /nix/store/5yk29sfwila86qka3dlif4dpd250963q-perl5.38.2-Test-Memory-Cycle-1.06.drv
+URL: nar/0y4d961qq4hmsb07xqzvv7ibhg5fbhz88jgghnql6ys3n5h059wm.nar.xz
+Compression: xz
+FileHash: sha256:0y4d961qq4hmsb07xqzvv7ibhg5fbhz88jgghnql6ys3n5h059wm
+FileSize: 1052
+NarHash: sha256:0a6hvilxmnys4yw34cnll2wvs56kwzcl26zwpjxyg0zvwg5v9mr7
+NarSize: 2520
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv hb7wn9arkz5kw2njhh5n39f7w3ws17v7-Test-Memory-Cycle-1.06.tar.gz.drv i77xr289v9wbhxv3fha4ib97wkj4cqgf-perl5.38.2-PadWalker-2.5.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv lmayk0qqlb4jp3lm828sgklxn5gs56am-perl5.38.2-Devel-Cycle-1.12.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:1y491q5pl8k2aa7q6lacfshxjpkdh6i8wmq7li0w989z1a3f7cf6

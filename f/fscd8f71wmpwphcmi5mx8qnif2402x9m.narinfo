@@ -1,0 +1,9 @@
+StorePath: /nix/store/fscd8f71wmpwphcmi5mx8qnif2402x9m-run_setup.py
+URL: nar/0r3n545j9v62l4p90a586p8kakqc7bf8myhihxgis2igvh6hhvgv.nar.xz
+Compression: xz
+FileHash: sha256:0r3n545j9v62l4p90a586p8kakqc7bf8myhihxgis2igvh6hhvgv
+FileSize: 260
+NarHash: sha256:05b4b371vl5bbccn70ysfhab5kdnwlpfrdlszl9fihn817f3b723
+NarSize: 304
+References: 
+CA: fixed:r:sha256:05b4b371vl5bbccn70ysfhab5kdnwlpfrdlszl9fihn817f3b723

@@ -1,0 +1,10 @@
+StorePath: /nix/store/v64lbgv42azbgak2bq8npxihpcv4bxg2-install-shell-files
+URL: nar/0r7km8xihgbvgsl351m5v2100ifdbm5x9mi2k539j8fbippqfpjq.nar.xz
+Compression: xz
+FileHash: sha256:0r7km8xihgbvgsl351m5v2100ifdbm5x9mi2k539j8fbippqfpjq
+FileSize: 2856
+NarHash: sha256:13mgmd98ygd3wfykdigqc3jv9p1dk5cjdclypcic763h6k7jnciv
+NarSize: 9592
+References: 
+Deriver: nmj70ijv8vyc1h2dj76970wm6czi9gl4-install-shell-files.drv
+Sig: cache.nixos.org-1:9ly64W7K23/ZPHi/qQ6Tiy0oR56skRJGyfff5OoPcwn2x1ST3+nYrABwsBloZDBACj2d4tFVjWVLntb1VYHMAw==

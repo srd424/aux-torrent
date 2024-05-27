@@ -1,0 +1,11 @@
+StorePath: /nix/store/mp04mmd7glpsck0fh7z8wxww31l32vyg-editables-0.5.tar.gz
+URL: nar/1xadx5bx98vk1adyjr0alrwglcqk3ff72kiblydc14zh6cid0ps1.nar.xz
+Compression: xz
+FileHash: sha256:1xadx5bx98vk1adyjr0alrwglcqk3ff72kiblydc14zh6cid0ps1
+FileSize: 14916
+NarHash: sha256:0r2dq6vja7vxc46zrqd0hv7jsdxdhaxxyb9x15bi9yp74b2mnnhq
+NarSize: 14856
+References: 
+Deriver: 39bygpmsn6hy1jxmmwq45klnhk647a9p-editables-0.5.tar.gz.drv
+Sig: cache.nixos.org-1:eX14Dbo+a4MCK0UW6buNVAngbJ0lHABmrgRgOkdMj88X6hezqiy6GYBtRmQs4ZZ1EMfFCbjwdm4XE3LabmdKDg==
+CA: fixed:sha256:1qhx1plgi0ghc1zx5hhmsk2wi9qvmixzminqd3kc1bf4npcjg5ih

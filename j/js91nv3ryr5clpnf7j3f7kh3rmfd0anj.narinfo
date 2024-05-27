@@ -1,0 +1,9 @@
+StorePath: /nix/store/js91nv3ryr5clpnf7j3f7kh3rmfd0anj-tzcode2024a.tar.gz.drv
+URL: nar/16017cclcccv82dp6cs9mcmgcf23c4gvdnwwi54dg5c0998cr5p0.nar.xz
+Compression: xz
+FileHash: sha256:16017cclcccv82dp6cs9mcmgcf23c4gvdnwwi54dg5c0998cr5p0
+FileSize: 1312
+NarHash: sha256:05ygf5ynybmgbn4bsqf9shhzmarxximm342hykfxs8r7whxf2wwv
+NarSize: 2992
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0cwsizgclzjpsxn7a1b4z2ax39zvyk5g95jrjq4xyyv1l7sxwx2h

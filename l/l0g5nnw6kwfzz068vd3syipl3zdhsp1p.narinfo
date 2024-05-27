@@ -1,0 +1,9 @@
+StorePath: /nix/store/l0g5nnw6kwfzz068vd3syipl3zdhsp1p-nss-cacert-certdata-3.98
+URL: nar/17my7nxj8338mggmzxvfrizr22fip5vf6j3r82k5irvrcz7rkpby.nar.xz
+Compression: xz
+FileHash: sha256:17my7nxj8338mggmzxvfrizr22fip5vf6j3r82k5irvrcz7rkpby
+FileSize: 226296
+NarHash: sha256:1q6ycvsg4cssx92hlhvfsvkhycmw96rr08ak4qy6iy0p1f6pk355
+NarSize: 1362736
+References: 
+Deriver: xynpgfizpjrsq6rv9gamhc3h51352c9p-nss-cacert-certdata-3.98.drv

@@ -1,0 +1,10 @@
+StorePath: /nix/store/b2k4hf3yjfkd785jakq6arwfd3r177n0-autoconf-2.69
+URL: nar/079y71ymc7m2djcf684d68xrbgl9lj2kaanwngvfhnrfb9w6a8v7.nar.xz
+Compression: xz
+FileHash: sha256:079y71ymc7m2djcf684d68xrbgl9lj2kaanwngvfhnrfb9w6a8v7
+FileSize: 558092
+NarHash: sha256:1wpghvm8i6fxcv0jaw9d2zshlk3s4gw9xhn8pp9sqdi1rslk3gs8
+NarSize: 3168128
+References: 4llr8zwkl30x68ixf8j9w1sjnal9xgw7-gnum4-1.4.19 b2k4hf3yjfkd785jakq6arwfd3r177n0-autoconf-2.69 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 ziv27d9f7mr7hml7441d0x87nx1pq026-perl-5.38.2
+Deriver: 1hak84xbk60kn7p6i1611gcd0kwxfsi8-autoconf-2.69.drv
+Sig: cache.nixos.org-1:h77R+M4jbYxnwmtD0rqJ5UZVKBY+BSH0pJZvTPpcY9vTymii+HccuzLnsFmL6v8Q8jSNtlJ64tzhJlNa451ADQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/4k68bfhj0jd9nsv9y0h5078f524ycf06-locales-setup-hook.sh.drv
+URL: nar/0izhic53v2zg5myjz6f9xwrwyj45gs5604p6pdxv78rbr3pil0yw.nar.xz
+Compression: xz
+FileHash: sha256:0izhic53v2zg5myjz6f9xwrwyj45gs5604p6pdxv78rbr3pil0yw
+FileSize: 868
+NarHash: sha256:191clg678h4z6vzrpjx3plbshlyjkan01217kkk44jri4x106w44
+NarSize: 1912
+References: 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0xl3kb5yx3scajlg605x6v7pw3hin5xin51577xk3f6130ndx05h

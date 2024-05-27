@@ -1,0 +1,9 @@
+StorePath: /nix/store/l8hzvxp7g2mxc9z78vdw2a24dxcmv618-python3.11-fb-re2-1.0.7-dist
+URL: nar/1frbqankwcs9ccdkpfbhs93mnsp355w5cg08ykj74rcar887wv4y.nar.xz
+Compression: xz
+FileHash: sha256:1frbqankwcs9ccdkpfbhs93mnsp355w5cg08ykj74rcar887wv4y
+FileSize: 96052
+NarHash: sha256:0ab71gqar0bzbrhvgd7wpj87qir6gsqjwvzapz2k9vx379rlvn7f
+NarSize: 96224
+References: 
+Deriver: cr66817a01ca2id37jaa2havhikb2cmq-python3.11-fb-re2-1.0.7.drv

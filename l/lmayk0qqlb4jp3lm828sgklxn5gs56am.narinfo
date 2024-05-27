@@ -1,0 +1,9 @@
+StorePath: /nix/store/lmayk0qqlb4jp3lm828sgklxn5gs56am-perl5.38.2-Devel-Cycle-1.12.drv
+URL: nar/1xdmgmnspiyf18mlvj4zmss2a6pq2c5yv9i3qkyzrcp0lbl924ny.nar.xz
+Compression: xz
+FileHash: sha256:1xdmgmnspiyf18mlvj4zmss2a6pq2c5yv9i3qkyzrcp0lbl924ny
+FileSize: 912
+NarHash: sha256:13fcsx4qjqsycka6bxzfqjqxj9d3mq04qvgmqg5yx3d5lhaf3gsp
+NarSize: 2160
+References: 5f4m9kn9wybc0rcc17hn5g53dx57fgnx-Devel-Cycle-1.12.tar.gz.drv 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:1ncgi5pic99zmddv8sl2i6flg75mbi2vwlyzm322bqk7civw5vaa

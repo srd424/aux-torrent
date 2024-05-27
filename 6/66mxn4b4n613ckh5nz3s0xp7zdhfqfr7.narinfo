@@ -1,0 +1,10 @@
+StorePath: /nix/store/66mxn4b4n613ckh5nz3s0xp7zdhfqfr7-source-github.com-pytest-dev-pytest-asyncio-refs-tags-v0.23.6
+URL: nar/0lvv5nxiglcgykycyyv9k865i6a0l5l34s0pvw7v87kl1h6qx8sy.nar.xz
+Compression: xz
+FileHash: sha256:0lvv5nxiglcgykycyyv9k865i6a0l5l34s0pvw7v87kl1h6qx8sy
+FileSize: 35996
+NarHash: sha256:1lbmi05fc98qnac19pwnvhx6kwnxwidg70mpnhm9klynbiqqlk7s
+NarSize: 237760
+References: 
+Deriver: 79drn9zk5m9wg2mrgf1ylr1qn0clml76-source-github.com-pytest-dev-pytest-asyncio-refs-tags-v0.23.6.drv
+CA: fixed:r:sha256:1lbmi05fc98qnac19pwnvhx6kwnxwidg70mpnhm9klynbiqqlk7s

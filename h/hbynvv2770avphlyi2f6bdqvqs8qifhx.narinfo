@@ -1,0 +1,9 @@
+StorePath: /nix/store/hbynvv2770avphlyi2f6bdqvqs8qifhx-pypa-build-hook.sh
+URL: nar/1dhiwrkdps4a4h8rxzbqcxin11x5qwrypmfxxdynzaj7i5fwwjfi.nar.xz
+Compression: xz
+FileHash: sha256:1dhiwrkdps4a4h8rxzbqcxin11x5qwrypmfxxdynzaj7i5fwwjfi
+FileSize: 388
+NarHash: sha256:0msqfv9w1a0rgx0hfrkkcaks2xhib1sli1j90a0h1x9djqc63r2s
+NarSize: 632
+References: 
+CA: fixed:r:sha256:0msqfv9w1a0rgx0hfrkkcaks2xhib1sli1j90a0h1x9djqc63r2s

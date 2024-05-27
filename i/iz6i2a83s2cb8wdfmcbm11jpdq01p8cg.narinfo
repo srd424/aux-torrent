@@ -1,0 +1,9 @@
+StorePath: /nix/store/iz6i2a83s2cb8wdfmcbm11jpdq01p8cg-which-2.21.tar.gz.drv
+URL: nar/0ng673in92zhjm6c17rfpk6gs11bqw65nqa0vgvx2kryykp0q3jh.nar.xz
+Compression: xz
+FileHash: sha256:0ng673in92zhjm6c17rfpk6gs11bqw65nqa0vgvx2kryykp0q3jh
+FileSize: 500
+NarHash: sha256:0qv1yjc8dqhd9cwris85dq6p5bpwfqwd118gfy2mnxzm44q6vf2z
+NarSize: 832
+References: 
+CA: text:sha256:08s5g6nq2an2r79wclj93zkx35isjqdvaxmiknppchd533gv5s1d

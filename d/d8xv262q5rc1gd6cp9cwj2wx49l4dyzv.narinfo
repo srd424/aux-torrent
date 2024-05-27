@@ -1,0 +1,9 @@
+StorePath: /nix/store/d8xv262q5rc1gd6cp9cwj2wx49l4dyzv-curl-8.7.1.tar.xz.drv
+URL: nar/05crq0v4z1z0hsghvvhjrcgan6azg1wdqblpjy7m35j8dr1clybm.nar.xz
+Compression: xz
+FileHash: sha256:05crq0v4z1z0hsghvvhjrcgan6azg1wdqblpjy7m35j8dr1clybm
+FileSize: 504
+NarHash: sha256:0lf2qzvk42sibpmx40mifcxfci1z9q4q9ph4a82zbhqj879ghf85
+NarSize: 832
+References: 
+CA: text:sha256:17a4izknzjcdkirr9gwrn56vcqlpzyblbvhwn93na0r3akrfbafv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/1flgqk7gp4jzlvz6pzn7xlcl4wlhmf3f-setuptools-distutils-C++.patch
+URL: nar/10k35fzvy8ns7qrvdvl1g5dahq88y9b5l9j0adflpxzyi2afrhbb.nar.xz
+Compression: xz
+FileHash: sha256:10k35fzvy8ns7qrvdvl1g5dahq88y9b5l9j0adflpxzyi2afrhbb
+FileSize: 1792
+NarHash: sha256:17aym387mbbzl0h55ap74f4x1b80251cadaz5q1qr6v3rxi7shyf
+NarSize: 7512
+References: 
+CA: fixed:r:sha256:17aym387mbbzl0h55ap74f4x1b80251cadaz5q1qr6v3rxi7shyf

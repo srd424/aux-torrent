@@ -1,0 +1,9 @@
+StorePath: /nix/store/k3cnn7cl552wi2gz829ldmjff7hwny8r-fuse-3.16.2.drv
+URL: nar/09zg2cyk0kgvs2kw9l3pn7lx458kirligsr2aa10crjr7dslb4jw.nar.xz
+Compression: xz
+FileHash: sha256:09zg2cyk0kgvs2kw9l3pn7lx458kirligsr2aa10crjr7dslb4jw
+FileSize: 1632
+NarHash: sha256:073nivzxhr7jqv0grh6sjdq5f8pm2l30q8p11visx1z7i8ak6d8r
+NarSize: 3608
+References: 09bs4iiqlddgrj52w5nwwsrrhdxmv96z-pkg-config-wrapper-0.29.2.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv 9rs18kwwvbj4k2i88k3zjqb2r7s28dzg-ninja-1.11.1.drv arhwafyygxcl2jc2xc6n6ws34rs67v5p-fuse3-install.patch f54by6isafcnd1j8wcpn490xfmk5rm3n-meson-1.4.0.drv jli3jf5zfc4bj21qvh4dpinn0jr8yigr-fuse3-Do-not-set-FUSERMOUNT_DIR.patch jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv lhwl0rswb5jf5h9hn0qcxpd0kifyd70y-source-github.com-libfuse-libfuse-fuse-3.16.2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y5vjcbachz2jmkpnml26kdc4nvlg7748-util-linux-minimal-2.39.3.drv
+CA: text:sha256:117yikyngyqhan5rpgb5byks8j6rmqz5ddlj6drkwi5dsy4fybdb

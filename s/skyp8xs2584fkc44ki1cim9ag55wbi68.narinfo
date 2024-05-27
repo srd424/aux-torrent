@@ -1,0 +1,9 @@
+StorePath: /nix/store/skyp8xs2584fkc44ki1cim9ag55wbi68-setup-hook.sh
+URL: nar/1pznik9s4dkr2cabsn4ixrms6rm7nnprp7wsqlbksa86v57dqwpz.nar.xz
+Compression: xz
+FileHash: sha256:1pznik9s4dkr2cabsn4ixrms6rm7nnprp7wsqlbksa86v57dqwpz
+FileSize: 268
+NarHash: sha256:1bh4iwzmb6r4r56dypjx61ifhqd26135agjmq3hglh67rv06p07k
+NarSize: 280
+References: 
+CA: fixed:r:sha256:1bh4iwzmb6r4r56dypjx61ifhqd26135agjmq3hglh67rv06p07k

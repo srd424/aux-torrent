@@ -1,0 +1,10 @@
+StorePath: /nix/store/rk09r3ixw41yl3mqn0b91178a43hr80z-busybox-static-x86_64-unknown-linux-musl-1.36.1-debug
+URL: nar/1xd7bs1idh85ci2g5milhppibcz97rjpvr88j9ijifrfdnw8ajbh.nar.xz
+Compression: xz
+FileHash: sha256:1xd7bs1idh85ci2g5milhppibcz97rjpvr88j9ijifrfdnw8ajbh
+FileSize: 168732
+NarHash: sha256:1vaf2vcm801va0af336bbjyqjxyag1arcz36c2f7cplg20bwp6nb
+NarSize: 195864
+References: 
+Deriver: pz7slhgibabgb21lwc63v09k19p1h87p-busybox-static-x86_64-unknown-linux-musl-1.36.1.drv
+Sig: cache.nixos.org-1:3vCcP79FEwu8IQtsUBIOFai8VupGFuykOh5W8QRsWh+6TFwlJ2381TRe0Lgr6V4ptRgQmONhOSQpP896koRIAw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/2j0fmwgm5ybgnc8jprc4ypcxw6s4r2nv-Allow_input_files_to_be_missing_for_ed-style_patches.patch
+URL: nar/1gxy71kls493mdpa1689wq0ic0lqc999nckvfpam92hf9x769mkg.nar.xz
+Compression: xz
+FileHash: sha256:1gxy71kls493mdpa1689wq0ic0lqc999nckvfpam92hf9x769mkg
+FileSize: 752
+NarHash: sha256:0dr4lypdn7a8rhk0awgvhg11ja2apyxxjnjsx9flmiw1jsgi7jyp
+NarSize: 1192
+References: 
+CA: fixed:r:sha256:0dr4lypdn7a8rhk0awgvhg11ja2apyxxjnjsx9flmiw1jsgi7jyp

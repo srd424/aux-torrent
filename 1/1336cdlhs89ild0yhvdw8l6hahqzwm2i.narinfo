@@ -1,0 +1,9 @@
+StorePath: /nix/store/1336cdlhs89ild0yhvdw8l6hahqzwm2i-xz-5.4.6.tar.bz2.drv
+URL: nar/0m51rn1m7lmgaqgninsg20w56hf49pmq8svcmga41h9qa9v8c9kj.nar.xz
+Compression: xz
+FileHash: sha256:0m51rn1m7lmgaqgninsg20w56hf49pmq8svcmga41h9qa9v8c9kj
+FileSize: 508
+NarHash: sha256:0n4l4nfac37nxhnwslmzv3qmwy1rs23352gp2hbc9i8fm1db48lf
+NarSize: 856
+References: 
+CA: text:sha256:18izr7hxiplca1van62msm3cfrd3j8b983f4094sxyvlbycvblic

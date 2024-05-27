@@ -1,0 +1,9 @@
+StorePath: /nix/store/3inq067xw7bic7dy828bgjjzx54kav9v-install-shell-files.sh
+URL: nar/1mc5dh3ai2p8pwcwybz4r2mvsdn2iczvpy7kf2g7sqsqa0k87c6l.nar.xz
+Compression: xz
+FileHash: sha256:1mc5dh3ai2p8pwcwybz4r2mvsdn2iczvpy7kf2g7sqsqa0k87c6l
+FileSize: 2812
+NarHash: sha256:1idl8nhj1djai0s16mfaynj7ba6g8nhnwk7hldscsbfb3cia3v20
+NarSize: 9240
+References: 
+CA: fixed:r:sha256:1idl8nhj1djai0s16mfaynj7ba6g8nhnwk7hldscsbfb3cia3v20

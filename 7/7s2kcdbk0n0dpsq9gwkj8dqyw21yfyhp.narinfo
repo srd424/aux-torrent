@@ -1,0 +1,10 @@
+StorePath: /nix/store/7s2kcdbk0n0dpsq9gwkj8dqyw21yfyhp-mpfr-4.2.1.tar.xz
+URL: nar/000i4rj9n8m1im62gwfq3awg0yynb043b5pzmylz650cys44493h.nar.xz
+Compression: xz
+FileHash: sha256:000i4rj9n8m1im62gwfq3awg0yynb043b5pzmylz650cys44493h
+FileSize: 1493852
+NarHash: sha256:0fp0j2102zca86235rdzxxsfi016r9l84y0jx7gdc6j7bkwssgjq
+NarSize: 1493720
+References: 
+Deriver: m7cyv7yrqlazp2jbpc2k53xyhrczz0af-mpfr-4.2.1.tar.xz.drv
+CA: fixed:sha256:1cnb3y7y351qg6r7ynwsgaykm7l2a8zg2nlljs4rf9k778shfy17

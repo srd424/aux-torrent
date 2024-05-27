@@ -1,0 +1,10 @@
+StorePath: /nix/store/yh8gsija8bzchcbsi7bg9wbjhqmdrqg2-openssl-3.0.13.tar.gz
+URL: nar/0100al8w11qi9gjrh5dagkrp4p6qs69f1jb75jv7rxb2px9mbwvz.nar.xz
+Compression: xz
+FileHash: sha256:0100al8w11qi9gjrh5dagkrp4p6qs69f1jb75jv7rxb2px9mbwvz
+FileSize: 15217676
+NarHash: sha256:0d6sj8kin9kxm83g5ziqhaydy6k13m3cwgxzkibxk30cwg9zpg3d
+NarSize: 15294960
+References: 
+Deriver: m78m4g9ar1p03704p7175pwhqsdv8i33-openssl-3.0.13.tar.gz.drv
+CA: fixed:sha256:04z3v867icx4rzbr7zfsk2aamcwj1fm6cz7ss8kyqfwxyx9mfll8

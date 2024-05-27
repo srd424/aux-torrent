@@ -1,0 +1,9 @@
+StorePath: /nix/store/wjljrvzz4vz8xyl49adibwqqyzyyqnjf-linux-6.7.tar.xz.drv
+URL: nar/1gzs1876mfz7c781v0mdhzsbgsygzs8mpvdpfndyn6d6xm7yj9dd.nar.xz
+Compression: xz
+FileHash: sha256:1gzs1876mfz7c781v0mdhzsbgsygzs8mpvdpfndyn6d6xm7yj9dd
+FileSize: 512
+NarHash: sha256:0zm5h7k5245xbsjb3vmcd3sldq2ilp0fp0svhqlwsalk0v8gg3zc
+NarSize: 856
+References: 
+CA: text:sha256:0a9rrvk786d84bq1hbavl3xyvlydj6cy681m0aligr3h2f5rmsaz

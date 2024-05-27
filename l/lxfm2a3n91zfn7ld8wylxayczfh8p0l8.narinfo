@@ -1,0 +1,9 @@
+StorePath: /nix/store/lxfm2a3n91zfn7ld8wylxayczfh8p0l8-HTTP-CookieJar-0.014.tar.gz.drv
+URL: nar/10hvj40rv3qx67y3x11j8mf7d22jvfl9p2lc4ypshq5id1n6jcrk.nar.xz
+Compression: xz
+FileHash: sha256:10hvj40rv3qx67y3x11j8mf7d22jvfl9p2lc4ypshq5id1n6jcrk
+FileSize: 1324
+NarHash: sha256:04kznj21hqinvq26fky1ikq0q2x2zmpp8m9i61y0xmjda06bjlbi
+NarSize: 3024
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:00diaf8ma2fhd578mjydi0zx3bmcimkkxr9sh8ak3j8zgzl38dxj

@@ -1,0 +1,9 @@
+StorePath: /nix/store/pqdkm3gs8jbbls80z8nj053lvfwvpg7b-aws-c-s3-0.5.4.drv
+URL: nar/1zvcg9894khy3p10d4yw98nmngdd60xk5wp9sblrlng41vfrjmfj.nar.xz
+Compression: xz
+FileHash: sha256:1zvcg9894khy3p10d4yw98nmngdd60xk5wp9sblrlng41vfrjmfj
+FileSize: 1324
+NarHash: sha256:0ys61jln8c46klz1806hh13mqmjvb95sgmy7w10l1vjiir8k4rfb
+NarSize: 2856
+References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 6f0053vbg3fq9r0yqkfqdrankyig4m62-s2n-tls-1.4.9.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv f46cvz6i631cm7drg21gc7617i0vx1r4-aws-c-http-0.8.1.drv fl9gy9hf5vpv4ayia5smazcgzs368j77-aws-c-common-0.9.14.drv g2ia7gwlvcvlq0dfnrnk1z073351ajdv-aws-c-auth-0.7.16.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv p1qbl02g8nlavwk4a1nygyf98i2bd27c-aws-c-compression-0.2.18.drv qn1w8aj2d93jvpys19nidxg3wx8cm7x5-aws-checksums-0.1.18.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wzx4ga61pbcqsm9pljvlq4kg6ml958wk-aws-c-io-0.14.6.drv ynjf7ykfzza8fkzq73af1wqvdfvchiyz-aws-c-cal-0.6.10.drv zyww5jwgj8l3y7hqbi9n2d5vv7g2yjxi-source-github.com-awslabs-aws-c-s3-v0.5.4.drv
+CA: text:sha256:114lv9ii530dpg4c8wx9g1x2njgvhk7321mayz9mbdfinil4i5r0

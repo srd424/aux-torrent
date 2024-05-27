@@ -1,0 +1,9 @@
+StorePath: /nix/store/k4fha4s45iw99lhvfzqwg88qs5lq9sj3-libcpuid-0.6.5
+URL: nar/0x458hazl1ndcba74s1b2rnz0hzy27280q3a7zdmi602jaklwb7j.nar.xz
+Compression: xz
+FileHash: sha256:0x458hazl1ndcba74s1b2rnz0hzy27280q3a7zdmi602jaklwb7j
+FileSize: 56824
+NarHash: sha256:1889kkjdc9f6nn76z9dr4jq9gbivsmfnkkz4ls4lnasygiqixbyp
+NarSize: 265392
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 k4fha4s45iw99lhvfzqwg88qs5lq9sj3-libcpuid-0.6.5
+Deriver: rzg3bqmqjh5if506dxr8700n3sabmgjw-libcpuid-0.6.5.drv

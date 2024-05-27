@@ -1,0 +1,9 @@
+StorePath: /nix/store/77v0rwf29iib5mdwb64fkrmdq3irysp1-python3.11-trove-classifiers-2024.3.3
+URL: nar/0awgda87f2g1jniiyqrv8v9684lbf3irjcg2xgfbgzazaybj0rbl.nar.xz
+Compression: xz
+FileHash: sha256:0awgda87f2g1jniiyqrv8v9684lbf3irjcg2xgfbgzazaybj0rbl
+FileSize: 15368
+NarHash: sha256:1985f7x7pqlc10g82r3c4nx7544r4qhy12pr4544mzi5sqq6r2dp
+NarSize: 133128
+References: 77v0rwf29iib5mdwb64fkrmdq3irysp1-python3.11-trove-classifiers-2024.3.3 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
+Deriver: m29xndcbcx4zn6avi3l9c2sl630w39p1-python3.11-trove-classifiers-2024.3.3.drv

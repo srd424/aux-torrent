@@ -1,0 +1,10 @@
+StorePath: /nix/store/2z0gwvv7dnrkqwkm0c908nbrk6yrisfl-source-github.com-abseil-abseil-cpp-refs-tags-20240116.2
+URL: nar/1lnniyw4xpgb7w4ynkms73iwbr6hc2197xkxxfhn8xk7m419xcq4.nar.xz
+Compression: xz
+FileHash: sha256:1lnniyw4xpgb7w4ynkms73iwbr6hc2197xkxxfhn8xk7m419xcq4
+FileSize: 1506092
+NarHash: sha256:1j7xqga26hrm3wla56f03lq6k629synkakzfsjqmffjdk9svy3bq
+NarSize: 10430056
+References: 
+Deriver: h1vgw0m1hh17cxh11v4gr5vr9pcmd590-source-github.com-abseil-abseil-cpp-refs-tags-20240116.2.drv
+CA: fixed:r:sha256:1j7xqga26hrm3wla56f03lq6k629synkakzfsjqmffjdk9svy3bq

@@ -1,0 +1,9 @@
+StorePath: /nix/store/i7yli6nf401qd0gnzdmj6brw196yb3h2-cpio-2.15.drv
+URL: nar/105nyq448vjyxfrq9rr5b7vlvyn9cr1k339mh1v5lj6f3w4sv1g8.nar.xz
+Compression: xz
+FileHash: sha256:105nyq448vjyxfrq9rr5b7vlvyn9cr1k339mh1v5lj6f3w4sv1g8
+FileSize: 896
+NarHash: sha256:19gdmgr8xq8s034j539d08hw14rsnx646iqjilqiybsw9lrwwwxk
+NarSize: 2072
+References: 12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh 2s9gigmvx2sr5srjkk8gi81ck982r3vc-cpio-2.15.tar.bz2.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv an4iqml99b3f0mhs0sk4ii3zjy944rr5-autoreconf-hook.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:05vca7m8jk8743zg2vjfnj877978gfyi5cf4bs5if9j4qq9r4q1h

@@ -1,0 +1,9 @@
+StorePath: /nix/store/2y90dgiim20zqkqkzk6mgr2vlzc7n2l3-python3.11-calver-2022.06.26-dist
+URL: nar/05f67g9ywc6s0hwhllc62mpvpn4gjydlr8wij8j1bb7656ramfa8.nar.xz
+Compression: xz
+FileHash: sha256:05f67g9ywc6s0hwhllc62mpvpn4gjydlr8wij8j1bb7656ramfa8
+FileSize: 6484
+NarHash: sha256:0sqz23ahw17dxc8brccvqg0skyazvxmyyawwjm8nvb2f9lp1q0rg
+NarSize: 7360
+References: 
+Deriver: y5w2i56ywd4gghf65k6482633cnklm1j-python3.11-calver-2022.06.26.drv

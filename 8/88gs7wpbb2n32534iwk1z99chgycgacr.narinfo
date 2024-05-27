@@ -1,0 +1,9 @@
+StorePath: /nix/store/88gs7wpbb2n32534iwk1z99chgycgacr-e2fsprogs-1.47.0
+URL: nar/1m0h57z6h122afn1jcrhmkl80ffz69g1vcfvq1rwqr917j60svkj.nar.xz
+Compression: xz
+FileHash: sha256:1m0h57z6h122afn1jcrhmkl80ffz69g1vcfvq1rwqr917j60svkj
+FileSize: 752884
+NarHash: sha256:0mvi8qlvpynbv1hpx3rxrdlb1j3k9dxhccx5awhma83j17axy7hp
+NarSize: 4650200
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 88gs7wpbb2n32534iwk1z99chgycgacr-e2fsprogs-1.47.0 rghjpmpb8fdgl2sx7pq6lmgjz902k7jf-util-linux-minimal-2.39.3-lib
+Deriver: 0wk23552yfdxr8y0ry9gvsy78hv9klk6-e2fsprogs-1.47.0.drv

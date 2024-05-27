@@ -1,0 +1,10 @@
+StorePath: /nix/store/p0f24pflvxbdk7k0ycqnvj7qj03v2cjg-source-github.com-libarchive-libarchive-v3.7.2
+URL: nar/0jsn6wamgalp608rb63hwi13aa1afl033gp74rgdaak2a9wx7hw4.nar.xz
+Compression: xz
+FileHash: sha256:0jsn6wamgalp608rb63hwi13aa1afl033gp74rgdaak2a9wx7hw4
+FileSize: 3785448
+NarHash: sha256:1xsrxklr8zn9kp89cxvfmvkhgia9l7kqgli5rcxa9aggz8kn0qm7
+NarSize: 15884800
+References: 
+Deriver: mq80y22jcg8dcrif7g26ccmp39vmxci6-source-github.com-libarchive-libarchive-v3.7.2.drv
+CA: fixed:r:sha256:1xsrxklr8zn9kp89cxvfmvkhgia9l7kqgli5rcxa9aggz8kn0qm7

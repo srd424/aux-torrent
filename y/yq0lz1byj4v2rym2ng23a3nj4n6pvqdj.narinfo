@@ -1,0 +1,9 @@
+StorePath: /nix/store/yq0lz1byj4v2rym2ng23a3nj4n6pvqdj-pgrp-pipe-5.patch
+URL: nar/19dsa4s1cf9hcw53a8kb1xqrrkdab4vnnr1wcdgcr0d0yclc882p.nar.xz
+Compression: xz
+FileHash: sha256:19dsa4s1cf9hcw53a8kb1xqrrkdab4vnnr1wcdgcr0d0yclc882p
+FileSize: 492
+NarHash: sha256:0cpc8672vv3sfr10vcr121irg8w9hmz0fplrrw79xqwp3y1117xj
+NarSize: 728
+References: 
+CA: fixed:r:sha256:0cpc8672vv3sfr10vcr121irg8w9hmz0fplrrw79xqwp3y1117xj

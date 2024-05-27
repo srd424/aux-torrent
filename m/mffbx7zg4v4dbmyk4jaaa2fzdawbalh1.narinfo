@@ -1,0 +1,10 @@
+StorePath: /nix/store/mffbx7zg4v4dbmyk4jaaa2fzdawbalh1-make-binary-wrapper-hook
+URL: nar/0db49qifb3sp4dn2fm3vcx7q9hgzlsbq97wq5n3zyg3nylhzgdm4.nar.xz
+Compression: xz
+FileHash: sha256:0db49qifb3sp4dn2fm3vcx7q9hgzlsbq97wq5n3zyg3nylhzgdm4
+FileSize: 4064
+NarHash: sha256:1ap2lhianndbln83c7cp832a3ky33zjaj0nk27dj7v41p04ayyb2
+NarSize: 15872
+References: 4kwk49k8rc8cg8c387kbbjcrl8i0y693-gcc-wrapper-13.2.0 plmsq4l8wgj3xcnrfdkl6k3lxjrl4a5q-die-hook
+Deriver: n3ijk126glbwpvgf8xfdvwrjqnnzb6k7-make-binary-wrapper-hook.drv
+Sig: cache.nixos.org-1:HrnRe3N8vAq5L3lWNdNy2f6gCFb9+USSmptTgXw3R7njQe1TogTrmgKcq0Or+uQLOvFqsK7BW9WLC2u9fg/fBw==

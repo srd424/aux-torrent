@@ -1,0 +1,9 @@
+StorePath: /nix/store/q0hmsd1h8bph16h58w80nafjg48yqdbw-fetchcargo-default-config.toml
+URL: nar/1hqvb8vshacmzpvg3vyi6241k1rv0368xrbf4fxgcpi00f3v4ksl.nar.xz
+Compression: xz
+FileHash: sha256:1hqvb8vshacmzpvg3vyi6241k1rv0368xrbf4fxgcpi00f3v4ksl
+FileSize: 208
+NarHash: sha256:0138z076karhws2b1v5lfijy2dh2x3j6iwmal5yg6xj53aancizj
+NarSize: 264
+References: 
+CA: fixed:r:sha256:0138z076karhws2b1v5lfijy2dh2x3j6iwmal5yg6xj53aancizj

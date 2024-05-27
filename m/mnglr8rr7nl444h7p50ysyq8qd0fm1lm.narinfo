@@ -1,0 +1,9 @@
+StorePath: /nix/store/mnglr8rr7nl444h7p50ysyq8qd0fm1lm-dont-use-system-ld-so-preload.patch
+URL: nar/1zas4n137b3qw34ajjaw62gc5yy8xjkv21dw7ja745p49zb6av0v.nar.xz
+Compression: xz
+FileHash: sha256:1zas4n137b3qw34ajjaw62gc5yy8xjkv21dw7ja745p49zb6av0v
+FileSize: 464
+NarHash: sha256:1bjvwfiqcvfqs9qpv5fs3jhng7v61zjxg1b0m12m03ddv42n43s3
+NarSize: 720
+References: 
+CA: fixed:r:sha256:1bjvwfiqcvfqs9qpv5fs3jhng7v61zjxg1b0m12m03ddv42n43s3

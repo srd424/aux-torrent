@@ -1,0 +1,9 @@
+StorePath: /nix/store/7i5jg3a0kapgwz0hz7klalk8m675l72k-python3.11-build-1.2.1
+URL: nar/0pb5nagrqvs5j8jhbzd4y8jqsg5bycaa2bn1sbd2dnnl9ssqdacq.nar.xz
+Compression: xz
+FileHash: sha256:0pb5nagrqvs5j8jhbzd4y8jqsg5bycaa2bn1sbd2dnnl9ssqdacq
+FileSize: 42736
+NarHash: sha256:12wykim2iimysbfxglacvp5b40bdhrvam4z28zikiwxgrgyzak6c
+NarSize: 234192
+References: 3zfapcn01gk5wjab7va7lfnd690d90ps-python3.11-packaging-24.0 7i5jg3a0kapgwz0hz7klalk8m675l72k-python3.11-build-1.2.1 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 hfvg2lvpav627hw0lwv46qdsdpl2hzd1-python3.11-pyproject-hooks-1.0.0
+Deriver: l8j65mndmh3hgpxp5768kds5lkwgdlqg-python3.11-build-1.2.1.drv

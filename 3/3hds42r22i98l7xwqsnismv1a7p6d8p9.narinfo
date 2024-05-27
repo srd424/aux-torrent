@@ -1,0 +1,9 @@
+StorePath: /nix/store/3hds42r22i98l7xwqsnismv1a7p6d8p9-0001-tests-Rename-a-a-o-_-.py-_-.py.patch
+URL: nar/086kwm0rz362c28h221rc14awibrr62c9dh6rj72xvl8xyqdxh3p.nar.xz
+Compression: xz
+FileHash: sha256:086kwm0rz362c28h221rc14awibrr62c9dh6rj72xvl8xyqdxh3p
+FileSize: 892
+NarHash: sha256:1r1kvqavzgx4kpjkw9ba0b0x7p238zqhj5s1wpzfsqf3vyc5blxy
+NarSize: 1424
+References: 
+CA: fixed:r:sha256:1r1kvqavzgx4kpjkw9ba0b0x7p238zqhj5s1wpzfsqf3vyc5blxy

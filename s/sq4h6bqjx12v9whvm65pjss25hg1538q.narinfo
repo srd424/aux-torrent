@@ -1,0 +1,9 @@
+StorePath: /nix/store/sq4h6bqjx12v9whvm65pjss25hg1538q-nix-ssl-cert-file.patch
+URL: nar/0rjbyhj6cawgnqsvj9py2j3p4kg3b2f3nwvks01whqr2blh091ag.nar.xz
+Compression: xz
+FileHash: sha256:0rjbyhj6cawgnqsvj9py2j3p4kg3b2f3nwvks01whqr2blh091ag
+FileSize: 472
+NarHash: sha256:1fayy6007874hh2rj1vwibyzlaa6yzpbs5h8girnabgdn2d3vn7g
+NarSize: 856
+References: 
+CA: fixed:r:sha256:1fayy6007874hh2rj1vwibyzlaa6yzpbs5h8girnabgdn2d3vn7g

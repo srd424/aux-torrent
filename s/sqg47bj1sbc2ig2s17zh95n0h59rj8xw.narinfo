@@ -1,0 +1,10 @@
+StorePath: /nix/store/sqg47bj1sbc2ig2s17zh95n0h59rj8xw-perl5.38.2-Encode-Locale-1.05-devdoc
+URL: nar/04m5iygmky8kvsw4b2x5m2ccqvpcay83ns1ypvplp58548skgl51.nar.xz
+Compression: xz
+FileHash: sha256:04m5iygmky8kvsw4b2x5m2ccqvpcay83ns1ypvplp58548skgl51
+FileSize: 4124
+NarHash: sha256:078vhkkf3rzd9rij0xpvk7rpksjm70n81q2rp0f2c3pg120svpv4
+NarSize: 4680
+References: 
+Deriver: 1z1z0jbglxfn75dg309kdnhdgvy8h0qv-perl5.38.2-Encode-Locale-1.05.drv
+Sig: cache.nixos.org-1:yD8HdykebQi6SWjBUZ9OZIEpb5Z7Y8JHGjZF5bSamqzvQBKFVr+lm4YHpcaa/tldTgskJ5rcRlNkB4VqiiEWAQ==

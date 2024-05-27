@@ -1,0 +1,9 @@
+StorePath: /nix/store/90fs05gn9irlmsid4v9bvhap2whr05jv-python3.11-setuptools-69.2.0-dist
+URL: nar/15qhkdcznxwj833igmjygk3pfnsg13anmhj462k6zdilnbsv6ijk.nar.xz
+Compression: xz
+FileHash: sha256:15qhkdcznxwj833igmjygk3pfnsg13anmhj462k6zdilnbsv6ijk
+FileSize: 692092
+NarHash: sha256:1s1crr65ii4m92na7c2lm5dflid7khga3q932wyj0lhnzsfl3406
+NarSize: 770304
+References: 
+Deriver: qi2s6nqgdgz4hv5bnh5pl77lpif8vbmq-python3.11-setuptools-69.2.0.drv

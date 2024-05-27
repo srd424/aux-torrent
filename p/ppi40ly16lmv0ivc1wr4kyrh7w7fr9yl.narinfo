@@ -1,0 +1,9 @@
+StorePath: /nix/store/ppi40ly16lmv0ivc1wr4kyrh7w7fr9yl-python3.11-lxml-5.1.0
+URL: nar/1qz38j3mjiawybf9iywvbwmkg2i39gswbg4gpr6rzknzbbrwr893.nar.xz
+Compression: xz
+FileHash: sha256:1qz38j3mjiawybf9iywvbwmkg2i39gswbg4gpr6rzknzbbrwr893
+FileSize: 1531176
+NarHash: sha256:1109xigh3z6yzn5fvybz7wmrbkgf1b0ahmz3g6pnl8jhbw1n33sr
+NarSize: 6464768
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 ppi40ly16lmv0ivc1wr4kyrh7w7fr9yl-python3.11-lxml-5.1.0 rrhw8p4hdrbh3pq7p2hlc1z2ixxzcxcb-zlib-1.3.1 rvm6w91nh4i5crzl224b55h6xqdiax2c-libxml2-2.12.6 smlvv9d4ki65saws791pnv904diwqq0m-libxslt-1.1.39
+Deriver: h7g2ww1ipdmmls22wjvprwi546bss8w5-python3.11-lxml-5.1.0.drv

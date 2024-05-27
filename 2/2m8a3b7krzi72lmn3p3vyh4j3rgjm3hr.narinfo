@@ -1,0 +1,9 @@
+StorePath: /nix/store/2m8a3b7krzi72lmn3p3vyh4j3rgjm3hr-cargo-build-hook.sh
+URL: nar/09sl6dl59kvz4qmd69kfjg1cyzrfw32h4anyqzblwx6k3xs8barm.nar.xz
+Compression: xz
+FileHash: sha256:09sl6dl59kvz4qmd69kfjg1cyzrfw32h4anyqzblwx6k3xs8barm
+FileSize: 680
+NarHash: sha256:1sqscmlxlp50chdhg2iyw6v0s5anwv90h0z9yz1q4a2426jpf3k7
+NarSize: 1440
+References: 
+CA: fixed:r:sha256:1sqscmlxlp50chdhg2iyw6v0s5anwv90h0z9yz1q4a2426jpf3k7

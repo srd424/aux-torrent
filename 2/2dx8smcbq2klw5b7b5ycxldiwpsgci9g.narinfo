@@ -1,0 +1,9 @@
+StorePath: /nix/store/2dx8smcbq2klw5b7b5ycxldiwpsgci9g-python3.11-editables-0.5-dist
+URL: nar/0k95dbxwfhp7b0kx5cc1dzjnfq7f1a7yaqs50cihia69kay9y6hh.nar.xz
+Compression: xz
+FileHash: sha256:0k95dbxwfhp7b0kx5cc1dzjnfq7f1a7yaqs50cihia69kay9y6hh
+FileSize: 4704
+NarHash: sha256:1k22b0mpwkimmcpiy5vsdlha67b848p37kmr0v2d2k5mdgmsz64r
+NarSize: 5408
+References: 
+Deriver: d267xxh8x5qxppy077a0fgbrhqnh08sm-python3.11-editables-0.5.drv

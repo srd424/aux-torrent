@@ -1,0 +1,9 @@
+StorePath: /nix/store/n4kf0h0s09hyvmnf7sc98lq578r2zj5r-x86_64-unknown-linux-musl-nolibc-gcc-wrapper-13.2.0.drv
+URL: nar/0kmzh56n01hzy48qvcphdfw1wkasg8cppvzpmwdhwxag0d6isqyi.nar.xz
+Compression: xz
+FileHash: sha256:0kmzh56n01hzy48qvcphdfw1wkasg8cppvzpmwdhwxag0d6isqyi
+FileSize: 2284
+NarHash: sha256:02zj67l1iy5bjfy3avmm5ramm625bv5y7g8g2fzx7xmjsaghcyf3
+NarSize: 8024
+References: 1wax0frqj2lhlvnpn35nap2zjrx6sjz7-expand-response-params.drv 3dl59vc3fzy2ld67jqh12xi63z9684vf-cc-wrapper.sh 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv b5h8fnpbwmz3znh23n7vzaa539gmj74p-x86_64-unknown-linux-musl-nolibc-gcc-13.2.0.drv ckjykyfw30zj1n3lcca9lwm2lzd7azdb-setup-hook.sh i60i6xvvywyk7h9wrjff7zmlksqw348p-add-hardening.sh ji2yrl1na00bwav65hh1vr0nc0s1xzvz-add-flags.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash lzjr2xyvw2z2rln5wn1v6y8vs0rv8kvs-coreutils-9.5.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash vgbg5n7rydmajbdbgnvcd98hf4nyc218-gnugrep-3.11.drv yvairqh8j5vaaih52r4kjidip4bjkiw1-x86_64-unknown-linux-musl-binutils-wrapper-2.41.drv
+CA: text:sha256:1d5sv50jjih2j093zhb2fnf3dj1wvpi0imws7v3ffy3fh3288q1b

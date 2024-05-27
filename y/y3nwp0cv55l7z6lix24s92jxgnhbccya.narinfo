@@ -1,0 +1,9 @@
+StorePath: /nix/store/y3nwp0cv55l7z6lix24s92jxgnhbccya-expect-5.45.4.drv
+URL: nar/1hb1nwri604w4gmf8025vs53jmdwj643si4picbkaf2xaslmi3ik.nar.xz
+Compression: xz
+FileHash: sha256:1hb1nwri604w4gmf8025vs53jmdwj643si4picbkaf2xaslmi3ik
+FileSize: 1596
+NarHash: sha256:0c2xklfa1b9kgj628dwg7wszmjs5ahpr2gr4s6mnclx7833qb20a
+NarSize: 3792
+References: 5hhjpf7ggj6026ngp7m7mg4wlzpc8kv9-make-shell-wrapper-hook.drv 7jl3r50havvhc5mcn3p6schj2lk701ls-expect5.45.4.tar.gz.drv 7shzg2vfq0b35v07271ziq9qjv2pn734-0001-Add-prototype-to-function-definitions.patch.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv an4iqml99b3f0mhs0sk4ii3zjy944rr5-autoreconf-hook.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv k4pg8kw5ndbsdy5ibik0dfy0z7n6yayi-tcl-package-hook.drv kypl53rjdmggdj4m4a5li02ikxd59gv5-expect-configure-c99.patch.drv lri3fkmfq2ph8prgzhnbg8344129prja-fix-darwin-clang16.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vacwk0vi442q9zhydy39g7kxhlpl2ca3-fix-cross-compilation.patch.drv vd31zxds653qc3np6ccdixq2zlf1xq93-tcl-8.6.13.drv xazvg8wfziwnh2shh9hblsx49wr5a036-0001-enable-cross-compilation.patch.drv
+CA: text:sha256:0gsncjr72pb35fw4gp6pfk6x9dzbw57f2zyd0rrq9iyd6r1s7a30

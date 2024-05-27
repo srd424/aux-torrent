@@ -1,0 +1,10 @@
+StorePath: /nix/store/y86k27v4n1kyqk7v2k6jkfvxv8680ywb-libxslt-1.1.39-dev
+URL: nar/07zisbh54xj1xxgnhvsw86c0p2wx23fa3ipvb0vz1m9pnj6crcxj.nar.xz
+Compression: xz
+FileHash: sha256:07zisbh54xj1xxgnhvsw86c0p2wx23fa3ipvb0vz1m9pnj6crcxj
+FileSize: 27192
+NarHash: sha256:0piri9b118r4dw4rf4xak6czxak9xsrk1g8dzdwd41p4jr4p9q34
+NarSize: 145608
+References: 6pz7g68jp7jniklzc6jz9qaqlcj6psj5-libxslt-1.1.39-bin cm4jbjqdqp2bfvkywbsxr939mr373iqn-find-xml-catalogs-hook rvm6w91nh4i5crzl224b55h6xqdiax2c-libxml2-2.12.6 smlvv9d4ki65saws791pnv904diwqq0m-libxslt-1.1.39 wg39rsz68bvfqjqrs1ab7yqf5qbyr710-libxml2-2.12.6-dev y86k27v4n1kyqk7v2k6jkfvxv8680ywb-libxslt-1.1.39-dev
+Deriver: hcz1dqzldq8zbxxb62hhjb1p19v27y5k-libxslt-1.1.39.drv
+Sig: cache.nixos.org-1:y0WCJlNRYFZ+0oxDJnpSDpNj25X89vMlkOa+lm/Tu+RXhi6Z81EecOe2qP+qaNZ+h1sy8Yp7kQ0/kTtzwXpWAw==

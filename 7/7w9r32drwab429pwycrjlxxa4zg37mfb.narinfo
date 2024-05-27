@@ -1,0 +1,9 @@
+StorePath: /nix/store/7w9r32drwab429pwycrjlxxa4zg37mfb-tzdata2024a.tar.gz.drv
+URL: nar/1kbnjjdffnzlkc8hw1nx9yz7jh34x49z62ifqsjg5m05n98gbphp.nar.xz
+Compression: xz
+FileHash: sha256:1kbnjjdffnzlkc8hw1nx9yz7jh34x49z62ifqsjg5m05n98gbphp
+FileSize: 1312
+NarHash: sha256:05icqc92hqsiqckyq9dn2kw746i1jzw3ayy429g7k5k3syngynz4
+NarSize: 2992
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1x2jn8p85i317dlcf6v7n9k9f4xyfissj3ap252bbz4a9ayc64ax

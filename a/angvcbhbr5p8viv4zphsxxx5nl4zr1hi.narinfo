@@ -1,0 +1,9 @@
+StorePath: /nix/store/angvcbhbr5p8viv4zphsxxx5nl4zr1hi-patch-2.7.6.tar.xz.drv
+URL: nar/158n6d88lpn5ggdz9fkn39slrwshpf6r5d52s1h8dyg8l0cfl0vp.nar.xz
+Compression: xz
+FileHash: sha256:158n6d88lpn5ggdz9fkn39slrwshpf6r5d52s1h8dyg8l0cfl0vp
+FileSize: 508
+NarHash: sha256:1j4d849s4gaf38j67iwwhf001vzbphpngwqmixy0fc8nfvj9qdff
+NarSize: 848
+References: 
+CA: text:sha256:062z3qqff0zg3vkz4bhzvcxplbhl5c5y7nh0sjfa1s314xbibdxj

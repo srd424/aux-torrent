@@ -1,0 +1,9 @@
+StorePath: /nix/store/j662glyv3r7yrrdrwqmrysarngnlvn3p-python3.11-pytest-asyncio-0.23.6
+URL: nar/17jc5i4ffczw75xcby1bxw400a0h2bmadikcz5ks9wyl56nl5g7j.nar.xz
+Compression: xz
+FileHash: sha256:17jc5i4ffczw75xcby1bxw400a0h2bmadikcz5ks9wyl56nl5g7j
+FileSize: 31652
+NarHash: sha256:0x7an976wc17x231p8byvv2wicsx18kv4p8w9flh839996wkf0nh
+NarSize: 158128
+References: glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 j662glyv3r7yrrdrwqmrysarngnlvn3p-python3.11-pytest-asyncio-0.23.6
+Deriver: zzi06v6ybxznrj80a6v9b6x1k4l5wd5v-python3.11-pytest-asyncio-0.23.6.drv

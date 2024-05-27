@@ -1,0 +1,27 @@
+{
+  "announce": "http://bt.aux-cache.dev:9996/announce",
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716812444,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 880,
+        "path": [
+          "03k421342cszs2xpy2xn5zl3h23bcb07.narinfo"
+        ]
+      },
+      {
+        "length": 2024,
+        "path": [
+          "nar",
+          "1fk2n0g7kmsr6mmxx1fp7dzdrw4j3zwjw1ncimj277sac2clb0gk.nar.xz"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "3Ti3f2CIlk3wHZjP1oc6rAVb1rE=\n",
+    "private": 0
+  }
+}

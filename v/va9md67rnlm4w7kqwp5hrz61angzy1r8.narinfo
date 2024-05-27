@@ -1,0 +1,9 @@
+StorePath: /nix/store/va9md67rnlm4w7kqwp5hrz61angzy1r8-python3.11-typing-extensions-4.10.0
+URL: nar/0qsq7iy8kiyx4ch462i1494j5ml5wma6l12a3gdxjfgzfjf3s9px.nar.xz
+Compression: xz
+FileHash: sha256:0qsq7iy8kiyx4ch462i1494j5ml5wma6l12a3gdxjfgzfjf3s9px
+FileSize: 63004
+NarHash: sha256:0xnh9hrrk5r813m7hf6i6lkkdyq56xyylb3zvw30wk3mj9pym2x9
+NarSize: 407504
+References: glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 va9md67rnlm4w7kqwp5hrz61angzy1r8-python3.11-typing-extensions-4.10.0
+Deriver: 7jdihxl8bxqcqhh2nvdv5rcqjys076g4-python3.11-typing-extensions-4.10.0.drv

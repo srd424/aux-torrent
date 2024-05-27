@@ -1,0 +1,9 @@
+StorePath: /nix/store/dpd8waxdl87c6n02c9caizn9lz9z2m5b-drop-Ofast.patch.drv
+URL: nar/1s5ddf4v34wa7ci159s099665m2iklmax56spr2c16x96b29sgh9.nar.xz
+Compression: xz
+FileHash: sha256:1s5ddf4v34wa7ci159s099665m2iklmax56spr2c16x96b29sgh9
+FileSize: 1904
+NarHash: sha256:1x3wms1qvrg88izbzxjyg531a7jipff4907ri5lw4n53sa163cjv
+NarSize: 4536
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv ylz95bvxds9vssy5dpwbcnmjr80z3v5l-patchutils-0.3.3.drv
+CA: text:sha256:0py7jf18hsfncx8id449qi70fhvspcp65yjl6r3c79ijligdxw03

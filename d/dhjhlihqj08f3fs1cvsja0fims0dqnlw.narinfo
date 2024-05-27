@@ -1,0 +1,9 @@
+StorePath: /nix/store/dhjhlihqj08f3fs1cvsja0fims0dqnlw-raw.drv
+URL: nar/1rf5mkhhws9di3j9cprxyhyspvicyj6w1ml94755lwpz8k99g28p.nar.xz
+Compression: xz
+FileHash: sha256:1rf5mkhhws9di3j9cprxyhyspvicyj6w1ml94755lwpz8k99g28p
+FileSize: 520
+NarHash: sha256:1lr4xgwrv6hcd3m3ppjw5dand3w32kar3ax1agdvai6iay6klldq
+NarSize: 848
+References: 
+CA: text:sha256:0z7acimbfbyig8p3l9j484y8v0755cxn89211dysm3smqr4cj0yg

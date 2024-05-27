@@ -1,0 +1,9 @@
+StorePath: /nix/store/5qxjw8rvpp0cm03a6jgfqq773yq14fq0-cargo-check-hook.sh
+URL: nar/1v3pcydj4ns0xh35h4bi7pag0dclfh8mszcyafd6ircc4agxl8ib.nar.xz
+Compression: xz
+FileHash: sha256:1v3pcydj4ns0xh35h4bi7pag0dclfh8mszcyafd6ircc4agxl8ib
+FileSize: 748
+NarHash: sha256:1z62xc2m63m6y6py9qn4vzr6dq37pylda7vvi39lfl72addnkg2p
+NarSize: 2080
+References: 851nlraf7796s7d0mz9wzx0cj0v10rvf-cargo-bootstrap-1.76.0
+Deriver: aj2qn7n4916jb3ra1yk08ak9flkvjb25-cargo-check-hook.sh.drv

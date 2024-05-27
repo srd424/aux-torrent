@@ -1,0 +1,9 @@
+StorePath: /nix/store/rcdzyb4rkml4hhjdg3xbscipaz94v3jk-gnu-install-dirs-polly.patch
+URL: nar/04qhznjwswrlqajfn7wvzbd6pvxkyqpgaaaj3a5d2kmal1fjcj1z.nar.xz
+Compression: xz
+FileHash: sha256:04qhznjwswrlqajfn7wvzbd6pvxkyqpgaaaj3a5d2kmal1fjcj1z
+FileSize: 604
+NarHash: sha256:1i0i71yl093lswdrdwwa6ndsfx03km6bbjbb9hq6jgsl880g0qcj
+NarSize: 1032
+References: 
+CA: fixed:r:sha256:1i0i71yl093lswdrdwwa6ndsfx03km6bbjbb9hq6jgsl880g0qcj

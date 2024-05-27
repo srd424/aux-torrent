@@ -1,0 +1,9 @@
+StorePath: /nix/store/s2g16jv86mhh7w3hdb2n8q071035k02k-libxcrypt-4.4.36
+URL: nar/1529f8frg4jgrkdiavcf0c1mld4jz7a8ncvwmkzfklglfx269g0x.nar.xz
+Compression: xz
+FileHash: sha256:1529f8frg4jgrkdiavcf0c1mld4jz7a8ncvwmkzfklglfx269g0x
+FileSize: 60224
+NarHash: sha256:0m32sdrip5yvckl4qdap4xf11pgsyr6av6kyjijib3yfjrcbi3cz
+NarSize: 131096
+References: 4w85zw8hd3j2y89fm1j40wgh4kpjgxy7-bootstrap-tools jgqwkk4jsdafjpiz0hr6j0k4ssim82s3-bootstrap-stage0-glibc-bootstrapFiles s2g16jv86mhh7w3hdb2n8q071035k02k-libxcrypt-4.4.36
+Deriver: 9q8jvl82j3mlqykjcj6akx0zw0ax8hcz-libxcrypt-4.4.36.drv

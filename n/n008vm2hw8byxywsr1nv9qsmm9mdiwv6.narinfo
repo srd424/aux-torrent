@@ -1,0 +1,9 @@
+StorePath: /nix/store/n008vm2hw8byxywsr1nv9qsmm9mdiwv6-aws-c-compression-0.2.18
+URL: nar/09hn27pry7la32h1yx8xcc4pbdm7dbcanrgzy8w2xh5hah9h7zkd.nar.xz
+Compression: xz
+FileHash: sha256:09hn27pry7la32h1yx8xcc4pbdm7dbcanrgzy8w2xh5hah9h7zkd
+FileSize: 8020
+NarHash: sha256:1kxy9zl068f02k7yiby00lhf9gbwn1dd788v8ppxc8y844npyc1v
+NarSize: 32392
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 apysxvfgdjcph77mzi0q2ag4mga6jxxf-aws-c-common-0.9.14 n008vm2hw8byxywsr1nv9qsmm9mdiwv6-aws-c-compression-0.2.18
+Deriver: p1qbl02g8nlavwk4a1nygyf98i2bd27c-aws-c-compression-0.2.18.drv

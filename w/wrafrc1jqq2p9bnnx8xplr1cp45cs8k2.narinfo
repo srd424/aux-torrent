@@ -1,0 +1,10 @@
+StorePath: /nix/store/wrafrc1jqq2p9bnnx8xplr1cp45cs8k2-krb5-1.21.2.tar.gz
+URL: nar/0yxrvjrfrpjyrjjg5ngclrr5cfk0f88adnf398vm1q81b4dw6fm0.nar.xz
+Compression: xz
+FileHash: sha256:0yxrvjrfrpjyrjjg5ngclrr5cfk0f88adnf398vm1q81b4dw6fm0
+FileSize: 8579428
+NarHash: sha256:0a7yhs1hng489n29z8r6jnpsdhr3xn2b3c8ll2awgyxv9dkjzrd8
+NarSize: 8622632
+References: 
+Deriver: 366hzv2na515lrckby9fn5f8xr25n3jb-krb5-1.21.2.tar.gz.drv
+CA: fixed:sha256:1484hmzawllynwyriqxwnpmpq773dynaf5qvlx1h4g44kld98q4m

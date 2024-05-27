@@ -1,0 +1,9 @@
+StorePath: /nix/store/5qbdb3bx35b6vlgs53p2n3gfv42jckvz-tcb-1.2-man
+URL: nar/0hsp3n0nym72sz58nqgsb8j0ssy7sy2zhfm8k13l005f6v9njf0r.nar.xz
+Compression: xz
+FileHash: sha256:0hsp3n0nym72sz58nqgsb8j0ssy7sy2zhfm8k13l005f6v9njf0r
+FileSize: 7056
+NarHash: sha256:1qlf3c9lgf43csq43dw4xzbcinvp5r528zslm0dvyaxgccgsdymz
+NarSize: 8304
+References: 
+Deriver: p2c2wa7fwwgmi2b0qpnxjs2n67wapa7i-tcb-1.2.drv

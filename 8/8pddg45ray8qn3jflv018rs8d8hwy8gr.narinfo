@@ -1,0 +1,9 @@
+StorePath: /nix/store/8pddg45ray8qn3jflv018rs8d8hwy8gr-python3.11-iniconfig-2.0.0
+URL: nar/0ryji0mr3gcgl2qzl51vfvn4haxw0kcp5h48j0mng0k59xcqkssz.nar.xz
+Compression: xz
+FileHash: sha256:0ryji0mr3gcgl2qzl51vfvn4haxw0kcp5h48j0mng0k59xcqkssz
+FileSize: 9928
+NarHash: sha256:07x4nlw2mc2dq5h0h3cmb2z7rizm32z9s95n27srrlqvpalk5912
+NarSize: 47376
+References: 8pddg45ray8qn3jflv018rs8d8hwy8gr-python3.11-iniconfig-2.0.0 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
+Deriver: dqxmqpnlnr0cjzznn8bqqkd78qq6lza5-python3.11-iniconfig-2.0.0.drv

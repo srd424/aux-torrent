@@ -1,0 +1,9 @@
+StorePath: /nix/store/i2pfgljh1az3v0xga8s4kvn7l1kb1nj4-autoconf-2.72.tar.xz.drv
+URL: nar/0x98hnqwgc9zxfxz4db2c3jb6vhq7vzc3ixz8id43zispznr6lns.nar.xz
+Compression: xz
+FileHash: sha256:0x98hnqwgc9zxfxz4db2c3jb6vhq7vzc3ixz8id43zispznr6lns
+FileSize: 508
+NarHash: sha256:14c7zpf49pnrg8fnq6qlvrf7dnnicmp7ryz34kws60hv6vxkkrsy
+NarSize: 856
+References: 
+CA: text:sha256:1sili07n1lkisa0qhjwi44xn3rff5qdqpzkpf3p4z47dcwby0ixx

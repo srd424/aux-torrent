@@ -1,0 +1,9 @@
+StorePath: /nix/store/li1nlmsrzq87nd8x4ipacs06z9pf6v0z-llvm-src-17.0.6
+URL: nar/008488qi8yb0xwkdd68wjv39xcmfjznjlfiwkv1nr9134n3gk4pn.nar.xz
+Compression: xz
+FileHash: sha256:008488qi8yb0xwkdd68wjv39xcmfjznjlfiwkv1nr9134n3gk4pn
+FileSize: 67646948
+NarHash: sha256:1icbfa2jhl0lnifa5is8735bmdy89ws2hzsspg2npb4diwbix2fc
+NarSize: 823025192
+References: 
+Deriver: nf0ks67a9w532hsni3cc65lga439ia5k-llvm-src-17.0.6.drv

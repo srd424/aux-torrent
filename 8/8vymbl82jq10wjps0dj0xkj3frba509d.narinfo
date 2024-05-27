@@ -1,0 +1,9 @@
+StorePath: /nix/store/8vymbl82jq10wjps0dj0xkj3frba509d-source-github.com-google-re2-2024-03-01.drv
+URL: nar/1dz44707gw9xm2cvagfzrsblbqr2nn2jmg9qp06ssnqi90jgy4zv.nar.xz
+Compression: xz
+FileHash: sha256:1dz44707gw9xm2cvagfzrsblbqr2nn2jmg9qp06ssnqi90jgy4zv
+FileSize: 1596
+NarHash: sha256:1wy9gcwy7bgmavwwsss5vph8p800533igbdjcgl4lsj40y1wzlzl
+NarSize: 3616
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:10z40qkj6fc1yqkxkpalgmbzk0mwapj1xmx01lv4nkx7pwhs1gh3

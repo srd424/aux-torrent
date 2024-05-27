@@ -1,0 +1,9 @@
+StorePath: /nix/store/ip7618w4hjqvm0g9yz133dh1bgxwjig7-python3.11-pytest-8.1.1
+URL: nar/0appajxavzz519xr5cw0259rfqnfs2s6k37bygns9j37lw93c7al.nar.xz
+Compression: xz
+FileHash: sha256:0appajxavzz519xr5cw0259rfqnfs2s6k37bygns9j37lw93c7al
+FileSize: 676312
+NarHash: sha256:1hs7a7jn67i56074h9isx7y2pzv9n8m317fnxxvi3q76lwbhl2nb
+NarSize: 4444032
+References: 3zfapcn01gk5wjab7va7lfnd690d90ps-python3.11-packaging-24.0 42ql49h2wic65nvq9w8ffy7qmdfkn75q-python3.11-pluggy-1.4.0 8pddg45ray8qn3jflv018rs8d8hwy8gr-python3.11-iniconfig-2.0.0 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 ip7618w4hjqvm0g9yz133dh1bgxwjig7-python3.11-pytest-8.1.1
+Deriver: rbgxd2fgl4rhagg0iq2nr6vgfmhvbgy8-python3.11-pytest-8.1.1.drv

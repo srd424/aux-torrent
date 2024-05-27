@@ -1,0 +1,9 @@
+StorePath: /nix/store/xpplvxiwb4li2qd5nvhyd2mngrpna0ya-mangle-NIX_STORE-in-__FILE__.patch
+URL: nar/1ivy1ii6prm70syrg7zl04c6525254nwkil1qlwzz21val0ay4bm.nar.xz
+Compression: xz
+FileHash: sha256:1ivy1ii6prm70syrg7zl04c6525254nwkil1qlwzz21val0ay4bm
+FileSize: 1844
+NarHash: sha256:1ywbzv7wpyp9zf7hsmpphrq18yabdg6bp8c8axha8inda43lwr8v
+NarSize: 3896
+References: 
+CA: fixed:r:sha256:1ywbzv7wpyp9zf7hsmpphrq18yabdg6bp8c8axha8inda43lwr8v

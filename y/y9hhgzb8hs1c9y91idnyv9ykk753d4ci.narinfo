@@ -1,0 +1,9 @@
+StorePath: /nix/store/y9hhgzb8hs1c9y91idnyv9ykk753d4ci-rustc-bootstrap-wrapper-1.76.0.drv
+URL: nar/1lxp04syhjif933bcxz3083srbi260ij1q1cssz8hnbh754a5bhk.nar.xz
+Compression: xz
+FileHash: sha256:1lxp04syhjif933bcxz3083srbi260ij1q1cssz8hnbh754a5bhk
+FileSize: 924
+NarHash: sha256:17jmk15f1zd2k5d19vf2v7girglzyj2vnd06fasvayhg7q41h4qz
+NarSize: 2336
+References: 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv bbykz91vc922a8668dqwdlzz3mh8rlr2-rustc-wrapper.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh x14dxvydv2y2mbc8z5zv3d8cqsr20nxm-rustc-bootstrap-1.76.0.drv
+CA: text:sha256:1w4ww2yvic285rzn19fvi4as013habavcbcmlb16x9lhqswp8c61

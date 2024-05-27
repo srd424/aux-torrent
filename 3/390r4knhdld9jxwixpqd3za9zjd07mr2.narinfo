@@ -1,0 +1,9 @@
+StorePath: /nix/store/390r4knhdld9jxwixpqd3za9zjd07mr2-aws-crt-cpp-0.26.4
+URL: nar/0ra4x6dixy8s68k7sr7xp2in9q01ifkhb08iwjz29anm3aycl2zh.nar.xz
+Compression: xz
+FileHash: sha256:0ra4x6dixy8s68k7sr7xp2in9q01ifkhb08iwjz29anm3aycl2zh
+FileSize: 186708
+NarHash: sha256:1q2pfgdqy4ac66f10hlnw16rnds7k2i342wqxjqzyfp7w7zz5d56
+NarSize: 952384
+References: 2f0nxx14x7bxn04gh320yabizgnsc0n4-aws-checksums-0.1.18 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 3dlagamjhy7j42hx7q5s05qa6hmzf0ca-aws-c-auth-0.7.16 6md1bxjzssj2a74hb7157x48kp88860x-s2n-tls-1.4.9 6pwbdzym9gkqg9kdfm5r509cwvfrzw7l-aws-c-io-0.14.6 8ypkqn4glqfzna65d7kwral0kwv63cgf-aws-c-cal-0.6.10 9xgpmwqw0881kxa9sl498qfmzy7z2ndn-openssl-3.0.13 apysxvfgdjcph77mzi0q2ag4mga6jxxf-aws-c-common-0.9.14 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib hask7yhny39bidklmham45p5fx84kmhy-aws-c-sdkutils-0.1.15 l6mr8sknm47m02y6s768m994z7wcsgq2-aws-c-event-stream-0.4.2 lxf1477r1r5jfs963psm4h0pa7bqi9rb-aws-c-http-0.8.1 n008vm2hw8byxywsr1nv9qsmm9mdiwv6-aws-c-compression-0.2.18 rnljancxb24rdckaiw0vx14dwi3sxg2p-aws-c-mqtt-0.10.3 s4hfw5kbmknca599rx22dp2nhrm954qv-aws-c-s3-0.5.4
+Deriver: 0az7sqzfg71087rgdyw8xrf49pd01l90-aws-crt-cpp-0.26.4.drv

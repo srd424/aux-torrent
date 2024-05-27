@@ -1,0 +1,11 @@
+StorePath: /nix/store/km51pdnmjyxnzsa8wj2ixjyqfh5ig0xw-rust-1.77-tests.patch
+URL: nar/1z47gvjcc24621iza6lcya3zpp0r67k8dh5arlzgqjsnlla6rwzg.nar.xz
+Compression: xz
+FileHash: sha256:1z47gvjcc24621iza6lcya3zpp0r67k8dh5arlzgqjsnlla6rwzg
+FileSize: 624
+NarHash: sha256:1g3rcl8dxfib7478wz9spfjlkvm502i9l6hsgcr2vx3skm722p61
+NarSize: 1120
+References: 
+Deriver: 6vyz72jc7421fywl7a07rwhinv06j0vb-rust-1.77-tests.patch.drv
+Sig: cache.nixos.org-1:1b4p6d5c7ZTAUrZI9kpndz/mJEPhZrojfRtjOy3s92UVDh/odV9LrMkL7kOzF8Cr9bc9QQaSusn9JCmAhqBsDg==
+CA: fixed:sha256:16jzcqyjmsii55qjf5a7xfp0q46g30w9vp4a2fggs2wjx2qldfai

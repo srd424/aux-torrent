@@ -1,0 +1,9 @@
+StorePath: /nix/store/k9hn9c1hfxc72q3k8p15ij96d0fbizwj-make-binary-wrapper.sh
+URL: nar/17msqq0r79zvfjyinap72ybfp2ybijdfyph33n680svc0xh35l6f.nar.xz
+Compression: xz
+FileHash: sha256:17msqq0r79zvfjyinap72ybfp2ybijdfyph33n680svc0xh35l6f
+FileSize: 3908
+NarHash: sha256:0szz61yb6fj28ava6wnwy0wmr721aw2l6b6c9hcnpbiwqnd1qhyc
+NarSize: 15200
+References: 
+CA: fixed:r:sha256:0szz61yb6fj28ava6wnwy0wmr721aw2l6b6c9hcnpbiwqnd1qhyc

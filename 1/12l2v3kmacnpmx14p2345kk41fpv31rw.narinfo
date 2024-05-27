@@ -1,0 +1,9 @@
+StorePath: /nix/store/12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh
+URL: nar/1xqkw2129v91j6kqz1gn2qa493x174hynlbbah18shc0brk6plgz.nar.xz
+Compression: xz
+FileHash: sha256:1xqkw2129v91j6kqz1gn2qa493x174hynlbbah18shc0brk6plgz
+FileSize: 1064
+NarHash: sha256:15f3fkhkzamnyh9snwwp5m3hy83k7h0nkk1zsycads7nkv8y9kal
+NarSize: 2056
+References: 
+CA: fixed:r:sha256:15f3fkhkzamnyh9snwwp5m3hy83k7h0nkk1zsycads7nkv8y9kal

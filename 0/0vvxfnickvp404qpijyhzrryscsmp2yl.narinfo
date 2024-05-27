@@ -1,0 +1,10 @@
+StorePath: /nix/store/0vvxfnickvp404qpijyhzrryscsmp2yl-pytest-hook
+URL: nar/0ggm7wpfrpvcm9mz2xj7kl25d9hc3vg71bsnhgj23lsrva8v5c5m.nar.xz
+Compression: xz
+FileHash: sha256:0ggm7wpfrpvcm9mz2xj7kl25d9hc3vg71bsnhgj23lsrva8v5c5m
+FileSize: 580
+NarHash: sha256:1n9b06lpl3sxysxnz8khklgzlkd8n72fr03hyxa0b3r5mvrilfaj
+NarSize: 904
+References: 
+Deriver: rv9rg7ird6zmb35spab4sfvm42dcl403-pytest-hook.drv
+Sig: cache.nixos.org-1:uDQuydHRPoX0yRfOH6bxpaYn3ACyXsr+hXa/wIFOrzAll80BcHpDomfTZIeHNkvV2HTrSyoyGAAH1sqy0i0NBw==

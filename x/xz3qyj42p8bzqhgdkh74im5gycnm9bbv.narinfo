@@ -1,0 +1,9 @@
+StorePath: /nix/store/xz3qyj42p8bzqhgdkh74im5gycnm9bbv-python3.11-installer-0.7.0-dist
+URL: nar/1chcyyc0w8lpxgk93sf5p3i9dqqg6ii505f84mf288csfqk787z5.nar.xz
+Compression: xz
+FileHash: sha256:1chcyyc0w8lpxgk93sf5p3i9dqqg6ii505f84mf288csfqk787z5
+FileSize: 452688
+NarHash: sha256:0lvk45k1hdl4c7hga0gdic469f7rhj0cl986q5jmxss39gvmg5mk
+NarSize: 454144
+References: 
+Deriver: nmzqqd26xlgvsl7skdr0fpq9a03jp8p7-python3.11-installer-0.7.0.drv

@@ -1,0 +1,27 @@
+{
+  "announce": "http://bt.aux-cache.dev:9996/announce",
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716812914,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 597,
+        "path": [
+          "48slpm6cx6xl85h9mps80nrqilg0cf9f.narinfo"
+        ]
+      },
+      {
+        "length": 2041656,
+        "path": [
+          "nar",
+          "1gxdfw62w4pp4fcg1sghhvg5k608bm3igg3qllwrhzfkh60fmrys.nar.xz"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "sAPdLddl7oa2xmxYrvGbkIhqlb/5jlO1yEuj9Cpawhx8CCc++GBuytCGjOybqeiuu2qzh39yvsWN\nkTrY7dUYqHtndgDFdpRde+MzxrFZc/C3OCkt2w/ZY6+BvzMF6ugoVqgmyR45kuGIqNjyizNIMbXU\nDZkguHY2jAMn+RttxPjAHmSnnTw0hmwsjwA/jz9BRG5eYYbvlwfOuZofyDbEL1Mb31DfZ7jgmyWU\nExEyrWYgsuOwcGnuL2chFN6jN66V20dMuIHadK6pjuGMj9noV66kF0oHvAiANcRXHaTbwqXoHHrX\n8zpaW+y9Rs6252Hr8NP1ynVG/9jMm2sjyyUhh7Hj047SOJfzanBK6kg9xMNBiYRNBTy4Kk7Ff6gu\nIR5N480pQYxXuW7KzrSAnXiBmhJ5QYbbudq3atYXaDYeJGjCvdmNvRwQ5uriNjbJEVF/YikNnx89\n/8MPUdQCpcWoCXl1fCRdmxQ4PBl8qSoCtxpdaKF3LwgvrqT5teCuCNEydy1P7I1yLy8mHlPFdQ0l\n41BoGBuZATW1x01dngqTn0i9zf/FZEIBOmwitrl5MGejxJEiadbWSVea9QTKCoxWB7ajIXcdC4wS\nD0uMfPsR/Sas8a9k4GWV3E0pDA4+t/clHNT7MIgzTcWHhUUSagu9/m+wDZ9w6ZH37pz7o6Uj7qW/\nT+cpvMQAvwVGDDSRAkDP894GwY0RW+caWgltiOmedukB6u51w5CE4jqTkoU6plqxRX6r1ugWsmyo\nITPT6r8pv3ikCpSG/hJYOF0ZNS5lozR5+5DifG8iK2ski8rZ/BEo7CVQwmYTFo16BOMqhlTXrlNM\nFa8mDejEovWh1atg+CAvyhAgHLz453t2KNkucftG3gtPQIOxz4QgbTOwORyYeMzUto7sb8eG05M2\n5R4EFpMe6U3Q1nu2d3kCg/FitE2X75eW0Ht/7OKIEmZhMpOMM1jcbw8gfRZvoNzhof+YjAoxuJBj\nKD5PogMhq+rMf+MBX0NkV0cO5dHyjsy370oCL3ro5STwdlAZh/44frjfi26Ks5DowNgg7qAnRrti\ndeUxzgrOCH4P8l8OIZKMZFS4xs69rCAwOdLeudx+csr1Z9lJa+CFSn4L7zryzwkQBUWnKQNVYlVA\nFd1Gk9npNyNOo5x6rIx1vMaLVTWfpUCqcbBVmh7vnNscBa87pcRszvoaBa/IimMk8mVx0xMy1pn5\n3q+TK8WAcHXDzgnaV+3teMnnEUUlzJQODtmyoazNrkc4YpGXUA4Jalj00jGrmNGHCpNpI3N6uu5I\n4PODWPu+i7rg6YmSLcO1jUeJ4c3JzDFZfYgINgwlbSztKftKCE8Udsw87nBrO5DvceA5sE5pU0gN\nvumGQAzwkyK+Y6hN9rQU3g2t4C0qBRLjBbM3W9f2dh/fu0BnggrcPURd23Lm2lGd19hA8hDThb0/\nRIoXZM/XZEzjKuNG983mcrdy5mg6ltwdskX+aI8gNW1kbeCXbtB3SZS+btaZNa/oFgDSWF9hFgwU\nsq9PBf01hO5DQvj3nLMk+glIFrRfDmelPmSI2TTOK7pymxzQrM09xABuZ70OseE/AAeZvdJ+eo46\nkHa7svIimwx/mqJk5gAR/R8aRF2FutqbZR/pho/iAzQ3l6dzr0muyTRyDI1AuCi0YovKlSxeYSBz\nPBLJy6Ww\n",
+    "private": 0
+  }
+}

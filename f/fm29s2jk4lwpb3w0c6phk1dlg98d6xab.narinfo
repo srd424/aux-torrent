@@ -1,0 +1,10 @@
+StorePath: /nix/store/fm29s2jk4lwpb3w0c6phk1dlg98d6xab-python-remove-tests-dir-hook
+URL: nar/0alf6fwgy1d770v1aghqpjvd29l5vs7mk46qskkkgid5062kw617.nar.xz
+Compression: xz
+FileHash: sha256:0alf6fwgy1d770v1aghqpjvd29l5vs7mk46qskkkgid5062kw617
+FileSize: 404
+NarHash: sha256:0fdmqkpyh4l52fcz8crxicaqcs0qd6ljbaqfaw69v8b3iqz4h5h1
+NarSize: 904
+References: 
+Deriver: pf48s2paxzly9xb04kmy008ygw2yynqk-python-remove-tests-dir-hook.drv
+Sig: cache.nixos.org-1:5tYP81KrXi12BuZ6Gpvfj0p24sQNLjeHJSlUZ8F6d4qaddVawQF8PbTu2Zu0IMtEaC/Je0BcO1xvbGvtTt8kCw==

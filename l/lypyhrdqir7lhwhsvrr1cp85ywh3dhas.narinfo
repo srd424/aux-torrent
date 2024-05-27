@@ -1,0 +1,9 @@
+StorePath: /nix/store/lypyhrdqir7lhwhsvrr1cp85ywh3dhas-pkg-config-wrapper.sh
+URL: nar/02k2sp4zakfhpdfsxvw3m5nsrixw83mx08y7kypk7d6a1ijj3mqq.nar.xz
+Compression: xz
+FileHash: sha256:02k2sp4zakfhpdfsxvw3m5nsrixw83mx08y7kypk7d6a1ijj3mqq
+FileSize: 472
+NarHash: sha256:00bdfjqbx1p1ymxp21yrf50d40mpric3bvlfcm3sph83dgvqss8j
+NarSize: 656
+References: 
+CA: fixed:r:sha256:00bdfjqbx1p1ymxp21yrf50d40mpric3bvlfcm3sph83dgvqss8j

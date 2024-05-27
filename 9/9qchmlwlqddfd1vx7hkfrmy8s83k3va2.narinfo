@@ -1,0 +1,10 @@
+StorePath: /nix/store/9qchmlwlqddfd1vx7hkfrmy8s83k3va2-source-github.com-libfuse-libfuse-fuse-2.9.9
+URL: nar/1bg2yacysfh6na2zzk7ia4z3skg9i6z3l2drzn4q9fb92vp1ap4i.nar.xz
+Compression: xz
+FileHash: sha256:1bg2yacysfh6na2zzk7ia4z3skg9i6z3l2drzn4q9fb92vp1ap4i
+FileSize: 167892
+NarHash: sha256:1yxxvm58c30pc022nl1wlg8fljqpmwnchkywic3r74zirvlcq23n
+NarSize: 879936
+References: 
+Deriver: 8chmrf82v0szxmgwha5v39qkyrwy14ah-source-github.com-libfuse-libfuse-fuse-2.9.9.drv
+CA: fixed:r:sha256:1yxxvm58c30pc022nl1wlg8fljqpmwnchkywic3r74zirvlcq23n

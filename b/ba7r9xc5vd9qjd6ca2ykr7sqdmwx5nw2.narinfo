@@ -1,0 +1,9 @@
+StorePath: /nix/store/ba7r9xc5vd9qjd6ca2ykr7sqdmwx5nw2-man-db-2.12.1-doc
+URL: nar/0c01hpzi4cg0iimff8aanhn1aw0n0qgc8pqqq6bfsvxb9wajscj1.nar.xz
+Compression: xz
+FileHash: sha256:0c01hpzi4cg0iimff8aanhn1aw0n0qgc8pqqq6bfsvxb9wajscj1
+FileSize: 52348
+NarHash: sha256:02kx62vc4f2gqx5c71hmmlfsn47igykx71x3j4jy01y5h8pmq7kj
+NarSize: 204288
+References: 
+Deriver: 525xgkh2j80058j8i2crj5kz7yq0sldz-man-db-2.12.1.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/zf3h4lhji5ikx6wqsidx68c1n3ydqiml-diffutils-3.10.tar.xz.drv
+URL: nar/15k9fj4jghrggqqr9vzxxl0ggg098igsar2lgylqcpv9dnpsgdn8.nar.xz
+Compression: xz
+FileHash: sha256:15k9fj4jghrggqqr9vzxxl0ggg098igsar2lgylqcpv9dnpsgdn8
+FileSize: 508
+NarHash: sha256:0rhn4xrz0xs3xd2l1833yiq0zrq2nm12by6m413y9d4k8axv95s3
+NarSize: 864
+References: 
+CA: text:sha256:1qyhv0zhnkcycchda2v8j77l4dqxp5yanihbl7l413h81jjx2cry

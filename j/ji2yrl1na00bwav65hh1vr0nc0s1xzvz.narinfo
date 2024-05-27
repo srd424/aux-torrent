@@ -1,0 +1,9 @@
+StorePath: /nix/store/ji2yrl1na00bwav65hh1vr0nc0s1xzvz-add-flags.sh
+URL: nar/0q4qj9bgfzf6i1pqldmcifx89sa8cyf7jwhzjhlf25ma26p2jga5.nar.xz
+Compression: xz
+FileHash: sha256:0q4qj9bgfzf6i1pqldmcifx89sa8cyf7jwhzjhlf25ma26p2jga5
+FileSize: 1380
+NarHash: sha256:058cssiwywjzbj29q27917f2s4dnrqvs0905zizd7wjsh8k99mv2
+NarSize: 3568
+References: 
+CA: fixed:r:sha256:058cssiwywjzbj29q27917f2s4dnrqvs0905zizd7wjsh8k99mv2

@@ -1,0 +1,10 @@
+StorePath: /nix/store/1dydp86d00qzjbncpi80sdsndf33lc5j-fix-static.patch
+URL: nar/16rr9gxgivcnwmwafrdy7yip7crbgfhrha33l84nw175pbiz2c98.nar.xz
+Compression: xz
+FileHash: sha256:16rr9gxgivcnwmwafrdy7yip7crbgfhrha33l84nw175pbiz2c98
+FileSize: 360
+NarHash: sha256:0jnc0pczjs68nk5g7i4w8vrv2nh2rh64apq97yq5xyc6n9agyh7j
+NarSize: 528
+References: 
+Deriver: sjlm8agj6m3cpglc5v11d40cj7j6kin2-fix-static.patch.drv
+CA: fixed:sha256:0n982n5f2kq6dp2ybww5nbb2y0bxmcy1279clf6ifkcplx1lqwaw

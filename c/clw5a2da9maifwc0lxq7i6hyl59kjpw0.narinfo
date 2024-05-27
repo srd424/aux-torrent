@@ -1,0 +1,9 @@
+StorePath: /nix/store/clw5a2da9maifwc0lxq7i6hyl59kjpw0-003-more-env-vars.patch
+URL: nar/17vivlswmgm9xg49n7zppad5q5qwjbz5q07m5qflbji2nqnywdgd.nar.xz
+Compression: xz
+FileHash: sha256:17vivlswmgm9xg49n7zppad5q5qwjbz5q07m5qflbji2nqnywdgd
+FileSize: 448
+NarHash: sha256:0rgvh1n1m6azchg3lv26wr2apl7qjbqkqiivnds70rgg675dpl9n
+NarSize: 792
+References: 
+CA: fixed:r:sha256:0rgvh1n1m6azchg3lv26wr2apl7qjbqkqiivnds70rgg675dpl9n

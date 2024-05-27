@@ -1,0 +1,9 @@
+StorePath: /nix/store/j2zlvksmwzs79zvsqmz45jn39zsyr31f-bash52-002.drv
+URL: nar/0002jrhv8pf6kqffpn4sl5p4nsd9bm29ln7wzk7ml23yjhxqd3y5.nar.xz
+Compression: xz
+FileHash: sha256:0002jrhv8pf6kqffpn4sl5p4nsd9bm29ln7wzk7ml23yjhxqd3y5
+FileSize: 504
+NarHash: sha256:0ym0mx4nq8bkcfj84mcnadn7nd76rhw5wawyks87dqbk6srlg06i
+NarSize: 840
+References: 
+CA: text:sha256:1dl3lb640gxgdj5cxm9wkwy14rr3ffrcylvz8gn4q9k9wqcdjyfm

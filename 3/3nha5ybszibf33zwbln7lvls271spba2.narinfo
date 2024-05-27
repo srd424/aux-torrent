@@ -1,0 +1,10 @@
+StorePath: /nix/store/3nha5ybszibf33zwbln7lvls271spba2-fix-glibcism.patch
+URL: nar/0nbrbj65idb3zrwkbp6symlkcljaynirjl5vkh0vsd3z355i60qb.nar.xz
+Compression: xz
+FileHash: sha256:0nbrbj65idb3zrwkbp6symlkcljaynirjl5vkh0vsd3z355i60qb
+FileSize: 1616
+NarHash: sha256:0k4jm0g4iwxj64vrl0nl0alskv0vvylp5c4s2ykx1vkyrch5jd9r
+NarSize: 5088
+References: 
+Deriver: skm6m7hwwwrc9zdkcrif5dqd5xqms6rq-fix-glibcism.patch.drv
+Sig: cache.nixos.org-1:PW2ZyaQpWGJaiDBWGWv/jw73Qt9UMg436cI4KZbfeaAKPKr8RfdfZJNcg4alrPVpnqivxqD8XSjOS2sKjvQIAA==

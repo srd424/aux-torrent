@@ -1,0 +1,9 @@
+StorePath: /nix/store/vjcf6jiwzgqm9qfck99jwp4valf6x6i8-python3.11-pytest-mock-3.12.0.drv
+URL: nar/1q8cr1hmv3l33hfn53j3mxiiv28cdgzpwimnprw3971b4nf3x15v.nar.xz
+Compression: xz
+FileHash: sha256:1q8cr1hmv3l33hfn53j3mxiiv28cdgzpwimnprw3971b4nf3x15v
+FileSize: 1932
+NarHash: sha256:0bd263b1bshp2hf2dp8bzk4g40vpgzv2rgp63zr81xbam0x9jw7q
+NarSize: 4680
+References: 3v0y005n6wbijj012gv02gizjq5wx5xd-python3.11-setuptools-scm-8.0.4.drv 5qmi07dp0d8m2lbpskdf021rfk5rvhs9-python3-3.11.9.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv 9lwj4ji6df22mrarmad9n9vw0png6n4a-pypa-build-hook.sh.drv c18bh40xn26pqxa325hnrslkqvrwn77r-pypa-install-hook.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv jrkj3v73capa5cra26nlqscikjyw6zfs-ensure-newer-sources-hook.drv m360wnkk6ciml2cri4p3gds7ac5p8drl-wrap-python-hook.drv mzpby2z6qbiw9qnalbry829hld3z4d6h-python-remove-bin-bytecode-hook.drv nfq0j1709x5nwbsrzx3l9f01hidy0sxb-python-runtime-deps-check-hook.sh.drv nykpz8y4cqjwky9ly0frdagaa60rki5k-pytest-check-hook.drv pf48s2paxzly9xb04kmy008ygw2yynqk-python-remove-tests-dir-hook.drv pyy2h4m7bzn36f6nl47c9bpk2xll974a-python-output-dist-hook.drv q4c8n4by2266bhyahh3yrrizsdwhia02-python-imports-check-hook.sh.drv qi2s6nqgdgz4hv5bnh5pl77lpif8vbmq-python3.11-setuptools-69.2.0.drv rbgxd2fgl4rhagg0iq2nr6vgfmhvbgy8-python3.11-pytest-8.1.1.drv s9i43ph8f4a8frv801pk0b236q1vlplg-python-catch-conflicts-hook.drv v4srnxczvr6p8qpx5197dybckghbby6a-pytest-mock-3.12.0.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh yd8c260yn36kvpj29isvjl6p13s1yf7m-python-namespaces-hook.sh.drv zzi06v6ybxznrj80a6v9b6x1k4l5wd5v-python3.11-pytest-asyncio-0.23.6.drv
+CA: text:sha256:07p7ffijazzxrlzpnxvsxgckjn19fi40zd7xcda86bsljsgmfnrr

@@ -1,0 +1,9 @@
+StorePath: /nix/store/pp3fvv7bwz68cbxkdn0mbqkz0gqnxp8l-python3.11-build-1.2.1-dist
+URL: nar/0iycjbll05dknm3hkpqr3p9ych0m671mnmw639fwk0gdrqvprnyr.nar.xz
+Compression: xz
+FileHash: sha256:0iycjbll05dknm3hkpqr3p9ych0m671mnmw639fwk0gdrqvprnyr
+FileSize: 20720
+NarHash: sha256:1jd9qaidavf6g9nc9gkk61vry7waa7ndgq9vanm9805ny4mv3zrr
+NarSize: 22200
+References: 
+Deriver: l8j65mndmh3hgpxp5768kds5lkwgdlqg-python3.11-build-1.2.1.drv

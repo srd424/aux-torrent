@@ -1,0 +1,11 @@
+StorePath: /nix/store/xfx8nvs2kwskm9lb8qjlgv0hpg37bji0-libseccomp-2.5.5.tar.gz
+URL: nar/0pjzkfh20m08alm4dk216k52bdr8x2iaizixvbsvpla0nm3s1i1l.nar.xz
+Compression: xz
+FileHash: sha256:0pjzkfh20m08alm4dk216k52bdr8x2iaizixvbsvpla0nm3s1i1l
+FileSize: 642016
+NarHash: sha256:1vvzg354c0incah2a1a62salrx32azzw9kac8wdmmx7y0p58pp4s
+NarSize: 642560
+References: 
+Deriver: qysxyvp66yaa3zy58q288j1cbbvjyvmg-libseccomp-2.5.5.tar.gz.drv
+Sig: cache.nixos.org-1:5IRVXNr3Y9PE9wbA1YiE34pxJocQyllyp9ElBp3Xq3AKwgvZ6ef6ylV/87gBytCIVWh2EgSZdt78C/a+G18VCw==
+CA: fixed:sha256:0x9kzcjsmjf10b76vdwlksfczvxg6hn72lmgdfm5i64v9n52r2i4

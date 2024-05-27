@@ -1,0 +1,9 @@
+StorePath: /nix/store/ib3rz26ch1p4fjxiwkwvzrd4r7yw57l6-pypa-install-hook.sh
+URL: nar/0bw7yyf1da8dfjq37p9rsjfsxg68lvb3888bkim2g8pgm1ldxwn6.nar.xz
+Compression: xz
+FileHash: sha256:0bw7yyf1da8dfjq37p9rsjfsxg68lvb3888bkim2g8pgm1ldxwn6
+FileSize: 452
+NarHash: sha256:1dy4qz9jbla3v0g7zkzvigq8894ian9ljx5pivp4ak2lmxigc59n
+NarSize: 744
+References: 
+CA: fixed:r:sha256:1dy4qz9jbla3v0g7zkzvigq8894ian9ljx5pivp4ak2lmxigc59n

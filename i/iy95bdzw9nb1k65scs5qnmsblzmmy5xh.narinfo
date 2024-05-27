@@ -1,0 +1,9 @@
+StorePath: /nix/store/iy95bdzw9nb1k65scs5qnmsblzmmy5xh-perl5.38.2-Test-Deep-1.204.drv
+URL: nar/1x53yrvz9mf6lb7wg3glqwihgyh7nz7l0ybrsv7182qh09xlb37m.nar.xz
+Compression: xz
+FileHash: sha256:1x53yrvz9mf6lb7wg3glqwihgyh7nz7l0ybrsv7182qh09xlb37m
+FileSize: 912
+NarHash: sha256:0lv6cvblji4qhs511hmhx6mh746jmz6f0zz8p8i16dgjw2jvlf0m
+NarSize: 2152
+References: 58dw5m3wjs838c1v6hwpb67jar6sd1c0-Test-Deep-1.204.tar.gz.drv 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:1ypis48p6xbda8rwrr08p7i4scm0vj2jilplnbch7007adihx4zh

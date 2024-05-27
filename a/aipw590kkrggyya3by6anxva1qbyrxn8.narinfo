@@ -1,0 +1,9 @@
+StorePath: /nix/store/aipw590kkrggyya3by6anxva1qbyrxn8-spdlog-1.13.0-doc
+URL: nar/1kkyzk9vaz3w4g6jhj5lmmbxk0vvl1zz79fcvrr0shyfbcn9w28b.nar.xz
+Compression: xz
+FileHash: sha256:1kkyzk9vaz3w4g6jhj5lmmbxk0vvl1zz79fcvrr0shyfbcn9w28b
+FileSize: 4644
+NarHash: sha256:0scgigq1zz6hdbd34pcps6brld1rnz6xiriawqifymwirsxwzx0h
+NarSize: 15912
+References: 
+Deriver: q21fzsl9fphaqjkjga84x03w2a6v2yjh-spdlog-1.13.0.drv

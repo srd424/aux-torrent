@@ -1,0 +1,9 @@
+StorePath: /nix/store/8p3z4jsrxr5ck92iasc9bc7bmapb5mmg-CVE-2018-6951.patch
+URL: nar/1bdkr8i7adxzqcz98zaf2l6n3qd9p8dlsqhcj9b3mxw1h61wgcgk.nar.xz
+Compression: xz
+FileHash: sha256:1bdkr8i7adxzqcz98zaf2l6n3qd9p8dlsqhcj9b3mxw1h61wgcgk
+FileSize: 724
+NarHash: sha256:0d2v8k3ypwwgd4jry30rajszypqwzm3z8b7w2pw1j2hfn7x6aq5i
+NarSize: 1096
+References: 
+CA: fixed:r:sha256:0d2v8k3ypwwgd4jry30rajszypqwzm3z8b7w2pw1j2hfn7x6aq5i

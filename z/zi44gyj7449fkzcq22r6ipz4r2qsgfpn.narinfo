@@ -1,0 +1,9 @@
+StorePath: /nix/store/zi44gyj7449fkzcq22r6ipz4r2qsgfpn-pcre2-10.43.tar.bz2.drv
+URL: nar/0ag4x25j82zl16h0fnqyfq86i3w3ijkpi6nbpwh8a1khfkwf84r5.nar.xz
+Compression: xz
+FileHash: sha256:0ag4x25j82zl16h0fnqyfq86i3w3ijkpi6nbpwh8a1khfkwf84r5
+FileSize: 524
+NarHash: sha256:16jdyrws24liq78r32y69acbhshbjfqxpld4vsb4iqn9jxay1jws
+NarSize: 912
+References: 
+CA: text:sha256:0z5c1cws8rjzgch0jswdckf4hhijcd6lwa0kmk18wxj4ysfgb1jj

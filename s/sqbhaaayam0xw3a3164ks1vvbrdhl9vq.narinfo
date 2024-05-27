@@ -1,0 +1,9 @@
+StorePath: /nix/store/sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch
+URL: nar/1h70qq9yzhczn5xnccvnm2cfy3qhszgzcslnx1ma00mfpaqzkmrn.nar.xz
+Compression: xz
+FileHash: sha256:1h70qq9yzhczn5xnccvnm2cfy3qhszgzcslnx1ma00mfpaqzkmrn
+FileSize: 388
+NarHash: sha256:1xmgvwlidl6skwfwssrsrib6qijdjyrpqpgjknzf3js2bf4998nn
+NarSize: 584
+References: 
+CA: fixed:r:sha256:1xmgvwlidl6skwfwssrsrib6qijdjyrpqpgjknzf3js2bf4998nn

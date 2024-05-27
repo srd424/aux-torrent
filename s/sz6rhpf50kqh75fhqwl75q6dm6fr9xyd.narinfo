@@ -1,0 +1,9 @@
+StorePath: /nix/store/sz6rhpf50kqh75fhqwl75q6dm6fr9xyd-CVE-2018-1000156.patch
+URL: nar/0n96ag2argkmi5vbsr9y62m5b29vx7nmgxzcx5yi3dg7j107x9hj.nar.xz
+Compression: xz
+FileHash: sha256:0n96ag2argkmi5vbsr9y62m5b29vx7nmgxzcx5yi3dg7j107x9hj
+FileSize: 2420
+NarHash: sha256:0gxkw7h3gl5pf449q9r8hwd32ir2lx93bqhm08zyh3himrlz9phy
+NarSize: 5920
+References: 
+CA: fixed:r:sha256:0gxkw7h3gl5pf449q9r8hwd32ir2lx93bqhm08zyh3himrlz9phy

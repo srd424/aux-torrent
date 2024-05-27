@@ -1,0 +1,10 @@
+StorePath: /nix/store/zg26xd0c8z3nn87l1v1vvrxnx6vrm3mn-builder.pl
+URL: nar/0jj8jgkrb25id2d80f29yp17hyckdrgqy2wq1nnflwbz8c7gvzpf.nar.xz
+Compression: xz
+FileHash: sha256:0jj8jgkrb25id2d80f29yp17hyckdrgqy2wq1nnflwbz8c7gvzpf
+FileSize: 2828
+NarHash: sha256:1crjd8kgrdpj62gzp8avyv3ac43kayq13r5jvwd6rhickw3x4is0
+NarSize: 8616
+References: 
+Deriver: 2rl1bhvfcjv210bbhqiijhzcl3lfjai9-builder.pl.drv
+Sig: cache.nixos.org-1:T98PMiDvFU7XTYKr1PwZcj3bUDcEwPSVVjhwV7Y9V56hX6EirL7ziQlqZ3eFT1eQiZWPlKEjzMl9W9LhpC6RCw==

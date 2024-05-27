@@ -1,0 +1,9 @@
+StorePath: /nix/store/6xsvq13p876400xvczdms66a720nn08n-acl-2.3.2.tar.gz.drv
+URL: nar/1c6fby88hbrv9vzc62rw5lidlamd4522wqpmf8q7vl44hnjji4by.nar.xz
+Compression: xz
+FileHash: sha256:1c6fby88hbrv9vzc62rw5lidlamd4522wqpmf8q7vl44hnjji4by
+FileSize: 508
+NarHash: sha256:1anlm26iv33xv4pi6663avcbl04vswyqx6rwbvr2gpi8qcngcj4s
+NarSize: 840
+References: 
+CA: text:sha256:1rsx91rvhhwf08ll7yc7szdzi1gfgdzwwy59b24pgh9nwdxpdcvv

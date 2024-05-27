@@ -1,0 +1,9 @@
+StorePath: /nix/store/mm6my3lh5zdg7qm1hsb9bq946y2q1a5a-git-2.44.0-doc
+URL: nar/0aw93dmi0yyk56421gfql7zr68k37zclvshx2qyc62dln755y9r2.nar.xz
+Compression: xz
+FileHash: sha256:0aw93dmi0yyk56421gfql7zr68k37zclvshx2qyc62dln755y9r2
+FileSize: 1553572
+NarHash: sha256:0awhmri4p2w2sdxisg0k73fagdahycbv22fi1x9zr83344b74y1g
+NarSize: 14322336
+References: 
+Deriver: 8yqfzfwdky5k02ly0g6ps4v7khpi3i7b-git-2.44.0.drv

@@ -1,0 +1,10 @@
+StorePath: /nix/store/b57yci2lb6my37zmih9ap81i36li5mnc-source-github.com-lsof-org-lsof-4.99.3
+URL: nar/15qvyi4kfli4y4z5vyl3rgwd5xhafsyb0r0ngd6nciz3y7z4xalx.nar.xz
+Compression: xz
+FileHash: sha256:15qvyi4kfli4y4z5vyl3rgwd5xhafsyb0r0ngd6nciz3y7z4xalx
+FileSize: 720724
+NarHash: sha256:1v32407al4j0hhcph95lv4xvr9h012lii29iyq41iwj39zwfavax
+NarSize: 4745904
+References: 
+Deriver: ybnjqv1s0kws4napaiaqgwmgnjbf9n3m-source-github.com-lsof-org-lsof-4.99.3.drv
+CA: fixed:r:sha256:1v32407al4j0hhcph95lv4xvr9h012lii29iyq41iwj39zwfavax

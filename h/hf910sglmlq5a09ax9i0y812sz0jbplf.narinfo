@@ -1,0 +1,9 @@
+StorePath: /nix/store/hf910sglmlq5a09ax9i0y812sz0jbplf-util-linux-minimal-2.39.3-login
+URL: nar/1ja95393r92iv4bxb1md27w77b71nf02y9ghyb43kdkprym9v4d9.nar.xz
+Compression: xz
+FileHash: sha256:1ja95393r92iv4bxb1md27w77b71nf02y9ghyb43kdkprym9v4d9
+FileSize: 25348
+NarHash: sha256:1r5575bswg76npw8l9pwxy2vjqgfvacgb5wfl9sp785nrl5qbgns
+NarSize: 88296
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 nf28s3rx56cli1sbd0bymwbf6dq964yq-libxcrypt-4.4.36
+Deriver: y5vjcbachz2jmkpnml26kdc4nvlg7748-util-linux-minimal-2.39.3.drv

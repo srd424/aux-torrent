@@ -1,0 +1,9 @@
+StorePath: /nix/store/2zsw6v5l9zzhslrrdqpljnb425njg1pf-perl-5.38.2.tar.gz.drv
+URL: nar/09dl0k0bw6c9x5x56h3xds8fjwidd929nniah5rm47fis2mlay2i.nar.xz
+Compression: xz
+FileHash: sha256:09dl0k0bw6c9x5x56h3xds8fjwidd929nniah5rm47fis2mlay2i
+FileSize: 504
+NarHash: sha256:0k32hdmsz9cmb1f41440h5ji8d2mpk9g963h8xc4iq7397zybr28
+NarSize: 848
+References: 
+CA: text:sha256:15xaczhmz9y7xwb9y0wfdiy9x95q5kjiw1c9fkkh9k5h813rg546

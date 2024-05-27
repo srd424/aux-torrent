@@ -1,0 +1,9 @@
+StorePath: /nix/store/jpl3nf7qzwp87xdpmrnb1ld4byvajcml-setuptools-build-hook
+URL: nar/12biaz0058hlm52212pghzcnd9b5whb76774w072haczqnpvl35h.nar.xz
+Compression: xz
+FileHash: sha256:12biaz0058hlm52212pghzcnd9b5whb76774w072haczqnpvl35h
+FileSize: 732
+NarHash: sha256:19ksgrgvpmlcffjn34kjjvyhak9nkdf6100ls6cs2j1jp6jwalbm
+NarSize: 1800
+References: fscd8f71wmpwphcmi5mx8qnif2402x9m-run_setup.py glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 n0mgn4zpdss2dm702fx5rs7z0gwpg807-python3.11-setuptools-69.2.0 xjg5xrqa30i0pvd0d95bifz901dg2i2w-python3.11-wheel-0.42.0
+Deriver: rhkd2d9pn4hr6si5x9jwplksk4pq04s0-setuptools-build-hook.drv

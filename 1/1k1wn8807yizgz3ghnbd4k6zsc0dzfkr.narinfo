@@ -1,0 +1,9 @@
+StorePath: /nix/store/1k1wn8807yizgz3ghnbd4k6zsc0dzfkr-CVE-2014-9913.patch
+URL: nar/03h9r7cc70qb41sd2jch0bmvl21h8zi8dp39bb7dapbv0if7ghax.nar.xz
+Compression: xz
+FileHash: sha256:03h9r7cc70qb41sd2jch0bmvl21h8zi8dp39bb7dapbv0if7ghax
+FileSize: 720
+NarHash: sha256:0f2imn1bpvnkwxnjabkilz30342nyn0jn6dr7kvqcm8j9wbq822l
+NarSize: 1408
+References: 
+CA: fixed:r:sha256:0f2imn1bpvnkwxnjabkilz30342nyn0jn6dr7kvqcm8j9wbq822l

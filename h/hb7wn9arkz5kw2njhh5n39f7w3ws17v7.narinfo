@@ -1,0 +1,9 @@
+StorePath: /nix/store/hb7wn9arkz5kw2njhh5n39f7w3ws17v7-Test-Memory-Cycle-1.06.tar.gz.drv
+URL: nar/13pgn7jmwsnh7ryzr3d68ax4ip3vs443jj19bisj1axinc1l0cdx.nar.xz
+Compression: xz
+FileHash: sha256:13pgn7jmwsnh7ryzr3d68ax4ip3vs443jj19bisj1axinc1l0cdx
+FileSize: 1324
+NarHash: sha256:1ga44w6nl9w320xc990jdcrhhd8zd3p1v2q801h6apw7csldxc74
+NarSize: 3032
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1phddyg6ihjvm0v7j7n3rvgs5gwwi5kqp9yqv22rfx2ksf70dy17

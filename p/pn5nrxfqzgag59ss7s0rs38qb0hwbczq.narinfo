@@ -1,0 +1,9 @@
+StorePath: /nix/store/pn5nrxfqzgag59ss7s0rs38qb0hwbczq-python3.11-pygments-2.17.2-dist
+URL: nar/1b5h03a5f8yd4r94vca99da7ckhdxzgk40m4s3c5n1ldavkbbk49.nar.xz
+Compression: xz
+FileHash: sha256:1b5h03a5f8yd4r94vca99da7ckhdxzgk40m4s3c5n1ldavkbbk49
+FileSize: 1157680
+NarHash: sha256:1aqfam8j6lym46crjb7sg6y4nhlagvj6gp8bcpafwqm13qg3j7wm
+NarSize: 1180064
+References: 
+Deriver: dfvhhvxpcjaqc3c312qylsxi20h960n7-python3.11-pygments-2.17.2.drv

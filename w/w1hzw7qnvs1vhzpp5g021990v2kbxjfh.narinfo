@@ -1,0 +1,9 @@
+StorePath: /nix/store/w1hzw7qnvs1vhzpp5g021990v2kbxjfh-tcl-package-hook.sh
+URL: nar/0j1nrxq7hhi728ghhvhq1z4yf6cdfwxndrlbzp6qrhbh0wzrddf7.nar.xz
+Compression: xz
+FileHash: sha256:0j1nrxq7hhi728ghhvhq1z4yf6cdfwxndrlbzp6qrhbh0wzrddf7
+FileSize: 1096
+NarHash: sha256:1d0aqdck00h8qy21zciirn9917dgbsxs5hid78kh6206v4zqnisr
+NarSize: 2552
+References: 
+CA: fixed:r:sha256:1d0aqdck00h8qy21zciirn9917dgbsxs5hid78kh6206v4zqnisr

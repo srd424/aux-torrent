@@ -1,0 +1,10 @@
+StorePath: /nix/store/aqly54afgxsjpmvp9mf6kg5r3vgsqwlq-source-github.com-awslabs-aws-c-cal-v0.6.10
+URL: nar/16zkwkly4pxrdi343m6w3m0h47zzcdbaxahs7khanwxmmw70xi82.nar.xz
+Compression: xz
+FileHash: sha256:16zkwkly4pxrdi343m6w3m0h47zzcdbaxahs7khanwxmmw70xi82
+FileSize: 1496104
+NarHash: sha256:1jl8d5b7w49db2gy0kcqw8piszm7d3qydbb5zy4b43plhyj74cmg
+NarSize: 3575352
+References: 
+Deriver: 99a8rf4h7pnvwdpdy3rczqdcy663297q-source-github.com-awslabs-aws-c-cal-v0.6.10.drv
+CA: fixed:r:sha256:1jl8d5b7w49db2gy0kcqw8piszm7d3qydbb5zy4b43plhyj74cmg

@@ -1,0 +1,9 @@
+StorePath: /nix/store/g2y18crwwqsd8mz72argn0a66sj9dbhk-sys-queue.h.drv
+URL: nar/10zd85ndciwmvn5s46c500ns3rld2jrgsdyvwpgkcmn43npxb8sn.nar.xz
+Compression: xz
+FileHash: sha256:10zd85ndciwmvn5s46c500ns3rld2jrgsdyvwpgkcmn43npxb8sn
+FileSize: 1348
+NarHash: sha256:0h1gnwpignkiak49pjcxzskixinfydjhx2yj496zxmfnkkhhjfhs
+NarSize: 3048
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1pzrgvf5s98nad29213wj3hgji08pln9ndg99pxrap3icx4h65n8

@@ -1,0 +1,9 @@
+StorePath: /nix/store/j41kyvvrysjd0yq653bn54b5rfd91wnn-perl5.38.2-Mozilla-CA-20230821-devdoc
+URL: nar/0qh3g4gf25shiqf1x97db04jz5azm8vdcvngcxxs8q6xd7szklar.nar.xz
+Compression: xz
+FileHash: sha256:0qh3g4gf25shiqf1x97db04jz5azm8vdcvngcxxs8q6xd7szklar
+FileSize: 1676
+NarHash: sha256:11kfnb1z9jdnc4dkrsnry720if98dz28x8sf9mvdyc3v7gj6jslj
+NarSize: 2248
+References: 
+Deriver: bmcn2gifr80wjnf0by5nnvk6dm1hahjq-perl5.38.2-Mozilla-CA-20230821.drv

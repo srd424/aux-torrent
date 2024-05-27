@@ -1,0 +1,9 @@
+StorePath: /nix/store/9di76da9dlcvfbvj15jlah32wz0wm8v7-mirrors-list
+URL: nar/06arv01qxy66vqj36rg15jn0qqjzw13ifywbdbjyxj9vfp0rc1jv.nar.xz
+Compression: xz
+FileHash: sha256:06arv01qxy66vqj36rg15jn0qqjzw13ifywbdbjyxj9vfp0rc1jv
+FileSize: 2388
+NarHash: sha256:049mdnjjr96bjl7gzr9bfxi9y5g3mjjfgym0mkjcwn5bwjzg1yz9
+NarSize: 8616
+References: 
+Deriver: 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv

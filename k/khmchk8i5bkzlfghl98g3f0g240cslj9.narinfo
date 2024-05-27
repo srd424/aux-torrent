@@ -1,0 +1,9 @@
+StorePath: /nix/store/khmchk8i5bkzlfghl98g3f0g240cslj9-loongarch-support.patch
+URL: nar/0kns0k3rimh8dp690xv1skn987gld3ri4s4pdcsc9hbkmksj7z2z.nar.xz
+Compression: xz
+FileHash: sha256:0kns0k3rimh8dp690xv1skn987gld3ri4s4pdcsc9hbkmksj7z2z
+FileSize: 544
+NarHash: sha256:19368qrzdrsik6v76x3v90y5lcvnd19kccjxaqikrb48f8arc9w0
+NarSize: 1600
+References: 
+CA: fixed:r:sha256:19368qrzdrsik6v76x3v90y5lcvnd19kccjxaqikrb48f8arc9w0

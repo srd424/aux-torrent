@@ -1,0 +1,9 @@
+StorePath: /nix/store/sav079vnyibzv57hrgsfhah8sw4vr4qa-libbsd-0.11.8.drv
+URL: nar/03s9vzwvrwxamqqysc3h9rjfnjyk21wmngxwfnmrzlw0jqpng9a7.nar.xz
+Compression: xz
+FileHash: sha256:03s9vzwvrwxamqqysc3h9rjfnjyk21wmngxwfnmrzlw0jqpng9a7
+FileSize: 940
+NarHash: sha256:169ffyashnzalrpl9rzx9cy2k54pd6kzyjn0zn18gxcpb7w8mhaj
+NarSize: 2192
+References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv an4iqml99b3f0mhs0sk4ii3zjy944rr5-autoreconf-hook.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv r8iclz5j86rdmzjxgyy1q6xiqsy5hbga-libmd-1.1.0.drv rj5anj45va6qldrfddip8yp74h1f0g36-libbsd-0.11.8.tar.xz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0na0wa0ihbg4hc454c5iggzhlzfyfcgzwhk3iqwjzsvq2a4y7r5v

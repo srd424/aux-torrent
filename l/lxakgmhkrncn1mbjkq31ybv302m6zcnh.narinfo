@@ -1,0 +1,10 @@
+StorePath: /nix/store/lxakgmhkrncn1mbjkq31ybv302m6zcnh-perl5.38.2-libnet-3.15-devdoc
+URL: nar/0788snzbw2ziswzwbygqp0ldd56lph7zski8x2hynhb0m9gf3q6h.nar.xz
+Compression: xz
+FileHash: sha256:0788snzbw2ziswzwbygqp0ldd56lph7zski8x2hynhb0m9gf3q6h
+FileSize: 49504
+NarHash: sha256:0xrk47qy64nq384pv8ddvgs50ygr89hn2kf5mnia4lwbf74kp5hg
+NarSize: 51408
+References: 
+Deriver: 2ysy49zi7g27vvkzcbmnzzrk5ksccnva-perl5.38.2-libnet-3.15.drv
+Sig: cache.nixos.org-1:p3AQZlZH0lbpgp/3ZW/TCCkzyz8Xizr9zNmvZtxs8TWJ6kg7hkMzQvGXzmXpR3jT+cs/dvX12aLLiA9wSLihDQ==

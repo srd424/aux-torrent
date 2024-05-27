@@ -1,0 +1,9 @@
+StorePath: /nix/store/kvcqk3icgj2xnks2n9k1d741hyhjkxjh-source-github.com-pytest-dev-pluggy-refs-tags-1.4.0.drv
+URL: nar/1x4mb234wark7yhyb5mwjz65d2gcdjypl4vyy9rkq8871lfaydj9.nar.xz
+Compression: xz
+FileHash: sha256:1x4mb234wark7yhyb5mwjz65d2gcdjypl4vyy9rkq8871lfaydj9
+FileSize: 1608
+NarHash: sha256:1l6n306kgd86qidkc366gy7752cfsb87j7r8df28s94f3f7m7s42
+NarSize: 3656
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:16asr0iv42zy4wg8ip3dnncsgivbgmjwnwciiqql75mi3wv35raz

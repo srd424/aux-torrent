@@ -1,0 +1,10 @@
+StorePath: /nix/store/p24m5xlvk2mdjaavl74900hd8216d9zw-perl5.38.2-Try-Tiny-0.31
+URL: nar/1v4sgnm1knx1nza9hh9fgmslwqlszmn26sjfwngc37mb8g6545ll.nar.xz
+Compression: xz
+FileHash: sha256:1v4sgnm1knx1nza9hh9fgmslwqlszmn26sjfwngc37mb8g6545ll
+FileSize: 8552
+NarHash: sha256:18nfw5ikd4fyllfd6rd4xv3ih0z2kajyjp4g5md8h277vzqj848v
+NarSize: 24216
+References: p24m5xlvk2mdjaavl74900hd8216d9zw-perl5.38.2-Try-Tiny-0.31
+Deriver: 96n1qyfhf9zsa8wr9qxs6cqhq26ji6zm-perl5.38.2-Try-Tiny-0.31.drv
+Sig: cache.nixos.org-1:gBrq3Kq4IGNgChAtyEmfE4+numkBH1ivgOqpp6vpzIrNV64hdo5qqoKjr3W9Jn/JBKE+zKgi5R+70X14uh5eAQ==

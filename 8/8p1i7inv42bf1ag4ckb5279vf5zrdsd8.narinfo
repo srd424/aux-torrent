@@ -1,0 +1,10 @@
+StorePath: /nix/store/8p1i7inv42bf1ag4ckb5279vf5zrdsd8-python-catch-conflicts-hook
+URL: nar/1szprx5hz5hxsaqif22qkjxrfwjsamiikkql4fkpd97rvhk1j2vm.nar.xz
+Compression: xz
+FileHash: sha256:1szprx5hz5hxsaqif22qkjxrfwjsamiikkql4fkpd97rvhk1j2vm
+FileSize: 468
+NarHash: sha256:0y2p78amdiwwiyvj9dkq9g0sm66k4lpiw6gb64askc1klj31bhkl
+NarSize: 912
+References: abb5b3bp5b86j7bk7z13li9dhkxw6xsd-catch_conflicts.py glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
+Deriver: yhs9ac1fy9r3qlslr21v2h1iknknr8pf-python-catch-conflicts-hook.drv
+Sig: cache.nixos.org-1:E+889kg0yCYeiu6abmhECRMppy7X4EBdCmygy06v5lp8ZIxHTqy90Jyj8QSXbUgflk+yti1mecObCatmZNxaBQ==

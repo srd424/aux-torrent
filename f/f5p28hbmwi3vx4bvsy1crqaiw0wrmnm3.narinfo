@@ -1,0 +1,10 @@
+StorePath: /nix/store/f5p28hbmwi3vx4bvsy1crqaiw0wrmnm3-coreutils-9.5.tar.xz
+URL: nar/1931ibigyr1m3vdwaq2mcyfwy9l71v0fjij3vrg3lb5282499b35.nar.xz
+Compression: xz
+FileHash: sha256:1931ibigyr1m3vdwaq2mcyfwy9l71v0fjij3vrg3lb5282499b35
+FileSize: 6007612
+NarHash: sha256:0fixi37x5bn2pnym2fzg8p0x43ci7175laj491vy4qlmzdgg66jn
+NarSize: 6007248
+References: 
+Deriver: xv4333kfggq3zn065a3pwrj7ddbs4vzg-coreutils-9.5.tar.xz.drv
+CA: fixed:sha256:12hv193nj10hyzrqh39fpic1ibqjny9kqclzvrjsdxljmkg8wcnd

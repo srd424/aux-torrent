@@ -1,0 +1,9 @@
+StorePath: /nix/store/bzi6br52adyzrr6ncwsksdqn4mfs51r7-mdbook-0.4.37
+URL: nar/1hba2w4hkgm0757kyys0izdii24s8rj9dplxafm9x0blmvklwfj2.nar.xz
+Compression: xz
+FileHash: sha256:1hba2w4hkgm0757kyys0izdii24s8rj9dplxafm9x0blmvklwfj2
+FileSize: 3974188
+NarHash: sha256:0wjgsrpykxxz4wd90isczz0c7v62yz4rjimmpcymz7q031nlryfi
+NarSize: 15141336
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib
+Deriver: 4acbgyyvrzhnliwpplcib7fzq4m6d94j-mdbook-0.4.37.drv

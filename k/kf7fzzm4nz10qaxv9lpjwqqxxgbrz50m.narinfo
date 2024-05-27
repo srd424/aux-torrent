@@ -1,0 +1,9 @@
+StorePath: /nix/store/kf7fzzm4nz10qaxv9lpjwqqxxgbrz50m-32-bit-time_t.patch
+URL: nar/0k7x90dvvaccv1m7fb713jlyxmp03y7h7f0zlnbs3l8jl51ng4hd.nar.xz
+Compression: xz
+FileHash: sha256:0k7x90dvvaccv1m7fb713jlyxmp03y7h7f0zlnbs3l8jl51ng4hd
+FileSize: 844
+NarHash: sha256:1zbxhmp63l3knlsazcvkw3pyfqnnannr4jfjnc4rih63z42p4n94
+NarSize: 1368
+References: 
+CA: fixed:r:sha256:1zbxhmp63l3knlsazcvkw3pyfqnnannr4jfjnc4rih63z42p4n94

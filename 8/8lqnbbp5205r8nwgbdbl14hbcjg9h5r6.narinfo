@@ -1,0 +1,10 @@
+StorePath: /nix/store/8lqnbbp5205r8nwgbdbl14hbcjg9h5r6-opensp-1.5.2-c11-using.patch?id=688d9675782dfc162d4e6cff04c668f7516118d0
+URL: nar/16wcinns11rspc3q6rld3dg791l4pxla1i4jib8p2pqch5gc7qmc.nar.xz
+Compression: xz
+FileHash: sha256:16wcinns11rspc3q6rld3dg791l4pxla1i4jib8p2pqch5gc7qmc
+FileSize: 804
+NarHash: sha256:1ji7ii29gzdgr8aqh5ghx6w6hkaz4agxnijxi0cs2jd9km4q43ac
+NarSize: 2336
+References: 
+Deriver: 1ff6j7vqmlp8pzfhb9q6h55nc0nnymmh-opensp-1.5.2-c11-using.patch?id=688d9675782dfc162d4e6cff04c668f7516118d0.drv
+Sig: cache.nixos.org-1:pAw/aJrWpRSP2cwuyDe0KfEhT3Lp4QU82mIy8nGyV/KqUWCB+CPgNb4apHxonGvZX34wW/tYXvJ1Or0mnlqzBg==

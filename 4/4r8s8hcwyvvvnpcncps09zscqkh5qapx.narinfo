@@ -1,0 +1,9 @@
+StorePath: /nix/store/4r8s8hcwyvvvnpcncps09zscqkh5qapx-no-install-statedir.patch
+URL: nar/081gv77jzxq14451ma6inlbyhrnzgicfi7pxc9667b6yqg1vwb7g.nar.xz
+Compression: xz
+FileHash: sha256:081gv77jzxq14451ma6inlbyhrnzgicfi7pxc9667b6yqg1vwb7g
+FileSize: 332
+NarHash: sha256:194p64zbdmlfsk6mxvk2hpiq0ppzkd5h1y7bclrm4sv6kra02wkc
+NarSize: 456
+References: 
+CA: fixed:r:sha256:194p64zbdmlfsk6mxvk2hpiq0ppzkd5h1y7bclrm4sv6kra02wkc

@@ -1,0 +1,10 @@
+StorePath: /nix/store/1sy4mz70hymlqzi2fz5nc7ynbl9ah7vf-texinfo-7.0.3
+URL: nar/1b46zzg5kwmr8a9adgji3aqf6y59izv9aqq1qsxzk48vm8q7s80r.nar.xz
+Compression: xz
+FileHash: sha256:1b46zzg5kwmr8a9adgji3aqf6y59izv9aqq1qsxzk48vm8q7s80r
+FileSize: 1436688
+NarHash: sha256:01z9zmarrrppv5x2dwri773k1wk2rxw2fp7ay8p758950y9ncqqp
+NarSize: 11493720
+References: 1sy4mz70hymlqzi2fz5nc7ynbl9ah7vf-texinfo-7.0.3 1vh7kczjs90fzxd786s7yikvqr1g2ndn-gawk-5.2.2 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 ziv27d9f7mr7hml7441d0x87nx1pq026-perl-5.38.2
+Deriver: acag250wzswf57b0bi5033fi1sx657dc-texinfo-7.0.3.drv
+Sig: cache.nixos.org-1:YIsir0gRwOJ8bmhiXRW93MaHzHvLg/SbR1isEIVa8ratkGIch/wbd9MhrxK0HQ1pfQd5TJnEWqLTds0Op1acDg==

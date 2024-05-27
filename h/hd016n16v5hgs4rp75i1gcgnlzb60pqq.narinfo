@@ -1,0 +1,9 @@
+StorePath: /nix/store/hd016n16v5hgs4rp75i1gcgnlzb60pqq-cargo-setup-hook.sh
+URL: nar/01dwlr7zrydi9b7v25xw9r4yw7h0cs6rhhqx479qa6k1m7mxwbwq.nar.xz
+Compression: xz
+FileHash: sha256:01dwlr7zrydi9b7v25xw9r4yw7h0cs6rhhqx479qa6k1m7mxwbwq
+FileSize: 1348
+NarHash: sha256:1ywbsal4bnww4n8vzai1s197xild3cvvwqizj8z955c6m3xrbahv
+NarSize: 3232
+References: 
+CA: fixed:r:sha256:1ywbsal4bnww4n8vzai1s197xild3cvvwqizj8z955c6m3xrbahv

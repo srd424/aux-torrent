@@ -1,0 +1,9 @@
+StorePath: /nix/store/r824f8qkdyk69axwsibqxw9hv82bp4ns-fuse-3.16.2-common
+URL: nar/1afxz6yp22j50idrs16k1wz5qkhhbv6y8479myn0dlr3w9bmqh14.nar.xz
+Compression: xz
+FileHash: sha256:1afxz6yp22j50idrs16k1wz5qkhhbv6y8479myn0dlr3w9bmqh14
+FileSize: 640
+NarHash: sha256:0bgyqwi8bmrdw1zvxnm02y1ghibnyi9bxiik76gc73l8pajr570m
+NarSize: 1744
+References: 
+Deriver: k3cnn7cl552wi2gz829ldmjff7hwny8r-fuse-3.16.2.drv

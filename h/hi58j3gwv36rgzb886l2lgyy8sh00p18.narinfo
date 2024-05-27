@@ -1,0 +1,9 @@
+StorePath: /nix/store/hi58j3gwv36rgzb886l2lgyy8sh00p18-x86_64-unknown-linux-musl-gcc-wrapper-13.2.0.drv
+URL: nar/1w98glirvsn4wnsx8r94r7906j48cqqb1i0jd3nr43g54gddx2jq.nar.xz
+Compression: xz
+FileHash: sha256:1w98glirvsn4wnsx8r94r7906j48cqqb1i0jd3nr43g54gddx2jq
+FileSize: 2616
+NarHash: sha256:0v49drqk8sb5nw3p8k39rhsxym6iw19qdmiwv50n18javfm1il4f
+NarSize: 9416
+References: 1wax0frqj2lhlvnpn35nap2zjrx6sjz7-expand-response-params.drv 3dl59vc3fzy2ld67jqh12xi63z9684vf-cc-wrapper.sh 3j9vxxxgx57j8vzg7ic75b3qh2243j9y-musl-static-x86_64-unknown-linux-musl-1.2.3.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv ckjykyfw30zj1n3lcca9lwm2lzd7azdb-setup-hook.sh dmvf4fwnbbrr6f3v1kg954xpbg1k4hx3-x86_64-unknown-linux-musl-binutils-wrapper-2.41.drv g50kjlm615wlncwddvgmv6qdlmw52grb-x86_64-unknown-linux-musl-gcc-13.2.0.drv h17r866771dfqbblfsnxn7024yjxqhd4-fortify-headers-1.1alpine3.drv i60i6xvvywyk7h9wrjff7zmlksqw348p-add-hardening.sh ji2yrl1na00bwav65hh1vr0nc0s1xzvz-add-flags.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash lzjr2xyvw2z2rln5wn1v6y8vs0rv8kvs-coreutils-9.5.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash vgbg5n7rydmajbdbgnvcd98hf4nyc218-gnugrep-3.11.drv
+CA: text:sha256:1clzfl3pd6dc3gzqwgxyhxvrzqs1cj580c57di9z2jn3khbxivjz

@@ -1,0 +1,9 @@
+StorePath: /nix/store/hask7yhny39bidklmham45p5fx84kmhy-aws-c-sdkutils-0.1.15
+URL: nar/0w5xnw16avn0wrxl57mgzzfs9jq4y0ry5zb1xncw024jnza551sf.nar.xz
+Compression: xz
+FileHash: sha256:0w5xnw16avn0wrxl57mgzzfs9jq4y0ry5zb1xncw024jnza551sf
+FileSize: 41912
+NarHash: sha256:0r9c2p93a7j5c16kva2xccxvbq361nfc1v5k8p1wgq9ivsc0x1is
+NarSize: 154176
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 apysxvfgdjcph77mzi0q2ag4mga6jxxf-aws-c-common-0.9.14 hask7yhny39bidklmham45p5fx84kmhy-aws-c-sdkutils-0.1.15
+Deriver: jnxk1b6xdqa223f6bmqpin7c8ill9m23-aws-c-sdkutils-0.1.15.drv

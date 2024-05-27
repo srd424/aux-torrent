@@ -1,0 +1,9 @@
+StorePath: /nix/store/3fdnyn6y1zajx0y4pqya2nqrvjspkqzg-python-remove-tests-dir-hook.sh
+URL: nar/09lr91lazw7yfd37gb4xksz7kdyzwa981bqm59pqm6mikhimpxv5.nar.xz
+Compression: xz
+FileHash: sha256:09lr91lazw7yfd37gb4xksz7kdyzwa981bqm59pqm6mikhimpxv5
+FileSize: 356
+NarHash: sha256:0gy6i7pnglbcnwfjwqxay83wi2867pgfywdp5lkyzqybag9mmi3x
+NarSize: 536
+References: 
+CA: fixed:r:sha256:0gy6i7pnglbcnwfjwqxay83wi2867pgfywdp5lkyzqybag9mmi3x

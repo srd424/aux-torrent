@@ -1,0 +1,9 @@
+StorePath: /nix/store/g5z6w115yl5rzbnk1qn8l0c0l894h3fd-perl5.38.2-HTTP-Daemon-6.16.drv
+URL: nar/0jks3n2ypikn05zplw7475wz784svg6vzidmzd6gpv6ws83vlxjx.nar.xz
+Compression: xz
+FileHash: sha256:0jks3n2ypikn05zplw7475wz784svg6vzidmzd6gpv6ws83vlxjx
+FileSize: 1124
+NarHash: sha256:08h98ch99iif9fz0snhqcqr0as18xn89mcbvl0gm9nwzsxhljimx
+NarSize: 2656
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv 9h2ka8y40y8cqv4s6mxzd46df97q9mkd-perl5.38.2-Test-Needs-0.002010.drv dwmd6nzf825i0inhcpbjflp76byzjfm3-HTTP-Daemon-6.16.tar.gz.drv gflgnh6i9vgzw78ss1z4q8zwfzr3d7zg-perl5.38.2-Module-Build-Tiny-0.047.drv gkfgb3qnr8il5lymd6pyp58639q0vcsq-perl5.38.2-HTTP-Message-6.45.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:19djcsnlivfdmg00r8a9jm2s8m73y7f9rbwm7bdjh3aakjwydx72

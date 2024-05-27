@@ -1,0 +1,9 @@
+StorePath: /nix/store/gpd7a2ml2m73fi6zy4m68czakx7vs903-doxygen-1.10.0
+URL: nar/0a37zp0cpkdw6hkifalb2xrganfvyx7f4rfnm4zzr0fj4lb4sq8y.nar.xz
+Compression: xz
+FileHash: sha256:0a37zp0cpkdw6hkifalb2xrganfvyx7f4rfnm4zzr0fj4lb4sq8y
+FileSize: 5229508
+NarHash: sha256:0gibjsin62ci7dn6p446w9hfw0g8scw458x9hhmg3dpg0wv5h77q
+NarSize: 26832000
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib flrllywwgg6pmr176zr0m29dwgd61zha-spdlog-1.13.0 gmhg10czq34gx4djhrdv3clfy9fswq5n-fmt-10.2.1 x4ggnhg6h0xmnd8cl3d5vg7gp9xs7m8a-sqlite-3.45.2
+Deriver: z0a6lql6b9b6k6pb566s737lvm0nvm0f-doxygen-1.10.0.drv

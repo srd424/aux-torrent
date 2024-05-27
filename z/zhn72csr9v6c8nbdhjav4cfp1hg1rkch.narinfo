@@ -1,0 +1,9 @@
+StorePath: /nix/store/zhn72csr9v6c8nbdhjav4cfp1hg1rkch-source-github.com-rust-lang-mdBook-refs-tags-v0.4.37.drv
+URL: nar/1cvwyxakjg8645zgbcj4nwzb9wz0gfbmlq9qbr9qa9vsfg83dv1v.nar.xz
+Compression: xz
+FileHash: sha256:1cvwyxakjg8645zgbcj4nwzb9wz0gfbmlq9qbr9qa9vsfg83dv1v
+FileSize: 1624
+NarHash: sha256:10gzli0vq9lcy0idfdlxdwr4sc50kls7v1p43fplxf0fx4p4hnp1
+NarSize: 3696
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:124czp9q25kkym89jxw468gd8pjvvdf06g3b0rvmk88n3y9mymki

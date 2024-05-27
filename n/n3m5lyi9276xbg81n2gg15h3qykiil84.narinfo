@@ -1,0 +1,9 @@
+StorePath: /nix/store/n3m5lyi9276xbg81n2gg15h3qykiil84-fix-windows.patch
+URL: nar/1g7q7mdvg85da5ifkxzqwzzj5h1sq4l2vm2j3n1zmbbl6i6p4vjl.nar.xz
+Compression: xz
+FileHash: sha256:1g7q7mdvg85da5ifkxzqwzzj5h1sq4l2vm2j3n1zmbbl6i6p4vjl
+FileSize: 420
+NarHash: sha256:1mbyl7mw8s07v41myng7gs5fj0d0wg0xp3g2ab2kz993hra9f22w
+NarSize: 656
+References: 
+CA: fixed:r:sha256:1mbyl7mw8s07v41myng7gs5fj0d0wg0xp3g2ab2kz993hra9f22w

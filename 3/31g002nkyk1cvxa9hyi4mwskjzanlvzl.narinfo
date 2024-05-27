@@ -1,0 +1,10 @@
+StorePath: /nix/store/31g002nkyk1cvxa9hyi4mwskjzanlvzl-c-ares-1.27.0
+URL: nar/0rgx5g5vjy5wj331961ci4di9j0887vcq3axc0hzis8nqmxqjsix.nar.xz
+Compression: xz
+FileHash: sha256:0rgx5g5vjy5wj331961ci4di9j0887vcq3axc0hzis8nqmxqjsix
+FileSize: 71900
+NarHash: sha256:0rpz20qs8nrzykk7id83kwgn78l3xgz2b87a6dd8bcjl6wvanlay
+NarSize: 203824
+References: 31g002nkyk1cvxa9hyi4mwskjzanlvzl-c-ares-1.27.0 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5
+Deriver: 8agnmg7b933mbv9iwa9g0jk8bqikc4l8-c-ares-1.27.0.drv
+Sig: cache.nixos.org-1:bp92+dbecqWdfKssKR2cFMoNwIXu3T5BTeLR+67ev7cGhDbzlk6eFU9CIBGkP3asPOPDvDI3irr+4VasEt89DA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/rpyxq5xchl7skbv1932ld6is19j95i7p-fix-install-with-tcb.patch
+URL: nar/04maiiidis838b7ca9ijlmyl93wgkp6n67mgj7q3aclyn6jlmr1f.nar.xz
+Compression: xz
+FileHash: sha256:04maiiidis838b7ca9ijlmyl93wgkp6n67mgj7q3aclyn6jlmr1f
+FileSize: 504
+NarHash: sha256:0c0829cs79a2znvs9rvzzg23hlkixhlh4ja8y16f7sy8rkab3lzd
+NarSize: 856
+References: 
+CA: fixed:r:sha256:0c0829cs79a2znvs9rvzzg23hlkixhlh4ja8y16f7sy8rkab3lzd

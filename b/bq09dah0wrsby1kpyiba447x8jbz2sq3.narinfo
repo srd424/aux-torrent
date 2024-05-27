@@ -1,0 +1,9 @@
+StorePath: /nix/store/bq09dah0wrsby1kpyiba447x8jbz2sq3-Role-Tiny-2.002004.tar.gz.drv
+URL: nar/0hff57ydrz7smh5xdi1djrizbmnjpx8h150l6w2kp0mac1pp3w82.nar.xz
+Compression: xz
+FileHash: sha256:0hff57ydrz7smh5xdi1djrizbmnjpx8h150l6w2kp0mac1pp3w82
+FileSize: 1316
+NarHash: sha256:0s5xw7hfc5ji3bi96xa37hrjxlanfqi1zyilf4w1wg3nkk96zdp7
+NarSize: 3008
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:08vl8x2irrlhr7yxjz4l61dy1ig4jl4dxphyhbcms13s2hhis4ra

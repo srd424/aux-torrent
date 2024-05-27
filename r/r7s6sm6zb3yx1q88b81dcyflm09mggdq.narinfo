@@ -1,0 +1,10 @@
+StorePath: /nix/store/r7s6sm6zb3yx1q88b81dcyflm09mggdq-source-github.com-rhash-RHash-v1.4.4
+URL: nar/0pjjj9z174xdvdp9hmkb3ndn1bfcq7gb5fm2sf7x0w1vwdig9ph2.nar.xz
+Compression: xz
+FileHash: sha256:0pjjj9z174xdvdp9hmkb3ndn1bfcq7gb5fm2sf7x0w1vwdig9ph2
+FileSize: 328040
+NarHash: sha256:1zn5dsmdwg5hadhkxcvzha06vklgnv0sv863w41q4pnx8bavh9fw
+NarSize: 1620104
+References: 
+Deriver: 5izqd1ln23k15b21jyhp2b4l6f92vw9d-source-github.com-rhash-RHash-v1.4.4.drv
+CA: fixed:r:sha256:1zn5dsmdwg5hadhkxcvzha06vklgnv0sv863w41q4pnx8bavh9fw

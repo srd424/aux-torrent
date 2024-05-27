@@ -1,0 +1,10 @@
+StorePath: /nix/store/xiw9h3ssfsj1qnap4nzg2hzhq8zc54r5-libbsd-0.11.8-dev
+URL: nar/1d90z830f6fi8wj1xa0vjf022d3nj3j1dfhhfhzmr0kf4m2vvly7.nar.xz
+Compression: xz
+FileHash: sha256:1d90z830f6fi8wj1xa0vjf022d3nj3j1dfhhfhzmr0kf4m2vvly7
+FileSize: 21056
+NarHash: sha256:1pxs64g3hvdm2kw2yfivna357nd51728ri1j1jpldi0l2jpmasm5
+NarSize: 144144
+References: qpsfa7n0w0jf8pywga2q0i58mm0dn695-libmd-1.1.0 xiw9h3ssfsj1qnap4nzg2hzhq8zc54r5-libbsd-0.11.8-dev zj6x05mi8616lkid6yxc8yy87b4chaj5-libbsd-0.11.8
+Deriver: yd6psimfznf2h3icw2nwa8zdkx0dlj8v-libbsd-0.11.8.drv
+Sig: cache.nixos.org-1:Iif4aPL/L4tA2fF11M0VBLciOtI3hvuYpCY6u36lpesmqwRrVBU41V0bSvOApY82fbF3wc4ZhTZnflckToBuDA==

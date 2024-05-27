@@ -1,0 +1,9 @@
+StorePath: /nix/store/6zqn6w9rwkgfa6z1hpagnh5xhz2dag6m-CVE-2015-7696.diff
+URL: nar/0rk46vym2y3y06h2ims1d1w320rbnpkax4mbp96yalzmqvyahgax.nar.xz
+Compression: xz
+FileHash: sha256:0rk46vym2y3y06h2ims1d1w320rbnpkax4mbp96yalzmqvyahgax
+FileSize: 1192
+NarHash: sha256:0bmq247cpw5af1p84dhbg8rk9zh3qhn851j3nja8agcslhf2d8sg
+NarSize: 2048
+References: 
+CA: fixed:r:sha256:0bmq247cpw5af1p84dhbg8rk9zh3qhn851j3nja8agcslhf2d8sg

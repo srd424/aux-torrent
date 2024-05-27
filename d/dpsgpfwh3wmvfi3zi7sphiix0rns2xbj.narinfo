@@ -1,0 +1,9 @@
+StorePath: /nix/store/dpsgpfwh3wmvfi3zi7sphiix0rns2xbj-man-db-2.12.1
+URL: nar/0yz24zwcgd9jz1ld8i3i17ziwi8ds6i3932kzm8rvj30546pcqhr.nar.xz
+Compression: xz
+FileHash: sha256:0yz24zwcgd9jz1ld8i3i17ziwi8ds6i3932kzm8rvj30546pcqhr
+FileSize: 390508
+NarHash: sha256:0z8dz13j2v8ygnj2i94k3dxk57rqlaf6rf0qcqmvx2rpqny42l1p
+NarSize: 1828312
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 3fzv6f2c0vxv1zfw8v7baxh4s8qq8r2x-gzip-1.13 4zpw7gzmiqfy47xcv2xpnqn0sc1h9ak2-db-5.3.28 dpsgpfwh3wmvfi3zi7sphiix0rns2xbj-man-db-2.12.1 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 j3alr0rbqasrgicf71gf35w1153x2ldx-groff-1.23.0 k8bx3jikicddfhgyg8vidrq80fslxlcq-zstd-1.5.6-bin zlinqizi3fm1zmdxrh9zwz9pdxwd71n6-libpipeline-1.5.7
+Deriver: 525xgkh2j80058j8i2crj5kz7yq0sldz-man-db-2.12.1.drv

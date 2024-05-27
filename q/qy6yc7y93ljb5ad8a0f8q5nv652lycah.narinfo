@@ -1,0 +1,9 @@
+StorePath: /nix/store/qy6yc7y93ljb5ad8a0f8q5nv652lycah-darwin-libutil.patch
+URL: nar/1b47fhv70x215p9gc6l8wgsacvfdic4rx5bkxdm7rqj4ha5nbnpq.nar.xz
+Compression: xz
+FileHash: sha256:1b47fhv70x215p9gc6l8wgsacvfdic4rx5bkxdm7rqj4ha5nbnpq
+FileSize: 372
+NarHash: sha256:1wcqy74fxl5bmlc9dqhn7fka1rq5w5i21llq09anlz5f5nhq72p1
+NarSize: 560
+References: 
+CA: fixed:r:sha256:1wcqy74fxl5bmlc9dqhn7fka1rq5w5i21llq09anlz5f5nhq72p1

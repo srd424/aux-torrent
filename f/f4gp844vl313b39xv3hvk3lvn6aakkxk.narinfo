@@ -1,0 +1,9 @@
+StorePath: /nix/store/f4gp844vl313b39xv3hvk3lvn6aakkxk-source-github.com-shadow-maint-shadow-4.14.6.drv
+URL: nar/0kbify5b85cn07d0dvvfq2szmilll3law70a3skl14yflw47ikpg.nar.xz
+Compression: xz
+FileHash: sha256:0kbify5b85cn07d0dvvfq2szmilll3law70a3skl14yflw47ikpg
+FileSize: 1596
+NarHash: sha256:1vsykjgd3gj6nl3rsws85h4r07lykbld8rfrl3wbz40pv6f3h411
+NarSize: 3632
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:16fga9zxcymscqdgwablgw0vmx3jw7fk7n11za79485xp100cmkh

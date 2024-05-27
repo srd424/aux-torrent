@@ -1,0 +1,9 @@
+StorePath: /nix/store/2if21vs97jsfm1ilh9p77p87w42b2qna-icu4c-73.2.drv
+URL: nar/0mry2ag4j5jlwjvwjmmx6aqzxgis918ly8rga7j3qsg14hw1a5cx.nar.xz
+Compression: xz
+FileHash: sha256:0mry2ag4j5jlwjvwjmmx6aqzxgis918ly8rga7j3qsg14hw1a5cx
+FileSize: 1124
+NarHash: sha256:05fnnm90ii1jpfdjw7vg10ghlibwarpfy4n1i3a6i4704l067crj
+NarSize: 2600
+References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wf84micz8hvmns3qbmjxp88mb162sbfy-icu4c-73_2-src.tgz.drv
+CA: text:sha256:055n4b89kgjzwy1m3jlcfr6q8i9f2w6lmayrpp8fyiwkaw12qshs

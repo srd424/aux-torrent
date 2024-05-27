@@ -1,0 +1,9 @@
+StorePath: /nix/store/rnljancxb24rdckaiw0vx14dwi3sxg2p-aws-c-mqtt-0.10.3
+URL: nar/0lc9s6wdhxpx19k98zasj78k5crwj65b2l10r16xmdm9hm292skf.nar.xz
+Compression: xz
+FileHash: sha256:0lc9s6wdhxpx19k98zasj78k5crwj65b2l10r16xmdm9hm292skf
+FileSize: 123344
+NarHash: sha256:1m1qzqys1fg00appwgw510kwl4xwh0zz9f1mvzpq0nvipyh1qcrs
+NarSize: 475632
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 6md1bxjzssj2a74hb7157x48kp88860x-s2n-tls-1.4.9 6pwbdzym9gkqg9kdfm5r509cwvfrzw7l-aws-c-io-0.14.6 8ypkqn4glqfzna65d7kwral0kwv63cgf-aws-c-cal-0.6.10 9xgpmwqw0881kxa9sl498qfmzy7z2ndn-openssl-3.0.13 apysxvfgdjcph77mzi0q2ag4mga6jxxf-aws-c-common-0.9.14 lxf1477r1r5jfs963psm4h0pa7bqi9rb-aws-c-http-0.8.1 n008vm2hw8byxywsr1nv9qsmm9mdiwv6-aws-c-compression-0.2.18 rnljancxb24rdckaiw0vx14dwi3sxg2p-aws-c-mqtt-0.10.3
+Deriver: awzb1hsvlvxnsfvs5pq3sjdmbgrsv6cc-aws-c-mqtt-0.10.3.drv

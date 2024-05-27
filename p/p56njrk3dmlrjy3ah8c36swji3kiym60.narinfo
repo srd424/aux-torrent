@@ -1,0 +1,9 @@
+StorePath: /nix/store/p56njrk3dmlrjy3ah8c36swji3kiym60-clang-5.3.patch
+URL: nar/1byr6nfgvkifvi3h3ck0avn0r8smyq17w288wycp1zb3dyk761xv.nar.xz
+Compression: xz
+FileHash: sha256:1byr6nfgvkifvi3h3ck0avn0r8smyq17w288wycp1zb3dyk761xv
+FileSize: 2636
+NarHash: sha256:15sg4qsxjrw2rn6ydp3bkzq4n0d2bihsbpfxhxm67205i3ba9m7b
+NarSize: 7832
+References: 
+CA: fixed:r:sha256:15sg4qsxjrw2rn6ydp3bkzq4n0d2bihsbpfxhxm67205i3ba9m7b

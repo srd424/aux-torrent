@@ -1,0 +1,11 @@
+StorePath: /nix/store/7c07ax7v2p4wa3qqhyjdbfqnn298p141-pytest-mock-3.12.0.tar.gz
+URL: nar/079qvsgwayyykas4564p0lp1422dggs21pf0iqmj36b654b7id3g.nar.xz
+Compression: xz
+FileHash: sha256:079qvsgwayyykas4564p0lp1422dggs21pf0iqmj36b654b7id3g
+FileSize: 32316
+NarHash: sha256:1mnh42p88rdnhrm0kd0rrkq7jn73c3akcmbsij0zfzz2r4f6i1ax
+NarSize: 32256
+References: 
+Deriver: nfzmxjf00gy4b8ias2851whdsrij04w6-pytest-mock-3.12.0.tar.gz.drv
+Sig: cache.nixos.org-1:gYf2dXM6eNmaEs3VJ6uA3IW9ovK4AuaSjf1sN7nlPVRxpAMXim/vYITini+5tQeG9jwGoxbz6XuhIHN2EAI2BA==
+CA: fixed:sha256:1sd6q65jzpvmyskbr57h7xcga7s5ahh96hxvhwid7ji2ih1hz91i

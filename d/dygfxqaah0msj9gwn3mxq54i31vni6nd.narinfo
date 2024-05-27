@@ -1,0 +1,9 @@
+StorePath: /nix/store/dygfxqaah0msj9gwn3mxq54i31vni6nd-grep-3.11.tar.xz.drv
+URL: nar/1glhjnc9c4rnkd96mg4q6dddxl3npg7jrbkbqq4jy9rbvy20g0f6.nar.xz
+Compression: xz
+FileHash: sha256:1glhjnc9c4rnkd96mg4q6dddxl3npg7jrbkbqq4jy9rbvy20g0f6
+FileSize: 500
+NarHash: sha256:1gr0ybl2qzn3dgxyyip010v06q6rnkc0qg66fvlpgzxn1j6cszgy
+NarSize: 824
+References: 
+CA: text:sha256:06ympkyjr7kzj3h6w4chjab1bgb0qlh5invsmhykhl15r5g68rrn

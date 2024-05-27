@@ -1,0 +1,10 @@
+StorePath: /nix/store/mbmyxqcp08h1f6z4076b1ydf2afpwzyw-source-github.com-pypa-setuptools-refs-tags-v69.2.0
+URL: nar/1h6f7zpavkq4y1na0ik5kfi4xfgj2q01cq8lfkxh21zzb1j90808.nar.xz
+Compression: xz
+FileHash: sha256:1h6f7zpavkq4y1na0ik5kfi4xfgj2q01cq8lfkxh21zzb1j90808
+FileSize: 1455244
+NarHash: sha256:028mlp0d56h10a6vhcaqvjifsddwrfdn7d2sy0zqi7shh76phncj
+NarSize: 7536896
+References: 
+Deriver: 5wy0f7jrszr7gnc7kqn7jam1ijqwkpxa-source-github.com-pypa-setuptools-refs-tags-v69.2.0.drv
+CA: fixed:r:sha256:028mlp0d56h10a6vhcaqvjifsddwrfdn7d2sy0zqi7shh76phncj

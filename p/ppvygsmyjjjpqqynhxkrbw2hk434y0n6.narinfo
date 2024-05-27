@@ -1,0 +1,9 @@
+StorePath: /nix/store/ppvygsmyjjjpqqynhxkrbw2hk434y0n6-cmake-3.29.1-debug
+URL: nar/14wp31fzxhl0xpydci2lsd1jlld7jfks81yifp9i17hx4imxj09r.nar.xz
+Compression: xz
+FileHash: sha256:14wp31fzxhl0xpydci2lsd1jlld7jfks81yifp9i17hx4imxj09r
+FileSize: 438385804
+NarHash: sha256:0v8kvpbdjrjh9fq59f0ilwyjlba8q6md46jg5k7q9g7fph9mfbp9
+NarSize: 451471184
+References: 
+Deriver: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv

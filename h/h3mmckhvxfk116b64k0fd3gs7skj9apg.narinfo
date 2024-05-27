@@ -1,0 +1,9 @@
+StorePath: /nix/store/h3mmckhvxfk116b64k0fd3gs7skj9apg-busybox-1.36.1.tar.bz2.drv
+URL: nar/0mp34i3zj4920dlq1v7qiswcwz5cvzplfv1yz8yvfxkyqgfa27mj.nar.xz
+Compression: xz
+FileHash: sha256:0mp34i3zj4920dlq1v7qiswcwz5cvzplfv1yz8yvfxkyqgfa27mj
+FileSize: 1312
+NarHash: sha256:1s0xfgsjayalimaxvn7vl17d3xhg7kkdbk5vzzidzk4dw5cj01xz
+NarSize: 3024
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:11lhn40vwvw8rf0yghjs9xd1crl38s51125cwd1npz0anz6msnbn

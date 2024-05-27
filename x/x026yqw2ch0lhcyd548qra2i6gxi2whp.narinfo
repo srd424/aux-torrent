@@ -1,0 +1,9 @@
+StorePath: /nix/store/x026yqw2ch0lhcyd548qra2i6gxi2whp-libunistring-1.1.tar.gz.drv
+URL: nar/095mlh9apzrb11blz2837yqll9hx5gnbmhim7jccjqkz1ay3pphk.nar.xz
+Compression: xz
+FileHash: sha256:095mlh9apzrb11blz2837yqll9hx5gnbmhim7jccjqkz1ay3pphk
+FileSize: 504
+NarHash: sha256:13bm0z5n7nas0php22vnnzwpdbq51v77915gdimq26k6570xxlxj
+NarSize: 880
+References: 
+CA: text:sha256:0hcbl10nj1jiaxrswx2435am54hkhwc32df7ikzpx1fvgdwxrgvf

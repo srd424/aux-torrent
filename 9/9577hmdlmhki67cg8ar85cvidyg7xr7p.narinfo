@@ -1,0 +1,9 @@
+StorePath: /nix/store/9577hmdlmhki67cg8ar85cvidyg7xr7p-gcc-12-no-sys-dirs.patch
+URL: nar/1nvhbygbyk6v1scm7wzicj5cr6bxyhjq228340rfr76vs6k1vigy.nar.xz
+Compression: xz
+FileHash: sha256:1nvhbygbyk6v1scm7wzicj5cr6bxyhjq228340rfr76vs6k1vigy
+FileSize: 524
+NarHash: sha256:16gxh2m84qrm3qmcmrhhw8fg00ggys3k7xwxv4rp5xna20adb600
+NarSize: 960
+References: 
+CA: fixed:r:sha256:16gxh2m84qrm3qmcmrhhw8fg00ggys3k7xwxv4rp5xna20adb600

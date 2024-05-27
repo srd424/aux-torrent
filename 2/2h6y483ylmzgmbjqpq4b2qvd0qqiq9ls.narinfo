@@ -1,0 +1,9 @@
+StorePath: /nix/store/2h6y483ylmzgmbjqpq4b2qvd0qqiq9ls-perl5.38.2-Role-Tiny-2.002004.drv
+URL: nar/0dxml10r4hks1n8dzd9y9wi20m925my072gg0cpqzn4l8c966mp1.nar.xz
+Compression: xz
+FileHash: sha256:0dxml10r4hks1n8dzd9y9wi20m925my072gg0cpqzn4l8c966mp1
+FileSize: 912
+NarHash: sha256:17xaa3d27qsi3dcpsdz08ly70flp34jjww1xh77kj7r9k7k9hx6m
+NarSize: 2176
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv bq09dah0wrsby1kpyiba447x8jbz2sq3-Role-Tiny-2.002004.tar.gz.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
+CA: text:sha256:1gpv10r81ykl6ng4gqjxqy9i482bg6hnphdrpi008aq4grq4d4mk

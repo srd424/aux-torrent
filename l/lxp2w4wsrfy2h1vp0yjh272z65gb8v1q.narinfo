@@ -1,0 +1,9 @@
+StorePath: /nix/store/lxp2w4wsrfy2h1vp0yjh272z65gb8v1q-boehm-gc-8.2.6-debug
+URL: nar/0dgx570vgjzidspv3ljlg22ffimqg2mgsx994shz329mfzgmbicr.nar.xz
+Compression: xz
+FileHash: sha256:0dgx570vgjzidspv3ljlg22ffimqg2mgsx994shz329mfzgmbicr
+FileSize: 255340
+NarHash: sha256:03hcffdwlwjig91p7936aki8p9x8v70xvg0gprzzbpx24r18gq1i
+NarSize: 302736
+References: 
+Deriver: jvqzc52r4a947qwx3d1lq2cv09w0cb0d-boehm-gc-8.2.6.drv

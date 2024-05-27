@@ -1,0 +1,9 @@
+StorePath: /nix/store/0p9zklkgdyp34fvpxhxaqi6iskg4h6h3-python3.11-buildcatrust-0.3.0-dist
+URL: nar/0an5950wiv5insl8nij5szwrn1rl1kmxp2ks3pa3qcyf9wd8lsd7.nar.xz
+Compression: xz
+FileHash: sha256:0an5950wiv5insl8nij5szwrn1rl1kmxp2ks3pa3qcyf9wd8lsd7
+FileSize: 35208
+NarHash: sha256:1q3m0whvwdfkmvssax1kah0p4sxdxx5h2hdjzxz1nqw9fsgkdkcf
+NarSize: 38008
+References: 
+Deriver: w3glf2hdfv83fyfs831m8hjd3wfhw960-python3.11-buildcatrust-0.3.0.drv

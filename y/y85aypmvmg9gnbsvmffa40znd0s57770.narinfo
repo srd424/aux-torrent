@@ -1,0 +1,9 @@
+StorePath: /nix/store/y85aypmvmg9gnbsvmffa40znd0s57770-attr-2.5.2.tar.gz.drv
+URL: nar/0hkvrwp7lqms250wppjvwgksah5c2gbzazkvmd2fc53kypzmvzxl.nar.xz
+Compression: xz
+FileHash: sha256:0hkvrwp7lqms250wppjvwgksah5c2gbzazkvmd2fc53kypzmvzxl
+FileSize: 508
+NarHash: sha256:1z5215ndkicnc39whzcpdvy68g0kg6aj5w9ap3jcjlp4n7kd5937
+NarSize: 856
+References: 
+CA: text:sha256:141kh94xrzj0zwpyqpnhfy8p1wc888yjnsqirf91ahr01m27swf8

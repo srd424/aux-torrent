@@ -1,0 +1,10 @@
+StorePath: /nix/store/b0kibhbzpshqx8ixy515r7yplx087l33-source-github.com-takluyver-flit-3.9.0
+URL: nar/1agf7b81hawdwsvbzw1av2vf1vbx79cabp7sfp96cbqz338yw053.nar.xz
+Compression: xz
+FileHash: sha256:1agf7b81hawdwsvbzw1av2vf1vbx79cabp7sfp96cbqz338yw053
+FileSize: 104832
+NarHash: sha256:0x9l39l492pmyn3r3fwd2hmff7yfl1gml0c2w9b19vxbq8yvwpfa
+NarSize: 504464
+References: 
+Deriver: qf65qrxnby2c9dxj4b8npa5ifx5l85c9-source-github.com-takluyver-flit-3.9.0.drv
+CA: fixed:r:sha256:0x9l39l492pmyn3r3fwd2hmff7yfl1gml0c2w9b19vxbq8yvwpfa

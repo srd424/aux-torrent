@@ -1,0 +1,9 @@
+StorePath: /nix/store/z0mmf5knaj4dx7z4jiqaj0z076ijpfn5-source-github.com-lix-project-lix-2.90-beta.1.drv
+URL: nar/0kij8h47cm4jdyggdw1lmz285898qxs0dic9v1pjr8p8fjm0sgkc.nar.xz
+Compression: xz
+FileHash: sha256:0kij8h47cm4jdyggdw1lmz285898qxs0dic9v1pjr8p8fjm0sgkc
+FileSize: 1600
+NarHash: sha256:0b0al00jc39c4xzw1f5igq2jcz94lhsrjjvs347phz9rab3dyn3l
+NarSize: 3640
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0jhzs2zi2yrrcs8yk9pghq11v485hx7zbqvyd5bbghmzhvz558zh

@@ -1,0 +1,9 @@
+StorePath: /nix/store/s2k9ww3v8wnvpfbpwhz5k7jjqk66z98c-source-github.com-nlohmann-json-v3.11.3.drv
+URL: nar/1qlwvvcr2zi7zcv0rr539cj6l4q6ndf3ak6famp7izks0yd6s431.nar.xz
+Compression: xz
+FileHash: sha256:1qlwvvcr2zi7zcv0rr539cj6l4q6ndf3ak6famp7izks0yd6s431
+FileSize: 1600
+NarHash: sha256:0izcw4zz9px5ms0ybg7f3zzd9h5dbxxmkn8j4frfc02fvcvnm7gv
+NarSize: 3616
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1hafmfdq2drwxg7qdpqizj6jn2354i6d94psmrq0ya3l215nxzj7

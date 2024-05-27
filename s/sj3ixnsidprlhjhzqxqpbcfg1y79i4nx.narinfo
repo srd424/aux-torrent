@@ -1,0 +1,9 @@
+StorePath: /nix/store/sj3ixnsidprlhjhzqxqpbcfg1y79i4nx-source-github.com-openwall-tcb-070cf4aa784de13c52788ac22ff611d7cbca0854.drv
+URL: nar/13w1mw5zq1rg6wgj9lnw30lz85lq9ybpxqpmbq7y8frkwh20zzps.nar.xz
+Compression: xz
+FileHash: sha256:13w1mw5zq1rg6wgj9lnw30lz85lq9ybpxqpmbq7y8frkwh20zzps
+FileSize: 1628
+NarHash: sha256:08hfha259xihpnakyswgig1kj7mqsd795j0rwh35cvgplbmva632
+NarSize: 3800
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:10wd5h9x9mwx27k6myj2v3xmvdk339srb3gs2s0hiryi5k30cwzp

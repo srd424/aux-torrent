@@ -1,0 +1,10 @@
+StorePath: /nix/store/mcayf992diwks293vs12iwx1ywgm4ijg-m4-1.4.19.tar.bz2
+URL: nar/1wxs8vy2ls9id5xla7sjyrmmc33qp5xwahbigbyb54s3fyiqx948.nar.xz
+Compression: xz
+FileHash: sha256:1wxs8vy2ls9id5xla7sjyrmmc33qp5xwahbigbyb54s3fyiqx948
+FileSize: 2147556
+NarHash: sha256:01pwkpnl5pl9l6kwwf0lib8w7afjbracij0hkhpw3hwdcm11i6v2
+NarSize: 2150168
+References: 
+Deriver: rr4cpsx1w84h2l1h71ch8spcp221kzkr-m4-1.4.19.tar.bz2.drv
+CA: fixed:sha256:1j58i4n4a7w1jcrflyqqbbviz65kgb5rhbpw1hlc8fyr1wfaj1mk

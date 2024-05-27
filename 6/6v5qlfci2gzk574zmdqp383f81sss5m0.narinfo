@@ -1,0 +1,9 @@
+StorePath: /nix/store/6v5qlfci2gzk574zmdqp383f81sss5m0-gtest-1.14.0-dev
+URL: nar/0q0vmpfs5w67dn4k5pijxpw3n3wx3k23r40ppxc07w23zafakcy8.nar.xz
+Compression: xz
+FileHash: sha256:0q0vmpfs5w67dn4k5pijxpw3n3wx3k23r40ppxc07w23zafakcy8
+FileSize: 175484
+NarHash: sha256:1xqnz0z3il56jhfnrlgxc9va6h5c784z5smyjgfxarv3yif2l3fy
+NarSize: 1052760
+References: 6v5qlfci2gzk574zmdqp383f81sss5m0-gtest-1.14.0-dev ch42fddcbx756n08fjqjg0mnqr0xh9pg-gtest-1.14.0
+Deriver: 2bg19j4l7mnf38xifcizbgx2di3i4d8z-gtest-1.14.0.drv

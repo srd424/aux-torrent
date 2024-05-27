@@ -1,0 +1,10 @@
+StorePath: /nix/store/rsav1hs52j8x728aljj1g1dfgq0f9sa4-perl5.38.2-LWP-MediaTypes-6.04
+URL: nar/0kny34ri3x2zmqqicl78w4rr409zzqsk9x7cl90yv4qs3qv6arin.nar.xz
+Compression: xz
+FileHash: sha256:0kny34ri3x2zmqqicl78w4rr409zzqsk9x7cl90yv4qs3qv6arin
+FileSize: 14600
+NarHash: sha256:001q4sn4z8mncqw351yl1ck7nyaz5lyasmkhshy8alwi8aydbx6c
+NarSize: 60168
+References: rsav1hs52j8x728aljj1g1dfgq0f9sa4-perl5.38.2-LWP-MediaTypes-6.04
+Deriver: lw2z0c5sh8nilcxpbsm1hb6s7cvsl7f1-perl5.38.2-LWP-MediaTypes-6.04.drv
+Sig: cache.nixos.org-1:Cs3PrMwRP+jzkEhKkKG6FbXcb+OfNN8dvqVhjk8f7sFOVFmcBo8tT35EhH8X9x7vKIclOMBkoNQc/xsHSzoBAw==

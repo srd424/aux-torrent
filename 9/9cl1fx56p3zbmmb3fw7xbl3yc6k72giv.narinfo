@@ -1,0 +1,9 @@
+StorePath: /nix/store/9cl1fx56p3zbmmb3fw7xbl3yc6k72giv-setuptools-check-hook
+URL: nar/1slbfjmym8cyx93931q7kl078gcj9nbajy3bg6iy6afj9kv9mrnd.nar.xz
+Compression: xz
+FileHash: sha256:1slbfjmym8cyx93931q7kl078gcj9nbajy3bg6iy6afj9kv9mrnd
+FileSize: 556
+NarHash: sha256:09ya9k2sl82vws3ag5glhkr5xfgs98h5hp8pzl5bwknwd7plkz44
+NarSize: 1320
+References: fscd8f71wmpwphcmi5mx8qnif2402x9m-run_setup.py glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 n0mgn4zpdss2dm702fx5rs7z0gwpg807-python3.11-setuptools-69.2.0
+Deriver: drdkcvsqsmqxf4r8pzpl0a886fa5y4p5-setuptools-check-hook.drv

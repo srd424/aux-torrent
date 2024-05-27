@@ -1,0 +1,9 @@
+StorePath: /nix/store/qxy20w0walyndly6j70f9bhv200rzdj7-python-runtime-deps-check-hook.sh
+URL: nar/0cszpv2b5nfvrb97h9pfwbmirpb46xh54bmqs6pr4gq47rcy1344.nar.xz
+Compression: xz
+FileHash: sha256:0cszpv2b5nfvrb97h9pfwbmirpb46xh54bmqs6pr4gq47rcy1344
+FileSize: 432
+NarHash: sha256:101cmx71ykljviwxk8klhgp4k4vgq7xhk8l7mkiaafb9c1v0vnvr
+NarSize: 688
+References: 
+CA: fixed:r:sha256:101cmx71ykljviwxk8klhgp4k4vgq7xhk8l7mkiaafb9c1v0vnvr

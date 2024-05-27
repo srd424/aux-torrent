@@ -1,0 +1,9 @@
+StorePath: /nix/store/z184i8d48066fsginy15jgm28m4l4ax4-auditable-cargo-bootstrap-1.76.0
+URL: nar/0rrp1ky9jm9wi0wi1sl9rmjd4rmaz49z4p6327q9pgsw5hrv2498.nar.xz
+Compression: xz
+FileHash: sha256:0rrp1ky9jm9wi0wi1sl9rmjd4rmaz49z4p6327q9pgsw5hrv2498
+FileSize: 2932
+NarHash: sha256:1h6cap9ijvzii3bh21q2rfvp35ypnpyigi61vs3yfxl19dd0v4bn
+NarSize: 16832
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 851nlraf7796s7d0mz9wzx0cj0v10rvf-cargo-bootstrap-1.76.0 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib y5r1i03asf6rxyi8l5fb632rddsj2356-cargo-auditable-0.6.2
+Deriver: h2bqg8b7r4rm1l5p9i22mkcwrykmpf18-auditable-cargo-bootstrap-1.76.0.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/p2fp6i7hjx9af1wbwr32k217wp2dxmiw-absolute-paths.diff
+URL: nar/15za2fvmn5821lrc8f4db1ha1rl7ivx63bpdkxk1w8svajldlqlf.nar.xz
+Compression: xz
+FileHash: sha256:15za2fvmn5821lrc8f4db1ha1rl7ivx63bpdkxk1w8svajldlqlf
+FileSize: 508
+NarHash: sha256:0lqyarj8cwwhq2dj4sna3m2m8b90hj78d30mfqdaa5k8zpw9gizz
+NarSize: 1096
+References: 
+CA: fixed:r:sha256:0lqyarj8cwwhq2dj4sna3m2m8b90hj78d30mfqdaa5k8zpw9gizz

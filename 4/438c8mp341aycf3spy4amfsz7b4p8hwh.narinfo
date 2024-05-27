@@ -1,0 +1,11 @@
+StorePath: /nix/store/438c8mp341aycf3spy4amfsz7b4p8hwh-rustc-1.77.1-src.tar.gz
+URL: nar/11paqrvf80nv21cdk2dsk27mp44j3ypdjpjz55l3869hv5crj3sq.nar.xz
+Compression: xz
+FileHash: sha256:11paqrvf80nv21cdk2dsk27mp44j3ypdjpjz55l3869hv5crj3sq
+FileSize: 294862780
+NarHash: sha256:0fq5rh3kfcn1vrlgim5hfr3jc978dqdddcy3dhwqd3hqjljz9ys9
+NarSize: 301995840
+References: 
+Deriver: 267gfwlsq75y3hsw608is3hr49ggfxvn-rustc-1.77.1-src.tar.gz.drv
+Sig: cache.nixos.org-1:X2fKqjT6Ve1ZlcpxjI4ISxIltycu1ehVUC/hkdqOzoiHKIjPEOAYm4EUcEi4AW/OvQhnWP7aFoLDvPWXlJkyBg==
+CA: fixed:sha256:18d4ncdzp0nfimmw029xdf7vv1hgh82v30mjnnixnllzar66w47f

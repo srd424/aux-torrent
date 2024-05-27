@@ -1,0 +1,9 @@
+StorePath: /nix/store/dn578fkg99ndx9i0v3534pd8b818jlf4-python3.11-pathspec-0.12.1-dist
+URL: nar/1g90ncp3mp31v17n15ci1851iqqr9qycbigsdcabakfawh2grwxj.nar.xz
+Compression: xz
+FileHash: sha256:1g90ncp3mp31v17n15ci1851iqqr9qycbigsdcabakfawh2grwxj
+FileSize: 30620
+NarHash: sha256:0ps9bzbi5mnqqq0dlw5qx4b280333m4094gc15b8p4107xl1fd14
+NarSize: 31496
+References: 
+Deriver: ipbi26a01br2mvfkhhdyjlx5lcxklnlb-python3.11-pathspec-0.12.1.drv

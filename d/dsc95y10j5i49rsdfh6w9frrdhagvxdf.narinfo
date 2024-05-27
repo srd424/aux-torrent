@@ -1,0 +1,11 @@
+StorePath: /nix/store/dsc95y10j5i49rsdfh6w9frrdhagvxdf-cmake-3.29.1.tar.gz
+URL: nar/0h83qnr9a1c7qjad6x01pvyay3fdi9imbsj5psgigabd2g0yn80a.nar.xz
+Compression: xz
+FileHash: sha256:0h83qnr9a1c7qjad6x01pvyay3fdi9imbsj5psgigabd2g0yn80a
+FileSize: 11221720
+NarHash: sha256:1h4lznv26d6kc6214mali13xwk8apv6dbmvfmm9nn1zbsds7n6kr
+NarSize: 11246184
+References: 
+Deriver: 72cjldkg5iq79w36l3lgc56sr42jgzps-cmake-3.29.1.tar.gz.drv
+Sig: cache.nixos.org-1:3s5HsSiVQrlxdIbgVdemcg174RqPaA7QHkS0U/lyLN2F3UAwMOINgKu7OIFLZi5pikD1ZwV4zrD4MM5s9VtgCw==
+CA: fixed:sha256:1k7g1smk47h26m3lk228f8iimfj80611xxscdfm3jaxnay7jxc3z

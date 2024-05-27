@@ -1,0 +1,9 @@
+StorePath: /nix/store/0y5flakfvnf813cwrr8rygf1jnk0gfnc-CVE-2019-13636.patch
+URL: nar/0wrkggj0ys6mpqmic1x78c9xig30bxlk3mgqglzg7alwa2rvpl7w.nar.xz
+Compression: xz
+FileHash: sha256:0wrkggj0ys6mpqmic1x78c9xig30bxlk3mgqglzg7alwa2rvpl7w
+FileSize: 1532
+NarHash: sha256:1vqdwm84vfc8f289w4l2vsiz5k2qkm5ma45zyf7danx2fsqhlwrq
+NarSize: 3864
+References: 
+CA: fixed:r:sha256:1vqdwm84vfc8f289w4l2vsiz5k2qkm5ma45zyf7danx2fsqhlwrq

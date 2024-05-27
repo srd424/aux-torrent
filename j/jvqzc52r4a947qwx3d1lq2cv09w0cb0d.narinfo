@@ -1,0 +1,9 @@
+StorePath: /nix/store/jvqzc52r4a947qwx3d1lq2cv09w0cb0d-boehm-gc-8.2.6.drv
+URL: nar/1hmr0sfnn1illk66zc3qpcpl32m7clw8s77z0m40q9f0kxqvkl7s.nar.xz
+Compression: xz
+FileHash: sha256:1hmr0sfnn1illk66zc3qpcpl32m7clw8s77z0m40q9f0kxqvkl7s
+FileSize: 1084
+NarHash: sha256:00djkgfjvlrj9v27r8vdzk1d7173z0i784g7m7mj55w3k4xsc9i0
+NarSize: 2696
+References: 12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh 4bzlz327km5ppv6rciz261l92ph65csq-boehmgc-coroutine-sp-fallback.patch 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv an4iqml99b3f0mhs0sk4ii3zjy944rr5-autoreconf-hook.drv fzjbp5vfk1shynspd08la5m2mr1zz4f6-source-github.com-ivmai-bdwgc-v8.2.6.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1n1h69f6kjmjvf3x4kxxhy77qmpvzpz9dq6f9zy2pv8b7cgl3s27

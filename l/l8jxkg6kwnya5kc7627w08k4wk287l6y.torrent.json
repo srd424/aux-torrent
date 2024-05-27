@@ -1,0 +1,27 @@
+{
+  "announce": "http://bt.aux-cache.dev:9996/announce",
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716813416,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 489,
+        "path": [
+          "l8jxkg6kwnya5kc7627w08k4wk287l6y.narinfo"
+        ]
+      },
+      {
+        "length": 2015268,
+        "path": [
+          "nar",
+          "1v5kiqp0slpfxi7mhv4dgx49vqsr20i9zx2c1x7f984wpyhyv73g.nar.xz"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "qW6cBb+g5ItNdfr+GVng4Xy06n9TDgPWN23auRw4PG/VZQGfk623WwSj/EF9eY3pmweEJkZ+5qlD\nyxhAxmDAcow3CkmfP+vOSOhoZKdl4Jk3RdXe/tKmcwMA2qA3zC45uFI8j6Zcyznk74TUpYOZIwqZ\nFkG+ZDYXFFh5zmOgFNoInbNapVa0UwtNaivVTdEOCMcgSZHaTDeUkVCqBeEA/ls5lg+Nv6QZL8tz\ntsf9Du+ZPneRM4ifQgsJWWNsqVKNAKL/eIRtKoVJM+k8I78BtoFsp9oSO9PcWhOqvGgtgaXYkO7b\nOpmgJFCo/SD7Pm7471ksfORaYMprTJC6RUpskqMNPasT281As7JaRDatsn5bzNToiIsG2l0tkckt\n3wgCqq+PwN+Jh71zXHJ0/QL2GC9y2+32eQTJjyPcZRqNOh/KV7YLWwoWhwIF6Ne/Apf5cPWwFY/G\nkdwPQuUemP6NupNeeyvBVzXSr7scgyBgTuEGi+x1rB5/vRR7tPV0bMJ7S43c2RUFkDPQyLpNq2n0\nfgUx2xTpJET2nwfggqz5V1Ey+UrmHhVEZTXKTrHkF657Q4p0M0XAUR8MpbrpiD2C35QnKTw/I1Ky\nzHid2SWfV4HisGfSYXsiQowFNyFcqrbmyZA/cwIFHi3jT2JLH3fpggXqHdxnJPRqu4XczVxV3s4g\n/xowcwh5AVZ/n7n9c+WCtk+tM82T2nEWR6Dc9EFbU2DBmeiHGKbp52E1e5eEVcncAhWbvv48YJ6P\nuIltW0bOwTq/5p9e8kMUslYX2Q+KmHLL19B4wAoTLjNPhfeGeZeVGDRLGd0LIbVHvbSOwXikLYTl\nJIY6gWskYfzT4+exPiIPLUmQ328OW1cn1nLH2+L2wJT/gsRLmJWq0Tae6aZBJHSY7cXfGVrW4R8y\nMXjxDeAGB+AEy29U8lD28Us5Y8x1PNvMt5d5lgjaDwIg6dDgRpkvzRttK0jaWA2JNdZAySbRMIUK\n+GaWsbXkspFAcmV8lPMkxI2C9VnlIh9Jy+OcjXJLWuZYQpIh3+aPC37qdnLP+FiD+ZEbL+OH/h0c\nRe/UqBThHyYrIqsKiR95I0/AphAZ+ALIVyUUBQTTWUmg0jcOhR0BRdTfbxIGVpdA9Ryl5n+SadPa\nLzH/QsOXIVxUD0HlHN3GjJkTLtMe5gM/cHmZ0eHxhEwAjn9YhfN7WksSfJEWSMpV5ZJQUF4u/58V\nyf3cLJh0ziF4hY2ORU1bz/q0VdcxIAdt3U9vsMjkj7op74QKZzk+e9soBrIzIOuM6Ob8RbKpYXB7\nqbw76NZGCHrmGQkXuXC/coa8SSTAZNN9SWJUTjp3LA+qWZ+gKZKKdsveXk+GJ8KN86ItL4ZPmJy1\nSjbvKLAse0xP21W1FrKGW6K2mNIUc6zCTmUzVsj45HD2bEdJttke93hnJmIssS5PAtOtheDu2ESk\nLfi71lok84E7xuwMghpvYVsnAGjCdNml1pRMexzoBtuLfTSz408wPUYb4fhLCHb8ZmbJOgrh3hod\nQ8FrbSPqUQncI8dPrXUXJxFGk02klkWFIS+pxKWmrx9VmxBb+miEeTo3KyyO63PobRSHCry21X42\ndYdBPh2LxmYgtHFsKJ9Gnx8DB0I3huP+sQUZxXfBf78X8Fq8y64isxPQxg==\n",
+    "private": 0
+  }
+}

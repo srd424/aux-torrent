@@ -1,0 +1,9 @@
+StorePath: /nix/store/a3j815q87j167a1lkabj22b3cii2k8gk-expat-2.6.2.tar.xz.drv
+URL: nar/19impzy6xrdwavbbk9iki7r7kq645bacxdzpf2p8f2aaq4prr1wd.nar.xz
+Compression: xz
+FileHash: sha256:19impzy6xrdwavbbk9iki7r7kq645bacxdzpf2p8f2aaq4prr1wd
+FileSize: 520
+NarHash: sha256:00jzjl8cgbhdc9fwnblpzx3sz8rs23pnlcjjj95n29vm9n44indl
+NarSize: 896
+References: 
+CA: text:sha256:07km00g3mh7p8apwngjj8vrml9ndigkcyfiw20bgi6rqhpqfmpm9

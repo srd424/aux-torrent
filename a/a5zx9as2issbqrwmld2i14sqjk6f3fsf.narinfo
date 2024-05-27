@@ -1,0 +1,9 @@
+StorePath: /nix/store/a5zx9as2issbqrwmld2i14sqjk6f3fsf-source-github.com-doxygen-doxygen-Release_1_10_0.drv
+URL: nar/1hwd2my5g14z027kpj0m9ba3fg3zq88p4x8rlc69fllkm7p2yrah.nar.xz
+Compression: xz
+FileHash: sha256:1hwd2my5g14z027kpj0m9ba3fg3zq88p4x8rlc69fllkm7p2yrah
+FileSize: 1604
+NarHash: sha256:0z1rqnf9fvcpwaqdp9rr0qi761szpdqn3p356m1hby699bn0pk2g
+NarSize: 3688
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0ymhb81bsg0pz6b5wln965k4jnjq6dp964n13kbhr1m72rpmx9hi

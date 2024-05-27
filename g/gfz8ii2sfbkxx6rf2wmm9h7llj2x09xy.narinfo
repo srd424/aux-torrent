@@ -1,0 +1,9 @@
+StorePath: /nix/store/gfz8ii2sfbkxx6rf2wmm9h7llj2x09xy-tcb-1.2-dev
+URL: nar/02rdsxkqk0qk1l38yczkz2rcs8kri5whx113lynf5fhm41gfv8jm.nar.xz
+Compression: xz
+FileHash: sha256:02rdsxkqk0qk1l38yczkz2rcs8kri5whx113lynf5fhm41gfv8jm
+FileSize: 772
+NarHash: sha256:1ngn0b69mzjv8pymk2mzkrib08pc2xdy90sqa17rfkj3q8ba3bgr
+NarSize: 2400
+References: 7fshx01656n1sgga8v9bm1q459k4p2l9-tcb-1.2-bin gfz8ii2sfbkxx6rf2wmm9h7llj2x09xy-tcb-1.2-dev wc7bjgbi83c66wm3hwhwiamx2dxg9b2s-tcb-1.2
+Deriver: p2c2wa7fwwgmi2b0qpnxjs2n67wapa7i-tcb-1.2.drv

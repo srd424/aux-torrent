@@ -1,0 +1,9 @@
+StorePath: /nix/store/rdkdki1f24q8mqgnbsyk7gmh28c027ks-CVE-2014-8139.diff
+URL: nar/1bjhr0a6f0kcdax8245k8rgkirg4gb7dppiwd6w493f8prqfw7xg.nar.xz
+Compression: xz
+FileHash: sha256:1bjhr0a6f0kcdax8245k8rgkirg4gb7dppiwd6w493f8prqfw7xg
+FileSize: 992
+NarHash: sha256:17ywk3dlxr2c49268np677pfqvq6fw2wmpd3c3yvbavcd63v7wnk
+NarSize: 1984
+References: 
+CA: fixed:r:sha256:17ywk3dlxr2c49268np677pfqvq6fw2wmpd3c3yvbavcd63v7wnk

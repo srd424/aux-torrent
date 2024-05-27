@@ -1,0 +1,11 @@
+StorePath: /nix/store/qb8mf40kxbvvixz28chf0xdmwggndkhs-packaging-24.0.tar.gz
+URL: nar/0krjlsa4wjpidq1lapil9sh6jazznrv9k2bv3kiflr0d6ihyvr8d.nar.xz
+Compression: xz
+FileHash: sha256:0krjlsa4wjpidq1lapil9sh6jazznrv9k2bv3kiflr0d6ihyvr8d
+FileSize: 136720
+NarHash: sha256:1hbsnqbqrarnpaxvjfl31kri6xp9fsdkn11h830an03ligxlhvxh
+NarSize: 148000
+References: 
+Deriver: s9cpvc3a0sfcz0agxfgrygn7a0rip2ca-packaging-24.0.tar.gz.drv
+Sig: cache.nixos.org-1:BazjZMXDkeolobYKgqHSzyMUu/C8sAn0zB/HWSSDDooqg2vsWZ9qKBB5fuKtuPrnssiXwvXLuyZK54xPVkTMCg==
+CA: fixed:sha256:1sc9k56f7v77xcv018yh2p0a0f4c9fq5p276cr3hf2b2wpiwb0pb

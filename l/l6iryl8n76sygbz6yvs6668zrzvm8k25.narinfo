@@ -1,0 +1,10 @@
+StorePath: /nix/store/l6iryl8n76sygbz6yvs6668zrzvm8k25-source-github.com-publicsuffix-list-5db9b65997e3c9230ac4353b01994c2ae9667cb9
+URL: nar/0fhwxb7h3md4h20fvbr4hg58613wnrbp9jxjy5r2jymxvxfsda70.nar.xz
+Compression: xz
+FileHash: sha256:0fhwxb7h3md4h20fvbr4hg58613wnrbp9jxjy5r2jymxvxfsda70
+FileSize: 98008
+NarHash: sha256:0wd8lnzxqa683xb31xp6x2gm88ais74g21n3shd7808kc55mb0lh
+NarSize: 418280
+References: 
+Deriver: 94c0b4hrgnz0ims4v8ghhm6p6d85hm3j-source-github.com-publicsuffix-list-5db9b65997e3c9230ac4353b01994c2ae9667cb9.drv
+CA: fixed:r:sha256:0wd8lnzxqa683xb31xp6x2gm88ais74g21n3shd7808kc55mb0lh

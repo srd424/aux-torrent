@@ -1,0 +1,9 @@
+StorePath: /nix/store/57kclla9vza2n87xgwg1ap54d20cz6lb-fix-finding-headers-when-cross-compiling.patch
+URL: nar/1pisal6r0pvg9zfvq16ia05mjq2c30xjqqjmgk0b2bmdywdr60cn.nar.xz
+Compression: xz
+FileHash: sha256:1pisal6r0pvg9zfvq16ia05mjq2c30xjqqjmgk0b2bmdywdr60cn
+FileSize: 1164
+NarHash: sha256:181cpqcf9a6cfrpn5ics196bndng91h3zr2p08wf89ihk68bg1gh
+NarSize: 2480
+References: 
+CA: fixed:r:sha256:181cpqcf9a6cfrpn5ics196bndng91h3zr2p08wf89ihk68bg1gh

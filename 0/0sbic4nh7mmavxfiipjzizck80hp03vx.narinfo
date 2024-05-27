@@ -1,0 +1,9 @@
+StorePath: /nix/store/0sbic4nh7mmavxfiipjzizck80hp03vx-python3.11-cython-3.0.9-dist
+URL: nar/0fzi0dxxdfi51fnqjmr7yxppn6b3cqf0likh0fkm25s6h8schh0v.nar.xz
+Compression: xz
+FileHash: sha256:0fzi0dxxdfi51fnqjmr7yxppn6b3cqf0likh0fkm25s6h8schh0v
+FileSize: 14303256
+NarHash: sha256:04hn8ggpi0aabxgs85qchjjhfqmf6g5dhhah0wsq04aihawyb7yg
+NarSize: 14338696
+References: 
+Deriver: w90lykg8n4cyg1rg7rkg1d98ci6kxpmb-python3.11-cython-3.0.9.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/2bg19j4l7mnf38xifcizbgx2di3i4d8z-gtest-1.14.0.drv
+URL: nar/1fcv7jb407dap572dkwnl93k67948ng62j57l1miwjxjpnlkhb72.nar.xz
+Compression: xz
+FileHash: sha256:1fcv7jb407dap572dkwnl93k67948ng62j57l1miwjxjpnlkhb72
+FileSize: 956
+NarHash: sha256:1n23va13bk33s0qkdqi982j42pqy322d158lnwf2qf1fmr19iclr
+NarSize: 2160
+References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 5hsza5rm5iss63vrrlmjvl4wf8jmklyk-fix-cmake-config-includedir.patch 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv 9rs18kwwvbj4k2i88k3zjqb2r7s28dzg-ninja-1.11.1.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv qxgmwmj5larrlnh1ciici42gsaz33l60-source-github.com-google-googletest-v1.14.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0i6c4md345wjsk0nknbmjmvva4c8v0hd4rd0pnng585hv2393pgi

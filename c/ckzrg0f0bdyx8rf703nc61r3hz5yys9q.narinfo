@@ -1,0 +1,9 @@
+StorePath: /nix/store/ckzrg0f0bdyx8rf703nc61r3hz5yys9q-builder.sh
+URL: nar/0bcjmjhwwzwcx63pmgld2amxw0gr28sxhfq38wyakbqba0fn5hd2.nar.xz
+Compression: xz
+FileHash: sha256:0bcjmjhwwzwcx63pmgld2amxw0gr28sxhfq38wyakbqba0fn5hd2
+FileSize: 452
+NarHash: sha256:1vii67dnzvnhv7r16r6kqfa736d5h2n6ari9q2g2gj98bi9x72l9
+NarSize: 720
+References: 
+CA: fixed:r:sha256:1vii67dnzvnhv7r16r6kqfa736d5h2n6ari9q2g2gj98bi9x72l9

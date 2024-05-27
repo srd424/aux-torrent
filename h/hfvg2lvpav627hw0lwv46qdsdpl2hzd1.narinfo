@@ -1,0 +1,9 @@
+StorePath: /nix/store/hfvg2lvpav627hw0lwv46qdsdpl2hzd1-python3.11-pyproject-hooks-1.0.0
+URL: nar/1q5x9xxbhwrw26xsaxl27jky2w92jgr24q1w3fxhsy048ndfffi6.nar.xz
+Compression: xz
+FileHash: sha256:1q5x9xxbhwrw26xsaxl27jky2w92jgr24q1w3fxhsy048ndfffi6
+FileSize: 16780
+NarHash: sha256:02xji2d0gl4d06zc366k9xx5y6kf2jdm01hcvpqmy9din29yhpyv
+NarSize: 104224
+References: glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 hfvg2lvpav627hw0lwv46qdsdpl2hzd1-python3.11-pyproject-hooks-1.0.0
+Deriver: agqxy9wxdzlfpra6hbrs5hs3xfcs1v9h-python3.11-pyproject-hooks-1.0.0.drv

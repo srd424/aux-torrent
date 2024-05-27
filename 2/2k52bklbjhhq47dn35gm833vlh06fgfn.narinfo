@@ -1,0 +1,9 @@
+StorePath: /nix/store/2k52bklbjhhq47dn35gm833vlh06fgfn-0001-No-impure-bin-sh.patch
+URL: nar/0rwxzm3vihz0fy16wgfiqwiwyhg1aphxs6rz200397dhr1kaj3yd.nar.xz
+Compression: xz
+FileHash: sha256:0rwxzm3vihz0fy16wgfiqwiwyhg1aphxs6rz200397dhr1kaj3yd
+FileSize: 828
+NarHash: sha256:04074c7icd4shsnh8gmjp81fmcyrc4nxw1jlayvcbbwnwfkg9ymc
+NarSize: 1224
+References: 
+CA: fixed:r:sha256:04074c7icd4shsnh8gmjp81fmcyrc4nxw1jlayvcbbwnwfkg9ymc

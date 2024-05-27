@@ -1,0 +1,9 @@
+StorePath: /nix/store/lpfs02z2i2hamz9f50p4bz6v0fs0600j-mimetypes.patch
+URL: nar/12z41wgmw5nlww7zfw8kkrgsr097g9j2h3z9hj142r3ipbvvby9k.nar.xz
+Compression: xz
+FileHash: sha256:12z41wgmw5nlww7zfw8kkrgsr097g9j2h3z9hj142r3ipbvvby9k
+FileSize: 384
+NarHash: sha256:0sx9fjc33cqdz91z73aqyl2idkrxjnqjmm1vhlj1bhs8a5bwsbwa
+NarSize: 832
+References: 
+CA: fixed:r:sha256:0sx9fjc33cqdz91z73aqyl2idkrxjnqjmm1vhlj1bhs8a5bwsbwa

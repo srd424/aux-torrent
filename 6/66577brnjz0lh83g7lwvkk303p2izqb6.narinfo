@@ -1,0 +1,10 @@
+StorePath: /nix/store/66577brnjz0lh83g7lwvkk303p2izqb6-source-github.com-di-calver-2022.06.26
+URL: nar/06dxdrzh03rd4drzwq8n7ljdw7r81yzad3ah22lav4871zw90lns.nar.xz
+Compression: xz
+FileHash: sha256:06dxdrzh03rd4drzwq8n7ljdw7r81yzad3ah22lav4871zw90lns
+FileSize: 6860
+NarHash: sha256:14l9kv9igcmp5k6d2ahnx6z4dn6zy5kykz95hkh0rkqswn8x79b1
+NarSize: 23144
+References: 
+Deriver: yx1fp1rf2bs43k3ddik9330mj8d9gmd2-source-github.com-di-calver-2022.06.26.drv
+CA: fixed:r:sha256:14l9kv9igcmp5k6d2ahnx6z4dn6zy5kykz95hkh0rkqswn8x79b1

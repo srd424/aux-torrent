@@ -1,0 +1,9 @@
+StorePath: /nix/store/vi1d228rs5g4if79sdicq20rzqzpb8id-gnu-install-dirs.patch
+URL: nar/0g0dw43j69d9i42ajf1ri60jahc4ifkx36bfizpvmfvnfgm15bbr.nar.xz
+Compression: xz
+FileHash: sha256:0g0dw43j69d9i42ajf1ri60jahc4ifkx36bfizpvmfvnfgm15bbr
+FileSize: 2476
+NarHash: sha256:01ddcdrmzjdif27npd62l30x0gjj2anzvir1fd0cfa9w75ss39ak
+NarSize: 7216
+References: 
+CA: fixed:r:sha256:01ddcdrmzjdif27npd62l30x0gjj2anzvir1fd0cfa9w75ss39ak

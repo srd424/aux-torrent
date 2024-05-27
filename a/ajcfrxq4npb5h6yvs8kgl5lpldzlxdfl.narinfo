@@ -1,0 +1,9 @@
+StorePath: /nix/store/ajcfrxq4npb5h6yvs8kgl5lpldzlxdfl-re2c-3.1
+URL: nar/0xdnsl2x8hkix50myfgd4dgynm84byrc8ssxnp56lbl3q2py95g8.nar.xz
+Compression: xz
+FileHash: sha256:0xdnsl2x8hkix50myfgd4dgynm84byrc8ssxnp56lbl3q2py95g8
+FileSize: 364372
+NarHash: sha256:1czs9931v57rhg4xpgzyjx6j2af0iq111qh1jj6pzd9hjfs6dliz
+NarSize: 2486264
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 ajcfrxq4npb5h6yvs8kgl5lpldzlxdfl-re2c-3.1 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib
+Deriver: a3x5idbvaipcsilzgp2s322l9zyb7c4g-re2c-3.1.drv

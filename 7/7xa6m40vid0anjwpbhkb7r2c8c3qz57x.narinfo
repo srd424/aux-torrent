@@ -1,0 +1,9 @@
+StorePath: /nix/store/7xa6m40vid0anjwpbhkb7r2c8c3qz57x-python3.11-docutils-0.20.1-dist
+URL: nar/1r4xnpmnfmjjyvagbh8v6rhiym9czi568g69g6cg54bjdxknz5y0.nar.xz
+Compression: xz
+FileHash: sha256:1r4xnpmnfmjjyvagbh8v6rhiym9czi568g69g6cg54bjdxknz5y0
+FileSize: 552116
+NarHash: sha256:1i90ikxbdwb3ql17yiyyjgy4gd92sdwys3hdyiv20i37b099c4gz
+NarSize: 572968
+References: 
+Deriver: xfr2illndj1wv719r3h68srhs57byf5w-python3.11-docutils-0.20.1.drv

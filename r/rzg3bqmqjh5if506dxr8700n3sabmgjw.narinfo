@@ -1,0 +1,9 @@
+StorePath: /nix/store/rzg3bqmqjh5if506dxr8700n3sabmgjw-libcpuid-0.6.5.drv
+URL: nar/085650q6hrlvwz2yi53kmhsqdl9glkgzvc35cdrbfpbzb4iq0fz5.nar.xz
+Compression: xz
+FileHash: sha256:085650q6hrlvwz2yi53kmhsqdl9glkgzvc35cdrbfpbzb4iq0fz5
+FileSize: 792
+NarHash: sha256:0gsmwx3jv372za98vhfgzspl6m6f32zgg1yp27gs1xzkxj5a3ml1
+NarSize: 1712
+References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv an4iqml99b3f0mhs0sk4ii3zjy944rr5-autoreconf-hook.drv dbmzq4wbybvcxaky5pik8plwcagbpaj5-source-github.com-anrieff-libcpuid-v0.6.5.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1xq690kr3b11si0ma9awfik4zpjvzzw7akziiviqnmyh9mrr2grg

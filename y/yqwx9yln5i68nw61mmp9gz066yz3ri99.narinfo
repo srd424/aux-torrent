@@ -1,0 +1,9 @@
+StorePath: /nix/store/yqwx9yln5i68nw61mmp9gz066yz3ri99-0001-msginit-Do-not-use-POT-Creation-Date.patch
+URL: nar/0qn6jl7zhbvmrkw75xznrvdrv810ms58sl8lvb2qc34wgbs06v25.nar.xz
+Compression: xz
+FileHash: sha256:0qn6jl7zhbvmrkw75xznrvdrv810ms58sl8lvb2qc34wgbs06v25
+FileSize: 712
+NarHash: sha256:0rs2ahj3rfm5n38hc6ckpdfrksyfas2slr2dr8ka5phv2lywiv05
+NarSize: 1248
+References: 
+CA: fixed:r:sha256:0rs2ahj3rfm5n38hc6ckpdfrksyfas2slr2dr8ka5phv2lywiv05

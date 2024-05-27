@@ -1,0 +1,10 @@
+StorePath: /nix/store/qa6l7c32xk4xrap6yzigwh28jdz6fs67-source-github.com-awslabs-aws-crt-cpp-v0.26.4
+URL: nar/02sk5qx4py13pg01nq7mmnhm49ix0hlrqi8sk6rm3yxrb37430zr.nar.xz
+Compression: xz
+FileHash: sha256:02sk5qx4py13pg01nq7mmnhm49ix0hlrqi8sk6rm3yxrb37430zr
+FileSize: 217120
+NarHash: sha256:1l6n0lxsf47xriig76gwkfqy5fgi3a9lng6qkw8l15k1z3lsr68z
+NarSize: 16397176
+References: 
+Deriver: bn7gj1qv7c8rmvf1npagsp6ahh45mf3x-source-github.com-awslabs-aws-crt-cpp-v0.26.4.drv
+CA: fixed:r:sha256:1l6n0lxsf47xriig76gwkfqy5fgi3a9lng6qkw8l15k1z3lsr68z

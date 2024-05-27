@@ -1,0 +1,27 @@
+{
+  "announce": "http://bt.aux-cache.dev:9996/announce",
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716813464,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 479,
+        "path": [
+          "n22iqgfwr3jr08f9hl4140y3sqmrzf2z.narinfo"
+        ]
+      },
+      {
+        "length": 1510216,
+        "path": [
+          "nar",
+          "0h6m4k2fhgbg20r607ipilgqqb11pllp97wragjgj58qsjfgkxl4.nar.xz"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "a9VNtmuhWwV61MhkZQA98rlvis8sLliNgcVeJnHy3Rt7EQst+4pmLZFU6lzxnDiNE93sYLMzYifD\nat2UydTnJOjXCH3Z7Drzu8PozRvfTvSi57HIvl0T2IbQkfT75GRHel7Bm7qVSbQrnzXI5GtSxWu/\nmZGimVOkklktqOCRHW6aorpPDSzZ/NZgmYruOzOJlYPzzQtD3dJX3GojE1Pl3qk8o5Ftpu+jz0U2\nKv2h1RWFH6n6aU6tXNwWwERGFRtcq2JBCdmGXzVlmnROueOGYQGgabMo9yTDsu3vY39Ea1i9/eB1\niI7CcB9d8VaTYhcvmJTPu+ATu78z7gd9s84ZKJ/P99YhkQfbcmzSwBPrQbINaTEoB16XT7HGzKGh\nXqZcnymr0pcnLvpUQscROB0ZJri/WtBZwB5iFjr90p6d7yBIX7kXSEWz4lT/4m8mbxW+i3Btnbum\n6J7YieZfRQSOlwZ+cgMNpCmRIK3xv0fNCDNJIx1ig8GD4Zwz+Oa3AnKxC+2C+hKy12SxrYwihQiN\nfNNcWJxvX8pWMkC4QpUHoYzbbdoqtqfV59oyR+MuKZChVS56Lcom4Bfh1TCHYCPSgSClh9MjjB4m\nSsh29a4vFNRkbefb182xB8Laoov7VJFZY49e3lV8RQjR9xGEbODKaqIRRL28C0NaLBS+6Dtle+I0\nz173zdyxRiaWEy8zo0Ph2JOPdwrNpFfEI01Ig6ddptRcE/z8sfa5ypusUUUrKVlA/A4Js1QFphUk\nj5LLnez1jJ5aLppSUiiNxu1eKNUVD4Xoce6IfZ7TfsX/458TzKreRJtCYNA+pVwleQ6Qez9ds454\nyZjpmuWMg2eqZPUu898hEirXWI+L0JUQHsC/46a9OJG+Y4IE2eFYDUeyKMue73syF+3O4/tY8RyH\nfvio91J4x6t7UWldVn/MBcSs7uq6g8mkRKyT/l6hXRcPjWVYmCwpVMIvBYEd0cnQlwWr4oqFWDfK\ne3HdJXj7ZMl2F92eJfV6tTUfAgwZJQWAi9/O47ZQurvBC8tKVKEI7yYexUCeUcUKqaEyBvHS5oaS\nXajhxEQBThD3fXbGCCI9g7l0gC5Qg/U6jD9ZG7p6eei39AMBvOA1yf8q4+QftROGDfLcoHTGrLcp\nC9wYhdPCK2vzwePUHk1wZT/tVKqo5c31qsDSKyy+GLR2Q5MS9BdVLCPKHMWaMR2Qncef2xkGvWXR\ncbgZSRKfF0jFdJXyh6FLjE48zGpmydixH68Y3w==\n",
+    "private": 0
+  }
+}

@@ -1,0 +1,9 @@
+StorePath: /nix/store/xjkydxc0n24mwxp8kh4wn5jq0fppga9k-bootstrap-tools.tar.xz.drv
+URL: nar/0vjidh270gh3kwpqrgl87p4gj1knbb57xr1rkx890ns6j32cv00l.nar.xz
+Compression: xz
+FileHash: sha256:0vjidh270gh3kwpqrgl87p4gj1knbb57xr1rkx890ns6j32cv00l
+FileSize: 560
+NarHash: sha256:0r1ahsqkqmqjbghqc0yxr9h3ps99lj05ajspvj8akyy7yc3axq4x
+NarSize: 992
+References: 
+CA: text:sha256:0fas0xbcamwh1kbpm1hdann5bm27045krg5m0bm3z3zwj5h8498x

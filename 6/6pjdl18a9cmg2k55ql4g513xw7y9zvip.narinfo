@@ -1,0 +1,9 @@
+StorePath: /nix/store/6pjdl18a9cmg2k55ql4g513xw7y9zvip-remove-references-to.sh
+URL: nar/18sv2a1mbn0rrxjcx23hdxcirafn38fljnvf3w7rmd3jd7ij8wwj.nar.xz
+Compression: xz
+FileHash: sha256:18sv2a1mbn0rrxjcx23hdxcirafn38fljnvf3w7rmd3jd7ij8wwj
+FileSize: 584
+NarHash: sha256:02vnx7g3w0hvmd6yzax2xx1rx2kb1b59c1jh60gp86hpys9vrpfk
+NarSize: 1000
+References: 
+CA: fixed:r:sha256:02vnx7g3w0hvmd6yzax2xx1rx2kb1b59c1jh60gp86hpys9vrpfk

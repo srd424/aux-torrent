@@ -1,0 +1,9 @@
+StorePath: /nix/store/j0j9yl69hnf9q51w9qpr24lscsq7k81c-gcc-13.2.0.tar.xz.drv
+URL: nar/0dyzbfsac6bp0dcm02gdzc5przp5qh5kldr34j1ab74zll35sz6v.nar.xz
+Compression: xz
+FileHash: sha256:0dyzbfsac6bp0dcm02gdzc5przp5qh5kldr34j1ab74zll35sz6v
+FileSize: 512
+NarHash: sha256:0ds92baxdga5bl4j6pb8d71q648c4nz2pargxg7zxg715878q2lb
+NarSize: 872
+References: 
+CA: text:sha256:1w4j6wm8z087f257xlavr6w3wnkvz080969qa0wjy9gif454hnp7

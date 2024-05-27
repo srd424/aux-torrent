@@ -1,0 +1,9 @@
+StorePath: /nix/store/l9whz5la674y2sv0pcxdks5nyjfww00z-llvm-17.0.6-dev
+URL: nar/19bawb1ybwa7lfz6hrz7w1j7lgrf586z5y9vnhgg516f733lhyvz.nar.xz
+Compression: xz
+FileHash: sha256:19bawb1ybwa7lfz6hrz7w1j7lgrf586z5y9vnhgg516f733lhyvz
+FileSize: 3586120
+NarHash: sha256:0syw9wr0agy7vnvlkjyy9k4pzyybyk3p5y4vj91ca3lacs3lrwx9
+NarSize: 26537000
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 37m5427g0szkbklyawmyj5vizrj81lqr-ncurses-6.4-dev 64k4bfy6fs6jgfiphb7wpfp6ni4dls9r-llvm-17.0.6-lib f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib l9whz5la674y2sv0pcxdks5nyjfww00z-llvm-17.0.6-dev r05vdcd1b8gpv6rskzd3929ybi04m920-ncurses-6.4 rrhw8p4hdrbh3pq7p2hlc1z2ixxzcxcb-zlib-1.3.1 vi5lphqwg9cj7xkaggvw5n0wqsmwdlq5-zlib-1.3.1-dev ygc9482hbjfxrzcmgdbp108nyjx725g7-llvm-17.0.6
+Deriver: k6ilpsv37c0zrvnrxzvkk07rijysfdrf-llvm-17.0.6.drv

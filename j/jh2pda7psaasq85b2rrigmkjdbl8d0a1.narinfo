@@ -1,0 +1,9 @@
+StorePath: /nix/store/jh2pda7psaasq85b2rrigmkjdbl8d0a1-llvm-lit-cfg-add-libs-to-dylib-path.patch
+URL: nar/1gmb3a0kjsz97hxzki3h0kbw9vdzyjq260q3k1ssgzy195hqjzlf.nar.xz
+Compression: xz
+FileHash: sha256:1gmb3a0kjsz97hxzki3h0kbw9vdzyjq260q3k1ssgzy195hqjzlf
+FileSize: 1192
+NarHash: sha256:129d0r8sy2wgllqflp4icpxgi4jvx3cqsxz39wqbpbgcsx4485km
+NarSize: 3176
+References: 
+CA: fixed:r:sha256:129d0r8sy2wgllqflp4icpxgi4jvx3cqsxz39wqbpbgcsx4485km

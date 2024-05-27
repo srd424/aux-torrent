@@ -1,0 +1,9 @@
+StorePath: /nix/store/v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash
+URL: nar/0k78kc5xs5kvnz119hrqc8k0lzpv094jzrs7j6i386hl50bw1051.nar.xz
+Compression: xz
+FileHash: sha256:0k78kc5xs5kvnz119hrqc8k0lzpv094jzrs7j6i386hl50bw1051
+FileSize: 916
+NarHash: sha256:1wm870bpkip4d9xaa8rj2fiapnjz27xkgbycl47av7f64q98502s
+NarSize: 2328
+References: 
+CA: fixed:r:sha256:1wm870bpkip4d9xaa8rj2fiapnjz27xkgbycl47av7f64q98502s

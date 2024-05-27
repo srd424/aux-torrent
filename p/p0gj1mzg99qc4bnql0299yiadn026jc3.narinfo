@@ -1,0 +1,9 @@
+StorePath: /nix/store/p0gj1mzg99qc4bnql0299yiadn026jc3-config.guess-28ea239.drv
+URL: nar/1sjjcqdw24jm5jzgf3hgn88chz5s8rhk5d0a26jl2rnlzznfkllp.nar.xz
+Compression: xz
+FileHash: sha256:1sjjcqdw24jm5jzgf3hgn88chz5s8rhk5d0a26jl2rnlzznfkllp
+FileSize: 552
+NarHash: sha256:143fi1ckhvk0ap5fn0k6k7gk7ipvgjij6icdvhdmmc6fdd1zi83f
+NarSize: 960
+References: 
+CA: text:sha256:08ln2dp7pgxh69p89paqg8b8mfhkjmqrl948qxb1cszppzs0sgy1

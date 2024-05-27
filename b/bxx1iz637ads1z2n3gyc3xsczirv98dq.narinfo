@@ -1,0 +1,9 @@
+StorePath: /nix/store/bxx1iz637ads1z2n3gyc3xsczirv98dq-source-github.com-google-brotli-v1.1.0.drv
+URL: nar/1lbd8x0339xa3m00bv49wmsbdlnxlz0jnnyd58065c1bb5xnrna0.nar.xz
+Compression: xz
+FileHash: sha256:1lbd8x0339xa3m00bv49wmsbdlnxlz0jnnyd58065c1bb5xnrna0
+FileSize: 1592
+NarHash: sha256:0z348xgq5906d0jid84nnfs1z9xpwyvwxg5vvmfcq6jgivgf571l
+NarSize: 3608
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0r53kwjwq5wq762yn3dxbwi2j1yvc6k0hf83wmhsvjspl4jyg3qq

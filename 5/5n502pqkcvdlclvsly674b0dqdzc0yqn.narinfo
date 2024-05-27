@@ -1,0 +1,11 @@
+StorePath: /nix/store/5n502pqkcvdlclvsly674b0dqdzc0yqn-revert-unconditional-helper.patch
+URL: nar/04m1pg63cxb3x5972fybj8xm1jvrlcghm5wzz5kw938vlmqj1h61.nar.xz
+Compression: xz
+FileHash: sha256:04m1pg63cxb3x5972fybj8xm1jvrlcghm5wzz5kw938vlmqj1h61
+FileSize: 560
+NarHash: sha256:0s6v6x5sza2182vi8kasc6bhd49lywskykdm0dj0hb8c9zq6bk26
+NarSize: 1008
+References: 
+Deriver: j0h9l13ycpj00wkdffp5vbhasmb89sff-revert-unconditional-helper.patch.drv
+Sig: cache.nixos.org-1:TObLpLC8Z9kWXdDi3aTpF7REF35jOgdNGm3VPStVEvK4QEwvbMmeB+cpXZN9caS/HqUqiB6ETmgpXXadmLrvDw==
+CA: fixed:sha256:04dy3zzkzqknhi3w1w07ddl2lx1fcfjwb8nnk1khapba3hrrzlng

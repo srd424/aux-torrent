@@ -1,0 +1,10 @@
+StorePath: /nix/store/sm5zk240121s8q20r00r53q9apx0sz42-source-github.com-llvm-llvm-project-llvmorg-17.0.6
+URL: nar/0c1qprv4shca8wzz5zb1jbpm411k9a1c9ikh5b83wpmrjqim7ldf.nar.xz
+Compression: xz
+FileHash: sha256:0c1qprv4shca8wzz5zb1jbpm411k9a1c9ikh5b83wpmrjqim7ldf
+FileSize: 124983764
+NarHash: sha256:1a7rq3rgw5vxm8y39fyzr4kv7w97lli4a0c1qrkchwk8p0n07hgh
+NarSize: 1511447776
+References: 
+Deriver: 9cqsc7p4pgjhhlpdlpfvwb667cqn6v9h-source-github.com-llvm-llvm-project-llvmorg-17.0.6.drv
+CA: fixed:r:sha256:1a7rq3rgw5vxm8y39fyzr4kv7w97lli4a0c1qrkchwk8p0n07hgh

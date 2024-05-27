@@ -1,0 +1,10 @@
+StorePath: /nix/store/zp9a0r45zy28y7hxa3wy1w6akmdg5baw-source-github.com-hukkin-tomli-2.0.1
+URL: nar/1p5inqryjayhqv4mf75rpkdv83rvv45kp73m40ivdqw17arp050k.nar.xz
+Compression: xz
+FileHash: sha256:1p5inqryjayhqv4mf75rpkdv83rvv45kp73m40ivdqw17arp050k
+FileSize: 52716
+NarHash: sha256:1l3s70kd2jwmfmlaw32flsf6dn1fbqh2dy008y76fs08fan4qimz
+NarSize: 951928
+References: 
+Deriver: 2ybin7wyl6n0iwrmyhnnbbaqfdjgfh72-source-github.com-hukkin-tomli-2.0.1.drv
+CA: fixed:r:sha256:1l3s70kd2jwmfmlaw32flsf6dn1fbqh2dy008y76fs08fan4qimz

@@ -1,0 +1,10 @@
+StorePath: /nix/store/pkj69yhmvh79dg9q05rpqi504wcc8kf3-source-github.com-mesonbuild-meson-refs-tags-1.4.0
+URL: nar/0yva1hampgz0v8ny39136nr591hznvy63b1xhwg830lrbkrbr1n6.nar.xz
+Compression: xz
+FileHash: sha256:0yva1hampgz0v8ny39136nr591hznvy63b1xhwg830lrbkrbr1n6
+FileSize: 3979716
+NarHash: sha256:0mkh3m4ii6gd3xswxxdpd6q5rispdpifqkh8phfj5sc4xllfc545
+NarSize: 11502176
+References: 
+Deriver: jpb0h02s973624idpfi3la1k7x53ldgg-source-github.com-mesonbuild-meson-refs-tags-1.4.0.drv
+CA: fixed:r:sha256:0mkh3m4ii6gd3xswxxdpd6q5rispdpifqkh8phfj5sc4xllfc545

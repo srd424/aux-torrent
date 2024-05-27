@@ -1,0 +1,9 @@
+StorePath: /nix/store/arhwafyygxcl2jc2xc6n6ws34rs67v5p-fuse3-install.patch
+URL: nar/147vhdv12sss4m9ykwb0g0jy4n4xlwbskr4f7z2y4dkjb73jwnfj.nar.xz
+Compression: xz
+FileHash: sha256:147vhdv12sss4m9ykwb0g0jy4n4xlwbskr4f7z2y4dkjb73jwnfj
+FileSize: 644
+NarHash: sha256:0nbkbqs3jpn9xvffv9v57v0l1v1vpnc41pj0qrpgyh8b3n162czc
+NarSize: 1248
+References: 
+CA: fixed:r:sha256:0nbkbqs3jpn9xvffv9v57v0l1v1vpnc41pj0qrpgyh8b3n162czc

@@ -1,0 +1,9 @@
+StorePath: /nix/store/c1zvq1gxvlnkym9vybq3rf6qp9dcw8xs-lsof-4.99.3
+URL: nar/1qblysjfwd4i3kv67g68i13myw8syv5p0hcy13lc9784y1c6ag22.nar.xz
+Compression: xz
+FileHash: sha256:1qblysjfwd4i3kv67g68i13myw8syv5p0hcy13lc9784y1c6ag22
+FileSize: 126204
+NarHash: sha256:0rmc4jsd3p0c3fwrgqvzzf9448c6z7zyiypyivymjc0dc62cy4ak
+NarSize: 259224
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5
+Deriver: i3c30pbv29i38qzh5nv9is1nqsz83h2h-lsof-4.99.3.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/b1w7zbvm39ff1i52iyjggyvw2rdxz104-dont-use-system-ld-so-cache.patch
+URL: nar/1y07s293mdbpqnq223i8pihf3xzr80iq7scr8in0s3bp4nsz8m84.nar.xz
+Compression: xz
+FileHash: sha256:1y07s293mdbpqnq223i8pihf3xzr80iq7scr8in0s3bp4nsz8m84
+FileSize: 912
+NarHash: sha256:01mmjbk427v6j3qf2fnryxrwmff9xaacr8sa9wr0sjhd6zkchd9f
+NarSize: 2224
+References: 
+CA: fixed:r:sha256:01mmjbk427v6j3qf2fnryxrwmff9xaacr8sa9wr0sjhd6zkchd9f

@@ -1,0 +1,9 @@
+StorePath: /nix/store/r1rk0kz1di84kmj2ixnzwhwv26n8p4i6-source-github.com-awslabs-aws-c-auth-v0.7.16.drv
+URL: nar/0ckw1naca271z90sk63agjv1jv4p30czsgmpg7ficzppq9dx9ppv.nar.xz
+Compression: xz
+FileHash: sha256:0ckw1naca271z90sk63agjv1jv4p30czsgmpg7ficzppq9dx9ppv
+FileSize: 1600
+NarHash: sha256:0iyh9sfljihqi7bfpl1zmm625aidy0vna219n7ghl7ffzqys5bid
+NarSize: 3632
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0c01pa5bwiqm4s9l1c6l45baswgsk37h08yr7f2crf2d5qkwl9pc

@@ -1,0 +1,9 @@
+StorePath: /nix/store/zlkh7j9r4caq9xrcm66jsxv8afz71ylr-ed-1.20.1.tar.lz.drv
+URL: nar/1gydhh6wv65lwzv60294awfs4y4vgghwhrq7f9b6mbvz132l0f7i.nar.xz
+Compression: xz
+FileHash: sha256:1gydhh6wv65lwzv60294awfs4y4vgghwhrq7f9b6mbvz132l0f7i
+FileSize: 500
+NarHash: sha256:114qgcs7fxk0mysdgbcvda8zw7f59lpsvgkq0dq3c953xfd5dh55
+NarSize: 824
+References: 
+CA: text:sha256:1phpg61dp71jgvfvcp0152lna15i8hgmmyp4ha1k82jca8n0srja

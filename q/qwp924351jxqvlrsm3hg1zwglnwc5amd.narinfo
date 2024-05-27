@@ -1,0 +1,10 @@
+StorePath: /nix/store/qwp924351jxqvlrsm3hg1zwglnwc5amd-config.sub-28ea239
+URL: nar/004js9vi1ksvxkr5jh35nz4i7rg4h175a7kdrjagsvrn968la39s.nar.xz
+Compression: xz
+FileHash: sha256:004js9vi1ksvxkr5jh35nz4i7rg4h175a7kdrjagsvrn968la39s
+FileSize: 10708
+NarHash: sha256:00jyic82inlls9p80fsid915rhcy5hggxaskjq7810qh10sziagg
+NarSize: 36600
+References: 
+Deriver: h11pn2l5rszzgjrl84qw2ifr33rdkjcq-config.sub-28ea239.drv
+CA: fixed:sha256:12w74cix2fc6db9shk3kji5qvlyl8mj724l8h0pbfdkxgkk5yp26

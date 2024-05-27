@@ -1,0 +1,9 @@
+StorePath: /nix/store/cv1ynpzvjjr0s72jkbblbzz3ymr87lpi-0001-On-all-posix-systems-not-just-Darwin-set-LDSHARED-if.patch
+URL: nar/1b0w37p01maqhighw94k8fj5xg1spg19d6xy4bzw42j11zl4jp7m.nar.xz
+Compression: xz
+FileHash: sha256:1b0w37p01maqhighw94k8fj5xg1spg19d6xy4bzw42j11zl4jp7m
+FileSize: 796
+NarHash: sha256:1swxf2yzbfz7vh4nyg8qc4vc6xdka46gfxrin637x4gjs6xn46pg
+NarSize: 1400
+References: 
+CA: fixed:r:sha256:1swxf2yzbfz7vh4nyg8qc4vc6xdka46gfxrin637x4gjs6xn46pg

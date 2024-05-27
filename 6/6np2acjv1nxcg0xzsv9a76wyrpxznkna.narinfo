@@ -1,0 +1,9 @@
+StorePath: /nix/store/6np2acjv1nxcg0xzsv9a76wyrpxznkna-CVE-2014-8141.diff
+URL: nar/02xz6gi2la6jh6w196wfvdll11r66ar9vjfw34mcb0j8kqg5dzm0.nar.xz
+Compression: xz
+FileHash: sha256:02xz6gi2la6jh6w196wfvdll11r66ar9vjfw34mcb0j8kqg5dzm0
+FileSize: 1844
+NarHash: sha256:1in9lxqvrmawzff7b54xs9i9sgpsgbnvwv8j7rp4rwbcsdlwb5vj
+NarSize: 5312
+References: 
+CA: fixed:r:sha256:1in9lxqvrmawzff7b54xs9i9sgpsgbnvwv8j7rp4rwbcsdlwb5vj

@@ -1,0 +1,10 @@
+StorePath: /nix/store/1fn9j0afm161q4vk6019d7jrzs0qajmw-xz-5.4.6-doc
+URL: nar/1rpf261kci04vy1lizsfm7m4dc8pqypc2967krybirhsgpvl7amc.nar.xz
+Compression: xz
+FileHash: sha256:1rpf261kci04vy1lizsfm7m4dc8pqypc2967krybirhsgpvl7amc
+FileSize: 140464
+NarHash: sha256:1wl94fha465cdyrgz03a46xf04d1xxb2q8hrznmplqih7vipmf4w
+NarSize: 1109072
+References: 
+Deriver: 034zh8v1m3yhin6mpv5xgxcp23ii4452-xz-5.4.6.drv
+Sig: cache.nixos.org-1:a0QvA+VcoNKHPkU7y4NEaQS4TowkcyvXuHdPLVbVi9PPAYueoxeM5Nk5zl2WI2yKmJd12MFHMdTqoE3H1DWGDA==

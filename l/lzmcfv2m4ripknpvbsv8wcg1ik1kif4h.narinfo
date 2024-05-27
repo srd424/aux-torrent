@@ -1,0 +1,9 @@
+StorePath: /nix/store/lzmcfv2m4ripknpvbsv8wcg1ik1kif4h-use-etc-ssl-certs.patch
+URL: nar/0vhpva4dchanxgrg96clydpig2az4mbyfwr19k2k8kws1ycy23fb.nar.xz
+Compression: xz
+FileHash: sha256:0vhpva4dchanxgrg96clydpig2az4mbyfwr19k2k8kws1ycy23fb
+FileSize: 396
+NarHash: sha256:1bzsx7izac94cvq8kx0v7k8k4rxmdgn86fjp0sv8y2ra5s4rr7qq
+NarSize: 712
+References: 
+CA: fixed:r:sha256:1bzsx7izac94cvq8kx0v7k8k4rxmdgn86fjp0sv8y2ra5s4rr7qq

@@ -1,0 +1,9 @@
+StorePath: /nix/store/73nz3l4qpa8mjmdw39nynfhkbmdf1s5a-respect-xml-catalog-files-var.patch
+URL: nar/0r31ij94cjcl2rlj9nnljgnj5vn3f3m3n9i932l1qx3xidcbl6hb.nar.xz
+Compression: xz
+FileHash: sha256:0r31ij94cjcl2rlj9nnljgnj5vn3f3m3n9i932l1qx3xidcbl6hb
+FileSize: 428
+NarHash: sha256:1aap78rxp7lj17j76j5xbp4h2f7z352qj1s1zi18nahnknn043wv
+NarSize: 632
+References: 
+CA: fixed:r:sha256:1aap78rxp7lj17j76j5xbp4h2f7z352qj1s1zi18nahnknn043wv

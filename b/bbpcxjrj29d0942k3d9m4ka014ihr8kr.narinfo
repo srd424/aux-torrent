@@ -1,0 +1,9 @@
+StorePath: /nix/store/bbpcxjrj29d0942k3d9m4ka014ihr8kr-pyproject_hooks-1.0.0.tar.gz.drv
+URL: nar/0rc74hwjwy03v13paw439si7pwr3lwlw5l3knqnkivxncny68sp2.nar.xz
+Compression: xz
+FileHash: sha256:0rc74hwjwy03v13paw439si7pwr3lwlw5l3knqnkivxncny68sp2
+FileSize: 1304
+NarHash: sha256:0vy6fl3pxlixnxq77pl27k8qwr7wnab5fc96wzd1nldnc55y7hpj
+NarSize: 3016
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0svs97gys12d3yd98aadnnxmn79qbf5qhgbd96fxcpg7nifc7p0j

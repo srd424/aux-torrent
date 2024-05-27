@@ -1,0 +1,10 @@
+StorePath: /nix/store/3m1ss3rj9zr6y549dvm7qlicy7spnfvf-source-github.com-aws-s2n-tls-v1.4.9
+URL: nar/12d81mx5jf0clbyfmnqmigyf1wwfd0i1067inbj61lwaf4zrg1da.nar.xz
+Compression: xz
+FileHash: sha256:12d81mx5jf0clbyfmnqmigyf1wwfd0i1067inbj61lwaf4zrg1da
+FileSize: 3358796
+NarHash: sha256:0wr3qbv5js5a9196wgnqrmv3ys803nv8n2f3c20kfgmg83xgjzb0
+NarSize: 22129864
+References: 
+Deriver: sv5vb189a3dzsv78263vwy4nxfsx8qm5-source-github.com-aws-s2n-tls-v1.4.9.drv
+CA: fixed:r:sha256:0wr3qbv5js5a9196wgnqrmv3ys803nv8n2f3c20kfgmg83xgjzb0

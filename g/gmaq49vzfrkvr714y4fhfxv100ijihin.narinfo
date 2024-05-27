@@ -1,0 +1,10 @@
+StorePath: /nix/store/gmaq49vzfrkvr714y4fhfxv100ijihin-automake-1.16.5.tar.xz
+URL: nar/1z2fgw7wgagsx9ci7g3x1912filr71jcq9jk87ww7mldkm5aybk2.nar.xz
+Compression: xz
+FileHash: sha256:1z2fgw7wgagsx9ci7g3x1912filr71jcq9jk87ww7mldkm5aybk2
+FileSize: 1601996
+NarHash: sha256:1xhjxv5v3f1nl33127gmmraaqh1clzzbsicbvkxxg38d7b6pcrpc
+NarSize: 1601856
+References: 
+Deriver: 3yar2pnvz7ll79z3jlzx09qnhrsi7zj5-automake-1.16.5.tar.xz.drv
+CA: fixed:sha256:0sdl32qxdy7m06iggmkkvf7j520rmmgbsjzbm7fgnxwxdp6mh7gh

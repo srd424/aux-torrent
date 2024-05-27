@@ -1,0 +1,9 @@
+StorePath: /nix/store/llm6gnvggfzaylnn1fdw0az0ykci5k2c-XML-Parser-2.46.tar.gz.drv
+URL: nar/1zgld07dpd7ngmxsxvg0vfkihzyi6cl66f0f8yq18wvqr2r9is0l.nar.xz
+Compression: xz
+FileHash: sha256:1zgld07dpd7ngmxsxvg0vfkihzyi6cl66f0f8yq18wvqr2r9is0l
+FileSize: 1316
+NarHash: sha256:0k6r8ahvkjsgkm55d1ypar36441qk82lkl3p9gpvvfb9nh0s9q7z
+NarSize: 3000
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:1cxfdxsswb78l2kr0wnzzybpn8g5ddmg9j2a409wbnrs9rym64ib

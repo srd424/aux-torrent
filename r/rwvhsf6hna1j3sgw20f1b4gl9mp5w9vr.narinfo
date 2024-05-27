@@ -1,0 +1,9 @@
+StorePath: /nix/store/rwvhsf6hna1j3sgw20f1b4gl9mp5w9vr-libtool-2.4.7.tar.gz.drv
+URL: nar/12pazvlvcw0n1qclmqg7wq1243rb1a2whmzwf1ma3xg1i8ivhh3r.nar.xz
+Compression: xz
+FileHash: sha256:12pazvlvcw0n1qclmqg7wq1243rb1a2whmzwf1ma3xg1i8ivhh3r
+FileSize: 504
+NarHash: sha256:18q7f9yh21jfbzm5gcjlqnjjxdl5hikzcwg181kbn7vr5qa26w8i
+NarSize: 856
+References: 
+CA: text:sha256:0a7f0jk5m4vy2k7xngnb7mgxkp9xn5iqwy8d5mp282l1la05i153

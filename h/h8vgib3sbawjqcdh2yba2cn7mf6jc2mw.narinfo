@@ -1,0 +1,11 @@
+StorePath: /nix/store/h8vgib3sbawjqcdh2yba2cn7mf6jc2mw-IO-Socket-SSL-2.083.tar.gz
+URL: nar/135l55jzqq4yaq2ska1sl99xfqhyr4mvrp1glikzxslxv3dc5xh4.nar.xz
+Compression: xz
+FileHash: sha256:135l55jzqq4yaq2ska1sl99xfqhyr4mvrp1glikzxslxv3dc5xh4
+FileSize: 260128
+NarHash: sha256:1a79xp4zh0wc07jrc422in93nl5j25bkv93jll5k28v9w1yqv6xg
+NarSize: 260056
+References: 
+Deriver: 8r7acxdjzv338z6npayhds98nahdl6mk-IO-Socket-SSL-2.083.tar.gz.drv
+Sig: cache.nixos.org-1:J29JxYzcmEp/Say6zg65fzXtIM4pT6uYBpNiB7cXHK6knD2vgvq95Brl3uiSfbbWS+qsM97NZrlWSljZpK3dBw==
+CA: fixed:sha256:0s90h2y07v8bq61b1lakl2q3qzrxiizmkpx0m7c9f2j4cn3z4klh

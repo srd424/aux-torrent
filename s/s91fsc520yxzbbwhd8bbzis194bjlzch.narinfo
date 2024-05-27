@@ -1,0 +1,10 @@
+StorePath: /nix/store/s91fsc520yxzbbwhd8bbzis194bjlzch-source-github.com-pytest-dev-pluggy-refs-tags-1.4.0
+URL: nar/0s8x57v72qsm7r2shld6j86js240wk92x872k0sp14f3pf2v95pb.nar.xz
+Compression: xz
+FileHash: sha256:0s8x57v72qsm7r2shld6j86js240wk92x872k0sp14f3pf2v95pb
+FileSize: 52140
+NarHash: sha256:0g3gqb8cf1almwfgy2cyagi57fs67b4nbrwvc4j899g6w30cjwfm
+NarSize: 228688
+References: 
+Deriver: kvcqk3icgj2xnks2n9k1d741hyhjkxjh-source-github.com-pytest-dev-pluggy-refs-tags-1.4.0.drv
+CA: fixed:r:sha256:0g3gqb8cf1almwfgy2cyagi57fs67b4nbrwvc4j899g6w30cjwfm

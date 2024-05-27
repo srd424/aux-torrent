@@ -1,0 +1,10 @@
+StorePath: /nix/store/9p0zaynkwf46bqcy6jcgqrz7xvd3y0rk-libpfm-4.13.0
+URL: nar/0rqr7fzh5xmz07y0vbv48idjspapdl6vird8fpvclxpa7xdx2sdq.nar.xz
+Compression: xz
+FileHash: sha256:0rqr7fzh5xmz07y0vbv48idjspapdl6vird8fpvclxpa7xdx2sdq
+FileSize: 608516
+NarHash: sha256:0c7hjg5sp9530rmmnga8lsi9vgvgzrzw342i6510zj9l6xpvlmh8
+NarSize: 6650024
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5
+Deriver: vhbd94yx16a0csf6ydfwp002lv2bsvwd-libpfm-4.13.0.drv
+Sig: cache.nixos.org-1:DITaa1pflpYE5tXdRdF6KNMum2TLRbGhapmRjtUAj90ugP4avrepdIooLZRZ6bBenzx5qYMCfQpPc6XKP4DhCQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/qy2djzi4v1hxgqdmrhj2pa5a86l3bhd3-2.39-master.patch
+URL: nar/1lhmzd6ih29hwzdnl36n7bnzvc766332qaxmqxji6h79pfz5xn7r.nar.xz
+Compression: xz
+FileHash: sha256:1lhmzd6ih29hwzdnl36n7bnzvc766332qaxmqxji6h79pfz5xn7r
+FileSize: 7220
+NarHash: sha256:016gylap95580ljq0cic1ib439vcvi2qbr55dq6371a67sknv5rp
+NarSize: 20064
+References: 
+CA: fixed:r:sha256:016gylap95580ljq0cic1ib439vcvi2qbr55dq6371a67sknv5rp

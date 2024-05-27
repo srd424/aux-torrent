@@ -1,0 +1,9 @@
+StorePath: /nix/store/zwn7yfvdw5rizp1ck3l4dr27gggsdagw-python3.11-pyelftools-0.30-dist
+URL: nar/19d1qifv40a123wq2wxw8w6wrlk1k9ki0w80b5zhqym6b3dvcg5s.nar.xz
+Compression: xz
+FileHash: sha256:19d1qifv40a123wq2wxw8w6wrlk1k9ki0w80b5zhqym6b3dvcg5s
+FileSize: 174156
+NarHash: sha256:1vznjh3dsc9pcx3vjgv2fa9rdnxag0ylb8377b6jyw7lbabwrgjw
+NarSize: 177888
+References: 
+Deriver: 1c854nqmcyl2i20ij5ax4vg6ji7x66n7-python3.11-pyelftools-0.30.drv

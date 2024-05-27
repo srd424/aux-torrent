@@ -1,0 +1,10 @@
+StorePath: /nix/store/vsnrfpf2aq9lk3q14xylps728z4wgg6d-source-github.com-pypa-installer-0.7.0
+URL: nar/088mxhkjimkpfi8k8r16084i6763l88v9qggpm3alr9fdd72ih43.nar.xz
+Compression: xz
+FileHash: sha256:088mxhkjimkpfi8k8r16084i6763l88v9qggpm3alr9fdd72ih43
+FileSize: 219760
+NarHash: sha256:1w2zirinq9qxm5ywjmqayqax217cxz6hvzcsrdd5l0mm9y2y04dn
+NarSize: 1067792
+References: 
+Deriver: yx6pzknaj6v12yba4a0hn6d2sv10pcrq-source-github.com-pypa-installer-0.7.0.drv
+CA: fixed:r:sha256:1w2zirinq9qxm5ywjmqayqax217cxz6hvzcsrdd5l0mm9y2y04dn

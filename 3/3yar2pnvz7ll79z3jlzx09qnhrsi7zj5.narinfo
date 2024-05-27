@@ -1,0 +1,9 @@
+StorePath: /nix/store/3yar2pnvz7ll79z3jlzx09qnhrsi7zj5-automake-1.16.5.tar.xz.drv
+URL: nar/0j4y8f5vnbs662gkl3iysv6nyvr57nm2y7c4iyqaqic0z5laq0kp.nar.xz
+Compression: xz
+FileHash: sha256:0j4y8f5vnbs662gkl3iysv6nyvr57nm2y7c4iyqaqic0z5laq0kp
+FileSize: 508
+NarHash: sha256:0gkjwz079hghbp6hwmqwvcy4g9670lp83m8m0ba561wmxgs4bri9
+NarSize: 872
+References: 
+CA: text:sha256:03r63a898dql0hpyka920ll4mwzk30c2106sszs9w0ns75gmingx

@@ -1,0 +1,9 @@
+StorePath: /nix/store/0slmnpqn8ahqhnskf5mhqmnj5v6n9kq3-bootstrap-stage0-binutils-wrapper-.drv
+URL: nar/0w6w0zln3bvzxk441h9v8x15b5mqp33jqskj3lhdxw1cj7jppmq1.nar.xz
+Compression: xz
+FileHash: sha256:0w6w0zln3bvzxk441h9v8x15b5mqp33jqskj3lhdxw1cj7jppmq1
+FileSize: 2128
+NarHash: sha256:1za7saa5ng821bsfbqis1fbhq0yvglxvfbfjsnhr2bvgq07qqv4c
+NarSize: 6824
+References: 0zmg36dmrb9v7bc7b7igmi434nhi1qp9-setup-hook.sh 9rq2ab2wl3ia1ism6zjvdxcnpv9s9rgn-add-hardening.sh gfmqk56r8rv61yqyz9i7rbkrnab27gky-bootstrap-stage0-glibc-bootstrapFiles.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv hnfw75cqyly6s0ladkpdqppqllbqsapy-bootstrap-stage0-stdenv-linux.drv kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash m9qvr6m0bylrjqb5ind6hfzsax14xys9-gnu-binutils-strip-wrapper.sh mrzpfh0ml9k07sw019ydagbb2z1q4sxz-add-flags.sh p2ynpdqzm8lfdq6xywa8igkjp56b8q65-ld-wrapper.sh v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash
+CA: text:sha256:0iad7wdm57amw7iz9fl1m6cg0nswf8d54drlp5kksikmc8s1pqwi

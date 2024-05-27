@@ -1,0 +1,9 @@
+StorePath: /nix/store/4xw288hs40ihi3l6xx4vgskyqa0pvasx-perl5.38.2-IO-Socket-SSL-2.083-devdoc
+URL: nar/0yqfxsfh7pxqflzsx82507wji0vyj8masrv7kz07z56jdy96drpk.nar.xz
+Compression: xz
+FileHash: sha256:0yqfxsfh7pxqflzsx82507wji0vyj8masrv7kz07z56jdy96drpk
+FileSize: 41340
+NarHash: sha256:1a4q87spiidb034hjkpq55nmc1s1j1bmvpk13x2gdrczf4g344sr
+NarSize: 42008
+References: 
+Deriver: g9awfxs2ba08vlimal96wq7xxcws9vmb-perl5.38.2-IO-Socket-SSL-2.083.drv

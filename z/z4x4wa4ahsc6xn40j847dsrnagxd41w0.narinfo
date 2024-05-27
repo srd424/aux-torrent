@@ -1,0 +1,9 @@
+StorePath: /nix/store/z4x4wa4ahsc6xn40j847dsrnagxd41w0-gmp-6.3.0.tar.bz2.drv
+URL: nar/06vhj60khal4rdrvixh6kvhb7h25071xqr89584bj1xn8hhklp2p.nar.xz
+Compression: xz
+FileHash: sha256:06vhj60khal4rdrvixh6kvhb7h25071xqr89584bj1xn8hhklp2p
+FileSize: 504
+NarHash: sha256:0gppdvpdix7598116cbim4qjdsv2b5544jxf0d6idb7blw995ikv
+NarSize: 832
+References: 
+CA: text:sha256:15m0zbjd9rbkq2ff351nf1swlkh03m4g9gil7ys3r4xhwgsgphmn

@@ -1,0 +1,9 @@
+StorePath: /nix/store/nmj70ijv8vyc1h2dj76970wm6czi9gl4-install-shell-files.drv
+URL: nar/1lwkwl7qqzg4hmg90q8ngcwafgx7d0b6qc9hgx7l8dwlivjkl9m6.nar.xz
+Compression: xz
+FileHash: sha256:1lwkwl7qqzg4hmg90q8ngcwafgx7d0b6qc9hgx7l8dwlivjkl9m6
+FileSize: 752
+NarHash: sha256:0mpqk4is3517rcr3ljsbxg5jjl073db2x4akr6kgyxl3h4d2k8j5
+NarSize: 1720
+References: 3inq067xw7bic7dy828bgjjzx54kav9v-install-shell-files.sh 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0dmz1zsfni1ggyh9yjzfg37swzn7lb2nfv2xvzipnfdchx6axdxy

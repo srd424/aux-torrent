@@ -1,0 +1,9 @@
+StorePath: /nix/store/dil04c0w3283n4znmp7whpm4dcd4iyz1-RAND_egd.libressl.patch
+URL: nar/0hcb1v9xiv8a6634xm984d9qigfmppali9lqh72h0s57vxz3pc4c.nar.xz
+Compression: xz
+FileHash: sha256:0hcb1v9xiv8a6634xm984d9qigfmppali9lqh72h0s57vxz3pc4c
+FileSize: 352
+NarHash: sha256:1fi2b75cyxml0xk4d3bp13v4qc74g60fpfai78lxqsmyxgll2pdj
+NarSize: 456
+References: 
+CA: fixed:r:sha256:1fi2b75cyxml0xk4d3bp13v4qc74g60fpfai78lxqsmyxgll2pdj

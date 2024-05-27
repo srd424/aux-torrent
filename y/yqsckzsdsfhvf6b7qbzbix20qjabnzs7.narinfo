@@ -1,0 +1,9 @@
+StorePath: /nix/store/yqsckzsdsfhvf6b7qbzbix20qjabnzs7-ExtUtils-InstallPaths-0.012.tar.gz.drv
+URL: nar/1igf8fgdhfvjjkay2s4xrx7acnvbxg5x792rx9vmfqgbrwfpx1c7.nar.xz
+Compression: xz
+FileHash: sha256:1igf8fgdhfvjjkay2s4xrx7acnvbxg5x792rx9vmfqgbrwfpx1c7
+FileSize: 1324
+NarHash: sha256:0zazr18q7vbwlan70l4jkxwai4ycxf60mlz6f31hc1795dasvr5n
+NarSize: 3048
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0d38rhpj5nv34ri5sd3nnvjd6a65q84vjycvflj9aq8j5i9f3xjh

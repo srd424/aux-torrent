@@ -1,0 +1,11 @@
+StorePath: /nix/store/135vqbl7rdzsnhblrf4kxa2bn5gnjyq4-psutil-5.9.8.tar.gz
+URL: nar/1y01fpg54vyfj308j1sh478apahw7w9swl671zvp74wp0r7jdcbr.nar.xz
+Compression: xz
+FileHash: sha256:1y01fpg54vyfj308j1sh478apahw7w9swl671zvp74wp0r7jdcbr
+FileSize: 490188
+NarHash: sha256:0q8arhwhkf4fsy0mjmb3xkvixqs7wr6pcaqb3pcpwvzidrw5nv1n
+NarSize: 503360
+References: 
+Deriver: nj9ka0vh2xkqplwksq8gypq06gzxfbwr-psutil-5.9.8.tar.gz.drv
+Sig: cache.nixos.org-1:JddfuLN4K6aBUnBumm68vI9VwWSBbpPAWbMVVwhxByrx9eyLcWnlilMgjNvRzwkbnYXzl1pLoFOR6ZWvKHBsAQ==
+CA: fixed:sha256:0k0rci797b7mlmg4ffy5qzs56lka4h39myx8hvrdz1jl4bijdqbb

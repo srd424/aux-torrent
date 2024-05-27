@@ -1,0 +1,9 @@
+StorePath: /nix/store/qdgpdwqfhbkfdnwj8d8yj9v12psss956-python3.11-flit-core-3.9.0-dist
+URL: nar/0f9257ayd43kqgwj6gdr4ij2fjv18r2g3yk74b840py86zfx0z73.nar.xz
+Compression: xz
+FileHash: sha256:0f9257ayd43kqgwj6gdr4ij2fjv18r2g3yk74b840py86zfx0z73
+FileSize: 51308
+NarHash: sha256:1537r0kidmyazhyp8chzc7inp108sx8vcpr7kfchvlikkjadz65v
+NarSize: 63448
+References: 
+Deriver: 68hilabb0jh2zm98hl956q63c487qh3h-python3.11-flit-core-3.9.0.drv

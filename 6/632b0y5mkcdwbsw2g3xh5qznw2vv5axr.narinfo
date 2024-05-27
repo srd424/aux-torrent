@@ -1,0 +1,9 @@
+StorePath: /nix/store/632b0y5mkcdwbsw2g3xh5qznw2vv5axr-ppc-musl.patch
+URL: nar/1rcd5pg82c4nl7hkgfivxpn7klac17klgjazhx9xl2207axn179j.nar.xz
+Compression: xz
+FileHash: sha256:1rcd5pg82c4nl7hkgfivxpn7klac17klgjazhx9xl2207axn179j
+FileSize: 400
+NarHash: sha256:1wd6mc142mf7c938xn3bw8f1fb75cxd875nxnz2f421ckqbmvjkw
+NarSize: 696
+References: 
+CA: fixed:r:sha256:1wd6mc142mf7c938xn3bw8f1fb75cxd875nxnz2f421ckqbmvjkw

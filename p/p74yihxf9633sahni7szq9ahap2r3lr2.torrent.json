@@ -1,0 +1,27 @@
+{
+  "announce": "http://bt.aux-cache.dev:9996/announce",
+  "created by": "Transmission/3.00 (bb6b5a062e)",
+  "creation date": 1716813486,
+  "encoding": "UTF-8",
+  "info": {
+    "files": [
+      {
+        "length": 2242872,
+        "path": [
+          "nar",
+          "1p1nf7xsiw61hymc0crqjqgq9ggkml9kz3nswf7g1f8jhxqm2p6a.nar.xz"
+        ]
+      },
+      {
+        "length": 513,
+        "path": [
+          "p74yihxf9633sahni7szq9ahap2r3lr2.narinfo"
+        ]
+      }
+    ],
+    "name": "nix",
+    "piece length": 32768,
+    "pieces": "tdaU864sSY+OzmSXWKmtjX1xz0ErJWFLroTpCb8BgXH+y/eFnBior3/kq/2C4S93GyhEERmtJOFg\nTfB0UWpywfMg0KSzwQEu0cOs4yZREoLPA+yaZGnBg9YoZJ0Vqn6hCi8AOaabOR9ztfWCts4/Xb6V\nGYhQ6s1LM4VH6xmVkLDEAbDVH2RJn7LFFIkaRMzzyvOndDkLqOd78JeHiHBhjbhDi/S6TSJMtvsc\nXDSl0Gb0YtUY12OlZOA16cuZsZoR9QR5kcnzOIQzs3lGh6frnOh1qOLs4xsMSoJUBFkQLtL5SVQw\nGFwyX1DIEDZp458e0Pbd6WoUWL5c8I0yg6U5bkipEj0G74yJyNLnNBliSB+8cEY5utPsSSqG7X0s\nCbadnA+6kuIRLH61A9B4pIWE5RWCAkQOoiGUlVebpOcflHuZzuu1hnCxxmKQol4Hbht2KrfWptpC\n4DaR3yOuOuBBrdFOCfEwiRS19orzaBZNULAtYfLRM9+rPX2DvgtUkaIX6pqoqDUYJHgpRfEyQ0I3\ncdeKS+IW68oKPR5f1dJccR35Ssoec9fXJv7BNQbQrsodJ2LSD9R7FtHJ/bVJ+RPvMCjF/O6WDFkj\nl8NPvDpocbahn6na4aGiZ3elcZrn/5ZJF1/BxpNordIFJRbWnjQM4po2tT0vCCu3xsvvMNwUnVm5\nQykZ0U08gzQDr9UX3/KksaVJzoHZlM0H6gVyA7snWmBW1s05eDVGBZiWxTVrc6H7k2ybi00Vbb8n\n6L1HSpBDdj5WPTayuHhbzpK7Nx96itSkzHpoMQnzPpqA6CEHz38lyitGxe4FyIlOwOQ0bRmGBM3x\niLw4PW/NXJ35Z9L6NoXD5Gv9VnNy0GEwcuuY9Q0bKQfMW+tNvdK6IiDPCQw5OazipPjfM85TLQZN\nsAC6YjUGs6aR8HflJIeYZFOUjccHHPRuoW4nnmruCtbUAj2MUgZ6Fc48h/sBr/m5D/kCPqhNhJa3\nP4rbS+91YNaAAeSHLVLOk/PAVrh7NR8viR7UasolcCQJ6dF0kEJqkEp/jea6cjYoOaPWGdv0A8bz\n6oPl8wQrDi4SZi96lP90Uu6D3PQ3y/Q8bcFAtXEqsT+ceC6jmsVYQNjvwqCzxYqdfkJkme76Uc68\nTTN6Ancs8zlaJFeSCloBDvKQRAYwJDa1ZZytRHhmScW+ZPvA/HV45ewGSVAP32tAzkz7/DjsOT5w\neTLK1YYyzGfa+ApbYH6Qm0O6VJwgr6fLoiwLq3n9LM9XepvvlKJR2aflBdOSkp4xyOrBUxE0ZUC8\nruDBDa7IoSVYWdudb8udTEHUgQ9D38IhAuPpMgLaAx5tuFPvtTJCo74BTV4P8fj9X4N9sA8+OwC+\nSCx7avtIl99e2A4YKDyptbzaJSpiYZk5GQABSAfyvLBMBDs4eea/1E2VecmHHLu6AARIrbudbLY3\nTh72iPCinsbBXLiVgBFV3Dl7YDdWJiHWPgbDnvXtn8rCZIqNcqzy6pyt21bTlS81eiqKWlkahev1\n4AraIHvmGbn+O6UJO7Ygf/mg5o7+8kouReOfLhbyH379JolzVlF/oGJ0zfR2bIO/77GxZ8IabBlc\nb1oB1jN2gWsroHawYyapzOGu5m0LxQiqxDSSVZU+JBv0Cz24zquuCbZsyLPygwCoCCaV82bOexXA\nckc/g14MP01encgEzxRObB0V3BafaNBrMJ4h0M2DDymLRsvwBd6qkZKD2gZI9ykAidLfbhiPZTOm\nExM6kZyM9Za1tfjrM/i8PJslcFfEcHO6l/QlNkma+30pz40coZsF9bsv9vlAXafsR478n8G71EO8\nSOHLLExeko2g1ZtI\n",
+    "private": 0
+  }
+}

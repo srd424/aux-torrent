@@ -1,0 +1,9 @@
+StorePath: /nix/store/zfdm31hx0m5nbv4748gz6ssca9cssi72-mdbook-linkcheck-0.7.7.drv
+URL: nar/0dpwc2vprgp7np74vl7629w75svwjpyya2rh25fsmzv60swcb4n5.nar.xz
+Compression: xz
+FileHash: sha256:0dpwc2vprgp7np74vl7629w75svwjpyya2rh25fsmzv60swcb4n5
+FileSize: 1580
+NarHash: sha256:1ksj9hkd6aw15qxya1wql31gyg4lgawrykq7sa1y72yhnq7acy6p
+NarSize: 3592
+References: 00qag48zpy6hs6d7j73v89bqiyzyj08r-source-github.com-Michael-F-Bryan-mdbook-linkcheck-v0.7.7.drv 09bs4iiqlddgrj52w5nwwsrrhdxmv96z-pkg-config-wrapper-0.29.2.drv 28dj1q39n5i24c92i0m5wxdjai5rfnfh-cargo-check-hook.sh.drv 7nsap9r3ny5d3rcskydl09lij6n97paa-auditable-cargo-1.77.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv hsfl60ch83v1wvq7379g7dm5fi0qrw0d-rustc-wrapper-1.77.1.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps phdmnpf57fkglzq8h8gv5nwkbw6fny2l-cargo-build-hook.sh.drv qnb1l872qrzgqj18f2kkc3l3n63jv20s-cargo-install-hook.sh.drv rpm7g0vcjbwfgaipydmc0xg26ax0jmdp-cargo-setup-hook.sh.drv sdl2qzd81r9sajslnw725knv36i0yv15-openssl-3.0.13.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wliqh4kk0an8y71ccakpwfs7azfqyifi-mdbook-linkcheck-0.7.7-vendor.tar.gz.drv
+CA: text:sha256:10z6m8syzsfphqgppbb1qz5i8prchj6gqfqa9gm9bqpd6vg789jz

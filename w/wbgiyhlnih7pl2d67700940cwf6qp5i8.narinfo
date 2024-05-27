@@ -1,0 +1,9 @@
+StorePath: /nix/store/wbgiyhlnih7pl2d67700940cwf6qp5i8-CVE-2017-10140-4.8-cwd-db_config.patch
+URL: nar/1npgbfw3a6hclvip2qiglz6dx28k11qcnq29jxkd3819isgqmq95.nar.xz
+Compression: xz
+FileHash: sha256:1npgbfw3a6hclvip2qiglz6dx28k11qcnq29jxkd3819isgqmq95
+FileSize: 356
+NarHash: sha256:00fygwnqhacv6p2dc51iic19dxyr9xj06vmgg83miqdkrwbjs7ca
+NarSize: 480
+References: 
+CA: fixed:r:sha256:00fygwnqhacv6p2dc51iic19dxyr9xj06vmgg83miqdkrwbjs7ca

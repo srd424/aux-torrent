@@ -1,0 +1,9 @@
+StorePath: /nix/store/9py87r9927k5d5kgaq57hw1fxym87d9d-setuptools-build-hook.sh
+URL: nar/1h6dpdw37j066rf29qzl0af5zg7klhrygz2vx70cirhgmn7cr7vc.nar.xz
+Compression: xz
+FileHash: sha256:1h6dpdw37j066rf29qzl0af5zg7klhrygz2vx70cirhgmn7cr7vc
+FileSize: 508
+NarHash: sha256:1wpvz150y490c1fgwhisdy90bzvk174xyh6lm4znwczggj007sl2
+NarSize: 1032
+References: 
+CA: fixed:r:sha256:1wpvz150y490c1fgwhisdy90bzvk174xyh6lm4znwczggj007sl2

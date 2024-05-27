@@ -1,0 +1,9 @@
+StorePath: /nix/store/l8krwx907p0psy8l1zyrkhbvjxglx2bj-python3-3.11.9-env
+URL: nar/1fdkgnahml9pii1kn41n42rcs6avsain5z814b8hjfgzgiag647w.nar.xz
+Compression: xz
+FileHash: sha256:1fdkgnahml9pii1kn41n42rcs6avsain5z814b8hjfgzgiag647w
+FileSize: 5744
+NarHash: sha256:0zk95bafdig55ns9myl3c06rx9g5mbbllwhrpz95g4clkvvwkp4x
+NarSize: 302848
+References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 4z6hv56xdzl3afq2k5ilad3pxpnli9w4-python3.11-pyelftools-0.30 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 l8krwx907p0psy8l1zyrkhbvjxglx2bj-python3-3.11.9-env
+Deriver: la65n1wgf4rki0spi1xinfnw96ppd8hw-python3-3.11.9-env.drv

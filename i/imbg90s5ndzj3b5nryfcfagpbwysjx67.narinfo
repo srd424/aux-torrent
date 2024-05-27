@@ -1,0 +1,10 @@
+StorePath: /nix/store/imbg90s5ndzj3b5nryfcfagpbwysjx67-source-github.com-eliben-pyelftools-v0.30
+URL: nar/1yqv3r4xyxs1yk4yck5zjcy9s2vyl61nxjjzj8jxz8sjf8b23dfb.nar.xz
+Compression: xz
+FileHash: sha256:1yqv3r4xyxs1yk4yck5zjcy9s2vyl61nxjjzj8jxz8sjf8b23dfb
+FileSize: 8604184
+NarHash: sha256:0gk47mq5cqv6qz35aydn67wma5m70gv5f9f6pg38zny6vsfavmq3
+NarSize: 65017976
+References: 
+Deriver: f86rqqzaq6q7a7b3qic7x9bpah0q5vkd-source-github.com-eliben-pyelftools-v0.30.drv
+CA: fixed:r:sha256:0gk47mq5cqv6qz35aydn67wma5m70gv5f9f6pg38zny6vsfavmq3

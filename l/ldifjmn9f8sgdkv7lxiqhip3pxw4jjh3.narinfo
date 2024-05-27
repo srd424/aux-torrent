@@ -1,0 +1,9 @@
+StorePath: /nix/store/ldifjmn9f8sgdkv7lxiqhip3pxw4jjh3-swig-3.0.12.drv
+URL: nar/07fd3rys945rk37glddyr651riljqn6cz52pfqjsh6nm8bkfyzhd.nar.xz
+Compression: xz
+FileHash: sha256:07fd3rys945rk37glddyr651riljqn6cz52pfqjsh6nm8bkfyzhd
+FileSize: 1140
+NarHash: sha256:11zws545g3p95ij07xq9r9gh68al3gqy6l3yyks0vp3ra2sx56dp
+NarSize: 2408
+References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv a6pg3klhl8j6cdlqbmjdnb19p1nc1nam-automake-1.16.5.drv in110zwzfygmnbk21qa2nvcgcly0dqq0-autoconf-2.72.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv n0958gc5rr7ngf9n1n87wczbs8h45l7v-libtool-2.4.7.drv qi5860a0y4rkdg8gl72zayai8v92z2f2-bison-3.8.2.drv r3p6qgwl28v6ljlx2fzrjyvs1lzw6hic-pcre-8.45.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w1kw02w9mdvwfx6d6w34jxlzxm4an6jp-source-github.com-swig-swig-rel-3.0.12.drv
+CA: text:sha256:1342kdr15gdaqhmkyib1wqb4al3q35im8sc78mcdbmxkf1762dwy

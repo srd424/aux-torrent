@@ -1,0 +1,9 @@
+StorePath: /nix/store/gxv8zyycd4g400h51gfzpg0isk3b7qqd-glibc-2.39.tar.xz.drv
+URL: nar/1f52by0pcck7nwq2hb1f01z0cm4jpcn3mb9n982v2m91bmhc95lv.nar.xz
+Compression: xz
+FileHash: sha256:1f52by0pcck7nwq2hb1f01z0cm4jpcn3mb9n982v2m91bmhc95lv
+FileSize: 504
+NarHash: sha256:1fibry48fjbrvgqbbiabhw8ipk3bb232hsp7blyzbnpa381mqz78
+NarSize: 840
+References: 
+CA: text:sha256:0hdddpa76wlj40xb5d6116bk62nhl21w0nvf8d5fssvf59lq12jr

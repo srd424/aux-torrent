@@ -1,0 +1,9 @@
+StorePath: /nix/store/qg57dwzn13adbw384zk951is6ixij45c-python-imports-check-hook.sh
+URL: nar/12jr3rhy7h4fgmh25jx2ih98h971522hkin3dqjl66im6pdlbj0l.nar.xz
+Compression: xz
+FileHash: sha256:12jr3rhy7h4fgmh25jx2ih98h971522hkin3dqjl66im6pdlbj0l
+FileSize: 496
+NarHash: sha256:1bfb622pk315rkvhqv59m464j8npxvxq02rzj5vzmamqv6hglbr5
+NarSize: 824
+References: 
+CA: fixed:r:sha256:1bfb622pk315rkvhqv59m464j8npxvxq02rzj5vzmamqv6hglbr5

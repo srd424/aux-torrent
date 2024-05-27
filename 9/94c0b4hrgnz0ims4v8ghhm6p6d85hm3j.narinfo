@@ -1,0 +1,9 @@
+StorePath: /nix/store/94c0b4hrgnz0ims4v8ghhm6p6d85hm3j-source-github.com-publicsuffix-list-5db9b65997e3c9230ac4353b01994c2ae9667cb9.drv
+URL: nar/0946hqjd08c0wj7p1fgbm01s8bpnx2h4j3zpvhwyq202j2fxh4qd.nar.xz
+Compression: xz
+FileHash: sha256:0946hqjd08c0wj7p1fgbm01s8bpnx2h4j3zpvhwyq202j2fxh4qd
+FileSize: 1624
+NarHash: sha256:0qwjbnx2cv79nkbrqlkkm5cbriyw04xsc608w3i5pfdcfh61s8i7
+NarSize: 3792
+References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
+CA: text:sha256:0ijjv9bv1iklsraz8a3sj3cdqqpmdkpagzm78qxdnsjbwgq72lqf

@@ -1,0 +1,9 @@
+StorePath: /nix/store/l7rgh5wrqig7j6nydpsy40lzhfaxsmnx-curl-8.7.1-debug
+URL: nar/14jld9jwi7hynfxrcd06aslamr1zrcxfp2x4s5aqwhd0pvxv0461.nar.xz
+Compression: xz
+FileHash: sha256:14jld9jwi7hynfxrcd06aslamr1zrcxfp2x4s5aqwhd0pvxv0461
+FileSize: 2271180
+NarHash: sha256:1zsp2r2hfvyxii40d2pf9mavkyxgq48vlrvaammc0zac92lifgzr
+NarSize: 2418912
+References: 
+Deriver: 76x1c0q4w3n1xn641snw1ifjx7lakfqy-curl-8.7.1.drv

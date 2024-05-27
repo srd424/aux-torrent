@@ -1,0 +1,10 @@
+StorePath: /nix/store/ifggbq5cc2rnm57jc8573smj534sabzw-config.guess-28ea239
+URL: nar/1c41k0dzvpc1nsv9siaf6y6d6piza2lcs35wp4j2i83amicr1wmd.nar.xz
+Compression: xz
+FileHash: sha256:1c41k0dzvpc1nsv9siaf6y6d6piza2lcs35wp4j2i83amicr1wmd
+FileSize: 14092
+NarHash: sha256:06wipyr49lyc8a973yk17i1rya0n4qdyz51rw8lja8mnhmc51bq3
+NarSize: 50736
+References: 
+Deriver: p0gj1mzg99qc4bnql0299yiadn026jc3-config.guess-28ea239.drv
+CA: fixed:sha256:18wbdm4l86i17ib4h441jjd3mh2pljwrgppikn46ycjj89hpf9gc

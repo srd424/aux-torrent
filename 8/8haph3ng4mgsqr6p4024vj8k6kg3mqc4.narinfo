@@ -1,0 +1,9 @@
+StorePath: /nix/store/8haph3ng4mgsqr6p4024vj8k6kg3mqc4-nix-locale-archive.patch
+URL: nar/0cmvyxh03gf94rkdqysv7d2ns7j6f383wnx34yf6y7q6vai01f2h.nar.xz
+Compression: xz
+FileHash: sha256:0cmvyxh03gf94rkdqysv7d2ns7j6f383wnx34yf6y7q6vai01f2h
+FileSize: 1260
+NarHash: sha256:1dci3fszlwyvb39bs02i0c3dkysb1xa3s3w7hn1ksrpxip5s4fgk
+NarSize: 3936
+References: 
+CA: fixed:r:sha256:1dci3fszlwyvb39bs02i0c3dkysb1xa3s3w7hn1ksrpxip5s4fgk

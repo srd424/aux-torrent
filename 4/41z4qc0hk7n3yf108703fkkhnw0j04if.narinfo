@@ -1,0 +1,9 @@
+StorePath: /nix/store/41z4qc0hk7n3yf108703fkkhnw0j04if-aws-crt-cpp-0.26.4-dev
+URL: nar/1kjkv9z21nq71x6ir0fz3xwh9j4ymlxjzw7rarqci5y14f53qj5j.nar.xz
+Compression: xz
+FileHash: sha256:1kjkv9z21nq71x6ir0fz3xwh9j4ymlxjzw7rarqci5y14f53qj5j
+FileSize: 66828
+NarHash: sha256:0w0fbd570hkpmycq9h5x67z4csvmgb5k2q3630y6sp5xj0a6l3ih
+NarSize: 577312
+References: 2f0nxx14x7bxn04gh320yabizgnsc0n4-aws-checksums-0.1.18 390r4knhdld9jxwixpqd3za9zjd07mr2-aws-crt-cpp-0.26.4 3dlagamjhy7j42hx7q5s05qa6hmzf0ca-aws-c-auth-0.7.16 41z4qc0hk7n3yf108703fkkhnw0j04if-aws-crt-cpp-0.26.4-dev 6pwbdzym9gkqg9kdfm5r509cwvfrzw7l-aws-c-io-0.14.6 8ypkqn4glqfzna65d7kwral0kwv63cgf-aws-c-cal-0.6.10 apysxvfgdjcph77mzi0q2ag4mga6jxxf-aws-c-common-0.9.14 l6mr8sknm47m02y6s768m994z7wcsgq2-aws-c-event-stream-0.4.2 lxf1477r1r5jfs963psm4h0pa7bqi9rb-aws-c-http-0.8.1 n008vm2hw8byxywsr1nv9qsmm9mdiwv6-aws-c-compression-0.2.18 n072ac9kjk9ns2pnkysy8fjlvqwpxbw4-s2n-tls-1.4.9-dev rnljancxb24rdckaiw0vx14dwi3sxg2p-aws-c-mqtt-0.10.3 s4hfw5kbmknca599rx22dp2nhrm954qv-aws-c-s3-0.5.4
+Deriver: 0az7sqzfg71087rgdyw8xrf49pd01l90-aws-crt-cpp-0.26.4.drv

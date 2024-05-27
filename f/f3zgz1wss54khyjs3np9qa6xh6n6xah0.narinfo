@@ -1,0 +1,10 @@
+StorePath: /nix/store/f3zgz1wss54khyjs3np9qa6xh6n6xah0-perl5.38.2-Authen-SASL-2.1700-devdoc
+URL: nar/184c6hp4l105wsyyan5wqbz50ib20sw1wlfd960f57jb71h6xk62.nar.xz
+Compression: xz
+FileHash: sha256:184c6hp4l105wsyyan5wqbz50ib20sw1wlfd960f57jb71h6xk62
+FileSize: 18428
+NarHash: sha256:0s3nfhpd5vpkah6kby84mf9gylv11yflpy1i6cgxn5j23bcwbi1w
+NarSize: 20568
+References: 
+Deriver: zqdqri1pvw4rg3pqa64iy3sh17521gjr-perl5.38.2-Authen-SASL-2.1700.drv
+Sig: cache.nixos.org-1:o1XLlMbI1Hpyqnns7Z6EIVGmlyxZmVJQDpJ06Vz3qTakdVDZjvYEvQ+pjUU8lRq5sZbogGy93fb0DOqLIBRICg==

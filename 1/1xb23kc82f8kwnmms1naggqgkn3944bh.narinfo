@@ -1,0 +1,10 @@
+StorePath: /nix/store/1xb23kc82f8kwnmms1naggqgkn3944bh-source-github.com-lix-project-lix-2.90-beta.1
+URL: nar/1ppln8pkcackk6jhnhi7gjinxhmll8iwn4y5jn3942z2swpzg76f.nar.xz
+Compression: xz
+FileHash: sha256:1ppln8pkcackk6jhnhi7gjinxhmll8iwn4y5jn3942z2swpzg76f
+FileSize: 1029212
+NarHash: sha256:0d0dbn08pmrf7zlkihiyagcpy9ywdr14r6brqrjg47aqcjisaia4
+NarSize: 5325000
+References: 
+Deriver: z0mmf5knaj4dx7z4jiqaj0z076ijpfn5-source-github.com-lix-project-lix-2.90-beta.1.drv
+CA: fixed:r:sha256:0d0dbn08pmrf7zlkihiyagcpy9ywdr14r6brqrjg47aqcjisaia4

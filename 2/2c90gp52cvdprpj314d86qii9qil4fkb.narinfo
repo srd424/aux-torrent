@@ -1,0 +1,9 @@
+StorePath: /nix/store/2c90gp52cvdprpj314d86qii9qil4fkb-gettext-0.21.1.tar.gz.drv
+URL: nar/1jc25l53wym931aghil5zndhik0kp1yznl1g415kf8vpi0ik8hj1.nar.xz
+Compression: xz
+FileHash: sha256:1jc25l53wym931aghil5zndhik0kp1yznl1g415kf8vpi0ik8hj1
+FileSize: 508
+NarHash: sha256:051qqlwzsmc0a6bxpn7hw4319kawy9wk5qbq694hbv6fvq8az31g
+NarSize: 864
+References: 
+CA: text:sha256:09f82ply3hqmpa0szp6vnhjf9nnxfj0czc3wfs03n6x76x1zpm2k

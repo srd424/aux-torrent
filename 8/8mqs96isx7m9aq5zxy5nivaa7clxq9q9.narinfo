@@ -1,0 +1,9 @@
+StorePath: /nix/store/8mqs96isx7m9aq5zxy5nivaa7clxq9q9-boost-1.81.0.drv
+URL: nar/08sbc8h8gcal6jwd33ngx98771h8pmjcmwsk2z48hrfxs29cf7r7.nar.xz
+Compression: xz
+FileHash: sha256:08sbc8h8gcal6jwd33ngx98771h8pmjcmwsk2z48hrfxs29cf7r7
+FileSize: 1984
+NarHash: sha256:01gkhg4flsmzcza9bd5n8wava94zkd5f0gaw3bz6wgb7xa6wz8rn
+NarSize: 4720
+References: 034zh8v1m3yhin6mpv5xgxcp23ii4452-xz-5.4.6.drv 19wdy1bfh4lqffin6gv9kb52vsbsi6f7-which-2.21.drv 2if21vs97jsfm1ilh9p77p87w42b2qna-icu4c-73.2.drv 5bfhr1b8s386rimfkffw29lvk89l08h6-bzip2-1.0.8.drv 60a8ckxdjx87nsh7621prpqd5xlw08gj-expat-2.6.2.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv fig01ylm8j5ii826ygkwm8rpx7kcj0zc-zlib-1.3.1.drv g88836iy5chq02qqa2k9qgjgcm517rq9-boost_1_81_0.tar.bz2.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv swlr2yvwp2xjz4wx4dn5km0mr09q70n8-zstd-1.5.6.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vbx4m4f122sgc131adnyf0whdfxp1ci5-glibc-iconv-2.39.drv w0bx50v00q4gwbfyss89jljlf41jz59c-boost-build-boost-1.81.0.drv wpbcp7kf7xcjaf7kd7nqx23y6n8h86lf-cmake-paths-173.patch
+CA: text:sha256:040wa8xi40s4hzkxng70r01rpiz9xsy8yddrf0kr3ld8lk4cg0wm

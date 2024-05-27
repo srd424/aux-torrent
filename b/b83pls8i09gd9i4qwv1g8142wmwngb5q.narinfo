@@ -1,0 +1,10 @@
+StorePath: /nix/store/b83pls8i09gd9i4qwv1g8142wmwngb5q-gcc-13.2.0-checksum
+URL: nar/0mk3iazk694rcr97n0shs8hz3l5fxnzrl8k7hsai7y9vmg6xhfxh.nar.xz
+Compression: xz
+FileHash: sha256:0mk3iazk694rcr97n0shs8hz3l5fxnzrl8k7hsai7y9vmg6xhfxh
+FileSize: 10340
+NarHash: sha256:1xgw36r08bqglw4zjm8dfaad12a7g4gsh9f4vqragrqiwxw98h9f
+NarSize: 46592
+References: 
+Deriver: hgghyq9dynamy2y0nnhyv5q6vaibw7pf-gcc-13.2.0.drv
+Sig: cache.nixos.org-1:bC6L6BhirZuzIU9tOAhDMuSY3jQrGTQCv7t30S+bxrpg1kQp3dUsyXRYgDg3D5MKZd8Ir7Ei1v0S70e4htlAAg==

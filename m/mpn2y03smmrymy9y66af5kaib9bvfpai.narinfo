@@ -1,0 +1,11 @@
+StorePath: /nix/store/mpn2y03smmrymy9y66af5kaib9bvfpai-fuse-2.9.9-closefrom-glibc-2-34.patch?id=8a970396fca7aca2d5a761b8e7a8242f1eef14c9
+URL: nar/1sbz7y6yhgjdgdcjz8m5jw7s9s8bxqzjnh6a7cg6kppaasjxbfzc.nar.xz
+Compression: xz
+FileHash: sha256:1sbz7y6yhgjdgdcjz8m5jw7s9s8bxqzjnh6a7cg6kppaasjxbfzc
+FileSize: 552
+NarHash: sha256:1y18z0cixhaawsn5p5acrjnnimhhrhhaw7srblxd91rj04iyyhzp
+NarSize: 888
+References: 
+Deriver: 59hpvcy5x51i6995s8llc6icdg6nr0m2-fuse-2.9.9-closefrom-glibc-2-34.patch?id=8a970396fca7aca2d5a761b8e7a8242f1eef14c9.drv
+Sig: cache.nixos.org-1:vwzjHnxpKBe8TTpGU2CyFuj87MiJABsjDqjJRRDBGiUCGtTuOgYXgCvRyhj+bUGmwKZvcrfpeP0HcpqqfHSgCA==
+CA: fixed:sha256:13i0s0hzghbxmc39fg2fgcj6rfkfiqq7myybna6c8i9izidh3dhh

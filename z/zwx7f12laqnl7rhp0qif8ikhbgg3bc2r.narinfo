@@ -1,0 +1,9 @@
+StorePath: /nix/store/zwx7f12laqnl7rhp0qif8ikhbgg3bc2r-linux-pam-1.6.0-man
+URL: nar/1s25qmb9xpba3hq0fgzhphbv13cj155qlr80qaycwy2913v2nm4b.nar.xz
+Compression: xz
+FileHash: sha256:1s25qmb9xpba3hq0fgzhphbv13cj155qlr80qaycwy2913v2nm4b
+FileSize: 156048
+NarHash: sha256:1zg31jrqfjbmg8anrsjd658v7y68g51znpqyzz60d5kzf548343d
+NarSize: 177016
+References: 
+Deriver: 2k5n03n859b15p9bl0wzf145xmwdz31v-linux-pam-1.6.0.drv

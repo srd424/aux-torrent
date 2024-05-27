@@ -1,0 +1,9 @@
+StorePath: /nix/store/xjg5xrqa30i0pvd0d95bifz901dg2i2w-python3.11-wheel-0.42.0
+URL: nar/19m6yj5p1s6qgbgp6mxmrbkc5pcjv4y2nym6i8gp7izsi2lz7697.nar.xz
+Compression: xz
+FileHash: sha256:19m6yj5p1s6qgbgp6mxmrbkc5pcjv4y2nym6i8gp7izsi2lz7697
+FileSize: 126152
+NarHash: sha256:1wndpjjmmb5mjrgxif0gzmvii1gk2hc222ma3bc0hm9pxgwnmm8i
+NarSize: 761888
+References: dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 xjg5xrqa30i0pvd0d95bifz901dg2i2w-python3.11-wheel-0.42.0
+Deriver: 14h6hi152i6hls4hgzwqpdxc5a0ig7fs-python3.11-wheel-0.42.0.drv

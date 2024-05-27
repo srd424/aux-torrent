@@ -1,0 +1,10 @@
+StorePath: /nix/store/2by4sz6ky6gvy1cingmfa011n2cwgc3k-source-github.com-ninja-build-ninja-v1.11.1
+URL: nar/0rs4fqmy54zginp42kbc3j8hm40qz5f6g147jsh8h3k7xnyarq2s.nar.xz
+Compression: xz
+FileHash: sha256:0rs4fqmy54zginp42kbc3j8hm40qz5f6g147jsh8h3k7xnyarq2s
+FileSize: 181044
+NarHash: sha256:14kshkxdn833nkz2qkzb3w531dcqj6haad90gxj70ic05lb7zx9f
+NarSize: 1039800
+References: 
+Deriver: i70r97dk9b2dxakfkzsf01nh04byjdkp-source-github.com-ninja-build-ninja-v1.11.1.drv
+CA: fixed:r:sha256:14kshkxdn833nkz2qkzb3w531dcqj6haad90gxj70ic05lb7zx9f
