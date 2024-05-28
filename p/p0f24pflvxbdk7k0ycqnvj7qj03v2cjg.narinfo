@@ -8,3 +8,4 @@ NarSize: 15884800
 References: 
 Deriver: mq80y22jcg8dcrif7g26ccmp39vmxci6-source-github.com-libarchive-libarchive-v3.7.2.drv
 CA: fixed:r:sha256:1xsrxklr8zn9kp89cxvfmvkhgia9l7kqgli5rcxa9aggz8kn0qm7
+Sig: aux-cache.dev-1:Xtc3lSiNQomw3zF/4kHfsnIHA5AI2kB0huAtSDK6N3hTKvVSgOyiQgJ0oYj92ZxDP2eVQOJPUkMY1vKJL46KAQ==

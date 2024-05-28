@@ -7,4 +7,4 @@ NarHash: sha256:1vaf2vcm801va0af336bbjyqjxyag1arcz36c2f7cplg20bwp6nb
 NarSize: 195864
 References: 
 Deriver: pz7slhgibabgb21lwc63v09k19p1h87p-busybox-static-x86_64-unknown-linux-musl-1.36.1.drv
-Sig: cache.nixos.org-1:3vCcP79FEwu8IQtsUBIOFai8VupGFuykOh5W8QRsWh+6TFwlJ2381TRe0Lgr6V4ptRgQmONhOSQpP896koRIAw==
+Sig: cache.nixos.org-1:3vCcP79FEwu8IQtsUBIOFai8VupGFuykOh5W8QRsWh+6TFwlJ2381TRe0Lgr6V4ptRgQmONhOSQpP896koRIAw== aux-cache.dev-1:5Ltpk3ClvStYhvdjj+S69G2xwVALWfUVRIjMd04NVs7YwOnY8zjfiZ3BlC5zWR5CTglvIcetp4JL2mexlD/UAg==

@@ -7,3 +7,4 @@ NarHash: sha256:0sazfzklafiqvbb6drzz1vkj6iy44fbkn30i2hck3l51b1q4w3k4
 NarSize: 1928
 References: h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv jik02mkz72r2f6hhxnlhp6h5f0fi89gw-expand-response-params.c sspiw61zbnr2nggdaajdvf650pb5g8kb-bootstrap-stage-xgcc-stdenv-linux.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:132gsg9rx3rhw815b4m1s1ndi0kzvlpsbv5damiwp5fwla5y5s37
+Sig: aux-cache.dev-1:imXq1xg2dT6KzSC+F9I/v2YzVy+qTvBgeDXUf0JdHFC59cj+BxtfvPuPpnJqcppPWU2EQ4M3gmsqFNW/d2afBw==

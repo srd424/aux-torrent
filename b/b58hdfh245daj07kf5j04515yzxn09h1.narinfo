@@ -8,3 +8,4 @@ NarSize: 1795280
 References: 
 Deriver: lhwl0rswb5jf5h9hn0qcxpd0kifyd70y-source-github.com-libfuse-libfuse-fuse-3.16.2.drv
 CA: fixed:r:sha256:03mqi5rfdczbfairxbq235a80gj931ibfsl344mbklhii7w6rvs0
+Sig: aux-cache.dev-1:LcBMpyU2MJwLl9eTBs1yo0s+J6obNFMUOlcux4Ah7m7TdC2hUfhnxbQe9uAIDKBIsdnuZoDK62mz9iHH0D3nCg==

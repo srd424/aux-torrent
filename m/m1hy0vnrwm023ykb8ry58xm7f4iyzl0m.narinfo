@@ -8,3 +8,4 @@ NarSize: 213168
 References: 
 Deriver: y4wdw2fnc3yc19l4k4kkfygg6f5hs9bn-source-github.com-awslabs-aws-checksums-v0.1.18.drv
 CA: fixed:r:sha256:1lwbs5b89z4z8pswlfhj4fn73flwmr060byy3apqfay8rxmia4hj
+Sig: aux-cache.dev-1:EqFQtmWBD5IJqDLSJixMpIr6TvyKa6sfWhMVHHqE2yyjmDkdscxog9xReuHKQCkHsXsvBh4a0pC9mVXLSc90Dw==

@@ -8,3 +8,4 @@ NarSize: 2249176
 References: 
 Deriver: bxx1iz637ads1z2n3gyc3xsczirv98dq-source-github.com-google-brotli-v1.1.0.drv
 CA: fixed:r:sha256:01zbp86ppskqy5fxxgr2zwhyqb0adkwxh0p7jajd9nayr52ixxrj
+Sig: aux-cache.dev-1:I5O3SSd2uImXty4slC0QKmYmjl+ehXXNghaKsLVpS8qSNTzBMKAb7A9TQdkfaspwd0vQ5tEXMLqSCXIDFufOCw==

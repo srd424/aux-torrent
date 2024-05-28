@@ -7,3 +7,4 @@ NarHash: sha256:1ysjy32rhmkivb5f65as11l4dk9lgmrh1p86z9bqj9l1hjg4qqid
 NarSize: 513888
 References: k65v7pwp4ik6cgggkfqsl91bwvxqhqw5-perl5.38.2-Mozilla-CA-20230821
 Deriver: bmcn2gifr80wjnf0by5nnvk6dm1hahjq-perl5.38.2-Mozilla-CA-20230821.drv
+Sig: aux-cache.dev-1:z6nEcjyE5cc8A7P6QlMCf9OAZOnmSgQPFCI5bIoUMJbQ43RB4qvwzsGhlxpx4dT7oIqxR9zgeDVW8GKdw/crDw==

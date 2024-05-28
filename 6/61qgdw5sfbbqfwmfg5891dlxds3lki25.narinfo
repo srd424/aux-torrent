@@ -7,3 +7,4 @@ NarHash: sha256:1snsd4l0p1hp2pvny276avmbwj9y9jzvn47cs777mipbfyjgsmzg
 NarSize: 176
 References: gmqjfk9v364hc8qfvnqbcilqx6p5bxbz-rustc-1.77.1-doc
 Deriver: hsfl60ch83v1wvq7379g7dm5fi0qrw0d-rustc-wrapper-1.77.1.drv
+Sig: aux-cache.dev-1:wiHrozC57H+IhBnml0bHWRLerR9eq1W802r7UYOZwHp7oumxpOkE8EsTa+VshPOY2Y0QsTnVhWiIdCM8F8XMDg==

@@ -7,4 +7,4 @@ NarHash: sha256:1pnfignmijlayf18jcrd2qrwgylz3wc5sq83ap4zs9fraazv0ly5
 NarSize: 1104
 References: 1mccb37pvl03i6hg5g8914r6zjd6n09b-gettext-0.21.1 1rxflvd5c8p1zp9v1g4g7lhva55xl56g-automake-1.16.5 b2k4hf3yjfkd785jakq6arwfd3r177n0-autoconf-2.69 wva9jcfp0bq9kfji3rd7vzrhx1793jgx-libtool-2.4.7
 Deriver: 10lmgw4zfwh0pi42sp4ad2yvrw623vvg-autoreconf-hook.drv
-Sig: cache.nixos.org-1:UJ2DU2H1uFVcK6eUQW3MY7ybojtji1PdYCNNNYf2Jr9kaMmNVKa9xiAl5+L86IrmPEEbPfep5DqKzjvsWvoPAw==
+Sig: cache.nixos.org-1:UJ2DU2H1uFVcK6eUQW3MY7ybojtji1PdYCNNNYf2Jr9kaMmNVKa9xiAl5+L86IrmPEEbPfep5DqKzjvsWvoPAw== aux-cache.dev-1:wLMiMmZ1NcWlbw0WRxew/eEmVfSr1rQ7AVOaQzE84FfVNIciiFlc94AfUaXdpOIvb4uc7JmdyVcZvWP6hi8DDA==

@@ -8,3 +8,4 @@ NarSize: 10950952
 References: 
 Deriver: 5jrd75v747s76s16zxk59384xfcjqn58-bash-5.2.tar.gz.drv
 CA: fixed:sha256:1yrjmf0mqg2q8pqphjlark0mcmgf88b0acq7bqf4gx3zvxkc2fd1
+Sig: aux-cache.dev-1:++z8wfIYvdylADSkV0ySvwvdYaKD8fannUx3/hRevDc6QVhgNwxbe5h4uCDTUAJa+hdcb2lOzyv1VSeSr2jtAQ==

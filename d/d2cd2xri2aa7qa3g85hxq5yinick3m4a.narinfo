@@ -7,3 +7,4 @@ NarHash: sha256:0c17mcd37ml801kcwk8kr1n7p90g8vyyf311j38cm03qqnwnw7ws
 NarSize: 109536
 References: 4d7vky5sc80qr4l50h4f7yv62nsa71kw-libuv-1.48.0 d2cd2xri2aa7qa3g85hxq5yinick3m4a-libuv-1.48.0-dev
 Deriver: zdd8153q1vk82ibsxrfnjgd422zmwncf-libuv-1.48.0.drv
+Sig: aux-cache.dev-1:2PC3VSlqPGrLv0v8dSujvVtcN54Vc9Wf9E1+F+8daXV4ZOb0KiNdvm39B+iKXojq20X9NxkXZyywwFSSm//3CA==

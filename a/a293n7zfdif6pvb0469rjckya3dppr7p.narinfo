@@ -7,4 +7,4 @@ NarHash: sha256:0qcvvw7dqnr60xrhsf3m4lzwjmx0c38x1a3z1i2lha1hw55iykjx
 NarSize: 38736
 References: 
 Deriver: 9gjxypx2y2bjxw301p6lwd1vnnlxw4j6-nghttp2-1.61.0.drv
-Sig: cache.nixos.org-1:5g6pRVe5wFg0K0F9cDomNJUPRTQxaWwTQPsZLjeQCsNW4yUHcNpwZpIGrHAPEUqQP7tCDQPTEAiERJI9ITygAQ==
+Sig: cache.nixos.org-1:5g6pRVe5wFg0K0F9cDomNJUPRTQxaWwTQPsZLjeQCsNW4yUHcNpwZpIGrHAPEUqQP7tCDQPTEAiERJI9ITygAQ== aux-cache.dev-1:hd0srrwDOb6hR8KAR0Vtogo68X+5MwxqZvhjJM7PG4JfLpWbhT9Do52t/QzqhlEijubcyPETJoBkLB5nX5xNCg==

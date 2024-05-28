@@ -7,4 +7,4 @@ NarHash: sha256:0fdmqkpyh4l52fcz8crxicaqcs0qd6ljbaqfaw69v8b3iqz4h5h1
 NarSize: 904
 References: 
 Deriver: pf48s2paxzly9xb04kmy008ygw2yynqk-python-remove-tests-dir-hook.drv
-Sig: cache.nixos.org-1:5tYP81KrXi12BuZ6Gpvfj0p24sQNLjeHJSlUZ8F6d4qaddVawQF8PbTu2Zu0IMtEaC/Je0BcO1xvbGvtTt8kCw==
+Sig: cache.nixos.org-1:5tYP81KrXi12BuZ6Gpvfj0p24sQNLjeHJSlUZ8F6d4qaddVawQF8PbTu2Zu0IMtEaC/Je0BcO1xvbGvtTt8kCw== aux-cache.dev-1:Ca5AC+pP0uFpYApTHpI2gJzovJEpzvm7LxMnCd/EKPLTUCT8/nkitwCfty6JtL+EfpTLDt5l31USyOuDUJXgAQ==

@@ -7,4 +7,4 @@ NarHash: sha256:1b4q25sf40fil8ghyhmch2nnyra4prc8kpq6wxhp6mh8i10swf4p
 NarSize: 76752
 References: 
 Deriver: jwsp30avn035gi4cdkpnhgc527nh0l7g-lowdown-1.1.0.drv
-Sig: cache.nixos.org-1:m/xLOyUfv4o8A82AZOz1eLOIHDtg6uUMO1y82S8b0YN2zhSVR8Vjy/SNSnAQB5PZXYhGuvNcATb1Y+y+PhsIDQ==
+Sig: cache.nixos.org-1:m/xLOyUfv4o8A82AZOz1eLOIHDtg6uUMO1y82S8b0YN2zhSVR8Vjy/SNSnAQB5PZXYhGuvNcATb1Y+y+PhsIDQ== aux-cache.dev-1:7Ix/1zz9Y2tI6Qf2AzsdUpTNhuqyBkvzlrkSOZWpVtk3kaIAnSaKdXt8r4ctqq+hEEpIGi2/cflYYG6bgIAGAw==

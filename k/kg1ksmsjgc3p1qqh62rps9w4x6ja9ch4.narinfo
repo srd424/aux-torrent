@@ -7,3 +7,4 @@ NarHash: sha256:1adcaix3rjnp5x6kw854rb6ipfhxym0nbb4k0zx9ddll44fq3a1d
 NarSize: 58576
 References: dgnh076n7ygqvgk9k0987x10x8j2mji9-brotli-1.1.0-lib kg1ksmsjgc3p1qqh62rps9w4x6ja9ch4-brotli-1.1.0-dev wv77ihdqclw2g1bz6mx5mv5gx4ql6d5s-brotli-1.1.0
 Deriver: 34ndp5gkqnrin3zphjgs2fpwjjp0i9h1-brotli-1.1.0.drv
+Sig: aux-cache.dev-1:nVF6xA/hULtgioSkVsOr0zTVG6SCMlhg8YP83G6rTNvTtRH3V+FZbGbmd11hNBp1xmLiQH3gD/Q4Y6302C6yCA==

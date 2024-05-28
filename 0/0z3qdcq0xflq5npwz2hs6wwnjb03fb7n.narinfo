@@ -7,3 +7,4 @@ NarHash: sha256:1xd0v93qhp1c02n0188zgvvfg581ffhgpf11bbya8y5qyp7d5skg
 NarSize: 273032
 References: 
 Deriver: g1l62fsm8l6xdkiz77v391w0fw336f8n-asciidoc-10.2.0.drv
+Sig: aux-cache.dev-1:7OIQRy8C/PI5RzbvWASkYfJyy5F+fpulC4B1HBKI/G80lNJy9os1QdcSmNJ5goO4sVAHOSoc0TYkVDVkHU7GBQ==

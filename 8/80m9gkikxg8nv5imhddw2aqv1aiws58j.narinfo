@@ -7,4 +7,4 @@ NarHash: sha256:0fy6vn0hgmjvhigic0csaxs0sbfrm9bkydirisj10jyzq3clksh2
 NarSize: 5840
 References: 
 Deriver: vyl6g2a73572xf7iqhap70xnd2fk32xp-perl5.38.2-HTTP-CookieJar-0.014.drv
-Sig: cache.nixos.org-1:dxt2KNlzwBw4TYOL9xU0yeWSHcc8Ae3C+XCyg7qea54gYsxOs6h6emJpBvSKEvhEc21K04oS/8ezRR3BCyQpDA==
+Sig: cache.nixos.org-1:dxt2KNlzwBw4TYOL9xU0yeWSHcc8Ae3C+XCyg7qea54gYsxOs6h6emJpBvSKEvhEc21K04oS/8ezRR3BCyQpDA== aux-cache.dev-1:QGsLsH4uYH7Is0WJIr0EIP3AEbAFixfV7KMdhCiMCIqKNZyhnWYYljGlXO2SrL1GacR7TsVGH+FA7nfPOgXFCQ==

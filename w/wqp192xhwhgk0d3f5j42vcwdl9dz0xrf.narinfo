@@ -7,3 +7,4 @@ NarHash: sha256:097073r5cfssyg7gn4ji6040v86iavic1kqijm0yrx00wjg38yiy
 NarSize: 3744
 References: dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 nd6naz1smyg0qgh2nrx2c4jspvvxrdnj-rustc-bootstrap-1.76.0
 Deriver: y9hhgzb8hs1c9y91idnyv9ykk753d4ci-rustc-bootstrap-wrapper-1.76.0.drv
+Sig: aux-cache.dev-1:CMshaVo+oh6vAbOVo0vF+5PYrUlaRWXRsGX6dzjkSiMEuyZhCXpQe6mv0o0FVRzi/V/3s4VkXj7u8OJRDg41CA==

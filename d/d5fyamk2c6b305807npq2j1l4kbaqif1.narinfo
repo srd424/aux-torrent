@@ -7,3 +7,4 @@ NarHash: sha256:1145nk07g36h7sifyrzlrf532adz06ln9bpckjyk8npi9fk54mgc
 NarSize: 7024
 References: 0slmnpqn8ahqhnskf5mhqmnj5v6n9kq3-bootstrap-stage0-binutils-wrapper-.drv 3dl59vc3fzy2ld67jqh12xi63z9684vf-cc-wrapper.sh ckjykyfw30zj1n3lcca9lwm2lzd7azdb-setup-hook.sh gfmqk56r8rv61yqyz9i7rbkrnab27gky-bootstrap-stage0-glibc-bootstrapFiles.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv hnfw75cqyly6s0ladkpdqppqllbqsapy-bootstrap-stage0-stdenv-linux.drv i60i6xvvywyk7h9wrjff7zmlksqw348p-add-hardening.sh ji2yrl1na00bwav65hh1vr0nc0s1xzvz-add-flags.sh kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash
 CA: text:sha256:1sbihg7fg5dmqb3ql59gy6p4fcl82mlxpszh54s7sc76fry64hvd
+Sig: aux-cache.dev-1:NxT97if/a+nOKpYC4dEyN/jw1SMY0M+S845vsmFzqmrkNMs5mWogI65PAeueR/U3y62zCaH2CCFbZY97iXqMDA==

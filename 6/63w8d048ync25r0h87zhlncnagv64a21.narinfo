@@ -8,3 +8,4 @@ NarSize: 185080
 References: 
 Deriver: xpk910ydhfvfh6bzgrswgz7gh9xyqf4j-source-github.com-awslabs-aws-c-compression-v0.2.18.drv
 CA: fixed:r:sha256:1wipif41rxd246dqj8yx9sbq2qscm6ag8faipsz0q62nhjzcrz89
+Sig: aux-cache.dev-1:3cwOhP6t2UYJawa5yVAfXOyYKBLxn/Anq+wT8ZlxMLZPPG2WEpUtALKnvNytmrZPi+W04WvLTrJZ40embG7UAQ==

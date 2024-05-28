@@ -8,3 +8,4 @@ NarSize: 2016224
 References: 
 Deriver: dz1maclbjc7xysnfhhqfarvdx6ahpw69-nghttp2-1.61.0.tar.bz2.drv
 CA: fixed:sha256:1za4sl6ik86pxrhnsxm8f2acsmfj6lhdfhk2jqqa9ifl6bngg32f
+Sig: aux-cache.dev-1:XxQsJgON/n9THfpzku+8xKE3t6p63ebfM31u68b228F4CdZJKrxFGsEsRYT3+8OZBoCLoqMbONLoy58fQN7QDA==

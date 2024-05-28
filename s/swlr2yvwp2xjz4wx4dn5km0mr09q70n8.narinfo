@@ -7,3 +7,4 @@ NarHash: sha256:01nv05r2kg8inji53j6j1iswq1kqqc2cnpmc7ci5nhilrsssiig8
 NarSize: 3704
 References: 41fmxjp6rdc1gaspsl080zxz3nigw24z-cmake-minimal-3.29.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jjdj70xf8jm1dknxrdyj67xkbq1fr0hm-file-5.45.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv n91acyjrlchm0snw0w16i4683pf788ax-playtests-darwin.patch nyba8vj037xlsncwmgcq4prm6dvkcrqj-source-github.com-facebook-zstd-v1.5.6.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vgbg5n7rydmajbdbgnvcd98hf4nyc218-gnugrep-3.11.drv
 CA: text:sha256:1ir0n7x4lr8vfx8v8i052z0pb0hzfvp6kg5svndk3w54xg6qkj3j
+Sig: aux-cache.dev-1:zgjunUz3sqBJP6GpQdeQOQrZK4vLjyWvRlBPFQLluwpojNcdqyJJnJc+gAnAa2rkMoqYi6U+Lw+fBN2eAYR+Cg==

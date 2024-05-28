@@ -1,12 +1,12 @@
 {
   "announce": "http://bt.aux-cache.dev:9996/announce",
   "created by": "Transmission/3.00 (bb6b5a062e)",
-  "creation date": 1716812456,
+  "creation date": 1716916376,
   "encoding": "UTF-8",
   "info": {
     "files": [
       {
-        "length": 640,
+        "length": 745,
         "path": [
           "4zpw7gzmiqfy47xcv2xpnqn0sc1h9ak2.narinfo"
         ]
@@ -21,7 +21,7 @@
     ],
     "name": "nix",
     "piece length": 32768,
-    "pieces": "GLOf+Yy4a/IQjouPMV7MWnHGFVDyiI5f0KqwNDEbZYZYSz7HYFznZ0IKfOhXDE/GKYqnIQCkKHy/\n5HkyQHFZ0m09+58vATp2Va1lknRrGRjLWGLSLLIvHVZdjEAgZOro12nOm3Fbr8CpC4FX5hlZ3tZT\n3DFxyMF21FzcMwVlmm1rMx2A5jLSg0jI1B3rGftXb6irI65t4mFyG4tBRjk15rsOGnlTHaQmpDiG\n31zu+f7yoIAkZ034UrFCIQ95CiMbhBoFj6wTUZ+Wl9EpTMRUCSP54MXjTUy38OTwkF9ORTjGKiWi\nXNYpo2AEoeE4205z/I8f/JptJ/gLACgXVsze9afQCncgiCtIyIXPRj76UrohTVb67zLNyxOq4Qad\nx4H22Y/JDuBdS0CkxqlUR0BCfZKp7Ys5dmpw/ySDA7IAUSBoYXwYze7jySDSropFcew/Zcj0gMZC\n0Ii9TpVp4oZt+i639/DZYlKHtrTMWP7SBJ7y6Y0aEoxYKtjYAhrFDgM+YOjvfkmi40erKnyjmJCo\nQfsmqU8ctQ7mtG3x5TPuf7KOBQyhpv9oP2YDTTc8iVk4rN1OK+e3EfOlWlDmxyMgdADlaEyN8Jpf\nK4MLIts9FtnU8CubbF12LDI/BgXgW16FPQQJPWfKOyLx/dsCm+KUezythjAMgUtNVLDVQWjk05D6\n327mDF73+TXyJL8xofa1fCBwHR9suKMIU0KqBwNhpHzkINvJFjPgbVJGPA4kg0E5Jpwk/R54sr8t\nU35Q25yIrUPGQg==\n",
+    "pieces": "RJW7k+sP9RUnFVyEW9pHuWhKRTrpeXQNXV0qfLx2ceJPriWiBOxHKqrUg7r7v7WQm+X7S8u4Zyzr\nklvQMzAIUy/tIHtsGYUxwwIb7wHwuEwNLH4yxSLZ2VGks/KKFgEf6OboipXs+YPw8Hk5jyliZe64\nKH4x70OgmgVpuwYIWgQVA/fG/KRKnGYYizd0ROiX3QVTN20kldJqPdR9YT5vcc0mHRgsomb+XHI0\noTBRZcm5E8jXmfwnMLzPd7EGnoq1KuQS2nAe7Bm89yITU0zuB/sXpAUDxwpUJokJtfb0PH1vAntc\nXpXt2jxufoouMF8yDzUukpDJmDvD+y+FJ1sLlK97FCwEbpcI+VUI3Aduyl8uvdtfAj6ZRjMuteqm\nJXMjLv8Rkp83rp8xU9LU6g15NdD4dAwXN8rv42/3wzSZATHGLrkCOx1fRvlL3TkdnqI/NgmgZHRM\nKwJ3qXLn7vpcPsmRNVDOnqvcn4Y5E2ostx4yN21os+kaiVbAEyDJZ3XcteD4EVwPcRQ2LE8hFCEi\n2gP09wsqcQLDVB2+ip/XMjbhbXK8BvNUnGf9HD8q0UJDnEqN76xHkZeT6ccXzfQmbbrNGDyRk3qg\n0u5dbisPLJAwvyOgpO35BLB5npoRkGPJmSZuE0wTsAbZmHaZZijdbvAjFr/oFdMm0vabbvPFyRnY\nQuVtk88E3CG0pf0h9ixfeyaKZgEIZN0SSR597qrI17OgeEkk5sC51ivYRbSuQ+i09IgBm2I1raQ3\ngevghedxEQugaw==\n",
     "private": 0
   }
 }

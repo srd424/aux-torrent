@@ -7,5 +7,5 @@ NarHash: sha256:12d2kimsif18xspszgkzqh128vk1h7rmrrx2szrq2gvb718cpfsj
 NarSize: 74392
 References: 
 Deriver: g6mgv53zbnmv1ckmf6mmclnvac0gaw62-setuptools-scm-8.0.4.tar.gz.drv
-Sig: cache.nixos.org-1:Ov8J/vDNBPqHBjmfs8LiA0Wi8gbkBcPh4e4trOrim3kOX5K4Duh6/hLHDEf34SpNQIPrtdOVdblNSVKxB4qvAw==
 CA: fixed:sha256:1iwm3hp3mm864m5snv0rrdyiv7gfchaqj2gxjd8mjs86h3v3zx5m
+Sig: cache.nixos.org-1:Ov8J/vDNBPqHBjmfs8LiA0Wi8gbkBcPh4e4trOrim3kOX5K4Duh6/hLHDEf34SpNQIPrtdOVdblNSVKxB4qvAw== aux-cache.dev-1:xbKpi71owbUqcIu2u2mMpVsgbqtKJirOTfFwmvorB8WOrfCRhBsnuawNbk31sqah2KU0ti3kz3VOg4S6QOSFDg==

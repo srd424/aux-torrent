@@ -7,4 +7,4 @@ NarHash: sha256:04b000pq3b4q0zdrakxgzawjrhqwx2xlvpg62qby2dzmngiwhxbs
 NarSize: 392184
 References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 kn4nx5z8wzf5hqj8x5js0r6c2zb8yvc8-db-4.8.30
 Deriver: s0mck0dmr5sf5zym4hpq2zqzwlqlzmfl-db-4.8.30.drv
-Sig: cache.nixos.org-1:jp35au3G9xH2wwUFxWkgAhvSYxAAVLWcTusU4re92XQ7DQaT3ra3xkZGhMG4fpvcMFsoBj0vGd0Q3IGmbYD9Cg==
+Sig: cache.nixos.org-1:jp35au3G9xH2wwUFxWkgAhvSYxAAVLWcTusU4re92XQ7DQaT3ra3xkZGhMG4fpvcMFsoBj0vGd0Q3IGmbYD9Cg== aux-cache.dev-1:RXEFCVY+DHSYUTY7cI/fB8YquNpKVFq2BrxNOdbhne/VNGrmTB8RavnRZDcFKGgf8mlrFi0REkopxBzfBTzADA==

@@ -7,3 +7,4 @@ NarHash: sha256:0i9h7mrr6jbhfz7cjb4yxc59lm6jdvm3szd66nvc1665cvfnpqy2
 NarSize: 3424
 References: 3q9vpdf0bqlbqr3s867nisz8phx4c9kb-tzdata-setup-hook.sh 7w9r32drwab429pwycrjlxxa4zg37mfb-tzdata2024a.tar.gz.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv js91nv3ryr5clpnf7j3f7kh3rmfd0anj-tzcode2024a.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:1y2mkd42wk1midi0c37psxpnxrqj1hy03gr5fh44q5w6fs7l5i9l
+Sig: aux-cache.dev-1:qWbFP+c5DVXHeN1ns5CHJdE+Wrm52+kQQohiCIWDZIlAEIAZnhv17CJHOjidDVJ9sAXg0ltE/s3a4LZmPpNQDA==

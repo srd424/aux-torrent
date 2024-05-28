@@ -8,3 +8,4 @@ NarSize: 211488
 References: 
 Deriver: 10i497fl3ml6wxa6nmgaa5gyqsppsfqc-source-github.com-rust-secure-code-cargo-auditable-v0.6.2.drv
 CA: fixed:r:sha256:0kv0vbzija889wnfsjkgm0hz295ymhfp15pnxzmajybgs73k64hi
+Sig: aux-cache.dev-1:96Zw8gcBhyozZXdt0/0IZF4rL56YxscltqDQUvNYNRjVYgp9bXQQeq5EnM4ec/0ZtEq6N8mddNrGgP+FguUFDA==

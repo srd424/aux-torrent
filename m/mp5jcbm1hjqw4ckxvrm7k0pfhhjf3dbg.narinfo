@@ -8,3 +8,4 @@ NarSize: 21269608
 References: 
 Deriver: 2zsw6v5l9zzhslrrdqpljnb425njg1pf-perl-5.38.2.tar.gz.drv
 CA: fixed:sha256:0pk581zmfqj7wgsh1jlhpj4d8m1sajbs9535glybidqy8ls1b8x0
+Sig: aux-cache.dev-1:zaJoggchvmKpByoYYmWs8f1UvW+N3MVFmK5KBPEO2q0TbbW5KudmravYhi92OrbF7IXi1r6/yVnnEoxeXLfmDw==

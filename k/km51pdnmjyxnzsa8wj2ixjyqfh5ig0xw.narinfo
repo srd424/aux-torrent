@@ -7,5 +7,5 @@ NarHash: sha256:1g3rcl8dxfib7478wz9spfjlkvm502i9l6hsgcr2vx3skm722p61
 NarSize: 1120
 References: 
 Deriver: 6vyz72jc7421fywl7a07rwhinv06j0vb-rust-1.77-tests.patch.drv
-Sig: cache.nixos.org-1:1b4p6d5c7ZTAUrZI9kpndz/mJEPhZrojfRtjOy3s92UVDh/odV9LrMkL7kOzF8Cr9bc9QQaSusn9JCmAhqBsDg==
 CA: fixed:sha256:16jzcqyjmsii55qjf5a7xfp0q46g30w9vp4a2fggs2wjx2qldfai
+Sig: cache.nixos.org-1:1b4p6d5c7ZTAUrZI9kpndz/mJEPhZrojfRtjOy3s92UVDh/odV9LrMkL7kOzF8Cr9bc9QQaSusn9JCmAhqBsDg== aux-cache.dev-1:gRxrrhaPQ1x4mTSY/1whEE4ioKZUQKu5QSvo3SQ5gOy5S8adbGk0NXEOgqnF5ahlrF5vYIK2aibfrwongcJbDA==

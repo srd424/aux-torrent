@@ -7,3 +7,4 @@ NarHash: sha256:0wab6qw3k14vwfmgxg6ssscix90jr4k16xyfj3zcajxzb8j6pfcs
 NarSize: 1448
 References: 00yc5fc9s35111qvjzcbfwf0v9q0m6qx-python3.11-bootstrap-installer-0.7.0 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
 Deriver: sxkw5hwxwc859cw5b7vpggz78z59z9lr-pypa-install-hook.drv
+Sig: aux-cache.dev-1:zk3AN8CBwIpttvZHsn3CJCWTNMtsaLLGQhsk1FKgAhGBwUL9qzi/vyUSJ20YKgJ8ypZsxGWl6/dqOtOJ68o3Bw==

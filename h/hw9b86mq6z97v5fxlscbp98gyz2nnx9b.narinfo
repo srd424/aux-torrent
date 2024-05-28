@@ -7,3 +7,4 @@ NarHash: sha256:0rmzf0a84a8qaxcsvsvinwl2g08j7rmsrpnr9garv4h5yk6xw9k1
 NarSize: 123664
 References: 
 Deriver: 8n5qc7crfsczgqdkdqwv1zyanjsnasx6-audit-3.1.2.drv
+Sig: aux-cache.dev-1:+rKGBeuMDd0zIhZwc/JMggQH0n5+vRJoqImmYwPVpWL1DAqdJVs0XCqq0cHi5Tv0q0ODpvzshY87FQBFwSbACg==

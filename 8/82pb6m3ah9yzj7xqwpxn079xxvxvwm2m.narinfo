@@ -8,3 +8,4 @@ NarSize: 1767608
 References: 
 Deriver: r1rk0kz1di84kmj2ixnzwhwv26n8p4i6-source-github.com-awslabs-aws-c-auth-v0.7.16.drv
 CA: fixed:r:sha256:084b97qq63awirqk6zg4gq5lvcahci5kw1ydpzj3m102iazh3azg
+Sig: aux-cache.dev-1:kEfQ9UjW1ShANqJ/Bps01fP8z69FKsn8GryJWpkQ0HRnrS/D5Ghqo2Vfttl2qMmIVD+KcKl+Lc9UPHz4ZDWfCw==

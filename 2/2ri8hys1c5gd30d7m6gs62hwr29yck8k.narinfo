@@ -7,3 +7,4 @@ NarHash: sha256:0krdmg92p6s2ch6awzzajy28jxd2l8jny6q0zns5r11gc87fz1bw
 NarSize: 2856
 References: 4r8s8hcwyvvvnpcncps09zscqkh5qapx-no-install-statedir.patch bajiwq8lwvjlpc2mhpnfpng4z9l13ij7-bootstrap-stage4-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv jxhwnvkpxrbl5rrf01zf3cf2p7v215pb-findutils-4.9.0.tar.xz.drv lzjr2xyvw2z2rln5wn1v6y8vs0rv8kvs-coreutils-9.5.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:0lxw10y9f1rxqr5ylp8719wjf8ijn62mpk9vr14pyn8qvm49iz3b
+Sig: aux-cache.dev-1:la8sWz8ZqI1TCc8zg4rVr1TQY1zOPEMbJ2xk2/5d25m8M4eVhq0uZsdfFWGFtPjGga80b7KWDMDyIG3AFl9RBA==

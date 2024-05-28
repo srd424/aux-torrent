@@ -7,3 +7,4 @@ NarHash: sha256:1clwhpmkmz9djd0g4b24pl8bzlhhns1j5mq6qcaxdl6j381f60k5
 NarSize: 568728
 References: as1s4qqpn51n8vm7jr8dsz1mgsmc3682-fmt-10.2.1-dev gmhg10czq34gx4djhrdv3clfy9fswq5n-fmt-10.2.1
 Deriver: 6gcnll2dz57rl86axnny4y5998m63ixq-fmt-10.2.1.drv
+Sig: aux-cache.dev-1:7sx2CJnZ+rNkgFWLICHy2VWvpJ9FaUEVT1ZkEwk3/oAbYBXP7sEgISxS3oVHwvEmLFQfH/frFYL9OsUEHnfiBg==

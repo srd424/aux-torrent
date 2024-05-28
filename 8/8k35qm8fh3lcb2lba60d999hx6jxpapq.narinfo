@@ -7,3 +7,4 @@ NarHash: sha256:07k1fmik1bif6i8bji7z9wxy18386jrr4had4594bkpwgf0cbi63
 NarSize: 58513104
 References: 8k35qm8fh3lcb2lba60d999hx6jxpapq-lix-2.90-beta.1-doc
 Deriver: wwyzxslkl22irg8xl4187x8cg60y5frz-lix-2.90-beta.1.drv
+Sig: aux-cache.dev-1:8WbYjsEq1M9VAHSawpePLIEAbH0T1DFbyPofDYLtetfbHfM52K2lFs9TWvGKBa0JEETsD7zFp5xGURFk2Y/KDQ==

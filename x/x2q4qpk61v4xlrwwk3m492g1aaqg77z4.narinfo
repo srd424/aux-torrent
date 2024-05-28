@@ -7,3 +7,4 @@ NarHash: sha256:0azgs3n7j16sr0kabif87zkp5abq5x96zrcx8ab2371vkd50rw4z
 NarSize: 2160
 References: 3yar2pnvz7ll79z3jlzx09qnhrsi7zj5-automake-1.16.5.tar.xz.drv 4cmjzk8yr6i5vls5d2050p653zzdvmvp-setup-hook.sh 63yr9k3w83lb87h0yalrpn4avh734jiz-perl-5.38.2.drv bajiwq8lwvjlpc2mhpnfpng4z9l13ij7-bootstrap-stage4-stdenv-linux.drv fnbanvag7yzxd6ip1lrmdfynzawx2w8p-autoconf-2.72.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:1qsrjgi44ilgd7b955xxkznr7llhrvjfxl8a37yhsw4k850h0xll
+Sig: aux-cache.dev-1:nHUCPqyTMAfSEDyWC3wMvqkrGrHTJBw6LEhuLa1PhFim7FrOfWzYGO7xaylXjKMbq8L5y3v3ptSK0tZ2r1x8Bg==

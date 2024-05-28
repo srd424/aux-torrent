@@ -8,3 +8,4 @@ NarSize: 15294960
 References: 
 Deriver: m78m4g9ar1p03704p7175pwhqsdv8i33-openssl-3.0.13.tar.gz.drv
 CA: fixed:sha256:04z3v867icx4rzbr7zfsk2aamcwj1fm6cz7ss8kyqfwxyx9mfll8
+Sig: aux-cache.dev-1:WMM+aTPolxjJ7mLYFeovm6nOWKOaaKvmMIfkqtnPibW5e9TA47u4ZvJtwkjIkEN1lG2AKpa2qK2wvGC7JgZnAw==

@@ -7,3 +7,4 @@ NarHash: sha256:0zz1qd4x79qap81lkqivq5r5gmlvzrzvd217fckz2h6nwxw1qkgc
 NarSize: 555880
 References: 
 Deriver: 65lbsqrmlk11dabhlwddqav53mkny6ij-nss-cacert-3.98.drv
+Sig: aux-cache.dev-1:EJPUTMdTXwbgLISHPNimcpcxrXKg4dKvzqngmF4VTaqKc8q5drDj+PkcDW0JZ2VaCqFfFhkf3oCePKJDzdyfAw==

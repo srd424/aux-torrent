@@ -8,3 +8,4 @@ NarSize: 2681704
 References: 
 Deriver: 6q0hcsk5lf0zgnji2kccm02vlgz1qppm-source-github.com-awslabs-aws-c-mqtt-v0.10.3.drv
 CA: fixed:r:sha256:1i6295gzh6ili4x16ln8rmfr9049ciy9r3lz6vmmkd0ari61frri
+Sig: aux-cache.dev-1:FYViBtQJSp6bi4GK07eCsepvqF5gq3FQ74zG8M7lcrs+6Wnhis5G/3UUBP4ITYGHu1dZKlHrVo41/s1198d5DA==

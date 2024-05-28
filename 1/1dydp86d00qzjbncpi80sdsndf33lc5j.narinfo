@@ -8,3 +8,4 @@ NarSize: 528
 References: 
 Deriver: sjlm8agj6m3cpglc5v11d40cj7j6kin2-fix-static.patch.drv
 CA: fixed:sha256:0n982n5f2kq6dp2ybww5nbb2y0bxmcy1279clf6ifkcplx1lqwaw
+Sig: aux-cache.dev-1:m5CYr0USCfZi5hb+plwsyDjipQb/LOtYRsLQM04oqG89Pkwx2DeJNpoQz2BA/tmYJLAL3MbsUJds2Yka97I9Dg==

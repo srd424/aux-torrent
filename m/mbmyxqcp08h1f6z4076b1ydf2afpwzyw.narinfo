@@ -8,3 +8,4 @@ NarSize: 7536896
 References: 
 Deriver: 5wy0f7jrszr7gnc7kqn7jam1ijqwkpxa-source-github.com-pypa-setuptools-refs-tags-v69.2.0.drv
 CA: fixed:r:sha256:028mlp0d56h10a6vhcaqvjifsddwrfdn7d2sy0zqi7shh76phncj
+Sig: aux-cache.dev-1:aFvSB0YeZc/YpbL2GAdH/dYviAPEP4IMKi8PgQBhLz86sxPnnEnG6mDnBREaJiMWvUXPlmq13cl1wUo+qUhsCA==

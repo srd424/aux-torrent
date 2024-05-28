@@ -7,4 +7,4 @@ NarHash: sha256:10bvyy7biakdysv2jz61cylmxzfyj7fbwlbnq7h9zzyxzjliayxy
 NarSize: 18640
 References: 
 Deriver: f9xhx8w8wfyanygv17qx0nkl46n4wa9b-pkg-config-0.29.2.drv
-Sig: cache.nixos.org-1:4G1RvoXIp5e7Zaj/T/oC7bf74veaMqEgu02OHw3vuVPXOXYgsHXzbe/C+8jRJyxMEwiPq+sidcJWpPhJolYRBA==
+Sig: cache.nixos.org-1:4G1RvoXIp5e7Zaj/T/oC7bf74veaMqEgu02OHw3vuVPXOXYgsHXzbe/C+8jRJyxMEwiPq+sidcJWpPhJolYRBA== aux-cache.dev-1:FUYYHnjcWhGrGY9oXXa2MnvdzC9K+pAz3ZHhlmFiOG9Z1Q1eVyUNmqsQsce1tzD3CAlMLTHQw66gbAkTCrCzAw==

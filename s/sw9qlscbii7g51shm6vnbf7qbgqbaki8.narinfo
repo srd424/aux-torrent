@@ -7,4 +7,4 @@ NarHash: sha256:02q6b5sh9qan87w3fcprw0zpycxa1sc3z9z24z97zv2ipagy3rf8
 NarSize: 5292872
 References: 
 Deriver: szh06il6c8z91gg96p3dj0w4il46i8sp-sqlite-3.45.2.drv
-Sig: cache.nixos.org-1:N9box7EmuoNiFQuHF9WBTR14UtxxvCknY049Jy/0blk8G1jyrExBbsKfgymjJfj7LBi3PdhcM7gPlTiV4meHCw==
+Sig: cache.nixos.org-1:N9box7EmuoNiFQuHF9WBTR14UtxxvCknY049Jy/0blk8G1jyrExBbsKfgymjJfj7LBi3PdhcM7gPlTiV4meHCw== aux-cache.dev-1:GyBe8fJ89YlVrzHKErz9WtCdB2c9CSJxCeVfo7pZApZ2Kexzcgs1BEbxNtcJhuheVN8TGX8hLl90Xp2/06vrCw==

@@ -7,3 +7,4 @@ NarHash: sha256:195fscqjlfb013yg64pjxli77k0djwy56nkmg1c6zagslw2vl232
 NarSize: 6208
 References: 
 Deriver: dj51shsmi9b2130m89gx48vla284n0wk-rustc-1.77.1.drv
+Sig: aux-cache.dev-1:Y+8TXf6qih94Rj+n89ul0Sb84PDfd9dX7i0GIbern5rCiZ5PSebK1YIVwSWspymP0cewjWFLXLW+/FN1jS2YDQ==

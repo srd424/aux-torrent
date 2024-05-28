@@ -7,3 +7,4 @@ NarHash: sha256:1fix354cnznxnyyrqb069vbgbcm673cpl76ix94rd3rlyj01vk87
 NarSize: 3432
 References: 034zh8v1m3yhin6mpv5xgxcp23ii4452-xz-5.4.6.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv naa064r4m7rky5hs8ln0s11fdvxnrg7s-gettext-0.21.1.tar.gz.drv ny42y6hs4p294rvnrwbmrpwzqghw2816-gettext-setup-hook.sh p2fp6i7hjx9af1wbwr32k217wp2dxmiw-absolute-paths.diff v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash yqwx9yln5i68nw61mmp9gz066yz3ri99-0001-msginit-Do-not-use-POT-Creation-Date.patch
 CA: text:sha256:09amdqnli2mjhwv33vgcnasp53rki25jdya2z5asdi9rlpzbydd6
+Sig: aux-cache.dev-1:F0Dt6sW2cCu71XHN13ltu6PI5iKioKOdPZEC6bZBlbmoSnfRsqaL7D1DWnBM0OIZ9QmpdgAa46Fa2S+7HGhIBg==

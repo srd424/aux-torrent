@@ -8,3 +8,4 @@ NarSize: 22129864
 References: 
 Deriver: sv5vb189a3dzsv78263vwy4nxfsx8qm5-source-github.com-aws-s2n-tls-v1.4.9.drv
 CA: fixed:r:sha256:0wr3qbv5js5a9196wgnqrmv3ys803nv8n2f3c20kfgmg83xgjzb0
+Sig: aux-cache.dev-1:z+i63gBFcztftWbKy8xjYzCkuluuq4FojdnO8kLR1MGjXR1dhBZ/f3Xy5BFVrWptGbNM5vLfgHga8DxBbxRVDQ==

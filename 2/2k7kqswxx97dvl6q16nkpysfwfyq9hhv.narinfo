@@ -7,3 +7,4 @@ NarHash: sha256:0qxbllnhj28039qc2j60jp67pjfay1ydb2fn6ki6kgy6wid192pl
 NarSize: 2008
 References: 3lp4riw8kskp4ymaw514p3bdg4y10w7p-cargo-check-hook.sh 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh yk6v97xcjg9jgqd4zvkv70r6rvz8dc7r-cargo-1.77.1.drv
 CA: text:sha256:1gi92685224kpik3ngzn7p1vhlpj1p3k862ybgi61zgc4vskdk8i
+Sig: aux-cache.dev-1:TKCjwxkjGtpnsZGvZFyY5gQdPUtDKHB5ak2onO5V/jHSkIa6IgIR18CedCmRVNoWdsf/jwydwXwUdagUkf3ZAw==

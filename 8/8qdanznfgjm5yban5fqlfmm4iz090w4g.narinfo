@@ -7,3 +7,4 @@ NarHash: sha256:1fpbw3kwdgcibf4q3gpja60bkdzvi8312kixk4wbssn5wmn6200l
 NarSize: 13704
 References: 
 Deriver: m29xndcbcx4zn6avi3l9c2sl630w39p1-python3.11-trove-classifiers-2024.3.3.drv
+Sig: aux-cache.dev-1:9Y02Ea7bcXUq/zAZ77wA1Z6rNOiWFpoaywqjmeHyi2g7f8Wvx7N+unHHYUyBq0uY/gW2vVeCvgtbj/hbY6meDw==

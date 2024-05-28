@@ -8,3 +8,4 @@ NarSize: 4886784
 References: 
 Deriver: fd7x6bw5gp22rbin304hg75h6ik84j93-texinfo-7.0.3.tar.xz.drv
 CA: fixed:sha256:1gq7i01iblgfcwby1977adh8mab9vpq318vsz628wlkzkp821d3l
+Sig: aux-cache.dev-1:9GDI2vDFeNtjXqelJILgsCMRHOjbVcJMd6QjhDsif+bGvfUCs+XJr1/006AP7PiNxKrc/LVMb4DUdsNq6jfcDQ==

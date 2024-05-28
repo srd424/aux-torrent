@@ -8,3 +8,4 @@ NarSize: 3261240
 References: 
 Deriver: zhn72csr9v6c8nbdhjav4cfp1hg1rkch-source-github.com-rust-lang-mdBook-refs-tags-v0.4.37.drv
 CA: fixed:r:sha256:1dvrpa6mpyd09chfyaa5560bv21hvc5s4g8bhaq65b5yh6l55ih3
+Sig: aux-cache.dev-1:4tLFyHi3VIkbCa7s6m2bZ3gbaXafySiTw25ClaZluVvvzfuXrouqOlQW0RvkA9Qke/K+1WGFjwDZhY8BejYyBA==

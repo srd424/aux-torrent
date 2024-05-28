@@ -7,4 +7,4 @@ NarHash: sha256:10q0lb6b49ih392va5frcwcp0c3b0x81x2080xryx0rr9kk5hbdz
 NarSize: 82848
 References: 5iqnfq8sfpf7cr47ij6axi5f1aafbhzb-openssl-3.0.13-dev s4p547h4jpg856yxq8mms38hys7cmb5p-libssh2-1.11.0 sbv89xd9hvf4a3ng75686z0d9n0f2vhl-libssh2-1.11.0-dev
 Deriver: gr81c8lvn1jlwnams3bahnzwnrps6zm0-libssh2-1.11.0.drv
-Sig: cache.nixos.org-1:KKxPijd/PCoQiJ4dRKbh7zqN59+9iAd6IBBLMGr9T08lS7Z24Au2qT6yF+x9xlRqmNnu6kanqtkDvfM1dHSUAg==
+Sig: cache.nixos.org-1:KKxPijd/PCoQiJ4dRKbh7zqN59+9iAd6IBBLMGr9T08lS7Z24Au2qT6yF+x9xlRqmNnu6kanqtkDvfM1dHSUAg== aux-cache.dev-1:lhrZosEqt0OZ5QwA43Z2bANxyKKm6dC9p18xxC9/tmOHrhlau5uhgXGHWCLpyxN+ox4aJfvgdHI7k0y2jOSpBQ==

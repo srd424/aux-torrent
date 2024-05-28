@@ -8,3 +8,4 @@ NarSize: 1601856
 References: 
 Deriver: 3yar2pnvz7ll79z3jlzx09qnhrsi7zj5-automake-1.16.5.tar.xz.drv
 CA: fixed:sha256:0sdl32qxdy7m06iggmkkvf7j520rmmgbsjzbm7fgnxwxdp6mh7gh
+Sig: aux-cache.dev-1:IraUOxSUS8RBkBtKl6GmWr3ZFguyJYdjDlO/8ybg3ZxYHSzSqLOvPuC0j3k4KLZOv0DaYdoUODOGZcWz8eJtAQ==

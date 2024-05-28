@@ -8,3 +8,4 @@ NarSize: 2272
 References: 
 Deriver: 6k05dfl68y2m382xd5hanfvj7j8c73p1-bash52-003.drv
 CA: fixed:sha256:1zxsi869jd90hksx3nyypgyqwrxhw2ws3r6hmk76yc1lsgdhq2ba
+Sig: aux-cache.dev-1:TYpDh/2comS/HBHJ6mOUQ/yYEv9n7xjU5HCzVWkh0m0++cFfzOauXZSQpDDOOV4xPDf2j2vbzkchvSC/RVQqBg==

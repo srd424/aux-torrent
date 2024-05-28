@@ -8,3 +8,4 @@ NarSize: 1246616
 References: 
 Deriver: klfl82nqgac8fyl7z83q1i7rngka20d3-file-5.45.tar.gz.drv
 CA: fixed:sha256:10jdg2fd19h2q3jrsaw7xqwy1w3qyvdfzzrv9sgjq3mv548gb5zw
+Sig: aux-cache.dev-1:CGFahAF2Habkc8f1XUi3TYz5wUT1Fqu9KPHV6Jv05mTcwPJn90YkEnhZesKM9An98blyITfaTMrJe0AEpw0xBw==

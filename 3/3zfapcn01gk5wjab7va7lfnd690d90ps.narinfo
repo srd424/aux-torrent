@@ -7,3 +7,4 @@ NarHash: sha256:07g22r8f0s91i46lgd1jshkckflhkd1rqxh6pvnxw55g0512s2l9
 NarSize: 576384
 References: 3zfapcn01gk5wjab7va7lfnd690d90ps-python3.11-packaging-24.0 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
 Deriver: bh943yras6abqzmvnfwgzl765rs2s2nk-python3.11-packaging-24.0.drv
+Sig: aux-cache.dev-1:yLu4gnh1akJTPdiYSg4A4ZeB2SnBgJV55YOLb0IMQTsijLbiyJ5V6ZSIbx2u7jDk9c6yrDlCQCR6Ci9dEak+BA==

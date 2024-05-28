@@ -7,4 +7,4 @@ NarHash: sha256:08fgadivbx500pjjxvbsqzprpkahqwrjw0fn9jfiqsqr27zb91cq
 NarSize: 724024
 References: 
 Deriver: 02ri480g2pivcyb8y8cfd04lyhsk1p90-docbook2X-0.8.8.tar.gz.drv
-Sig: cache.nixos.org-1:opA/o60Ta+D7jppzpJsBUT0vbYdX3ABqFZCyGV0t1BS4vNky8mHrifdPxbq0eYOk/kWQB/Jn5Qs1WzwZ3xLwDQ==
+Sig: cache.nixos.org-1:opA/o60Ta+D7jppzpJsBUT0vbYdX3ABqFZCyGV0t1BS4vNky8mHrifdPxbq0eYOk/kWQB/Jn5Qs1WzwZ3xLwDQ== aux-cache.dev-1:ZSWAEc3hewxhjbzOkfAF6abdNGJ8+oNVQ86ZO7krrtY8vHA4RqwQcxo2d3G8+3HdKcb+0sYGS03VHgIPlNAcDw==

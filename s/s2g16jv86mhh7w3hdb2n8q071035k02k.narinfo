@@ -7,3 +7,4 @@ NarHash: sha256:0m32sdrip5yvckl4qdap4xf11pgsyr6av6kyjijib3yfjrcbi3cz
 NarSize: 131096
 References: 4w85zw8hd3j2y89fm1j40wgh4kpjgxy7-bootstrap-tools jgqwkk4jsdafjpiz0hr6j0k4ssim82s3-bootstrap-stage0-glibc-bootstrapFiles s2g16jv86mhh7w3hdb2n8q071035k02k-libxcrypt-4.4.36
 Deriver: 9q8jvl82j3mlqykjcj6akx0zw0ax8hcz-libxcrypt-4.4.36.drv
+Sig: aux-cache.dev-1:4tWCqK2cD9dQEj9HHEurq6BmtktF7sJiDd5xnO4S4L8pTSv6XUXqx6ETxMRVbLcL1t3Ms9dCMKir/K7FCzcsAw==

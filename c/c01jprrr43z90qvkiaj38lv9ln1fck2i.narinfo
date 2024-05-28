@@ -7,4 +7,4 @@ NarHash: sha256:1rjbmjgs5ib37z4lk31g4vbmc155rjrb07qrlw4phnfa5d9cdyhn
 NarSize: 2696
 References: vf8cjkgwmgd4sb3vkxh6x9iar71s1w1c-findutils-4.9.0
 Deriver: yd8c260yn36kvpj29isvjl6p13s1yf7m-python-namespaces-hook.sh.drv
-Sig: cache.nixos.org-1:xXugB6qqSnJkGxaDp9JtkHusaGvyp2Z1atu7rPU2mOXeD4jlGkjsLWXoU4IEgGo/g+MoCFbkn0pk0xf5tSHqAQ==
+Sig: cache.nixos.org-1:xXugB6qqSnJkGxaDp9JtkHusaGvyp2Z1atu7rPU2mOXeD4jlGkjsLWXoU4IEgGo/g+MoCFbkn0pk0xf5tSHqAQ== aux-cache.dev-1:wddbocqnzZQt4XKA3YnmjMcipq1Hhov9BWtOzzj/SYbOVlHkmnzicOQVwMwCesiCqJAEzNa8wGm2fkLC9Zx9DA==

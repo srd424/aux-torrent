@@ -7,4 +7,4 @@ NarHash: sha256:0liyi4m78z6vqmwdwqlcf1n3n9wv0dshmzg04nh42q3wjc8wqk27
 NarSize: 320680
 References: 8k1523fdl2nm15zlrdxdrpf0jr8610dj-bash-5.2p26-dev dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26
 Deriver: jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
-Sig: cache.nixos.org-1:lgbBc6zVqD4cxIOGV4Uk4mo7ehclR16qsAf1A07dyAqt/P+kxz+u4/qS3WF/SlUw3sX5UoLUCTS1Vx2tzjzLCA==
+Sig: cache.nixos.org-1:lgbBc6zVqD4cxIOGV4Uk4mo7ehclR16qsAf1A07dyAqt/P+kxz+u4/qS3WF/SlUw3sX5UoLUCTS1Vx2tzjzLCA== aux-cache.dev-1:lHwsELrvxP076IRYHIV3Axvdg0IeVFAbVyN+AAi5D5VS5XZN+ZdsqOGbdl9yLMF9ZmNBeXk9gXOWSyCRnhK0CA==

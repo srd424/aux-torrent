@@ -7,4 +7,4 @@ NarHash: sha256:119sanj8j3k8wnvhgywh4q8zf84j0aka39m97hshhldcwnjy3rvm
 NarSize: 1808
 References: 
 Deriver: qnb1l872qrzgqj18f2kkc3l3n63jv20s-cargo-install-hook.sh.drv
-Sig: cache.nixos.org-1:jb9hj0UoRBZ94+ab6qk7A3SW9AdNqRCGnff8G16WdLmYXgq/IFN47dK27nk8ppb7c8odgjYJ48mqfDE6cn+fAQ==
+Sig: cache.nixos.org-1:jb9hj0UoRBZ94+ab6qk7A3SW9AdNqRCGnff8G16WdLmYXgq/IFN47dK27nk8ppb7c8odgjYJ48mqfDE6cn+fAQ== aux-cache.dev-1:4z0G1FJPXsOWF8cq2W2+vIyscdJoED3s4cLljvtxQApVieKr7YE0hOfuKX71wQQBvHd6WOWUENL8Jv3MDimADg==

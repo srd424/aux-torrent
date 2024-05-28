@@ -7,3 +7,4 @@ NarHash: sha256:0l99hb8mwlbb6d9lw8dcd4akklqq4w2wwgi9vg2yy2qx86nfbssm
 NarSize: 1888
 References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv nvf6dqdvimiw3s84xcc91g3q8ymlji48-mailcap-2.1.53.tar.xz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:021v6z2avkl4z09zqz9qjk5mcxhmpkpc2nvvwqb1b0d8z4lic61r
+Sig: aux-cache.dev-1:IHuUbFO8ltx6pHVjyPNJ8BQchYLWKt/OXobnrxfddpu7OIoN63Q2oG+v8Qwy+Fw67Ojy+HXXWIhkDVqdPUgYDw==

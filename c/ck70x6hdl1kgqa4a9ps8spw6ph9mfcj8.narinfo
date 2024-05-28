@@ -8,3 +8,4 @@ NarSize: 1939000
 References: 
 Deriver: rwvhsf6hna1j3sgw20f1b4gl9mp5w9vr-libtool-2.4.7.tar.gz.drv
 CA: fixed:sha256:1a79h7af671gkcmw25h0chn744jf58ha9ss6qn8caw7a0hj6rs84
+Sig: aux-cache.dev-1:L+LHFG2ByE92AFlMrTm+GpW6ESXlEDsB38mvZdyi5Rpj/iBxV6OY8SEOYJHh58Uc47ioqeoWDplWe1zy88DdDA==

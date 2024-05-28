@@ -8,3 +8,4 @@ NarSize: 3424760
 References: 
 Deriver: 84ipjrzija084lsk485xvcpjr267yvfn-source-github.com-fmtlib-fmt-10.2.1.drv
 CA: fixed:r:sha256:1jnxh9cmj0x7r280lpwm27s8kxaq3nz55zwhrbqrsb87n0c6sjd4
+Sig: aux-cache.dev-1:e8hIliBxJyZKEc1XbwdodGzjHNe6ksuPdhJtIyGdlsBe+jcwZKG/YGRjjJplFRbnxBM9naXipf8FHKNJenV3AA==

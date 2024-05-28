@@ -1,7 +1,7 @@
 {
   "announce": "http://bt.aux-cache.dev:9996/announce",
   "created by": "Transmission/3.00 (bb6b5a062e)",
-  "creation date": 1716813559,
+  "creation date": 1716917400,
   "encoding": "UTF-8",
   "info": {
     "files": [
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "length": 601,
+        "length": 706,
         "path": [
           "qvdkwfhxzdys6rdsvybh6blmlv2ljy55.narinfo"
         ]
@@ -21,7 +21,7 @@
     ],
     "name": "nix",
     "piece length": 32768,
-    "pieces": "884bSZJrrkcuRDujvlyAplDS25duz979kWCJzZeEqsjp8SCKJh0NCEfXhL7+DIvlkFM8uxV2zM3z\n3toL8ekgAeOma1ZXsLsMbKWyD0ILaBlNypz/U3AB2s9epI7f1eY62L2RfZMsRLj3MdNelzgB/euC\ntpZfESMhMr3amq7T7Bj1jLwfwEEB4xJvLRo8ZMf5/v/1cbrkzr9gOvwyHCIRl+fLm+3UrJhmcZOt\nNo8jMx97kgJtrOZyvrUKrwP8htyp6+60UOVhiVH508TryWjZofpmBo0tjgf/pFye5MlXp937E2TI\nlDuS1cU0E/V+joVaNPg82WleGYKRZe2R1+GGd/bjTu8vOr58uz/IRKd2kEg/SVMSFUDrdfQ7Qr0O\nf4VMHREUmVqOVs0+aez11RGhJW3oNPsY7Q2aLrta1Cf5xwxVEUqcI0caWtCDiqnOpPy36PtoiLni\nOcojMkhD90kuSzgT123ous6REA9TopY4DGjs1hp0ko7F/w+JvEuSxi0mcWO5EYacVawUiozzWk4n\n7kaoFnNdtK9X2zm+Cx81CqG/vYekYT/S0GsPKW+wnK4Zy8dtR/EQqZCzeLq7jXff5e3K6Efxb+z+\niZAY9nZ+7KEg6A4ittKmXGTas+q77zAI0ex5f1mfUSVzaR88cr1yiLa9wHlOR307fhgpN4fuYRqs\ngo//+NzSehoVPw6YfA030lF5hW86ARzYq2btBzshdzpAVVl9vlZvd1Vtah6HNytTE0PXIdNM8xxM\ny1jJSIvr8Vbi0sDHxBW+HyFKrFh/puSWjQnwklhnpg9fGjWQ8LZ8qYjHth7f17aGwLsIVinSpbvw\n9bsCHF9o3TGhrjAMI+wBIFPm3wiB+333jJexenEKLEd9\n",
+    "pieces": "884bSZJrrkcuRDujvlyAplDS25duz979kWCJzZeEqsjp8SCKJh0NCEfXhL7+DIvlkFM8uxV2zM3z\n3toL8ekgAeOma1ZXsLsMbKWyD0ILaBlNypz/U3AB2s9epI7f1eY62L2RfZMsRLj3MdNelzgB/euC\ntpZfESMhMr3amq7T7Bj1jLwfwEEB4xJvLRo8ZMf5/v/1cbrkzr9gOvwyHCIRl+fLm+3UrJhmcZOt\nNo8jMx97kgJtrOZyvrUKrwP8htyp6+60UOVhiVH508TryWjZofpmBo0tjgf/pFye5MlXp937E2TI\nlDuS1cU0E/V+joVaNPg82WleGYKRZe2R1+GGd/bjTu8vOr58uz/IRKd2kEg/SVMSFUDrdfQ7Qr0O\nf4VMHREUmVqOVs0+aez11RGhJW3oNPsY7Q2aLrta1Cf5xwxVEUqcI0caWtCDiqnOpPy36PtoiLni\nOcojMkhD90kuSzgT123ous6REA9TopY4DGjs1hp0ko7F/w+JvEuSxi0mcWO5EYacVawUiozzWk4n\n7kaoFnNdtK9X2zm+Cx81CqG/vYekYT/S0GsPKW+wnK4Zy8dtR/EQqZCzeLq7jXff5e3K6Efxb+z+\niZAY9nZ+7KEg6A4ittKmXGTas+q77zAI0ex5f1mfUSVzaR88cr1yiLa9wHlOR307fhgpN4fuYRqs\ngo//+NzSehoVPw6YfA030lF5hW86ARzYq2btBzshdzpAVVl9vlZvd1Vtah6HNytTE0PXIdNM8xxM\ny1jJSIvr8Vbi0sDHxBW+HyFKrFh/puSWjQnwklhnpg9fGjWQ8LZ8qYjHth7f17aGwLsIVinSpbvw\n9bsCHF9o3TGhrjAMI6WqS9QWsb7aAOfHo9NPP2PVY40n\n",
     "private": 0
   }
 }

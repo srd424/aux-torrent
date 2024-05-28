@@ -7,3 +7,4 @@ NarHash: sha256:1p2gdncs0rcjpwlk8mfl4dqzhp0d6m83i1hbj8zqzlamg1yq1nni
 NarSize: 938200
 References: h4wvagbd667pnlkw6f3fl2gsirlbpysy-nlohmann_json-3.11.3
 Deriver: 4kny633kwfx7qcknbq0rvbkdv0fzdirv-nlohmann_json-3.11.3.drv
+Sig: aux-cache.dev-1:slgeZeNlXe3xm1dc6884lgu3KI5VH3D15mhZzP9psFcgto7S22ByfHnNo2N60JG36eISgS2pOFiH9QI+3eakAQ==

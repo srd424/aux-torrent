@@ -7,3 +7,4 @@ NarHash: sha256:0yc83iwhd9f7jrz8s14gb4x4shrn7vbbp5vyhdc6w4bmsxagzzsg
 NarSize: 2840
 References: 1kvr4k6xs8v1h2x6vclfwkjg64zrlfxn-bzip2-1.0.6.2-autoconfiscated.patch.drv bajiwq8lwvjlpc2mhpnfpng4z9l13ij7-bootstrap-stage4-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv mhrxc5w6drwi4m5ykbdrayz7869i9mx9-bzip2-1.0.8.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wwc7fll8n6jhsrw4ip4i1hpm2m57163y-autoreconf-hook.drv
 CA: text:sha256:151sbbbsrjp2siixbd3qpm320dg6rqkw48373pnbvndwbmjzbipa
+Sig: aux-cache.dev-1:e+lTZY74fAykHW8Vyu12Rb6h8gxlV/AVLhQ8kQtRUKvkqABqHZ8psqrYPetT6p7FkjnQ6Xbq+yjIng3+s97HBg==

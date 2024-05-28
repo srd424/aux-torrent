@@ -7,3 +7,4 @@ NarHash: sha256:0w295f751mz8319kfl3h7bfqgb1fswxpkgf95f35gjxdmmr1wq9g
 NarSize: 2136
 References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv r7kmamc341zlp75xrqxb9k291gbcrm6a-source-github.com-nlohmann-json_test_data-v3.1.0.drv s2k9ww3v8wnvpfbpwhz5k7jjqk66z98c-source-github.com-nlohmann-json-v3.11.3.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:05rg35c6lznbn1yx72irqh9snn25madg00dsq993q2ybqr3ri3jf
+Sig: aux-cache.dev-1:PlU6oB4GIjnMpE6YJvSZGOhXQ70Bn/1694roqMKA1gxTh+5rLuFq8k+KNlnNvbJKQ8RkrIHodLHIBHCZ8KVKBw==

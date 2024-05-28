@@ -7,3 +7,4 @@ NarHash: sha256:02kx62vc4f2gqx5c71hmmlfsn47igykx71x3j4jy01y5h8pmq7kj
 NarSize: 204288
 References: 
 Deriver: 525xgkh2j80058j8i2crj5kz7yq0sldz-man-db-2.12.1.drv
+Sig: aux-cache.dev-1:2H4dGnx73Y5buljFodyGTZiDAuFUxWVAsvNO9td4M1O4yuPsBWRP74GrN7NwP4MloJK7bcsa/asv391GI80MAw==

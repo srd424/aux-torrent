@@ -7,3 +7,4 @@ NarHash: sha256:1faxjsf640vi2b2ifszj31kpvxb9h7ac1hfvkz29v95rz7wkvn6a
 NarSize: 574000
 References: 
 Deriver: mngd5187csvlijbpzql991yd89msxjaq-python3.11-bootstrap-packaging-24.0.drv
+Sig: aux-cache.dev-1:CGt063RF2Sa+o+WK4oIiXp3TafW3zJ3XUsabRzCfrTIuqoiqhXerOcZ4hAcKs8bPkD7xYSzq0Ik8HnH6DTKoBA==

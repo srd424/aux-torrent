@@ -7,5 +7,5 @@ NarHash: sha256:0xyi6gwzfbyxi6iz92ccfraaajjrhim3s20zp1vf1760bx7066i7
 NarSize: 19268232
 References: 
 Deriver: pvqy51dlabc15af5xcqv3hcd881mzp20-mercurial-6.6.3-vendor.tar.gz.drv
-Sig: cache.nixos.org-1:lDD8IUf1WKkOvwPIjBpe8NE11043IiiURD2gr9kMSPjiEQ1+p6+Tm5rWBAE5V0MNhlFdhBmWFUo8O2yd6WZaCw==
 CA: fixed:sha256:1fsax861vhn51p0sx2n06s0w2nbsvrq62svy4dahlfh6hb1776qv
+Sig: cache.nixos.org-1:lDD8IUf1WKkOvwPIjBpe8NE11043IiiURD2gr9kMSPjiEQ1+p6+Tm5rWBAE5V0MNhlFdhBmWFUo8O2yd6WZaCw== aux-cache.dev-1:bHBThfR549i1dIdmraCMzal5yz3veiX5Vgm2lkHxaRZdYaGPDJY/wE44BQE/l+xdFbdqdnygQPpGQFXPFlNNCw==

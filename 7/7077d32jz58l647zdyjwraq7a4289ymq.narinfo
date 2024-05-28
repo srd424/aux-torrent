@@ -8,3 +8,4 @@ NarSize: 5714032
 References: 
 Deriver: ww6yxg3vd5zkna936idgxlz8i99rb48f-source-github.com-asciidoc-py-asciidoc-py-10.2.0.drv
 CA: fixed:r:sha256:1a5mhh42ihjggh54b687cqx5a1mawl4nwgb7x6fyvsa1vk3v982f
+Sig: aux-cache.dev-1:vy9qx33+DgMArcaEiO6L7RMkaIKKPTqK9O953diMWThkhx3K+2sMcXtNqNYFXaq/wM8cDad1ujDHYtg5syTwBw==

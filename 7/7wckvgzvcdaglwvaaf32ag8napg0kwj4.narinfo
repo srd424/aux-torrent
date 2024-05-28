@@ -8,3 +8,4 @@ NarSize: 2629808
 References: 
 Deriver: 3ypz1nza0xwvc426q60ykbbzpdadc84h-source-github.com-awslabs-aws-c-io-v0.14.6.drv
 CA: fixed:r:sha256:12q2p3fcy1psbik0ijrik059vbnxc2b7x255m3aacc3a10d1xsbx
+Sig: aux-cache.dev-1:802PO95/XEQcrFFhbx2zkYECbHvmvAjvSwisXHN9aLNZq2OI8eeNP3zav/2cMS7HAlIJVoCa6qxBBKLSQfJlAA==

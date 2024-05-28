@@ -7,3 +7,4 @@ NarHash: sha256:05bk21ibrab0jjshqaxx8fhv7hsdj4zj5a91c4mjg3jrrg4zarm0
 NarSize: 13928
 References: 
 Deriver: 0wk23552yfdxr8y0ry9gvsy78hv9klk6-e2fsprogs-1.47.0.drv
+Sig: aux-cache.dev-1:K4CiAYCvtRBb/GAyvVU7IltIVjconI26w9du97fP/bBx+JFndoedQWovudnIWTxiaMv1goAX0CJFA4LxXbcMBg==

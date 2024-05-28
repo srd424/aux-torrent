@@ -8,3 +8,4 @@ NarSize: 1067792
 References: 
 Deriver: yx6pzknaj6v12yba4a0hn6d2sv10pcrq-source-github.com-pypa-installer-0.7.0.drv
 CA: fixed:r:sha256:1w2zirinq9qxm5ywjmqayqax217cxz6hvzcsrdd5l0mm9y2y04dn
+Sig: aux-cache.dev-1:rTWtH+LSoeueMwakbCIjbLLamYPkUu4fd+RYVPWzuzIgLu3eIbjOoZexg67zdLSLM4Xhu3JPQV8yDJUKHF+ZAQ==

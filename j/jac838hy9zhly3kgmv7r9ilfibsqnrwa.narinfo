@@ -7,3 +7,4 @@ NarHash: sha256:1k92sz2d76sfi9wb5lh6rg4yh1pkv3acqxfn3j7cj3ay8a78s529
 NarSize: 1952
 References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv n3m5lyi9276xbg81n2gg15h3qykiil84-fix-windows.patch swrqzgpkgddhgiw5575bv9vhsfww6chy-libpfm-4.13.0.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:07abzgnnsypndh0js46hy1bv4w5bqczd6f53h7zx217srzc5nv3j
+Sig: aux-cache.dev-1:I0bKkKqk9ne2umEjFT2IS5nhe5W1YGxE0wcBKJY6eVSVXaA3qCong+wrcY+CNmXUcwrNaEJfgS8HUo6Zz60oDQ==

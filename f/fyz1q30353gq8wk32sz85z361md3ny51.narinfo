@@ -7,4 +7,4 @@ NarHash: sha256:1dsvpqlksdbj26faimrdx2vk88942964pqk30z8qw394a9fdf8v4
 NarSize: 3864
 References: 4kwk49k8rc8cg8c387kbbjcrl8i0y693-gcc-wrapper-13.2.0 q0hmsd1h8bph16h58w80nafjg48yqdbw-fetchcargo-default-config.toml ql4y72l42lrlbk8b4nbfvnc5m0nlp2kk-diffutils-3.10
 Deriver: rpm7g0vcjbwfgaipydmc0xg26ax0jmdp-cargo-setup-hook.sh.drv
-Sig: cache.nixos.org-1:Jk+WyA3XeBMZnf/tku6xaB+cSdNzffgURR/f3wL0Dd+ztZKsrrsCihAbUWhhASoTOyHfrmslmCqnTGJ//CRtAA==
+Sig: cache.nixos.org-1:Jk+WyA3XeBMZnf/tku6xaB+cSdNzffgURR/f3wL0Dd+ztZKsrrsCihAbUWhhASoTOyHfrmslmCqnTGJ//CRtAA== aux-cache.dev-1:bs7tmDqrVH38CgTE3ojNemun+0NhSS5KXWuo9ovFUizrXYBcJg7vGFfFowcqp3VhN2wDBXpSkBNg/yVHg71PCA==

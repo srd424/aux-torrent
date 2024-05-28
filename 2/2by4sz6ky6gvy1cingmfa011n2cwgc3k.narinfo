@@ -8,3 +8,4 @@ NarSize: 1039800
 References: 
 Deriver: i70r97dk9b2dxakfkzsf01nh04byjdkp-source-github.com-ninja-build-ninja-v1.11.1.drv
 CA: fixed:r:sha256:14kshkxdn833nkz2qkzb3w531dcqj6haad90gxj70ic05lb7zx9f
+Sig: aux-cache.dev-1:xZ72ATrhaLsihZjBXomptlO697L2e2Ill3+i4zBQxey9Fj7Tfl6pam+U0A3i2XNJ/RpIrE9NeTkSuXSXz34rCg==

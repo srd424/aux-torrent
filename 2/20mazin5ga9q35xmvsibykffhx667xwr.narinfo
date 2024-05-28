@@ -7,4 +7,4 @@ NarHash: sha256:0a62wz5pghw1bngmypg8jr0lm5fim5128gyrlvlqr6w9xrcdk7rj
 NarSize: 9480
 References: 20mazin5ga9q35xmvsibykffhx667xwr-perl5.38.2-Digest-HMAC-1.04
 Deriver: l47zcxq8yvd4gvn5m0y6qazfjmbhwhrr-perl5.38.2-Digest-HMAC-1.04.drv
-Sig: cache.nixos.org-1:DV5SnupzHIH6G6EH8JZd+im22V3lz+Fe3GUM9IweVjCJTAyJSVLkMeuvfjkblMvf15bSB2azbc3NbV+WqVdLDg==
+Sig: cache.nixos.org-1:DV5SnupzHIH6G6EH8JZd+im22V3lz+Fe3GUM9IweVjCJTAyJSVLkMeuvfjkblMvf15bSB2azbc3NbV+WqVdLDg== aux-cache.dev-1:ImhZWDvjq96mkiFd27zhG+azEWz8h2qlWqu7jJBcBnuNYP6vTQpnfPKBmfzd1XyFGgqamWV2FC13Vzwnq+KtAg==

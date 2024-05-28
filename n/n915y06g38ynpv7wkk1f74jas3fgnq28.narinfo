@@ -7,4 +7,4 @@ NarHash: sha256:00wv1nwpy9n041bm89lwdvm1j85cjg2hcz0z84lgrgfvgz5rpnl6
 NarSize: 1144
 References: 
 Deriver: q7qvka17l7gx54h53vaq9sr8wbka2n5q-001-fix-rpath.patch.drv
-Sig: cache.nixos.org-1:R4gM5fnMXvvnTbtqKv0DV0bqmcgYYWyOZPKW0RGi32OmA77UnSZE47Wo6tg8fJYjCfdC+WNXEU/FusXcLkzRAg==
+Sig: cache.nixos.org-1:R4gM5fnMXvvnTbtqKv0DV0bqmcgYYWyOZPKW0RGi32OmA77UnSZE47Wo6tg8fJYjCfdC+WNXEU/FusXcLkzRAg== aux-cache.dev-1:GB7AXEO82JwD2Hu6cjn3g0fvWH1n63lTt983f7RqzYiVR0t5VuFc/CNArnZrBlGJuSZqJ9lTjE8vPl2BnaN3Aw==

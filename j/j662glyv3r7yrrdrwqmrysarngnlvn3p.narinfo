@@ -7,3 +7,4 @@ NarHash: sha256:0x7an976wc17x231p8byvv2wicsx18kv4p8w9flh839996wkf0nh
 NarSize: 158128
 References: glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 j662glyv3r7yrrdrwqmrysarngnlvn3p-python3.11-pytest-asyncio-0.23.6
 Deriver: zzi06v6ybxznrj80a6v9b6x1k4l5wd5v-python3.11-pytest-asyncio-0.23.6.drv
+Sig: aux-cache.dev-1:rM+mg/mnTzmhDdN4zihmk5sISDz2dUbHdDMuuoU2CnCSfhHX6KT/UxhRBdc2wbCGMqMIz/Az86TgWz+ZKhvLAg==

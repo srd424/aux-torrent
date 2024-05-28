@@ -7,3 +7,4 @@ NarHash: sha256:0h63l8dzzz1mym3d4hmdmhj5m6dqkq5gyc7cn5lakxjfxl2svahd
 NarSize: 1872
 References: 1s01z6b7gmwrs1z0zd5vnvzmhq1ybpzn-libcap-ng-0.8.4.tar.gz.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:0l98knpxr66wmc322v6zr1lhj3ny45caypk0vkxzrhncad59g6sb
+Sig: aux-cache.dev-1:frNZnPoexECGRjW2QKx/pN5Khur9+qmlM9x8WNMDOS9fKf1pl6ZoSio6YinO/QPdvTWlYKFyvbxZ4ESshmsuAw==

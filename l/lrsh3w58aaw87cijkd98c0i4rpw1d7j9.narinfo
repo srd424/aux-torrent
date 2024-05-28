@@ -7,3 +7,4 @@ NarHash: sha256:1i47zcs4aav7kdjjfhy1vwyf7xhrjvml9x82xrqnd35zkhq788sa
 NarSize: 2488
 References: 9hia04573d2n427n12wxjgkgm0r8l2nk-libffi-3.4.6.tar.gz.drv bajiwq8lwvjlpc2mhpnfpng4z9l13ij7-bootstrap-stage4-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:0a2wpwwlc01jaljxmjsam0habhhmzg613mk48zpb4j6hspn14wmp
+Sig: aux-cache.dev-1:j8bF3gJptdv8ge03J9FR/+WyZMmeQJdVAd7A0zGrbLcFvz8I0TjZvK+W4iXrnGQsquTXdjwOn4Ybq1QKD592Bg==

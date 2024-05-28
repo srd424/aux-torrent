@@ -7,3 +7,4 @@ NarHash: sha256:1lw7rjr3zn0g2cgssfjjh53vfqbpddyggx5vlxmv6gy6z3wzjz5x
 NarSize: 2688
 References: 0fc7ysahnyiwk3xyx14j90ivb03wckci-catalog-legacy-uris.patch.drv 3qkqdh1h8w5ikl7czkndxl5bdf4an625-07631601e6602bc49b8eac3aab9d2b35968d3e7a.patch.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv fbjjccacgylswd7bxlmp6vdlgc42dwjx-docbook-style-xsl-non-recursive-string-subst.patch.drv jlga95lc9mywzdn1ihiam30sycj3c4h6-docbook-xsl-nons-1.79.2.tar.bz2.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv m6xhiphyw7dgqgyn1r4xm517niz29pn5-find-xml-catalogs-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:18frhpnh57cvky2xbmncip9aairwbkvad7c1j8pfid7akdrmdpc3
+Sig: aux-cache.dev-1:GM52Mrp3Qi8Z8iLQcF8tHmZ2USKe6TJwLJ3c3KRwglmjrhv0QuI0JBXKAJ4oAJz6M3t88uX0Orsu7O7+g1SdDw==

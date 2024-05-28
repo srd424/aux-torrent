@@ -7,3 +7,4 @@ NarHash: sha256:0yh6kn4yzrdx6fk7jqgmdz6wa51dwdvy78xbc9w2nf3fw0gx3mx3
 NarSize: 149752
 References: 
 Deriver: 6imara9zc4b3yqry913mk4hpnrfa5k38-zlib-1.3.1.drv
+Sig: aux-cache.dev-1:Qd4lHdO0siqeq6KijW9E2tjtnwMTdgTiLTPHSx7KIhlgAFraCCrPLDEDHw7be8l3X2i0DUk6cVvPi89Z8zFHDg==

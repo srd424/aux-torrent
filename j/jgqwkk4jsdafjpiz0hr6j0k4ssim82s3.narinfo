@@ -7,3 +7,4 @@ NarHash: sha256:1v6jzzf0fnyfagkjr7cv3vknj5x9072g646xy0gn8wzjbzg9ri24
 NarSize: 608
 References: 4w85zw8hd3j2y89fm1j40wgh4kpjgxy7-bootstrap-tools
 Deriver: gfmqk56r8rv61yqyz9i7rbkrnab27gky-bootstrap-stage0-glibc-bootstrapFiles.drv
+Sig: aux-cache.dev-1:uacAhg41XuZQvh7dIFuCrToUAMCxUe+HrFeBVyv3qHxyxcQTNpjWnBWh2/CB2SZ8tqwcLBc0JG0NKTMBJZLVCQ==

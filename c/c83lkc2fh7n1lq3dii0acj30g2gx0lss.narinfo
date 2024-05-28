@@ -8,3 +8,4 @@ NarSize: 14204824
 References: 
 Deriver: s2k9ww3v8wnvpfbpwhz5k7jjqk66z98c-source-github.com-nlohmann-json-v3.11.3.drv
 CA: fixed:r:sha256:0y6474xxy027q083vyrz9iyz8xc090nydbd7pbxn58dmgyi0jpgc
+Sig: aux-cache.dev-1:RuHUhXwmCzoD2luhFaiHmrsgVocQvGNYtHWYMqarw6/4D2Kir4Bo8fZGHhAC1/8I+6DcKqTyhEYcHyAik4ttBA==

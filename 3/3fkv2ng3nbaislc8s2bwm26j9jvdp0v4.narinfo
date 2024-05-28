@@ -8,3 +8,4 @@ NarSize: 512600
 References: 
 Deriver: q1h539pagrkdvamma1i81bqnb9jsl9jy-source-github.com-awslabs-aws-c-event-stream-v0.4.2.drv
 CA: fixed:r:sha256:0cmdp0r28bb46bz2a3lj1862dghckp4fvbrg4z3jssslr1kcygf2
+Sig: aux-cache.dev-1:VoP+u/8Un53usjiptdB6flGb98QCl0hBaRmsTxqttyrdr6f9fIILi0tw04Qb7unwiQM2BK8xAF7GZzVY2aXPAw==

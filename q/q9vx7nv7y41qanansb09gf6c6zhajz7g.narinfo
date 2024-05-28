@@ -7,3 +7,4 @@ NarHash: sha256:107ypccbf8gwlfcc47qmsxf65aq1zb0pad490gpr3s6phxn0axq3
 NarSize: 219424
 References: 0yj6p2r4dgypi8dvlx0fr7ymr899bvic-zstd-1.5.6 k8bx3jikicddfhgyg8vidrq80fslxlcq-zstd-1.5.6-bin q9vx7nv7y41qanansb09gf6c6zhajz7g-zstd-1.5.6-dev
 Deriver: swlr2yvwp2xjz4wx4dn5km0mr09q70n8-zstd-1.5.6.drv
+Sig: aux-cache.dev-1:r62QCLNUjY2f/wUywhGDna4y0vW8CYNZvK1ogU4P6+a7kLCuW43o6gZDSQnyCxzAR9zPgadI2nC1G6R2bgVtAg==

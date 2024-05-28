@@ -8,3 +8,4 @@ NarSize: 1161936
 References: 
 Deriver: 3swx1yphjrshqjm1i75xq18h65n01a59-source-github.com-gabime-spdlog-v1.13.0.drv
 CA: fixed:r:sha256:0zgdmdgnp2y36jrlk85d4fiyjkjd6anly8pambyc3f3v6sg02zyy
+Sig: aux-cache.dev-1:fsIx1cql3VyQYhOOp0GWnEgZzgbLxQ9UDqXyLakTQveLZ4fXgl5Dubo/FZg34j2tpPY4h+a/H7pB/0QE8gyzBQ==

@@ -8,3 +8,4 @@ NarSize: 65017976
 References: 
 Deriver: f86rqqzaq6q7a7b3qic7x9bpah0q5vkd-source-github.com-eliben-pyelftools-v0.30.drv
 CA: fixed:r:sha256:0gk47mq5cqv6qz35aydn67wma5m70gv5f9f6pg38zny6vsfavmq3
+Sig: aux-cache.dev-1:NZmJlU1FEcchvjh2G5+Tab8hI9DEBWs9MukLKjVwGLCMViebkOw+G8feGlb6dGcm3DVQCcXn7CnPGgsu9beMAg==

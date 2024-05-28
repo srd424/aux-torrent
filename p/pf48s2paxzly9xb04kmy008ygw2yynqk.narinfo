@@ -7,3 +7,4 @@ NarHash: sha256:18nrvndfkl9sfabl0xhg6wcyh9ikng428m6kyc4agf6rcf9bvbl7
 NarSize: 1944
 References: 3fdnyn6y1zajx0y4pqya2nqrvjspkqzg-python-remove-tests-dir-hook.sh 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:13j1pk07ipz0hbvsirbfw4y01rklqqh2z4lagjldyxwy2cvhl79b
+Sig: aux-cache.dev-1:SDzI9S3U89B2NxWTrWL6zAEdIrmRu2SqkMau0g4GbnhnJ5ixB7YgCO4UY5EcsJLxLA69O8nLcVfWhlq9lJSCDg==

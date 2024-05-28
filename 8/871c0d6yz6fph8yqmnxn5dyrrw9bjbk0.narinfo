@@ -7,4 +7,4 @@ NarHash: sha256:15s94kn61cdv98fyaw8yvmwxjmyzxwj1bz4xk9fdrgs0fkx7xj83
 NarSize: 6593672
 References: 
 Deriver: gch0lf5gjyp5dn8793z0cgv077zrxgpp-linux-headers-6.7.drv
-Sig: cache.nixos.org-1:52gUhIhfQoiN0pSUiT/pO4RcCqgxMs/WVOdgsZwKgb7SsIeTRQUm0RwUR/7goNi0GokVbp1gj0cf/L5dbwVhDg==
+Sig: cache.nixos.org-1:52gUhIhfQoiN0pSUiT/pO4RcCqgxMs/WVOdgsZwKgb7SsIeTRQUm0RwUR/7goNi0GokVbp1gj0cf/L5dbwVhDg== aux-cache.dev-1:Djw6/YeSSrRhjc6k6ehgqx+wAvMISFotg1KKIqB6DASP1DFhQCilLUY/UBpqLrecrFmibXBGDNDSWOiK/YohAw==

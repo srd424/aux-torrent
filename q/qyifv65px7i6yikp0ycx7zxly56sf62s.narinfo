@@ -7,3 +7,4 @@ NarHash: sha256:0f1pp3k7qwi9xcrv4brnnhip1mkmclx56gy0nwz013ag2x7g3mb3
 NarSize: 1432
 References: glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 kkipxrbjky4c3vfbdq2331na8vvi4f2x-python3.11-installer-0.7.0
 Deriver: c18bh40xn26pqxa325hnrslkqvrwn77r-pypa-install-hook.drv
+Sig: aux-cache.dev-1:rJ0GN2RHZf3zv0v0TSWPW/zUBb+rA3praG9I8qEf3piKHXKk2mvar6c+eIakJNA49Juz/5PblHcgoxEx+kiuAQ==

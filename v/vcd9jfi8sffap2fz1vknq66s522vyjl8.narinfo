@@ -7,3 +7,4 @@ NarHash: sha256:0b6z6bza0p62c16wj52519p539sdxqcwn1lm7lgmyv88z0iivx1f
 NarSize: 45544
 References: 
 Deriver: z0a6lql6b9b6k6pb566s737lvm0nvm0f-doxygen-1.10.0.drv
+Sig: aux-cache.dev-1:rRCQSrc7kROIeb0B3WAvfHaQ3lYtquWUth9YlJEJ3VrO4SE9oidmWPBgJcWfecKWEHPLET6o4QWuohnnjLmsBQ==

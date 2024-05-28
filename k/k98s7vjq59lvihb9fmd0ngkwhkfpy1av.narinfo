@@ -7,3 +7,4 @@ NarHash: sha256:0avsbpy6fkcq74k1vlxvn20gsiqlzcdyjsz5n980w46z0sf1c1zq
 NarSize: 2072
 References: 6b7yljvwrc3dk26fcxppd9wgx79gf8dz-cargo-1.77.1
 Deriver: 2k7kqswxx97dvl6q16nkpysfwfyq9hhv-cargo-check-hook.sh.drv
+Sig: aux-cache.dev-1:TQHvT+ZFmRvsJxdQBvoZU0jan1iHGs05odGtOwICJKlWVsvwPodAphCCqxaJ1/unSI3F3nHQR1butzADEivRAQ==

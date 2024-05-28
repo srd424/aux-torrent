@@ -7,3 +7,4 @@ NarHash: sha256:1alfr9wll4yldncd01mxhk2gf0428qiz39m0gxr8fvrm8ga3qq6l
 NarSize: 16768
 References: 4w85zw8hd3j2y89fm1j40wgh4kpjgxy7-bootstrap-tools jgqwkk4jsdafjpiz0hr6j0k4ssim82s3-bootstrap-stage0-glibc-bootstrapFiles n0744j2jirrdxk5d7ibq7lgnalyqbw3g-expand-response-params
 Deriver: ncc7415h8c8d32r37kisanr59bxbbarr-expand-response-params.drv
+Sig: aux-cache.dev-1:DTpwoeAc7VJ2Faf0TK9BcqOPxrLXikYhTrDywil0aO1bAcwotzlRZ8kxGtPJsHoVY6Xbi2NTRR9AdcBzBtiOBA==

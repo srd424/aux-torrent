@@ -7,3 +7,4 @@ NarHash: sha256:0m7h1hy824694il8m4i08wjll18mlyv05n7nf0mm1nqnv30lg7m7
 NarSize: 3304
 References: 03k421342cszs2xpy2xn5zl3h23bcb07-lix-doc-2.90-beta.1-vendor.tar.gz.drv 28dj1q39n5i24c92i0m5wxdjai5rfnfh-cargo-check-hook.sh.drv 7nsap9r3ny5d3rcskydl09lij6n97paa-auditable-cargo-1.77.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv hsfl60ch83v1wvq7379g7dm5fi0qrw0d-rustc-wrapper-1.77.1.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps phdmnpf57fkglzq8h8gv5nwkbw6fny2l-cargo-build-hook.sh.drv qnb1l872qrzgqj18f2kkc3l3n63jv20s-cargo-install-hook.sh.drv rpm7g0vcjbwfgaipydmc0xg26ax0jmdp-cargo-setup-hook.sh.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh z0mmf5knaj4dx7z4jiqaj0z076ijpfn5-source-github.com-lix-project-lix-2.90-beta.1.drv
 CA: text:sha256:0asjwi36s1nxmzggwjmpn6rnsxak47hbj8vz5pza9dfh1dbqb9hs
+Sig: aux-cache.dev-1:Hd11+F/N76jO6Ul09M59XM3BraUTgGRXjzE4to7QZt8A3ZXOoOw0UNSdNACSVOKAGafhNvYQ0CI7GcUGs7h3CQ==

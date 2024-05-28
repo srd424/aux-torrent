@@ -7,3 +7,4 @@ NarHash: sha256:09ya9k2sl82vws3ag5glhkr5xfgs98h5hp8pzl5bwknwd7plkz44
 NarSize: 1320
 References: fscd8f71wmpwphcmi5mx8qnif2402x9m-run_setup.py glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 n0mgn4zpdss2dm702fx5rs7z0gwpg807-python3.11-setuptools-69.2.0
 Deriver: drdkcvsqsmqxf4r8pzpl0a886fa5y4p5-setuptools-check-hook.drv
+Sig: aux-cache.dev-1:sod/FVdt4J3WK8ixCH8hZUKrg5RKh9fs9AjeRpix2P4J8MRHEADFoAU7Y4OdrKuNdF3kFRuNytd/Sa0wS7QrAg==

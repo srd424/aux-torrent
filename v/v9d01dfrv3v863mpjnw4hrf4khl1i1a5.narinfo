@@ -7,3 +7,4 @@ NarHash: sha256:0fgyxfhgg0jn7przb62fqr3zgxq8nqw9jggsh4pvn0q658cdb29p
 NarSize: 3512
 References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv an4iqml99b3f0mhs0sk4ii3zjy944rr5-autoreconf-hook.drv gamz3ch89qq558irc2m03j6kkj5wjn58-darwin-mutexes-4.8.patch jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv mfr96xx8m9jdiwr5wf1rkq845lls4hyr-db-4.8.30.tar.gz.drv p9dgjffm5l85ssm37ij9r6xb91yzhn40-clang-4.8.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wbgiyhlnih7pl2d67700940cwf6qp5i8-CVE-2017-10140-4.8-cwd-db_config.patch
 CA: text:sha256:126rp216aq6byfnn23jy4rjcf6rk894sbjp2aihjw1g3dajmcxs7
+Sig: aux-cache.dev-1:BQh7XXmfO4lMp+UsVtN4TR/vqbtESKFQaGRyKlZlU5Hey0WSDwhZlgltfh5UMviX0eo1z1DA5Oc50XR843czAQ==

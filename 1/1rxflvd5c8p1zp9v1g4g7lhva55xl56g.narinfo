@@ -7,4 +7,4 @@ NarHash: sha256:1jn16w062k85lx76lwpdbkwqsvgzwjh8gq3gxmswljq92rvb69kv
 NarSize: 2508336
 References: 1rxflvd5c8p1zp9v1g4g7lhva55xl56g-automake-1.16.5 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 ziv27d9f7mr7hml7441d0x87nx1pq026-perl-5.38.2
 Deriver: 4lv6q6g34dii6gyl4z18hhb4adk6s3zx-automake-1.16.5.drv
-Sig: cache.nixos.org-1:tFlgU1CJ12t1JUOPKALu87PvZRjHE8JVwZOXeEOvEbwG5lK6rNusFZ7OmANFqMl2Sgtd4CZ8pMGxXZ+Ri+wyBA==
+Sig: cache.nixos.org-1:tFlgU1CJ12t1JUOPKALu87PvZRjHE8JVwZOXeEOvEbwG5lK6rNusFZ7OmANFqMl2Sgtd4CZ8pMGxXZ+Ri+wyBA== aux-cache.dev-1:acpOeV17j6gpZsTxB2jYjo6kEcbcziEqqFuusgskQXVRKDbNwB50J+ukNpT6RDjXThXPxNv1D1a/h+Dg2h30Dg==

@@ -7,3 +7,4 @@ NarHash: sha256:01q9sp7v7lp2byllxpb89n6gfk9g0snq3jpiqskqc3grrrbaxd5j
 NarSize: 2064
 References: 2ri8hys1c5gd30d7m6gs62hwr29yck8k-findutils-4.9.0.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv ga8k6dwwpvsgglv8gdlqnjlxlm288ma0-python-namespaces-hook.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:07gmirfpq9636ncvmznwhlbbpx7n1mpzyzlfhlgnyn99xzpbaikh
+Sig: aux-cache.dev-1:Okib4lXUtRPzKYhdw1uFCUY4iLfP+pe9dNHYcL571Y0qhIAyIyfKAGoeu5/+KUoy08Mxf1tQIWCrbDnOoCE0Ag==

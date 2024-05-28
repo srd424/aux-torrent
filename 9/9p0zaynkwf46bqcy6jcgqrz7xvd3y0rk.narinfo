@@ -7,4 +7,4 @@ NarHash: sha256:0c7hjg5sp9530rmmnga8lsi9vgvgzrzw342i6510zj9l6xpvlmh8
 NarSize: 6650024
 References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5
 Deriver: vhbd94yx16a0csf6ydfwp002lv2bsvwd-libpfm-4.13.0.drv
-Sig: cache.nixos.org-1:DITaa1pflpYE5tXdRdF6KNMum2TLRbGhapmRjtUAj90ugP4avrepdIooLZRZ6bBenzx5qYMCfQpPc6XKP4DhCQ==
+Sig: cache.nixos.org-1:DITaa1pflpYE5tXdRdF6KNMum2TLRbGhapmRjtUAj90ugP4avrepdIooLZRZ6bBenzx5qYMCfQpPc6XKP4DhCQ== aux-cache.dev-1:3WwnY4bXNeykVEV5AdH1vQmg77JeXw1IkdTjgTc89BPPPNERh5+aWJeHzD84wQ7Vmym8iZkUlB6k5eshClkXCQ==

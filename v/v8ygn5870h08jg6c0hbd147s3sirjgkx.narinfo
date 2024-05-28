@@ -7,3 +7,4 @@ NarHash: sha256:1wlcn14miikd26cmrb8shjz0gdcr0r28nrwfwc49361ypra0fn6y
 NarSize: 4768
 References: 12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh 5hhjpf7ggj6026ngp7m7mg4wlzpc8kv9-make-shell-wrapper-hook.drv 8ryfr8s2n2hms7dna8mz26cqdqvc7h8y-perl-5.38.2.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv cklrwbwi889pp2fdsswdjvn12sdy5i5j-openssl-disable-kernel-detection.patch jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv lzmcfv2m4ripknpvbsv8wcg1ik1kif4h-use-etc-ssl-certs.patch m78m4g9ar1p03704p7175pwhqsdv8i33-openssl-3.0.13.tar.gz.drv plpl0avn6pw724yy3yp7l3sy3xpnz0x4-coreutils-9.5.drv sq4h6bqjx12v9whvm65pjss25hg1538q-nix-ssl-cert-file.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:10bnrkyqpgxklh3frs2vk1j633agbkx3c84dl9mc3m32icf993cj
+Sig: aux-cache.dev-1:qSNcESYrXUEXSKfFbQRWTRA6XJ7bnqmJtROWFNcXLEeqb6nimHXRXXgdwsXvQqTl69ZjGpsA3JOmNbFQXM3gDA==

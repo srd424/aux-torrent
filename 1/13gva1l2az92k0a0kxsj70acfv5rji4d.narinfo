@@ -7,3 +7,4 @@ NarHash: sha256:0wvr4xzb5cpslzqav78i9k4wdhkliv4iv7myaxngxv88bjq8c2yc
 NarSize: 12087840
 References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 9xgpmwqw0881kxa9sl498qfmzy7z2ndn-openssl-3.0.13 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib
 Deriver: zfdm31hx0m5nbv4748gz6ssca9cssi72-mdbook-linkcheck-0.7.7.drv
+Sig: aux-cache.dev-1:r9yUEOy5n/qEnJV6R5o7dM7nyhpx+Fbio4m2D/otFiSCU9zd7ayGxwky57wsVmh+NPOqq55tqpYYhAkA3KQTAw==

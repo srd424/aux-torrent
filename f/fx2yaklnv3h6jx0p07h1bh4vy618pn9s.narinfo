@@ -7,4 +7,4 @@ NarHash: sha256:0vdy0d6aqra4n8wr7fzxmn17ayk7gkgai87n9zmc5qdzrnahpynn
 NarSize: 1578664
 References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 fx2yaklnv3h6jx0p07h1bh4vy618pn9s-gnumake-4.4.1
 Deriver: j5nn20a8lqyf0wsrhqpj8q0mvlr7nx25-gnumake-4.4.1.drv
-Sig: cache.nixos.org-1:7CcIDA/0NhZbi5ZpnJfTtPGG0YTqbjKaGF7+O2hmznM1Gk1Uojou/6vS+uAoxxXYho34c2tNaKMrmgsf+WxXCQ==
+Sig: cache.nixos.org-1:7CcIDA/0NhZbi5ZpnJfTtPGG0YTqbjKaGF7+O2hmznM1Gk1Uojou/6vS+uAoxxXYho34c2tNaKMrmgsf+WxXCQ== aux-cache.dev-1:yr08Cv7RYoMvAx85WieUAKmLMT0vT1yomn7vZq3fFnVBJMJ8tsk0RG15zNuIkWHs2QiJ5wcNd8PJKoH4MfGsCQ==

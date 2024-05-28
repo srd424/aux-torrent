@@ -8,3 +8,4 @@ NarSize: 23144
 References: 
 Deriver: yx1fp1rf2bs43k3ddik9330mj8d9gmd2-source-github.com-di-calver-2022.06.26.drv
 CA: fixed:r:sha256:14l9kv9igcmp5k6d2ahnx6z4dn6zy5kykz95hkh0rkqswn8x79b1
+Sig: aux-cache.dev-1:NYy5RL93jU9Vn6m80ZrO7rn0k5G5N392QnDgooUWMB2auTrhYoqV68XaLHNTWBDMVVaSlFyRwXfyHfiWgirxAw==

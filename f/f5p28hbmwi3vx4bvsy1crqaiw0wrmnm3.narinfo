@@ -8,3 +8,4 @@ NarSize: 6007248
 References: 
 Deriver: xv4333kfggq3zn065a3pwrj7ddbs4vzg-coreutils-9.5.tar.xz.drv
 CA: fixed:sha256:12hv193nj10hyzrqh39fpic1ibqjny9kqclzvrjsdxljmkg8wcnd
+Sig: aux-cache.dev-1:pvxDbFPPN8DqnAjE6VnR+3xOXU86sCsTt425RPWxN1ZAySwzFseqLOpTJEjURWTbDY9zELjjTaQth9RtU4k0Cg==

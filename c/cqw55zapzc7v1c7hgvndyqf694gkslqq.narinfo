@@ -7,3 +7,4 @@ NarHash: sha256:18bqddhggf257r1nbkglv0c3a7xvqpmqmgblr8rlsvzrpkfhzrq5
 NarSize: 728655368
 References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 64k4bfy6fs6jgfiphb7wpfp6ni4dls9r-llvm-17.0.6-lib cqw55zapzc7v1c7hgvndyqf694gkslqq-rustc-1.77.1 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib
 Deriver: dj51shsmi9b2130m89gx48vla284n0wk-rustc-1.77.1.drv
+Sig: aux-cache.dev-1:KtrkZ/3+RfoRajfnJ1jWWtFVu06Hlhd8YhfyjATpmmZ9eG7lco2Idw/j7nqPXEfcakl437IfkrvaBjYdbdFGCg==

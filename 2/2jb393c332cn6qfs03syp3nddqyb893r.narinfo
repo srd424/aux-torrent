@@ -7,3 +7,4 @@ NarHash: sha256:0xmb0xs691qmmkllmx7zfkd5ayv49y0mw65ja02h9yly492g9l4n
 NarSize: 3960
 References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 3hds42r22i98l7xwqsnismv1a7p6d8p9-0001-tests-Rename-a-a-o-_-.py-_-.py.patch 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
 CA: text:sha256:0cg3yrsq23dbpwycx2krsrnq6f7scwdacpq5ihd66sjkvyrbjg6x
+Sig: aux-cache.dev-1:9rOZinGhCJddd0A1jnZ2+6vA4NNL6L+KgDll69qzY2dtXjQ6lBJmcNKxm+GfqBrAVyRQmMemCxsPjWmoXAehBg==

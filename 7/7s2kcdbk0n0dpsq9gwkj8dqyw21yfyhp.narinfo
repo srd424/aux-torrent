@@ -8,3 +8,4 @@ NarSize: 1493720
 References: 
 Deriver: m7cyv7yrqlazp2jbpc2k53xyhrczz0af-mpfr-4.2.1.tar.xz.drv
 CA: fixed:sha256:1cnb3y7y351qg6r7ynwsgaykm7l2a8zg2nlljs4rf9k778shfy17
+Sig: aux-cache.dev-1:NQMIVUE2UwpwX6VGz0iPEIDfYmvux7hSwgbgqJVLalcj9CX5O9qeuRstvmLXZvaHTCNAaiVkuuOVQcLVORo4Cg==

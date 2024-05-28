@@ -7,3 +7,4 @@ NarHash: sha256:0jnd174q2fz9s0k7ky6l64f6q7hrjvv78hnbxq62bgivh7f8gizw
 NarSize: 1198976
 References: 3zfapcn01gk5wjab7va7lfnd690d90ps-python3.11-packaging-24.0 42ql49h2wic65nvq9w8ffy7qmdfkn75q-python3.11-pluggy-1.4.0 77v0rwf29iib5mdwb64fkrmdq3irysp1-python3.11-trove-classifiers-2024.3.3 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 lrsakacw2x97gsdcm86scsh9r2agfpyb-python3.11-hatchling-1.22.4 m6wmfs6r8dlfxcsgns9sjs3digxk6shw-python3.11-editables-0.5 xxhc0qcldn24xwj8bcqn2xdkxrr3flhl-python3.11-pathspec-0.12.1
 Deriver: r6b5h6wa7h0pg4s0mnb6j0xvvdnk751s-python3.11-hatchling-1.22.4.drv
+Sig: aux-cache.dev-1:vYZBfR6v8NEEwC+H/Et4g4zz96Mx7cBYEFL1EXkolcJ+f3ZEIX7Bt75ZTkLSbgT2X+IuBnTB5iRUYhK3CXwcCA==

@@ -7,3 +7,4 @@ NarHash: sha256:1aqfam8j6lym46crjb7sg6y4nhlagvj6gp8bcpafwqm13qg3j7wm
 NarSize: 1180064
 References: 
 Deriver: dfvhhvxpcjaqc3c312qylsxi20h960n7-python3.11-pygments-2.17.2.drv
+Sig: aux-cache.dev-1:1qjZsX+GRMbE6SzWj1l9V7blSzgVt4rVNSwrK98DGPssDnRoYwP4rO3JT5xkvcnI8nN6pWwAy3jGNxuxIYcaBQ==

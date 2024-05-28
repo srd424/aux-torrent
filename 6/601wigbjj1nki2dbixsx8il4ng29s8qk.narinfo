@@ -7,3 +7,4 @@ NarHash: sha256:1qfp7ram76wqrmrrh9m9h4d43538ffrdx8vmwywi6y2an3cmrqdm
 NarSize: 42456
 References: 
 Deriver: 3v0y005n6wbijj012gv02gizjq5wx5xd-python3.11-setuptools-scm-8.0.4.drv
+Sig: aux-cache.dev-1:TPI9UPwMcFzJ3PUP2JSN9jsjCEf9irGlSLh5a9/0AdnP3GwQLRkZmiZI3Fx+csQvsz7rlS9DooZ6vj1XPMdvAQ==

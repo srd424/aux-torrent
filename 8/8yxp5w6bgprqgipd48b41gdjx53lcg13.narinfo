@@ -7,3 +7,4 @@ NarHash: sha256:09w61nqly1f640b48cffjiqqaig88lv65vfwxssmc398r6j2gwkx
 NarSize: 199720
 References: 88gs7wpbb2n32534iwk1z99chgycgacr-e2fsprogs-1.47.0 8yxp5w6bgprqgipd48b41gdjx53lcg13-e2fsprogs-1.47.0-dev rix1if9i0w1xjavr9r8kp05k9p8vv1r6-e2fsprogs-1.47.0-bin
 Deriver: 0wk23552yfdxr8y0ry9gvsy78hv9klk6-e2fsprogs-1.47.0.drv
+Sig: aux-cache.dev-1:Y0k7NSmLKa2zt5NCJcYGS8X7MFdMonw3dR78/6qiL4N+2bLyzkhQwfq4Y671F9OxGMMWeKqo9csMycfZslqeAw==

@@ -7,3 +7,4 @@ NarHash: sha256:1h6cap9ijvzii3bh21q2rfvp35ypnpyigi61vs3yfxl19dd0v4bn
 NarSize: 16832
 References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 851nlraf7796s7d0mz9wzx0cj0v10rvf-cargo-bootstrap-1.76.0 f1ii69v7p27z1r5zybmlbld3bdzm6a5f-gcc-13.2.0-lib y5r1i03asf6rxyi8l5fb632rddsj2356-cargo-auditable-0.6.2
 Deriver: h2bqg8b7r4rm1l5p9i22mkcwrykmpf18-auditable-cargo-bootstrap-1.76.0.drv
+Sig: aux-cache.dev-1:DBCBOMN9SDSL+XerwmPyd93LVR1thmpmwCsu0ZhbDtKlTRd3c8u3ZCQcR5CagqerRRe7u5kCCbvEF3DoByVaCw==

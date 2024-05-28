@@ -8,3 +8,4 @@ NarSize: 2644000
 References: 
 Deriver: z4x4wa4ahsc6xn40j847dsrnagxd41w0-gmp-6.3.0.tar.bz2.drv
 CA: fixed:sha256:1jr03h6h0yz4w9pwyh7p6ijfk3vcsrc6139c5sp9nq7vghd22a5c
+Sig: aux-cache.dev-1:W/20zUC8+fnrzMWYQdIB5WDYI4barlbWlEQxUHT1uYqMeE0JwF6Xbe1ZajWlltgvBous2GhI40YKEiNLvRWJAQ==

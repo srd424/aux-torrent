@@ -7,3 +7,4 @@ NarHash: sha256:1jjwbbbnizycgv3l5xqxgzd8aifxdj2a1gj29ll8gbmxpf86k36z
 NarSize: 2368
 References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv sdl2qzd81r9sajslnw725knv36i0yv15-openssl-3.0.13.drv sv5vb189a3dzsv78263vwy4nxfsx8qm5-source-github.com-aws-s2n-tls-v1.4.9.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:1md1pr6d90smizm16fcfn2zzb8d2p5h8f2029dmnazxpf0qkl28n
+Sig: aux-cache.dev-1:XQtO/mfwsz/7XbRUdcUp3uIuC7bikyzuh+/NoawejxNhRp23z40vepzLRhQGu6zAvoCqZgOEU2XB6r0iY1OnCw==

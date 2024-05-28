@@ -7,3 +7,4 @@ NarHash: sha256:0awhmri4p2w2sdxisg0k73fagdahycbv22fi1x9zr83344b74y1g
 NarSize: 14322336
 References: 
 Deriver: 8yqfzfwdky5k02ly0g6ps4v7khpi3i7b-git-2.44.0.drv
+Sig: aux-cache.dev-1:8g4XPJb4tWiAlxEKZzlDIzmitlgCwesXVPYWFe70C8m3Q6/TGG6MfYgrBaq51+kohJTY2Otj8owIyY9044EMAQ==

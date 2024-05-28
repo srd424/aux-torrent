@@ -7,3 +7,4 @@ NarHash: sha256:1k22b0mpwkimmcpiy5vsdlha67b848p37kmr0v2d2k5mdgmsz64r
 NarSize: 5408
 References: 
 Deriver: d267xxh8x5qxppy077a0fgbrhqnh08sm-python3.11-editables-0.5.drv
+Sig: aux-cache.dev-1:lsoVbhbgIy6HobBdCfMcC377HoJyf18Pjml+q6dtI1LaZWbl2NHIK4XPWNMyKk41B+SO5Plj2c+zy/OqndZ6Aw==

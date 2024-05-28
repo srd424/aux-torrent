@@ -7,3 +7,4 @@ NarHash: sha256:1xka247zhnw8vzi2zlba2yg867h8gmicw8nyacy7l8mh10nyxnhi
 NarSize: 197000
 References: 6md1bxjzssj2a74hb7157x48kp88860x-s2n-tls-1.4.9 aqaxrq9jyrjwsnsly12b2xkqmakcsawb-openssl-3.0.13-dev
 Deriver: 6f0053vbg3fq9r0yqkfqdrankyig4m62-s2n-tls-1.4.9.drv
+Sig: aux-cache.dev-1:DbjgG+aOAjpdSuFVHl/AH15XwkgD9rrTDuk3BU4N/TLjHEwzdLotmVI8J8A3wsjUVdBGA6T8al/UVAq0bjChBw==

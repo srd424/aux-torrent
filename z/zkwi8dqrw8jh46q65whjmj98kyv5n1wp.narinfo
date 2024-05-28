@@ -8,3 +8,4 @@ NarSize: 9759296
 References: 
 Deriver: dbmzq4wbybvcxaky5pik8plwcagbpaj5-source-github.com-anrieff-libcpuid-v0.6.5.drv
 CA: fixed:r:sha256:0a2xn7f7iicc4z7amqc16sr8kzphm9r1inwyagfiwl88gr87mb86
+Sig: aux-cache.dev-1:CDbcgU2vkUKlpSCy2pHxrL/nHWmdbzk8x3SEblHvsTMinemfQs7Gw3L3xxK6ESsYTFWGEvosv4qLiJRQ3iblDQ==

@@ -7,3 +7,4 @@ NarHash: sha256:1q3m0whvwdfkmvssax1kah0p4sxdxx5h2hdjzxz1nqw9fsgkdkcf
 NarSize: 38008
 References: 
 Deriver: w3glf2hdfv83fyfs831m8hjd3wfhw960-python3.11-buildcatrust-0.3.0.drv
+Sig: aux-cache.dev-1:Q1zvEvUS3yGASKq4pAN+F+MIP9RN/05f23jqJlPXeU/q7JO9E3vcWOvU1zuJjhccXEX+R4gH9I5nQDKvp9qABA==

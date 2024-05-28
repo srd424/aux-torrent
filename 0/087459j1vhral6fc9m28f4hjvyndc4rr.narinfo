@@ -7,5 +7,5 @@ NarHash: sha256:1rm38sjnc8igx7gfh8vbhki8gwd72gqqxgldzry8llhn3vx0xi55
 NarSize: 143976
 References: 
 Deriver: dy1v182qjvzvhr9s946djjirqh1nany6-Mozilla-CA-20230821.tar.gz.drv
-Sig: cache.nixos.org-1:f1iGRjxl+ZSu0zVICVoOr1ffPmRLb+VIjSspol89mp+I1KIz+tVJlLQLSs26l1+IxPpKp6CS3m8i+0b+0wSCBw==
 CA: fixed:sha256:18fdlxh15xs04kmdwww840ba4lz4m8nnrlf4p52l004ra82d1q9j
+Sig: cache.nixos.org-1:f1iGRjxl+ZSu0zVICVoOr1ffPmRLb+VIjSspol89mp+I1KIz+tVJlLQLSs26l1+IxPpKp6CS3m8i+0b+0wSCBw== aux-cache.dev-1:z1Vox1/fKOtSYJqz8aVCu26nVHyZNLDuuQC4ssUbQxbZ2BE8ZPGt8v6A5P95fYb2uFcW0mQ2qxFgZjWgsb7zAg==

@@ -7,3 +7,4 @@ NarHash: sha256:0y0gnac1c3bxvbaklnc3sp78yfqd8ypnps2g7qmciy7v7xidai56
 NarSize: 3551472
 References: 1jgpgr495c4gglxa52hfplpyixxkw379-catch2-3.5.2
 Deriver: siiqnsb3g5s9qkn115zxnr09ysw68cgc-catch2-3.5.2.drv
+Sig: aux-cache.dev-1:Opb8ryT2iL62PFV9ffQnOe7HN8z/Rjy1nsEDvbE+M47Q01Rvf15cqxehrNuL0/dhhRtBOHwZUGc2O7Fwq6SPAg==

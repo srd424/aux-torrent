@@ -7,3 +7,4 @@ NarHash: sha256:0gxkw7h3gl5pf449q9r8hwd32ir2lx93bqhm08zyh3himrlz9phy
 NarSize: 5920
 References: 
 CA: fixed:r:sha256:0gxkw7h3gl5pf449q9r8hwd32ir2lx93bqhm08zyh3himrlz9phy
+Sig: aux-cache.dev-1:Tp5Xi32djyZkpKM8bBPM6P1XD6GcRaa7tRuKSa5RD6GnOSb8r8Z7we3OVbZzUNoucukXACipGi6G2OowBGKIBA==

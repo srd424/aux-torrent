@@ -7,3 +7,4 @@ NarHash: sha256:0arl5zjlqrwb6rh5ma4cbdkbiqhpb7qw1f47i791gyx1ysz4lwpj
 NarSize: 2280
 References: 3707hjzifv868092pnf176hxx20xvjmv-FCGI-0.82.tar.gz.drv 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv xwm9k4gag1p144043kx2makiwgb9nfnm-perl5.38.2-FCGI-Client-0.09.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv
 CA: text:sha256:1sk4r24b1w563shx9s48375knvcsgq0r63k9qk2kzyy9bi2xzqzd
+Sig: aux-cache.dev-1:Gwn4wVVm/xjVSer0WF+V/cxZCTY9Kgqrxah7Qc9zF0L1jD+qI8bSFyfg35zUHAtGfOa4Np350if6gSSeO263Cw==

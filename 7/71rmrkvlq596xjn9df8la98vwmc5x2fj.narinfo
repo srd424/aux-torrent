@@ -7,3 +7,4 @@ NarHash: sha256:03fhsq11jcqn3q8r2w969halc4x82ad1ak6zp5v5z8r03cf32c8l
 NarSize: 427168
 References: 3zfapcn01gk5wjab7va7lfnd690d90ps-python3.11-packaging-24.0 71rmrkvlq596xjn9df8la98vwmc5x2fj-python3.11-setuptools-scm-8.0.4 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 n0mgn4zpdss2dm702fx5rs7z0gwpg807-python3.11-setuptools-69.2.0 va9md67rnlm4w7kqwp5hrz61angzy1r8-python3.11-typing-extensions-4.10.0
 Deriver: 3v0y005n6wbijj012gv02gizjq5wx5xd-python3.11-setuptools-scm-8.0.4.drv
+Sig: aux-cache.dev-1:YcwCLFAu6B9RXn/bQuAcY+18/vf3mWCS+a2GYqmlnLMMwsxOPd58qtJREzAd/gOQrM7YzNuhKacMHiZxBlFiCw==

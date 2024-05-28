@@ -7,3 +7,4 @@ NarHash: sha256:0j2i292smy5gnnhm9ghvafamjnk0xip8qvd5dm50d5xighcyh989
 NarSize: 976
 References: 0m4y3j4pnivlhhpr5yqdvlly86p93fwc-busybox.drv i9nx0dp1khrgikqr95ryy2jkigr4c5yv-unpack-bootstrap-tools.sh xjkydxc0n24mwxp8kh4wn5jq0fppga9k-bootstrap-tools.tar.xz.drv
 CA: text:sha256:18dg0bpvnjayg4s5krn2wcw8gdqqg6xiymvra2j7wv87y8fa95i7
+Sig: aux-cache.dev-1:7GiDCCW8l6geN7Pl2HEvj/0IFt5ONNP86pBygTvkCSR24F0rmxZbCUm9SLF2gkYYE7LhXpdR3AOyMgyYsWNcDw==

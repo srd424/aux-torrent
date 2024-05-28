@@ -7,3 +7,4 @@ NarHash: sha256:1iq6k68i3c1pgzr3mknl3x9j4hjsm3h71d34gfssfy0rqh4jm8l3
 NarSize: 2280
 References: bajiwq8lwvjlpc2mhpnfpng4z9l13ij7-bootstrap-stage4-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv iw3hvg7yyiqig6fd503515fq8172hg2y-gawk-5.2.2.tar.xz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wwc7fll8n6jhsrw4ip4i1hpm2m57163y-autoreconf-hook.drv
 CA: text:sha256:15n379f7scbkbyvmiyzh37hcpi8417mq2gzvvlrffpprnpzcw0cw
+Sig: aux-cache.dev-1:rKUP7VKyRBGE1rpXB6EmyguDBoIOG5r1uEQnEEUagZwkPDCjMjgY9MNuLjM1EJaxFXATM+Q6J5D0hZSVVzMJBw==

@@ -7,4 +7,4 @@ NarHash: sha256:1ydhgac9cc2l6w07cdbqyhm03iby40xikr23d3grfqskzzrfjlic
 NarSize: 687984
 References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 x5qldmxg8f3va0626dcw53r2ypldbzc0-oniguruma-6.9.9-lib
 Deriver: k6m63fqhs88451bwyyrkrayxj93vk0zy-oniguruma-6.9.9.drv
-Sig: cache.nixos.org-1:MOsdEyoEdMD2sQNGlrbU0qLeTC4OQefCIpbgmgqNnH2WFJkWvRM2oigzw7D3MrLAxAB6OGOIJezxeLidf57IBg==
+Sig: cache.nixos.org-1:MOsdEyoEdMD2sQNGlrbU0qLeTC4OQefCIpbgmgqNnH2WFJkWvRM2oigzw7D3MrLAxAB6OGOIJezxeLidf57IBg== aux-cache.dev-1:FyZv83ipKlHigOXAgoL7EoTLD4k5BgGu/oQVKxjUZ1CbdTi3bLoT8FovkI/M0hKnaL6TbgVEj3P2+ZZPMp08Ag==

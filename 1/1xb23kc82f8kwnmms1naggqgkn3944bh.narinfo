@@ -8,3 +8,4 @@ NarSize: 5325000
 References: 
 Deriver: z0mmf5knaj4dx7z4jiqaj0z076ijpfn5-source-github.com-lix-project-lix-2.90-beta.1.drv
 CA: fixed:r:sha256:0d0dbn08pmrf7zlkihiyagcpy9ywdr14r6brqrjg47aqcjisaia4
+Sig: aux-cache.dev-1:kcRuYFq3L3QPehp9WvJfV8vIek79wJ2lje0//UuZcL0h5DLuo/MoR2mj22ZaMZKqiVf9YClvoC9JBGrqy2kGAQ==

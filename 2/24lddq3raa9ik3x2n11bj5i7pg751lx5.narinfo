@@ -7,4 +7,4 @@ NarHash: sha256:1vvsylql9x5kpabhq83bvv3r6d77v5lpna0hfiw8haz8jzkbyknn
 NarSize: 176
 References: ddfzjdykw67s20c35i7a6624by3iz5jv-libidn2-2.3.7
 Deriver: 2sw7hnfqh8m4h4lk4kvbly7v2q7dqk0l-libidn2-2.3.7.drv
-Sig: cache.nixos.org-1:jFtFOelWFuJkwfxhA03CYkEaPuS2Wbq1prrXfd8t/zl+smV+w+At1oRonEvMPZ5zGDwEj1OHpcxni9+/hx/1BQ==
+Sig: cache.nixos.org-1:jFtFOelWFuJkwfxhA03CYkEaPuS2Wbq1prrXfd8t/zl+smV+w+At1oRonEvMPZ5zGDwEj1OHpcxni9+/hx/1BQ== aux-cache.dev-1:n48mp7Qe2L3yzaYE12p9JkyRGA89tOUDD/6sr+ZT078ZhrNs4B/N002rtBGl+lCMNiX+fhl9nsnEQ25vZKTdBg==

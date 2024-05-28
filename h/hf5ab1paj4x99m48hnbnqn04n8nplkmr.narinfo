@@ -8,3 +8,4 @@ NarSize: 1389792
 References: 
 Deriver: i2pfgljh1az3v0xga8s4kvn7l1kb1nj4-autoconf-2.72.tar.xz.drv
 CA: fixed:sha256:0niz4852fgyavfh3gr4h4kzalk01nk70v6vfsja6r3ap349mr25s
+Sig: aux-cache.dev-1:vJIgRHRtBeU0lnCntNiMgpsGLzv9VTI+IP6bkC+JZ1rQRO1mmGTY1rwUZhB70ORTUpr1NV0dPymY25h99K6gDQ==

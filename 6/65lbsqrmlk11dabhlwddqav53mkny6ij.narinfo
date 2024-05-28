@@ -7,3 +7,4 @@ NarHash: sha256:1zfjrymp3kpvviwvfx8mk373hjki0ybz8rfzrckqxpsyslzvafq8
 NarSize: 3264
 References: 565cri466vk9xch7zz0b9r2cnpxigb99-cacert-blocklist.txt.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv d8nly91nc3h5gs1rlhfkxdwxr4jvqd49-setup-hook.sh dz7sinz5m9np7lc1pb1mckfvwfsxlygv-cacert-extra-certificates-bundle.crt.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w3glf2hdfv83fyfs831m8hjd3wfhw960-python3.11-buildcatrust-0.3.0.drv xynpgfizpjrsq6rv9gamhc3h51352c9p-nss-cacert-certdata-3.98.drv
 CA: text:sha256:148znwmpwbj7slf0iq0kyrmy53202zmw8s1w7p2cmpz2jj34znnf
+Sig: aux-cache.dev-1:+qH6+JVaIi5ZO9pCLPEbe3CexRuxm2hXlbPjTUHvwiJM4IX//MgQ3BW7+aC2/q1ZQCalsrkI58PCgIlsr0rPAw==

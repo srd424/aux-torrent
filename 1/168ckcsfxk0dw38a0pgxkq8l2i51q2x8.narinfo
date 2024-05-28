@@ -7,3 +7,4 @@ NarHash: sha256:13y5h039gl4wgbgha2rvg2qi8198q5a2mz0v5yfhfa23y3xnaisd
 NarSize: 377520
 References: 168ckcsfxk0dw38a0pgxkq8l2i51q2x8-spdlog-1.13.0-dev as1s4qqpn51n8vm7jr8dsz1mgsmc3682-fmt-10.2.1-dev flrllywwgg6pmr176zr0m29dwgd61zha-spdlog-1.13.0
 Deriver: q21fzsl9fphaqjkjga84x03w2a6v2yjh-spdlog-1.13.0.drv
+Sig: aux-cache.dev-1:wtsPFLutGd3G4ntMgKwSY0HePBQ25nPzR+8WEZPcIF//IrapjpvptHVXQIdozHTzoC+g9LVG5LjXkqmHWDsGAg==

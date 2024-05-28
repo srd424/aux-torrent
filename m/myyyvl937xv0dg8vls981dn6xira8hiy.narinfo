@@ -7,3 +7,4 @@ NarHash: sha256:13ixbj9grdq7axwqxhi0b9iplkibw13szdl5ldid44i518l17r33
 NarSize: 960
 References: h9wlp3aj23dvwbpkpry23xm1hww5xyqj-gnu-config-2023-09-19
 Deriver: 1pa3j3n54bd6b5qlb2imm1b419r8937d-update-autotools-gnu-config-scripts-hook.drv
+Sig: aux-cache.dev-1:Fw4h0XiBg+chsohBK2np0flqDudc9kwlrFthVMcPLkJxLTxHJSs4REl6pWttyExHM1GQuGZ6/NVJmrPti77hCg==

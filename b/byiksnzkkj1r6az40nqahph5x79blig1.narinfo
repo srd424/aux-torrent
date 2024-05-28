@@ -8,3 +8,4 @@ NarSize: 1675024
 References: 
 Deriver: 8vymbl82jq10wjps0dj0xkj3frba509d-source-github.com-google-re2-2024-03-01.drv
 CA: fixed:r:sha256:0cyw24z3pa0dc6z7ggny4xns6x6ds8d7r5fwq5rdakf6qwx3vqjn
+Sig: aux-cache.dev-1:z8tzFsrGR1FdpDKThF5PolJBsRGV4v/BRsmA2GU5Jg40iBiavZ/N//EGBD02e8HcJ8hpkXMkxAhkKSoljBxfAw==

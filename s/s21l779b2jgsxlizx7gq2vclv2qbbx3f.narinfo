@@ -7,3 +7,4 @@ NarHash: sha256:0sjjj9z1dhilhpc8pq4154czrb79z9cm044jvn75kxcjv6v5l2m5
 NarSize: 96
 References: 
 Deriver: zvk24awvybbxa55qsxg16mz4kvzbs2qx-nghttp2-1.61.0.drv
+Sig: aux-cache.dev-1:7aHOVfDI8wJz2dlkBSPH4fdnrXr7SidWPcR0sP+myHjBSd/wmxYXM0nV21Q1uuvzTYob4GGjoL3Xb6shsOLJCA==

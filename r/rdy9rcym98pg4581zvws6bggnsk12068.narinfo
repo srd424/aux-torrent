@@ -7,3 +7,4 @@ NarHash: sha256:0h2l33cawrkf09n0rdriqn6n4d8r6z9ifybwdza6dh6aa40rghj8
 NarSize: 1880
 References: 2i9f3zbwfyk401wdpdkjmz40c0azqxmr-xz-5.4.6.drv 6h6vxfizmfzmfc67sis71qxbiv8jwn3a-bootstrap-stage2-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wmhjl7ls2r898956l3agpqgmy4wbq25y-autoconf-archive-2023.02.20.tar.xz.drv
 CA: text:sha256:11nmvlbld2z8p6h1jvz4by91v4y9ac0wir63g7ficra6rjrny95m
+Sig: aux-cache.dev-1:0WolSgCcKJRsXsXlekP08BkHwS48r1epTtQvOfoAugU9R6Yh6GyXFyhPxVcDvsxPntzTLhg0WJvdWdmOUklFBg==

@@ -7,4 +7,4 @@ NarHash: sha256:10917gpgpv7fai44ppax93kfxsd4dcsbsgpyix12xjlxzwa5xkj6
 NarSize: 1232
 References: glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
 Deriver: gc33jvb4g795xq50cyizdl929pz05px3-python-imports-check-hook.sh.drv
-Sig: cache.nixos.org-1:78amxuEi/wfJURIXeDTQnBd1QXuuY3VhasrK4kFDc2TxPPZLHLsLfps4qeNveBsLurMtVvm4uHTwg9AOX8fbCQ==
+Sig: cache.nixos.org-1:78amxuEi/wfJURIXeDTQnBd1QXuuY3VhasrK4kFDc2TxPPZLHLsLfps4qeNveBsLurMtVvm4uHTwg9AOX8fbCQ== aux-cache.dev-1:aq8vjnJUk+F/jzHIu5ikSABrCh1ir21+BZFtLgqloZpuqyllKToZAHYcQ6IMd6eJfOhk2dIKEbQD6Fpj9mNMBQ==

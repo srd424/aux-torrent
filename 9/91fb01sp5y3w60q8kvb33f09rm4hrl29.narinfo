@@ -7,3 +7,4 @@ NarHash: sha256:18fjw4mpivn3cdvba6xzjhwjwcqdzj7sypgsp9wy3gipkr56h61d
 NarSize: 152114440
 References: 91fb01sp5y3w60q8kvb33f09rm4hrl29-boost-1.81.0-dev lb3z8n4lchq4ji90nc77ndyh0x8mxgzf-boost-1.81.0
 Deriver: 8mqs96isx7m9aq5zxy5nivaa7clxq9q9-boost-1.81.0.drv
+Sig: aux-cache.dev-1:zYxAbPQEZWP9OB+30QtXABiJEmZdJ3wlBvs28ZHAkfQiAvTCB7P6I2L6VlhIbjHoZNAmt7AF2tFVPNnC8oScAQ==

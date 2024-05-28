@@ -7,3 +7,4 @@ NarHash: sha256:06idl67gq9m8qbia4i5a1sa78sjhpsar1sjr4gpi8zql406b8is4
 NarSize: 3040
 References: 2270lhbq322nbpb43zb60n4rsyvb32yk-01-fix-heap-buffer-overflow-cve-2018-1000097.patch.drv 58hc5y9l6q8sa9hq672rs0kjnv12y9is-sharutils-4.15.2-Do-not-include-lib-md5.c-into-src-shar.c.patch.drv 8s64y9dasnsz3cnbvfby8r4ahx6vjrfz-02-fix-ftbfs-with-glibc-2.28.patch.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv lzjr2xyvw2z2rln5wn1v6y8vs0rv8kvs-coreutils-9.5.drv pm3r0asn8y4dn9dldf497xj9x83ifhld-gettext-0.21.1.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w3ihqd8p0w7fwp955ibl67j2q0ljf5g1-sharutils-4.15.2-Fix-building-with-GCC-10.patch.drv x1xclngznd7lanrd2nmbvmyl13krlhq2-sharutils-4.15.2.tar.xz.drv
 CA: text:sha256:11alxnzrfjz0762dqc0xmkl3x5ksj6r6mh5caarpmyyyn1czpz6d
+Sig: aux-cache.dev-1:m8OzVU8G6CdPpXEktmTVPZTyMX+SwpHPVjEtMR3mF26zpk91bKWsLz4QqHWWTwFRPRpbFF1OYO774EXGBGvoAA==

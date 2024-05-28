@@ -8,3 +8,4 @@ NarSize: 16397176
 References: 
 Deriver: bn7gj1qv7c8rmvf1npagsp6ahh45mf3x-source-github.com-awslabs-aws-crt-cpp-v0.26.4.drv
 CA: fixed:r:sha256:1l6n0lxsf47xriig76gwkfqy5fgi3a9lng6qkw8l15k1z3lsr68z
+Sig: aux-cache.dev-1:xHXR1SKKUr+psntwqXgsR/N6ztyrBf8JPd7hk5P0fsfmNyLBOd0yYGjLSUu+acnNfsonBDKFfRrrQ7K7nxU2BA==

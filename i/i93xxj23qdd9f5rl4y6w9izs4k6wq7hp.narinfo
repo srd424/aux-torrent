@@ -7,3 +7,4 @@ NarHash: sha256:0injagrjadcbznq75hfpxw0n14mkamd0m2g8lckc3gnnim66inbn
 NarSize: 2464
 References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv l9lhxh7mz1kzc1y50khpsyspqf4yx5ks-perl5.38.2-Capture-Tiny-0.48.drv yr5x9ijydk00hhch76lalj118bbpjpdz-perl-5.38.2.drv z6n1r2v16f0hxb952qyvjgz1166ig150-perl5.38.2-CPAN-Meta-Check-0.018.drv zrh74cmz15h5vb9iwmj84a91zxz3m0d4-Try-Tiny-0.31.tar.gz.drv
 CA: text:sha256:009sj1hl9ahd1isaq8ilsf9ly76kyh06rzxiangl674d3x6a08z4
+Sig: aux-cache.dev-1:yt0rngZhWWZbrudZYUeGIg6TdItIk/RXQt7CPS2yx2OouKKylP2FPlgwXwn7YDi3lAicChM4lphelRzU38pSBg==

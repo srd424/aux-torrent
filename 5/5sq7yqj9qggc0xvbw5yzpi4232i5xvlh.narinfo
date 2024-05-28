@@ -7,4 +7,4 @@ NarHash: sha256:1gqkkbjz5qm3kshy52x69y25fx8a5rhprvn37bmslwk6m2d9bnix
 NarSize: 3904
 References: 
 Deriver: hh8h2bgdm2c9c09iln43drr32fr41h32-perl5.38.2-FCGI-0.82.drv
-Sig: cache.nixos.org-1:m/iuJNHajTGt7OpvxoUa+hZxaw0bHwmx8xjJijGKKJyKdz+xrxeYXWEOVb+fS3qrD0VW4Llaa67ukyfcoktyCQ==
+Sig: cache.nixos.org-1:m/iuJNHajTGt7OpvxoUa+hZxaw0bHwmx8xjJijGKKJyKdz+xrxeYXWEOVb+fS3qrD0VW4Llaa67ukyfcoktyCQ== aux-cache.dev-1:is7FtS7pYyG2dUboHA2lPHw8rO/gf6Y92WBfeMMAaZ/cAyqnOl3iqhudfV8ZvKimzd6vgTSkb6LK8+usjK6sAA==

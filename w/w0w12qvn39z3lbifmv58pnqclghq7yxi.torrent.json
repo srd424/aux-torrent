@@ -1,7 +1,7 @@
 {
   "announce": "http://bt.aux-cache.dev:9996/announce",
   "created by": "Transmission/3.00 (bb6b5a062e)",
-  "creation date": 1716813232,
+  "creation date": 1716917096,
   "encoding": "UTF-8",
   "info": {
     "files": [
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "length": 553,
+        "length": 663,
         "path": [
           "w0w12qvn39z3lbifmv58pnqclghq7yxi.narinfo"
         ]
@@ -21,7 +21,7 @@
     ],
     "name": "nix",
     "piece length": 32768,
-    "pieces": "qxLOecZ6MKsQTGrQn/E9X/af4LVpNDkmfTyQt6MHrkbBbmOVMUlKuJH20RG5V0+psR61LIjoPe9d\n+aBfYHmmms76URSAp9BzdIFnDlbHT7iui2UnYaJI/CYLuvK6qJFA1IWh6QtGLpJdekTcn4/X+FaE\nrGqxSFUzltDzwRC0V5oISIqb27Da80ULuVX6ZREJ6/CmP6lbF8B34walQinZP5aegpXqu10rem2S\nuMGc67q/mucZ\n",
+    "pieces": "qxLOecZ6MKsQTGrQn/E9X/af4LVpNDkmfTyQt6MHrkbBbmOVMUlKuJH20RG5V0+psR61LIjoPe9d\n+aBfYHmmms76URSAp9BzdIFnDlbHT7iui2UnYaJI/CYLuvK6qJFA1IWh6QtGLpJdekTcn4/X+FaE\nrGqxSFUzltDzwRC0V5oISIqb27Da80ULuVX6ZREJ6/CmP6lbF8B34walQinZP7HQ40Uk6uTbadEI\na0L6WYAuk8H6\n",
     "private": 0
   }
 }

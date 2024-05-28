@@ -8,3 +8,4 @@ NarSize: 133824
 References: 
 Deriver: 00qag48zpy6hs6d7j73v89bqiyzyj08r-source-github.com-Michael-F-Bryan-mdbook-linkcheck-v0.7.7.drv
 CA: fixed:r:sha256:0kcg0kq4iqc9vfpl242dicia076mv58i3dhfa0fa1f27205dmfk5
+Sig: aux-cache.dev-1:O0JCEj/wrS0/xKn1V51UCdWaP/4/0bGgz1TSzubt3N39EPf23wXVL2zKCo/LB/t1PTXpkv3WY+Yi/mPy2Ub0Cw==

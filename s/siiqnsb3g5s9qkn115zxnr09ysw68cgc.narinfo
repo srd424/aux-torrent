@@ -7,3 +7,4 @@ NarHash: sha256:1wm9g0v344d3wsc8lwv1jwq6i6lrv1wzhh2hn51a3sg9ld9vwxy6
 NarSize: 2024
 References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 5qmi07dp0d8m2lbpskdf021rfk5rvhs9-python3-3.11.9.drv 69fy0i40wv7k56qyh543xjy7vacp6fxb-source-github.com-catchorg-Catch2-v3.5.2.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:1d5x1qns23d4bz545i8ndcr9199d6k9rl9gy3lmn1zkkg38qw99h
+Sig: aux-cache.dev-1:CiewpG3vl2Qe9rrHrsTvva+b8g3/et9N5GVaWCkLaml5qhcrzeMXcufFPe5+B8kV00BW1bl4e/yh2PO/+ZlVDQ==

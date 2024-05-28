@@ -7,3 +7,4 @@ NarHash: sha256:0mpqk4is3517rcr3ljsbxg5jjl073db2x4akr6kgyxl3h4d2k8j5
 NarSize: 1720
 References: 3inq067xw7bic7dy828bgjjzx54kav9v-install-shell-files.sh 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:0dmz1zsfni1ggyh9yjzfg37swzn7lb2nfv2xvzipnfdchx6axdxy
+Sig: aux-cache.dev-1:G33+g1v/v43PZQqoC0LL4TkTVD3DBxzOrNl8aWb7zS0mGuEFj3tgx+Az7wua7i8aYCmcC/NI8Lzqd3uurSrnDg==

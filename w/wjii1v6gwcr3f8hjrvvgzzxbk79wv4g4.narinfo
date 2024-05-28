@@ -7,3 +7,4 @@ NarHash: sha256:08amqn27c3ycmvb5lph5hvxbq137j1cd2say15v9dxk8whhaszl8
 NarSize: 1312
 References: 7i5jg3a0kapgwz0hz7klalk8m675l72k-python3.11-build-1.2.1 xjg5xrqa30i0pvd0d95bifz901dg2i2w-python3.11-wheel-0.42.0
 Deriver: 9lwj4ji6df22mrarmad9n9vw0png6n4a-pypa-build-hook.sh.drv
+Sig: aux-cache.dev-1:76rsPhY4XpWGuiZTG0UA25dyPjome0KOHZBNAHxMH+LhYBaZn04142n33z2R+/UeGJSbPEtBaXECSbkCA+dIBg==

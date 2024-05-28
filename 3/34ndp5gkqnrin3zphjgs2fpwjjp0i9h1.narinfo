@@ -7,3 +7,4 @@ NarHash: sha256:062md7v2lyx2yhpbxmd0ymxphcm8k9amh9fnjy9mr35xppg9yhxk
 NarSize: 2288
 References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 8xmm0ja8q9y5w9sj4ml4hcfd0dyx9fig-revert-runpath.patch.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv bxx1iz637ads1z2n3gyc3xsczirv98dq-source-github.com-google-brotli-v1.1.0.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:0zfwgynj1gf3xvrxn5i9jn92wq23gphg1d8lrf3czi11ihz3r422
+Sig: aux-cache.dev-1:8BdIkgTH3eP3ele6QH1K1OAIdoIKH/NcVfrfuaqCpL0srbZcllr+T1NcWzYFYZlzvww1kUgCvOZyLvhbkPTJDg==

@@ -8,3 +8,4 @@ NarSize: 513064
 References: 
 Deriver: aqxqh3y8ibh28cp0xpzfcj78qaj3745q-source-github.com-awslabs-aws-c-sdkutils-v0.1.15.drv
 CA: fixed:r:sha256:0cim1v51d2y724sf75vj8mh5d3lpl7d4fgr9s5368hpyvdnl6d25
+Sig: aux-cache.dev-1:/o5KRObeIdsAkFrIG1eFwpluWIbMUNULCiQIce5hsqS3UwH17BRLceWxxPPTPT55E1SyzDMIMuZHbsWNyMZFDg==

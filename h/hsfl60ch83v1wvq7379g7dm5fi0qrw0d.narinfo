@@ -7,3 +7,4 @@ NarHash: sha256:1ycr4jfs2kj6dz2fsmz9pqkyy7a586l2wf31qr8k8hjfvf6cnz2j
 NarSize: 2760
 References: 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv bbykz91vc922a8668dqwdlzz3mh8rlr2-rustc-wrapper.sh dj51shsmi9b2130m89gx48vla284n0wk-rustc-1.77.1.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:1h2qwds43kwvqj46052ykmi0jkxsj3my81vvl7kg0y9l5727w6pc
+Sig: aux-cache.dev-1:zGqxZuLWNfpKrqREMocp4LbHAapLSa3MPfENbgue5RT1GzAHwbKvCDFTuXvGyH9+xOygjWEuq8mnziSCXR+JDA==

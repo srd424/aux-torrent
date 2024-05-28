@@ -7,3 +7,4 @@ NarHash: sha256:13bqj822aj1bm09l7q8c0119942j336hhhzp8r349bn423phylkk
 NarSize: 2472
 References: 6b29gjz7rj4mw0ch0vy2m6qrqipz2bbb-pkg-config-0.29.2.tar.gz.drv a2li7pm9s8sz9kw9l6wdcd0llcfjcymn-glibc-iconv-2.39.drv bajiwq8lwvjlpc2mhpnfpng4z9l13ij7-bootstrap-stage4-stdenv-linux.drv f4bvwqvj0y3z6blvh0knz71a8yq1c45p-requires-private.patch h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:0xjwgl9mw2bzfjzq90z3b7awm3zan5sslfn7sp30c5yfcijqfjwb
+Sig: aux-cache.dev-1:ql1BuRnUVPDL78xerx44reKPLqeybIp4WfLL/Y0d2kHTlReiO55KpFXCIcBZ8VlSaf0NLC8+3u0KkYo8SFGoDQ==

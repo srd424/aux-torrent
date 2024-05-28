@@ -7,4 +7,4 @@ NarHash: sha256:1dhq3sv8qn6xkpzpmhc2d62z93hf0v1695435i87abjn45w084sk
 NarSize: 87656
 References: 
 Deriver: 7q06j4f1zppmd6rj2hz3ayvsfz3irfcc-gnu-config-2023-09-19.drv
-Sig: cache.nixos.org-1:h+6eXJ+vqAQWJ/Es8/iLdtuztL4SQiHLL477J5UPVbYd20eEuPR41t302t1QRU5bCSVp1VUW2Eb5prM5BuZpAg==
+Sig: cache.nixos.org-1:h+6eXJ+vqAQWJ/Es8/iLdtuztL4SQiHLL477J5UPVbYd20eEuPR41t302t1QRU5bCSVp1VUW2Eb5prM5BuZpAg== aux-cache.dev-1:VjawQkawuPXRbec16T76ePjSsV+HVPSkwgOQzv1yeQ4c1puQGwSqVSX0DFG+IlGHsSTip1DjiG6umEsTuWqgAg==

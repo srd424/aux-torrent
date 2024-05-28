@@ -7,3 +7,4 @@ NarHash: sha256:0yj49sprwyq2lj6q8f1daz3qxai6925cv1sf6rm9jgx76kr25lpp
 NarSize: 2152
 References: 00qr10y7z2fcvrp9b2m46710nkjvj55z-update-autotools-gnu-config-scripts.sh bnxlpi269a6pb61m4r5z4dsyaci1albi-bootstrap-stage3-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv llla8np3lq6242j3hrkmmsy1xpgb02c5-gnu-config-2023-09-19.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
 CA: text:sha256:1916br4cjx7wnq9jmddf50afgrj2adjl75y3grjgxp0ssk6lx9pd
+Sig: aux-cache.dev-1:EWvdPyeK+RwRThLtHvP7BqqzYYHY6ki81mJU++pQVKz2R+uxtoCXLAz5+/g42wBSvrvEiuLwQE5rSVRuP8bVBw==

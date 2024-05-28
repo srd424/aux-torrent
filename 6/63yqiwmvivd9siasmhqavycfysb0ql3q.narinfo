@@ -8,3 +8,4 @@ NarSize: 4460816
 References: 
 Deriver: nfz2dkxrcwqq4ch0v9l0qdfl3j8v68d5-source-github.com-libuv-libuv-v1.48.0.drv
 CA: fixed:r:sha256:100nj16fg8922qg4m2hdjh62zv4p32wyrllsvqr659hdhjc03bsk
+Sig: aux-cache.dev-1:5dFk9xtU946AG0q9TA5HGQCOD2lV38UhPQdWFyA1+GKFvoOrowFqEoB1k3qSdNgiarLyOajeFl88MICBDRi0DA==

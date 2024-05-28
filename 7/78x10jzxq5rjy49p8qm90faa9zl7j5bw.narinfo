@@ -7,3 +7,4 @@ NarHash: sha256:153mvlm61dngfsaa89i6vn76nmp90pbqn9khq8hjayz78d2b9zcb
 NarSize: 1752
 References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv fhgxnl9w44p4wq4hs9g64y3fyjbjh809-gperf-c++17-register-fix.patch jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vaw5r9kfrysmid25fydv8rz9bxp5mdi4-gperf-3.1.tar.gz.drv
 CA: text:sha256:042ka3hg4wf6r9fljgwh9vik0jbxnvlwkr57wgj2nm4lww7vaz5n
+Sig: aux-cache.dev-1:6loNko75CVGBYreXlk+pDE0RElFSexhiA9jFN4NhuMMtFvFacjgMNJEdctWSlF2AcOvQO4rHL7UHYO0+z4Y5Ag==

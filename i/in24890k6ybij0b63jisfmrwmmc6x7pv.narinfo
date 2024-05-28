@@ -8,3 +8,4 @@ NarSize: 1512
 References: 
 Deriver: 8y6nd0hmkkq8yfalynzh4s6h46sgsan6-bash52-017.drv
 CA: fixed:sha256:129cvx4gfz8n23iw1lhbknbw86fyw6vh60jqj1wj3d5pr75wwj0w
+Sig: aux-cache.dev-1:T7slu/YB7rqgnaZMM8oUsjJrWjfLX+VUWov5DQF7WuJ+CODO4Z4KY2fc4atis+69cM79BfEzJsj1Q9Ii4GVdAw==

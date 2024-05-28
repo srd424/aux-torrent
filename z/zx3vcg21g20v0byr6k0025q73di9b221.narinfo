@@ -7,4 +7,4 @@ NarHash: sha256:1qm8lg9a83418vk7j4afpmhac76f4d0qfy9dxj292nfl06zfz0g7
 NarSize: 21368
 References: 
 Deriver: 5agwsddki9l0wyvm7a0614605s8dpzgy-libcap-ng-0.8.4.drv
-Sig: cache.nixos.org-1:shF8sXRTGm0GjXBfHV23UO/97hwmW0x9uqVRHAVrQfIgujjCsqONYtTZhXPsdj3UqHO0Rav1rPH5KhEpKFr9Aw==
+Sig: cache.nixos.org-1:shF8sXRTGm0GjXBfHV23UO/97hwmW0x9uqVRHAVrQfIgujjCsqONYtTZhXPsdj3UqHO0Rav1rPH5KhEpKFr9Aw== aux-cache.dev-1:wxzQYX7zemaHcpA3Ri1rYZsMQcskU3Ikovsm/5rvET3/ECdlqtcwaxjXO+87RR05sajOBR0KEK8YA3xU4khcAQ==

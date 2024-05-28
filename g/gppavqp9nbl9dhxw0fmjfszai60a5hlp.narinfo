@@ -7,5 +7,5 @@ NarHash: sha256:0xdvv9mg2g6zlpnmxlshl2jfmdlq0fbgvq60arnbh17bsb5cz6n2
 NarSize: 62872
 References: 
 Deriver: pmcbmw0an76sqmhnnn126k737i9j8dc5-hatchling-1.22.4.tar.gz.drv
-Sig: cache.nixos.org-1:iCHa5PgT/av6J1QFVf3JDcr+dksvwLO/i0iKC8BWWHXnvWaseoIVRU/dMziDZEW+Dt9bVOVEihs9ZdvMvHUvDA==
 CA: fixed:sha256:0vj1yfax8sqinpxa622syd0ydnizqid8x17m5qw4if3zdp4wwbca
+Sig: cache.nixos.org-1:iCHa5PgT/av6J1QFVf3JDcr+dksvwLO/i0iKC8BWWHXnvWaseoIVRU/dMziDZEW+Dt9bVOVEihs9ZdvMvHUvDA== aux-cache.dev-1:Xc7FYdyaL6VsNM8Zapg6QIEj4meHraxhvxO2gzLusdyp0b88jkJ/ZZdYOnsGRUqvkDX46DuVaPc+BLMTOaJBBw==

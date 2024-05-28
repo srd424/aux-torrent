@@ -7,3 +7,4 @@ NarHash: sha256:04hn8ggpi0aabxgs85qchjjhfqmf6g5dhhah0wsq04aihawyb7yg
 NarSize: 14338696
 References: 
 Deriver: w90lykg8n4cyg1rg7rkg1d98ci6kxpmb-python3.11-cython-3.0.9.drv
+Sig: aux-cache.dev-1:jiawzFbfBL6+nSVo+PAJV3qleTSRGHVo/JuUKesJqDfSlksl3HfjjpR/QTv1K0desNkjkajdnn6Tatxi0ceyCg==

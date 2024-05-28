@@ -8,3 +8,4 @@ NarSize: 10543288
 References: 
 Deriver: jg7yr4wb4w436i9v3k41x19fnjzyqkxn-source-github.com-tats-w3m-v0.5.3+git20230121.drv
 CA: fixed:r:sha256:0nvhxsqxgxjrr62mvxzhhfzvbvg56g19vlqcgb8mh2x1daazk5ms
+Sig: aux-cache.dev-1:RXIfMN7pLXTYAsa4/z7Ai25h3FfIuxZQ/kquP7Et1qTkuARqX7tQJDFeF//cQLVZxpvYBwEaNHcOqvsWkplSBQ==

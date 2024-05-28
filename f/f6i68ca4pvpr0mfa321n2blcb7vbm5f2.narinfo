@@ -7,4 +7,4 @@ NarHash: sha256:0nlm4n5lqa0ppv6n1j3c7nhx0xkzkwwih7lqvvfwdwh1g8hicn7s
 NarSize: 176
 References: 7cscchfvihzb7afwz2i28mx8l1z1dsz8-binutils-2.41-man
 Deriver: zysgb87ghz414ypj1lwmyqisjv81bii9-binutils-wrapper-2.41.drv
-Sig: cache.nixos.org-1:ckSfaWmkw6mzIUVXLvOJ2w6Dy7SvXZcVG3mbWJmDIZQrDlgWQL1dTPGsv1k7XzSt8xdWWKupMTMgKkDZXrWyBA==
+Sig: cache.nixos.org-1:ckSfaWmkw6mzIUVXLvOJ2w6Dy7SvXZcVG3mbWJmDIZQrDlgWQL1dTPGsv1k7XzSt8xdWWKupMTMgKkDZXrWyBA== aux-cache.dev-1:BNpQzBQnUADURTx/Hr/rzU79rhIuWqUdFSHoFYEwtzKoTn8wL54tG3O5daVHkP/MKL0mqXXYzRdqnpS7R/RfDw==

@@ -7,4 +7,4 @@ NarHash: sha256:03y0rjpiz2j3slrqhx3yshxrakxw04a431k1zvl9jsz2sia04a8d
 NarSize: 478648
 References: cm4jbjqdqp2bfvkywbsxr939mr373iqn-find-xml-catalogs-hook
 Deriver: ygs24k5nh4lbgsjphlmv4w3fdaq98iq9-docbook-xml-4.5.drv
-Sig: cache.nixos.org-1:FIGomcZfo31WzmJkUwcJ5w5vbcJC16PY80wqbttSeKv4vZ69UKUsuXrl2UlHCP/cu88Uqb0MvPhmMOqMMcpnBQ==
+Sig: cache.nixos.org-1:FIGomcZfo31WzmJkUwcJ5w5vbcJC16PY80wqbttSeKv4vZ69UKUsuXrl2UlHCP/cu88Uqb0MvPhmMOqMMcpnBQ== aux-cache.dev-1:sFQxuVc5mvpYFXu/uqfQqUX8oQqsP9Dmcs9YwDyaPjyM4k9hPnRrsGIEhnYxYka8fC6U8MPLd6ssapN1VZV8Cg==

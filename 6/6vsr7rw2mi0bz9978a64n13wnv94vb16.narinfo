@@ -7,4 +7,4 @@ NarHash: sha256:064kabshzkwy8v4pm9j2924mihr02j2y5vms0wk0hdi15pqrlb18
 NarSize: 1018016
 References: 
 Deriver: gzjil1x7ba0m934wp5af185sgck7q5dd-libsodium-1.0.19.drv
-Sig: cache.nixos.org-1:SQnlc3/AhTHC5twAOMSG7ZUJt8U0dtsYhmYlGvwQ95okbZfzgGVGloUBHajosjHBgr3uZZwHHfIeU/T9qlafCA==
+Sig: cache.nixos.org-1:SQnlc3/AhTHC5twAOMSG7ZUJt8U0dtsYhmYlGvwQ95okbZfzgGVGloUBHajosjHBgr3uZZwHHfIeU/T9qlafCA== aux-cache.dev-1:lVUJwp8qd0Eu07iV4ux6Ana40wAKiT3wbF+eC7UzQuqT7Q2mLg6c1GwNq91YLlOeLRgWQp/Q0fyQz+CjNn6hBQ==

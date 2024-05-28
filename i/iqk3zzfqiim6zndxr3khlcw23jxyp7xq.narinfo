@@ -7,3 +7,4 @@ NarHash: sha256:1szn8bhc1z0v2l0f5np5gb4g9h0l4i7ypsjdn7lznlgvy2f0yp6a
 NarSize: 1456
 References: 76ywq6siwy6cwdn0a7jpkcf672qnbmyh-python3.11-bootstrap-packaging-24.0 gdxd1rn8zgjjw08ijghvpazj18n4sjl6-python-runtime-deps-check-hook.py glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
 Deriver: ngld0527lgg161hmb6aa4n4vsilj6iag-python-runtime-deps-check-hook.sh.drv
+Sig: aux-cache.dev-1:Ns4wj2jfDnKJvq9RFVBfrp4jlgmJ4f5RSdHRtbdyo3Ku2ctKIApy2ZBgJUvHjrlFAwu8MNNpSKYbLSE9P2bOCA==

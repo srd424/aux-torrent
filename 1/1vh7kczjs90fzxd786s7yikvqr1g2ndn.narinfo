@@ -7,4 +7,4 @@ NarHash: sha256:01a2mb2hygf0fim4x520spm4rxdblskmill3zk86gwxz0k8g9mv0
 NarSize: 2697608
 References: 1vh7kczjs90fzxd786s7yikvqr1g2ndn-gawk-5.2.2 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5
 Deriver: f59zk406kk0zhl4cifmzwspya5zdqszp-gawk-5.2.2.drv
-Sig: cache.nixos.org-1:lCw5fmfe1/mutO/0ftaWTytNnnoDY4ZYoA2euXcksgVzWvdp19GRSH25hP7EUXPU8l7zQ7gHGyfHs9KsIBkgAQ==
+Sig: cache.nixos.org-1:lCw5fmfe1/mutO/0ftaWTytNnnoDY4ZYoA2euXcksgVzWvdp19GRSH25hP7EUXPU8l7zQ7gHGyfHs9KsIBkgAQ== aux-cache.dev-1:CyYGcXZxEaHCymx16OAX013H6TcDTBIFPeNX9lgbGmp8OlLiu+fSTUN+wLFuR5wurwSeNT5MdQPN7R0QUVvSBQ==

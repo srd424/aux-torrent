@@ -7,3 +7,4 @@ NarHash: sha256:0xfmk7bbsjmbssd31c43dcqvgkzl27i7gskswfc9p1b6r51z7rrb
 NarSize: 2616
 References: 6h6vxfizmfzmfc67sis71qxbiv8jwn3a-bootstrap-stage2-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv jg446scgzpcbmakm8494z2wda1hcsk8b-nuke-references.drv qsxll5nngmfc44iqaf1f3vy88hcjcadp-bootstrap-stage0-glibc-iconv-bootstrapFiles.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh x026yqw2ch0lhcyd548qra2i6gxi2whp-libunistring-1.1.tar.gz.drv
 CA: text:sha256:10yd7zk57imvjf81gj9d3z2fb1i74cli8vqjmpz9r88wafmjmknz
+Sig: aux-cache.dev-1:SuTHDDoU34uH7p9WRFvfI3ghL12iWTO0wQDOtJh0PCoVEjs5TuN3F0MvN76n3yHScD6I98Mwkvu9SpDhpcocCA==

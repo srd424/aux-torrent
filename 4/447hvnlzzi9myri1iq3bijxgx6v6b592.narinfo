@@ -8,3 +8,4 @@ NarSize: 182928
 References: 
 Deriver: q5lq5b7c0i31zxjgm6j5zhp8pg76mwi1-patchelf-0.15.0.tar.bz2.drv
 CA: fixed:sha256:1hmxr3i64znp7670dq3hwpll12kdwkvg1zxyq7g2iqnqwhz6s0zl
+Sig: aux-cache.dev-1:KXJF0iDmexRP+z2XJC+kUSYlIXV0+4Gt722djyDNDynzfl8rCw7xtk7RX+vYjdVRxd9U9kegUWE1MBvMe6nLAg==

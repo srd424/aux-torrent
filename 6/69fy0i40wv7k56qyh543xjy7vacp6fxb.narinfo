@@ -7,3 +7,4 @@ NarHash: sha256:07x1nd656h51xf0mrsvpwy5p2vyh78zdw4h6j3kissgdfxy21fpy
 NarSize: 3616
 References: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv 4fgdyc551nmz6hwph928j9jkix1ljm8z-mirrors-list.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv
 CA: text:sha256:076gbdgmgs06b8gi6vkfmg051bixyz1vs4h6djq403njyjghq6n4
+Sig: aux-cache.dev-1:JWtx+EwXOawrZzRX8fEqBTuiXq5YLqMrumHbbVLf1cl6dsxNaJjNlfRVQAxquCLVt3IIqmWRncfTsNI7oUb2Bw==

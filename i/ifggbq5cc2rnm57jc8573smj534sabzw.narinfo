@@ -8,3 +8,4 @@ NarSize: 50736
 References: 
 Deriver: p0gj1mzg99qc4bnql0299yiadn026jc3-config.guess-28ea239.drv
 CA: fixed:sha256:18wbdm4l86i17ib4h441jjd3mh2pljwrgppikn46ycjj89hpf9gc
+Sig: aux-cache.dev-1:8kuJXQKT5n3hsLyvVg/QYPLBhisdA0RernjRCUjyIAUXEMv4UU4PyUHGIaPLZ0k9VVei+h9IrXzx5cK50EhRCA==

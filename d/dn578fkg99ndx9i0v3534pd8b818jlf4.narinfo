@@ -7,3 +7,4 @@ NarHash: sha256:0ps9bzbi5mnqqq0dlw5qx4b280333m4094gc15b8p4107xl1fd14
 NarSize: 31496
 References: 
 Deriver: ipbi26a01br2mvfkhhdyjlx5lcxklnlb-python3.11-pathspec-0.12.1.drv
+Sig: aux-cache.dev-1:9GH5z7fCU7l/LLMSWt0d/rHRTroBJPWRvZGl6MM2uh85C/fd8T3CJ6K4J6Dl0cJNUHzGkqgmToCQ2TYduQ4mDg==

@@ -8,3 +8,4 @@ NarSize: 2182040
 References: 
 Deriver: 1336cdlhs89ild0yhvdw8l6hahqzwm2i-xz-5.4.6.tar.bz2.drv
 CA: fixed:sha256:0jbg7vfnj5y2dm1s4wvfrw7cznz84cf9z57ch4bx7qg8fjr52f4i
+Sig: aux-cache.dev-1:WFPV93lT/mSDaXAAnoV21PLyjDCAgZh8e+jf4JseDLAVe3pLA70OCmoW05T2vzH7WQd/Ur+uYrzOErfyZAgrAw==

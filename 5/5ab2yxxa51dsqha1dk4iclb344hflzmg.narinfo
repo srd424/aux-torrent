@@ -8,3 +8,4 @@ NarSize: 754536920
 References: 
 Deriver: skr5rf6sg1hsxfl73a2v1ckcwi41rd56-source-github.com-aws-aws-sdk-cpp-1.11.296.drv
 CA: fixed:r:sha256:1r0whyai6q2yf9dy25mqg6n7d4aja22q8lqf3480baqswn8qw3ya
+Sig: aux-cache.dev-1:zsXZHWj8kcLG/Eynfg5DxHDLBLPppk/Zh3BXjF0TxRdl4XVoHNOiroqHSVEmXYc+us40XC/UDwTRr5/DVzJxCA==

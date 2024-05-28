@@ -7,4 +7,4 @@ NarHash: sha256:0pzj34knyzl8kscc4vcr91f0qyzfshi273bf2qjqb58bwvyb844y
 NarSize: 5293200
 References: 1mccb37pvl03i6hg5g8914r6zjd6n09b-gettext-0.21.1 aj9v6hq7b0r2nd0r4mbcaj5fzr2vdgnf-gettext-0.21.1-doc dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26
 Deriver: jkbzwfdy1c9p3l4c7d5yp08f96pp4nwb-gettext-0.21.1.drv
-Sig: cache.nixos.org-1:4ngKQtM3hP5VIcN7GLSjtKHlvdY0jN26CUpK/7ttZ5exY66duerCkX3KhTkFIVnPYlr7Nz+KIPuS6LvQubqCCQ==
+Sig: cache.nixos.org-1:4ngKQtM3hP5VIcN7GLSjtKHlvdY0jN26CUpK/7ttZ5exY66duerCkX3KhTkFIVnPYlr7Nz+KIPuS6LvQubqCCQ== aux-cache.dev-1:Z1F6uBWDFeIOl/J7SebSMA99mMpZonYErjXhwR0bXqNJihkBfICykyIZ+O6ICFLub3ErkR0DxvMd6H0gFVr2Cg==

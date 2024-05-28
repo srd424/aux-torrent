@@ -8,3 +8,4 @@ NarSize: 2990232
 References: 
 Deriver: wnqbjqzsj3av5ihd535kk7wda1k86aax-source-github.com-awslabs-aws-c-http-v0.8.1.drv
 CA: fixed:r:sha256:1ajl0l9hshdcsf6wjziff1qb552k0fz38hb2v1npfkj68xb174ab
+Sig: aux-cache.dev-1:A9AtPXd+IJJFTWApS5TfIg4l1bw79YlugLj47VQ6jWpGsdXDaLfApBHyUPz26AAqAavlW6rHnHfMGrJdE35aCw==

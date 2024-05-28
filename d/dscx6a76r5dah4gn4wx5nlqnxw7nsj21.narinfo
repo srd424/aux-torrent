@@ -7,4 +7,4 @@ NarHash: sha256:0ip26j2h11n1kgkz36rl4akv694yz65hr72q4kv4b3lxcbi65b3p
 NarSize: 112
 References: 
 Deriver: dz7sinz5m9np7lc1pb1mckfvwfsxlygv-cacert-extra-certificates-bundle.crt.drv
-Sig: cache.nixos.org-1:ICiJVNFcZKKEtZtKObRK6FWEnbhZ6RC4uN+XjXUjVmQNXBvnkF1druYkzPyQLrHfnCKaO39OYVwTbNgXglviAQ==
+Sig: cache.nixos.org-1:ICiJVNFcZKKEtZtKObRK6FWEnbhZ6RC4uN+XjXUjVmQNXBvnkF1druYkzPyQLrHfnCKaO39OYVwTbNgXglviAQ== aux-cache.dev-1:OouVbLM8XJdAYljyFzcTHeSfrawvZNfGKOmHd3+P+7KLVO938KTxz79aVqMkpITBFziitQcNLxhzat5C/VA2Ag==

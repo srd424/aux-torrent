@@ -7,4 +7,4 @@ NarHash: sha256:13mgmd98ygd3wfykdigqc3jv9p1dk5cjdclypcic763h6k7jnciv
 NarSize: 9592
 References: 
 Deriver: nmj70ijv8vyc1h2dj76970wm6czi9gl4-install-shell-files.drv
-Sig: cache.nixos.org-1:9ly64W7K23/ZPHi/qQ6Tiy0oR56skRJGyfff5OoPcwn2x1ST3+nYrABwsBloZDBACj2d4tFVjWVLntb1VYHMAw==
+Sig: cache.nixos.org-1:9ly64W7K23/ZPHi/qQ6Tiy0oR56skRJGyfff5OoPcwn2x1ST3+nYrABwsBloZDBACj2d4tFVjWVLntb1VYHMAw== aux-cache.dev-1:JB5Kv+LIPYq3p/qzsWpcBWaIdpD/WmTCL2oKTVd3LuGL5x2aZhjrfkgXpFyyiaZi56EFq/LHjFst6Jnhhig9Cg==

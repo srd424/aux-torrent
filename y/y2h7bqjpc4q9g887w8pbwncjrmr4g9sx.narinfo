@@ -8,3 +8,4 @@ NarSize: 25248592
 References: 
 Deriver: 2c90gp52cvdprpj314d86qii9qil4fkb-gettext-0.21.1.tar.gz.drv
 CA: fixed:sha256:0ibdcinjgky0an2yw4aspmc31y0x5hw44mim9xf8gvlc3l76bhz8
+Sig: aux-cache.dev-1:C+P0jjh1qGozH3gJjdpE/vk1CR4vbc5wyovBpmakm+/Kag3M4m9ygGrPQ1ZFN/6RmnxzFc1pZAtg3jTg4DXjAQ==

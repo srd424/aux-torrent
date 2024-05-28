@@ -7,3 +7,4 @@ NarHash: sha256:14sq6gxk2hszswl3slby90gp8wv6ljcxy22yhy8xahi2bmynhi4r
 NarSize: 9600
 References: 
 Deriver: agqxy9wxdzlfpra6hbrs5hs3xfcs1v9h-python3.11-pyproject-hooks-1.0.0.drv
+Sig: aux-cache.dev-1:ahCIUzvBfT4b8COS2ydywXtkippC9Xb7X+FrKyN+NI8OFO1U0XO42GiI8aYyyFn35IISmhtpds0sSZdAfCPnCA==

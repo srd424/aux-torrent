@@ -8,3 +8,4 @@ NarSize: 25949640
 References: 
 Deriver: xjkydxc0n24mwxp8kh4wn5jq0fppga9k-bootstrap-tools.tar.xz.drv
 CA: fixed:sha256:1kahkdhlid1fszq80r83h758xk10d7wa98sd0mb8agh7rz9nn2b1
+Sig: aux-cache.dev-1:VLuijso3wyBvCI9PneXLVZXbu6pCASz4Rwpj7Jj/jLcDSwA+sCTK4RzInU2DkqfuHW7AB4t6BY532Vp0tnwHAg==

@@ -7,4 +7,4 @@ NarHash: sha256:1hzkr2d7hp76dpi2aas3mb1arr24bmppvr6z1s3yzl47jn5w3vnp
 NarSize: 423352
 References: 35pq4hr29c3sl79lgfwgsvd9nwzyp4am-glibc-2.39-5 rg32apprx9b1bidimbpypjcb3j4zp0vy-jq-1.7.1-lib x5qldmxg8f3va0626dcw53r2ypldbzc0-oniguruma-6.9.9-lib
 Deriver: z034xhzm7za1pxzk9487ckjmdqy38rdf-jq-1.7.1.drv
-Sig: cache.nixos.org-1:wY22oGaTwGTMHiqVYNfTajwHM51jocafgwFyebNI50mO9C3TFL3GAqgjKRi0G1Qvc6ZndW56OuTX7Ta9+x2xDg==
+Sig: cache.nixos.org-1:wY22oGaTwGTMHiqVYNfTajwHM51jocafgwFyebNI50mO9C3TFL3GAqgjKRi0G1Qvc6ZndW56OuTX7Ta9+x2xDg== aux-cache.dev-1:0ITfwoSxTxksjcARBWPjWzee2nxfTiqG9Kbi0DwSpsUNOoPQa3pQC24lrRBQ28nmaiZiiNgskOaXXb63HkV0Dw==

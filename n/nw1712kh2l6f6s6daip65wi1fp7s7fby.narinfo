@@ -7,3 +7,4 @@ NarHash: sha256:0y840a5cr4rig90maxb44r1ar777y705m436qv1klh0nwhplzmz4
 NarSize: 10088
 References: 
 Deriver: vjcf6jiwzgqm9qfck99jwp4valf6x6i8-python3.11-pytest-mock-3.12.0.drv
+Sig: aux-cache.dev-1:57Bewu9H9oc6G/a+bpYYInDXwR32V7dyY2TGIMnisEeAH4KSXcKHJmBVAHK+nSVfkKa91bCbJDVV89P/iVPoAg==

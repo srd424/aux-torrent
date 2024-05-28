@@ -7,3 +7,4 @@ NarHash: sha256:0mizp8l56zyw4q134jrcjmvgkiclh6c5lk5p36ya6hq8mxi4kgnc
 NarSize: 531072
 References: 
 Deriver: 4ip9zwlh9c6smb9zxg7mldgvn7gqqimw-gmp-6.3.0.drv
+Sig: aux-cache.dev-1:fDkHQbrFzk93u335hxsIK3omMvvOYbNCEWb22jLEsSzm1tfqA7Uo+m1wgkLZJwWtoS0FCsE7JqTlcsGm2HFKDA==

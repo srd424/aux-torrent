@@ -7,3 +7,4 @@ NarHash: sha256:014qb1px0f0x0qx4k2qqb85s4vh6f3885sf0yxd1xq66s8r70ma0
 NarSize: 3008
 References: 2m8a3b7krzi72lmn3p3vyh4j3rgjm3hr-cargo-build-hook.sh 4a3vq706s5dg4niq82sl1y8igz31qy1w-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv nfr6v73vj460p1wfp93v248fizcn1ii6-gcc-wrapper-13.2.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh yk6v97xcjg9jgqd4zvkv70r6rvz8dc7r-cargo-1.77.1.drv
 CA: text:sha256:00358bwgsw2838s67l8mpx4ad6jnqclkmc1vw0qc2y0rr42pbbqx
+Sig: aux-cache.dev-1:ainL/UA3p8AfZaPOELfFZUjILNU/qbOSPNvXPXlpcj2C40/PeUkXMvAaRpi9eO7Yxe3UsGAE8XsclCs5dfhiBQ==

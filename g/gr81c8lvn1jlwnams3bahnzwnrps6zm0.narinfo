@@ -7,3 +7,4 @@ NarHash: sha256:0kk3s4y2crqhmbk75q15yvngrc9vqkrcy4x0wl2b528ix42cxmbf
 NarSize: 2256
 References: 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv fig01ylm8j5ii826ygkwm8rpx7kcj0zc-zlib-1.3.1.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv mf8knl8ljf0ia6c7fxy1mlqk2gbpca8y-CVE-2023-48795.patch rqkxn10qy5gis2qp25j6saiprzi5x6w9-libssh2-1.11.0.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v8ygn5870h08jg6c0hbd147s3sirjgkx-openssl-3.0.13.drv
 CA: text:sha256:0n60pqvlnin0qxkjs47hla4zcxrvn3pszv2ni0z66s7jmd30f00h
+Sig: aux-cache.dev-1:5Vbu4Cy11qJreETXjsWYd/tVRul97AoejrfP5qqoQnc2HR7y4o/jcKfWYr+uKF+p+nfW0y9HVqruV5RaCjskDA==

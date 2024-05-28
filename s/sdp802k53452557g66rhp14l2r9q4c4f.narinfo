@@ -7,4 +7,4 @@ NarHash: sha256:0bzjh6y7sm7vpnrfxw6j409yl1j8y1mh25sjxqzhx6ynxh07sflj
 NarSize: 66512
 References: 
 Deriver: 088d29yk7904imakbmbynjd0lrbd195w-curl-8.7.1.drv
-Sig: cache.nixos.org-1:XK9/L/B0XVXZKtNceQa/7AgMTteRgrcVchHEEVMYJcOuyf4vJbqDXND+gS3FUv18krRbfk/kjNLkpVIPSjN9Bg==
+Sig: cache.nixos.org-1:XK9/L/B0XVXZKtNceQa/7AgMTteRgrcVchHEEVMYJcOuyf4vJbqDXND+gS3FUv18krRbfk/kjNLkpVIPSjN9Bg== aux-cache.dev-1:tdfuBO6+TmDLZS/a7tZloofOqNsGIBxMZnVD3aFVInCjA6/7puLzSUZIVYkB4bUbpXpDko8jNeLwEQekfDr9Cw==

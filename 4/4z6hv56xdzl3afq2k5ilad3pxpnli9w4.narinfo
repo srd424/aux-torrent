@@ -7,3 +7,4 @@ NarHash: sha256:1acwzbxxbifv362b3yli4m1r6pjca00c4n628hxvhvc2c49qdmn0
 NarSize: 2214392
 References: 4z6hv56xdzl3afq2k5ilad3pxpnli9w4-python3.11-pyelftools-0.30 dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9
 Deriver: 1c854nqmcyl2i20ij5ax4vg6ji7x66n7-python3.11-pyelftools-0.30.drv
+Sig: aux-cache.dev-1:OSIM2AeiOHGFsv3fkLeGEDOV8AYA0ZAVEwkkOaAXrZFUAQy7Eqtm8KI+P6jx5r2OsEJB5Xp2e4o71YbPDo2CAg==

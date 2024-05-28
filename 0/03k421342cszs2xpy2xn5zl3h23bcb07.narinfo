@@ -7,3 +7,4 @@ NarHash: sha256:0fapm589wjbdpp50jaazqpk24aphpddvjf58maq46f8z9147cif2
 NarSize: 4392
 References: 15vw90dwsqvpld1wnvqfhkxafhxb6qz5-git-minimal-2.44.0.drv 1swmfg3n9kycfdc2pvw81pyjxsnj5cd8-cargo-vendor-normalise.drv 65lbsqrmlk11dabhlwddqav53mkny6ij-nss-cacert-3.98.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv kzn0cy68gr8plz5f2pywis5s73hp9lxw-cargo-1.77.1.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh z0mmf5knaj4dx7z4jiqaj0z076ijpfn5-source-github.com-lix-project-lix-2.90-beta.1.drv
 CA: text:sha256:0bzwgq03mw215l8idqh5y2wyvwyn647wvprlxmdmjq3lqma4jxhg
+Sig: aux-cache.dev-1:RIT4hH+a1xEExR7kTCJw7pi/Nv6AJao0YPK2ILMwui8fDo1+sjP00zMlyZEPtCCFEHJxq1+9P5ILD/rWQA62AQ==

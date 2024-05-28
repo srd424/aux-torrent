@@ -7,4 +7,4 @@ NarHash: sha256:0px1sqxvyd8p7v43fpcj15hy1jpcbw8mgk3qxhd6wvkjn9mkg9ca
 NarSize: 10072
 References: dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 plmsq4l8wgj3xcnrfdkl6k3lxjrl4a5q-die-hook
 Deriver: 5hhjpf7ggj6026ngp7m7mg4wlzpc8kv9-make-shell-wrapper-hook.drv
-Sig: cache.nixos.org-1:Z3Xl4hryFeIf543Fj0eMVOfo2tR+A2Aj3VA/02vqnMUyK2grrTyb2luewM6Fi4ATJYrLlqX3H+i58RQ4ZzdQDg==
+Sig: cache.nixos.org-1:Z3Xl4hryFeIf543Fj0eMVOfo2tR+A2Aj3VA/02vqnMUyK2grrTyb2luewM6Fi4ATJYrLlqX3H+i58RQ4ZzdQDg== aux-cache.dev-1:/Iq81m4EpMC01KcSEJV2GFNmdlApR0CYL4Liq7OmuRQHoMRLmlX4SQYYZ0bvtGlk9UQAWhbrNPunJUnbjlF4Dg==

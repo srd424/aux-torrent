@@ -7,3 +7,4 @@ NarHash: sha256:0k6pmcfw3455mpk6fk9s1vzg51nab72zg3z1pmriyhs2ms2c4yz9
 NarSize: 28920
 References: 3hd37dl5q75dj2qr3q79vvzjzvxivkw2-bootstrap-stage0-binutils-wrapper- 4w85zw8hd3j2y89fm1j40wgh4kpjgxy7-bootstrap-tools jgqwkk4jsdafjpiz0hr6j0k4ssim82s3-bootstrap-stage0-glibc-bootstrapFiles
 Deriver: 0slmnpqn8ahqhnskf5mhqmnj5v6n9kq3-bootstrap-stage0-binutils-wrapper-.drv
+Sig: aux-cache.dev-1:QfqkQ+cwro1bxxp/k4Bs8je94Vupni21QLzv/FWxqrcHecBH6Opi13JJu3bQ9cvCuSwlcNkPwDB7eiG+A9xAAA==

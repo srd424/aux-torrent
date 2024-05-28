@@ -1,12 +1,12 @@
 {
   "announce": "http://bt.aux-cache.dev:9996/announce",
   "created by": "Transmission/3.00 (bb6b5a062e)",
-  "creation date": 1716813003,
+  "creation date": 1716916889,
   "encoding": "UTF-8",
   "info": {
     "files": [
       {
-        "length": 524,
+        "length": 629,
         "path": [
           "6vsr7rw2mi0bz9978a64n13wnv94vb16.narinfo"
         ]
@@ -21,7 +21,7 @@
     ],
     "name": "nix",
     "piece length": 32768,
-    "pieces": "lCvZA9+uZ5cqn6pkZfBkpJY61xhjRpAvV3iqAAmIX+98LV/oEvfmMpuve7p15GPG71c1lbK75IMx\nQT/wKil5yoWNKQwj9hBmNfg32fHc4ZYYBXnSvE4wUOblqfw24vk3O+8XGmdxYH6dTzcCLnUTLlz9\nq5ZSoGvfIOCFICxLX6AX5s9VJkG8xN+3kt5LFA6x+EDiHC5Sgsdbbh+xaVhgxU7H+QofKG0Ru5Ze\npwVBFZtm2Kq0zO39DiJB6ROH3FZVLZdCw2JgU0d/8RwHklEkgdk7EkQUW1Q2Bfpf8Kas+B2Rwh2V\n66zsMzt8W2eSl29MvssKr78+Bq5iER7w9YjMbtOcCqy4hDIBVDFuiiKuN9ztGOBk7rhv/L9S9iBv\nuMrVATBqEQj+Cc522fwsaS47eZ9+gC9vAKQcWR4ZTlHM1ppghJhSmeHF2sRinao276owl3rGNTRR\nm5kMeerriahAA0Y6GK77bDankOxk6tfwL0Rl/2UVdLkNnz+MiKteejAjC3TsZQPfR2Atb/tfFckZ\nc8McyXl1c8x6cFh0eLDVHaJvAOECjruqo25Z+mwqtxMiI4RlpzGHOWrAfeYcWrzBi4FM/WoG9gnK\nCp7XyS9upxJmpqNHtFkOHT0dXtbyL4DVXu6Unc6p97r+o/SzWREzMNNktY3XsX/QyBMlrqhn/nYB\nVejMoeTeU4+IzjABLMkNwR6U2WyH8mlJkWw29ftigUTMZPhSxoj6VC3uGQoTxMra2DKYJrXtnNQZ\nj9u0xXXs6Zp1rmO9qcBgWvUsK8dsHtq22V8qxMAz\n",
+    "pieces": "+cnxeDe97Staafgj6uSgMqFbYvGuusRnnUC3JlMpI1EhozvHopyxMz7edy3JaoPIIuOUqJoMQ1mi\nutyeVnX2OYKRahtpUDGwwQ7LEmoHt59Ha34ENZvNnzsfUWNsP62usERyhweUr8ToO1f76s4hZ0aH\nuXo9BVvoDVkQBihGBPnbZenzKdYXexRZDSoVqmQmaHoh2TFX7emZ4Scq1jsp/NS4xTkMxys0Pw8Z\nLyn110Wm2XLxRjlti3p7anCoUuXaXLgZArzXTjKulY/0ItdbHu2Ajlwztw0i+UcWofoGmQKm8wif\nn01uoErhM00BkeU+G9rcm3YAVKPWC7QBuq8FbHCbQ3O9qo1PE5UwZVkuDyTsrHOusgwLBGfL0Itd\nmIICo3R2vRtYyqWPY0qGjr3F4mUv8GPgYIQu+pDdm0a6w4Tm7eYNe/Bj3ddjKTJUrGxb+kBCaPpr\nCVYFvHUQNWPdZu+WMK8mmHvLBS+6SuSv/h4TBIrrKkgFf3Nwp6JBfuQHJ0NIrJAQo5N+nkAI5MNj\nHvUGJW5XwgzMMMPyIRYrZTgcMy2u5ZmOOA9ML4k4j+Mw8Xja7o6/U16bkYHiWmjZiEILIJXchLp8\npfDBW/ExsEFv/b3C1pOZVDrlIJM3jZ3fNtqFowumnZ2S7D0HvjXMbH7muwoBsSxIrrhSFssasptz\nyRXz68MY0Jj4BrtvShIDllCml4Z+yRGT6SbciOmLL3Wt/S9+za1okursBHWrECsfxpY7l5RjeNDN\nKSXGhomB2IhT7EDdKglaiRMWSFKoDfbfOfcIb2v7\n",
     "private": 0
   }
 }

@@ -7,3 +7,4 @@ NarHash: sha256:111q5s6n87nkymvapn8wdnqlx90nicaaipr8sx1b3fpkh0cshgwx
 NarSize: 2792
 References: glfr70gi7hfaj50mwj2431p8bg60fhqw-python3-3.11.9 ip7618w4hjqvm0g9yz133dh1bgxwjig7-python3.11-pytest-8.1.1
 Deriver: nykpz8y4cqjwky9ly0frdagaa60rki5k-pytest-check-hook.drv
+Sig: aux-cache.dev-1:5TnV9PzF+XYJMW52FvHwy1bJDY6wbEX/pcuGyMFVc9SQSE3LPLqmJpj6ykrYRblNWSZxGI5eDTkoMX4HpiaHCg==

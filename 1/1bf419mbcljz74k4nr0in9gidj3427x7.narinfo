@@ -7,3 +7,4 @@ NarHash: sha256:0ac2wkd4vfhzmp8hkcz1c2fgsj41xlvc1jghgqr6xdlh05rhchcq
 NarSize: 651344
 References: 1bf419mbcljz74k4nr0in9gidj3427x7-lix-2.90-beta.1-dev h4wvagbd667pnlkw6f3fl2gsirlbpysy-nlohmann_json-3.11.3 hlzn3769dnrws3826lv64y2i6nbg771j-boehm-gc-8.2.6-dev rhajdnknjyijfdbpqazz88220zlac5x2-lix-2.90-beta.1
 Deriver: wwyzxslkl22irg8xl4187x8cg60y5frz-lix-2.90-beta.1.drv
+Sig: aux-cache.dev-1:quK+fnm3OnlG4ADj7eSXgfK4Ka24jiRD6+pLisLanY/IrxsrEkLaOMDHchx+c/kLkXdRa1AcqZqftwPVLAGKDQ==

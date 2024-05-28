@@ -7,4 +7,4 @@ NarHash: sha256:1q4m7y3bkzdkxx1m1snni76dgq5kxz3grw8bshmjar2wk5qlvhxr
 NarSize: 259936
 References: 0m15ab7k877v08sbd8v27z3z2byil5s8-curl-8.7.1-bin 3jn79qp5x98dka5964lkxrc9m4bxysfg-nghttp2-1.61.0-dev 4r54ps6yyxspxdga20jcd2lgyzsf85kh-libkrb5-1.21.2-dev 4rvps8qh5m1xq00mri405vj66a27banc-nghttp2-1.61.0-lib 9xgpmwqw0881kxa9sl498qfmzy7z2ndn-openssl-3.0.13 aqaxrq9jyrjwsnsly12b2xkqmakcsawb-openssl-3.0.13-dev dy2z01kpnxn7dn2kgfdxs4fm8xy9mb89-bash-5.2p26 jkss5wa7087js6qimga03b3xd1i9mgbj-curl-8.7.1-dev qnhrh6hw9kbnj6rd8if1i44yzgfmc1ch-curl-8.7.1 rrhw8p4hdrbh3pq7p2hlc1z2ixxzcxcb-zlib-1.3.1 rxavrn5dgwdyql7drx8q480p4512s1db-libssh2-1.11.0-dev vi5lphqwg9cj7xkaggvw5n0wqsmwdlq5-zlib-1.3.1-dev x78xm477r9xkal8sa4c90gqzvcsk0prr-libkrb5-1.21.2 zkk9v65c8rhc297s9pmbn8p1jxfv7qn0-curl-8.7.1-man
 Deriver: x2f3zkaazz55nqqpianxn0fi277l861c-curl-8.7.1.drv
-Sig: cache.nixos.org-1:lKpgv3R2VmF7sz0d6DMByxsie5ybW4HR7nXIEi6sLfl7bf63iZCyKDxfSHBRPnLLCB09vMJm5dO9amOO6A0EAg==
+Sig: cache.nixos.org-1:lKpgv3R2VmF7sz0d6DMByxsie5ybW4HR7nXIEi6sLfl7bf63iZCyKDxfSHBRPnLLCB09vMJm5dO9amOO6A0EAg== aux-cache.dev-1:7AxhXYCBDBdkVNvMH5B7sMgqst5cvUD6r45eYx70WFErHA3Qg9G6ycrS8oLIAQK4rnCMrLUIeE8hmC+uJbmOAA==

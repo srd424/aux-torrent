@@ -7,4 +7,4 @@ NarHash: sha256:1di9lachg13bzah7i7kybp2kwh3gqfa4y8iv5bdzgmbpyf7nkwg8
 NarSize: 37008
 References: 
 Deriver: z034xhzm7za1pxzk9487ckjmdqy38rdf-jq-1.7.1.drv
-Sig: cache.nixos.org-1:G5feUKVBaXtNYBvt0Q1F7hJDGabBrmvIGr0r3E0P9fffNN20IHInQISRQ37Wxe0S8cOSrP3ZjL9Z1jxbuHa0Bg==
+Sig: cache.nixos.org-1:G5feUKVBaXtNYBvt0Q1F7hJDGabBrmvIGr0r3E0P9fffNN20IHInQISRQ37Wxe0S8cOSrP3ZjL9Z1jxbuHa0Bg== aux-cache.dev-1:9AK2Z+wRcXN4aiiM0HAZbRMYlSoxHn4AzHbTYDkJMcd9eg/q1taj9LgtfGdguwmkxrsjpPURlwZ7xjbAoiITBA==

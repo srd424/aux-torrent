@@ -7,3 +7,4 @@ NarHash: sha256:1dhq3sv8qn6xkpzpmhc2d62z93hf0v1695435i87abjn45w084sk
 NarSize: 87656
 References: 
 Deriver: nckd17jzymh880x415c96s4q5b6dqml8-gnu-config-2023-09-19.drv
+Sig: aux-cache.dev-1:XZ3eOS5nSH6SYYvxMTJpGr6W/1hgiLsd/nw/uHk824Uq5D4pXNl2moBBmWG6EVIM81bXFo95UuNUDUo68RWkBA==

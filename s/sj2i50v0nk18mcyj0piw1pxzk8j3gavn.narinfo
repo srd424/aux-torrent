@@ -7,3 +7,4 @@ NarHash: sha256:15lyqrasiivyhv98v03qs4rnx3ch0qp5favkl54jci1g8gynq1y4
 NarSize: 3768
 References: 1ksmnsr3m6paw8gs7jp9b623agzdrqi2-add-flags.sh 2ca5wxb60aq1iwq8gy7iwqsjba59ad60-pkg-config-0.29.2.drv c4akajrb4jg50k72jw7zfbyv8z139ri0-setup-hook.sh h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash lypyhrdqir7lhwhsvrr1cp85ywh3dhas-pkg-config-wrapper.sh nfb2q2b5sxzgxks0dh8ghzhqxh6sn39s-bootstrap-stage2-stdenv-linux.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash
 CA: text:sha256:1pkdr53cb9bqfqcswvhga6pdii638ipqhzfhrfz9a287zpivs33j
+Sig: aux-cache.dev-1:HsXWBGbQzJrAR1zmh2HFLL0I1I9rp9NmWnBMWbOE1mDHbyN6BJ5HKcn7cmq2t9hZhElXpsl1ussMft3k0wLADg==

@@ -8,3 +8,4 @@ NarSize: 17389152
 References: 
 Deriver: w1kw02w9mdvwfx6d6w34jxlzxm4an6jp-source-github.com-swig-swig-rel-3.0.12.drv
 CA: fixed:r:sha256:1wyffskbkzj5zyhjnnpip80xzsjcr3p0q5486z3wdwabnysnhn8n
+Sig: aux-cache.dev-1:xANrLLDOoLKHwZ8T4CTiZQuZIn6Ab15fItg7Su9RSOagc5lip4dr/6IHJvx2CLU6dzGBahOs0qxGEzNv/VnyAg==

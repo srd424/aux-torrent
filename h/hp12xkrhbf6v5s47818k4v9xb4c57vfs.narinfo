@@ -7,3 +7,4 @@ NarHash: sha256:0753y36kk6bhr7fglk65ac3f2wkjz2c9p11z2qk2rk9r9zc0gwx3
 NarSize: 7140904
 References: 41z4qc0hk7n3yf108703fkkhnw0j04if-aws-crt-cpp-0.26.4-dev 94jr9gh88qg5idfj76r236r29f8i2pd2-aws-sdk-cpp-1.11.296 hp12xkrhbf6v5s47818k4v9xb4c57vfs-aws-sdk-cpp-1.11.296-dev
 Deriver: mf0ksv08jfhijwh9q7jpp09n81c6cw0b-aws-sdk-cpp-1.11.296.drv
+Sig: aux-cache.dev-1:WeLAgjinSMmHiQrnJ/pOv6Hu0tWqDy+Vjwv6uEoTG+6oEsNYdnCb/G6dx9eCiOQbVZDa7TlyIN/rMNvnrvkUBQ==

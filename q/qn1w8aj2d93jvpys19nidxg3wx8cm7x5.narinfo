@@ -7,3 +7,4 @@ NarHash: sha256:133gxh1ndwlzsp2cd4ivnb2177vlfbxsnc84a7yj51x7hlxspqgp
 NarSize: 1904
 References: 4kjwywhqqcmaf05hb963rmki8919yzr8-cmake-3.29.1.drv 96j7mvs5427kbfbg02zbf3586gnsr7b6-stdenv-linux.drv fl9gy9hf5vpv4ayia5smazcgzs368j77-aws-c-common-0.9.14.drv jnm2249gyarbs1nir7mzam257fgamrpf-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y4wdw2fnc3yc19l4k4kkfygg6f5hs9bn-source-github.com-awslabs-aws-checksums-v0.1.18.drv
 CA: text:sha256:067bsmbawnrscwz9zdap4k93wkv0md3jbbmrkry937nn99cdnrir
+Sig: aux-cache.dev-1:pFxyOB/UrnRj1NwXaOAAJic+DJFTb0Vb31Aj/y67rX7znaSZr2BoNFg+UQ0iaxZCuNVZ0dGeXOpyBdZC7iKeBg==

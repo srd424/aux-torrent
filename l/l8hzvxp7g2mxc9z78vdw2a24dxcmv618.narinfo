@@ -7,3 +7,4 @@ NarHash: sha256:0ab71gqar0bzbrhvgd7wpj87qir6gsqjwvzapz2k9vx379rlvn7f
 NarSize: 96224
 References: 
 Deriver: cr66817a01ca2id37jaa2havhikb2cmq-python3.11-fb-re2-1.0.7.drv
+Sig: aux-cache.dev-1:E3sF++nr+JgyhaGdRVH9spWlBfKohx9ekhBZI3rp+oka8DMzC9dGa4xur+qCczixN8SO4uvoW9ubnxtO4qFkCw==
